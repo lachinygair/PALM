@@ -1,0 +1,1 @@
+[{"history": {"proof": "assert (H5: (K + 1) <= N). lia. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "assert (H5: (K + 1) <= N). { lia. } assert (H6: k0 <= n0). { lia. } assert (H7: N - (K + 1) = N - K - 1). { lia. } assert (H8: N - 1 = K + (N - (K + 1))). { lia. }", "succ": true}]

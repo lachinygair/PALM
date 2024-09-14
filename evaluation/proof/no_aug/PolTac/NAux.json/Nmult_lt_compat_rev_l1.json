@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. pose proof (N.mul_lt_mono_pos_l p n m H) as H'. pose proof (N.le_lt_trans _ _ _ H' H) as H''. pose proof (N.lt_le_trans _ _ _ H H') as H. apply H''.", "succ": true}]

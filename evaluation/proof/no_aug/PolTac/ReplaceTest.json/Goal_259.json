@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c d H1 H2. hauto use: Z.add_shuffle0, Z.lt_gt, Z.gt_lt, Z.add_comm, Z.add_lt_le_mono.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c d H1 H2. apply Zplus_gt_compat_r. apply Unnamed_thm21. - apply Zgt_left_rev. apply H1. - apply H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply (f_equal swap) in H. rewrite !swap_involutive in H. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply (f_equal swap) in H. rewrite !swap_involutive in H. apply H.", "back_times": 0, "succ": true, "time": 0.12075519561767578}]

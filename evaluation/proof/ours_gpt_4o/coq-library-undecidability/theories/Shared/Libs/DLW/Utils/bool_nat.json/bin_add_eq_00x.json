@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold bin_add. destruct x. - reflexivity. - reflexivity.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold bin_add. simpl. destruct x. - reflexivity. - reflexivity.", "back_times": 0, "succ": true, "time": 0.133378267288208}]

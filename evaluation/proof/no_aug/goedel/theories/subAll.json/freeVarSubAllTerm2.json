@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t m v n Hin1 Hin2. apply freeVarSubAllTerm1 in Hin2 as [x [Hin3 Hin4]]. apply (freeVarSubTerm2 L) in Hin4; auto. apply (freeVarMap1) with (l := (freeVarTerm L t)) in Hin1; auto. apply (freeVarSubTerm1 L) in Hin3; auto. apply (freeVarSubFormula4 L) in Hin1; auto.", "succ": false}]

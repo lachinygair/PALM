@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A m a x. unfold domain_equal. unfold map_replace. reflexivity.", "succ": false}]

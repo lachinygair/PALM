@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold sym, Sigma. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold sym, Sigma. rewrite sym_word_R. apply incl_refl.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (le_dec i p) as [Hle | Hnle]. - apply Derive_n_pow_smalli. apply Hle. - simpl. rewrite Hnle. reflexivity.", "succ": false}]

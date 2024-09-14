@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. srun best use: Rbar_lt_not_le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold Rbar_mult. rewrite H. reflexivity.", "back_times": 0, "succ": true, "time": 7.19684362411499}]

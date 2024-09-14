@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: nat_lb_spec inv: g_nlb.", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply lb_nat_fix_0.", "exn": "Unable to unify \"\u27e6 nil \u27e7 = 0\" with \"\u27ec 0 \u27ed = nil\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply lb_nat_fix_0.", "back_times": 0, "succ": true, "time": 23.031412839889526}]

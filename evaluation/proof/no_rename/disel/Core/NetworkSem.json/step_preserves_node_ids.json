@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this s1 s2 l H1 H2. unfold dom. intros H3 H4. apply (Coh_dom l s1 H3) in H1. apply (step_preserves_labels s1 s2 H2) in H4.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold plus, opp, zero. rewrite AbelianGroup.ax4. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x. unfold plus, opp, zero. rewrite AbelianGroup.ax4. reflexivity.", "succ": true}]

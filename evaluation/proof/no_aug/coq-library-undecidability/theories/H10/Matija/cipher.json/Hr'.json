@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Nat.le_le_succ_r. apply le_trans with (m := l + 1). - apply plus_lt_compat_l with (p := 1) in Hl. auto. - apply lt_le_trans with (m := q) in Hlq; auto. - apply le_trans with (m := 4 * q) in Hq'; auto. apply mult_le_compat; auto. - apply le_trans with (m := q) in Hq; auto.", "succ": false}]

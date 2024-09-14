@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_BranchJoinKripkeIntuitionisticModel. intros f g n Hn1 Hn2.", "back_times": 0, "succ": false, "time": 89.04217171669006}]

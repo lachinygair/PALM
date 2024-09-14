@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g Hl. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros f g Hl. unfold Proper, respectful in Hl. intros x y Heq. unfold equi. split. - intros H. rewrite Hl with (m:=x) (y:=y). apply H. - intros H. rewrite <- Hl with (m:=x) (y:=y). apply H.", "succ": true}]

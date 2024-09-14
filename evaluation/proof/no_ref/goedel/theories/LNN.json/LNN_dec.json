@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold language_decideable. sauto q: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold language_decideable. intros. destruct X as [X1 X2]. apply X2.", "succ": true}]

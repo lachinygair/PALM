@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold continuous. intros Hf Hg. unfold minus. apply continuous_plus; auto.", "succ": false}]

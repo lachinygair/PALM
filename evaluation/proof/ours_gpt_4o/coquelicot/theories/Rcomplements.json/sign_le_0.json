@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: sign_le, sign_0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite -rcons_cat. rewrite pairmap_cat. simpl. rewrite last_rcons. rewrite rcons_rcons. reflexivity.", "back_times": 0, "succ": true, "time": 11.39384150505066}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro H. apply Double' with (A := []). apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intro H. apply Double' with (A := []). apply H.", "back_times": 0, "succ": true, "time": 0.08576035499572754}]

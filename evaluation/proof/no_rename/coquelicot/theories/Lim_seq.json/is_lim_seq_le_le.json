@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: is_lim_seq_le_le_loc.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros w v u l H1 H2 H3. apply is_lim_seq_le_le_loc with (w := w) (v := v) (l := l). - intros n. apply H1. - apply H2. - apply H3.", "succ": true}]

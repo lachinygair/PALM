@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros Happly Hsmc Hsorted Hlacimi Hlmi Hclient Hid Hout. apply Happly in H. apply Hsmc in H. apply Hsorted in H. apply Hlacimi in H. apply Hlmi in H. rewrite H. rewrite Hsmc. rewrite Hout. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply prime_ge_2 in H. intro. subst. inversion H.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply prime_ge_2 in H. intro. subst. inversion H.", "back_times": 0, "succ": true, "time": 0.11710286140441895}]

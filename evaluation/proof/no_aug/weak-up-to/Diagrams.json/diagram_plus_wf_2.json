@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply diagram_comp with (X:=X) (Y:=Y) (Z:=Y) (X':=X) (Y':=Y) (RX:=TX) (RY:=R) (R:=TY) (RY':=TY')(S:=comp (star S) R) (S':=comp (star S) R'). apply HR. apply HR'.", "succ": false}]

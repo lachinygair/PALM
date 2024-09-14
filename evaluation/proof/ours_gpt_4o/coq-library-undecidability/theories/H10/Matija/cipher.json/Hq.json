@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct q. -- inversion Hlq. -- apply le_n_S. apply Nat.le_0_l.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "destruct q. -- inversion Hlq. -- apply le_n_S. apply Nat.le_0_l.", "back_times": 0, "succ": true, "time": 0.1757190227508545}]

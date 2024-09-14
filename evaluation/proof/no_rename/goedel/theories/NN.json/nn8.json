@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b."], "tactic": "apply NNStar.", "exn": "In environment a, b : Term Unable to unify \"fol.Formula LNN\" with \"SysPrf NN (impH (LT a (Succ b)) (orH (LT a b) (equal a b)))\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros a b. apply NNStar.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (Rle_dec a b) as [Hle | Hnle]. - unfold subdivision, sf_SF_val_fun. rewrite Hle. simpl. rewrite seq2Rlist_unif_part. reflexivity. - unfold subdivision, sf_SF_val_fun. rewrite Hnle. simpl. rewrite seq2Rlist_unif_part. reflexivity.", "succ": false}]

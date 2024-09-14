@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P H p q. apply H. intros r s Hrs. apply H. intros t u Htu. apply H. intros v w Hvw. apply H. intros x y _. apply (H x y). intros z1 z2 _. apply (H z1 z2). intros z3 z4 _. apply (H z3 z4). intros z5 z6 _. apply (H z5 z6). auto.", "back_times": 0, "succ": false, "time": 587.1867563724518}]

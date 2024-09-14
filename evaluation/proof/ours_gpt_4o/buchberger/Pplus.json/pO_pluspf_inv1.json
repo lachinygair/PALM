@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p. unfold pluspf. unfold plusp. destruct (projsig1 (list (Term A n)) (fun a => plusP (fst (p, pO A n)) (snd (p, pO A n)) a)). reflexivity.", "back_times": 0, "succ": false, "time": 180.51963067054749}]

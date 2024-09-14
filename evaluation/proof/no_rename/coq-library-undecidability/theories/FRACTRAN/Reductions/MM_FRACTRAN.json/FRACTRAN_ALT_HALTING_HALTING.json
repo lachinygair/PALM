@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f. exists (fun P => let (l, s) := P in let (n, v) := s in l /F/ ps 1 * exp 1 v \u2193). intro H. apply H.", "succ": false}]

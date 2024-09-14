@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold SF_lx, SF_make. simpl. hauto use: ssrnat.leqnn, unzip1_zip unfold: head, size, behead.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold SF_lx, SF_make. simpl. rewrite <- Hs. reflexivity.", "succ": true}]

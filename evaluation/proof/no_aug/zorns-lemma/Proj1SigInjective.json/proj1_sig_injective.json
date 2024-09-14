@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A P a1 a2 H. apply EqdepFacts.eq_sig_eq_dep in H. apply EqdepFacts.eq_dep_eq_sig in H. apply EqdepFacts.eq_dep_intro. apply H.", "succ": false}]

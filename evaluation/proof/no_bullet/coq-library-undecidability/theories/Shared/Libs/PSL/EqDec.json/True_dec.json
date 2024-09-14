@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl use: I.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply I.", "exn": "Unable to unify \"True\" with \"dec True\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply I.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply SystemK with (Pred_L A) (Pred_Gamma A) (Pred_minL A) (Pred_minAX A) (Pred_ipAX A).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m n z H1 H2. induction n. - simpl. auto. - simpl. strivial use: McF.exd_f unfold: McF.f, MF.f.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m n z H1 H2. induction n. - simpl. auto. - simpl. apply MA1.exd_Iter_f. auto. apply IHn. auto. auto.", "succ": true}]

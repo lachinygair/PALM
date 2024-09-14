@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p H. unfold iad_conv_prop, iad_conv_aux_0, iad_conv_aux_1, iad_conv_aux_2 in *. intros [q | [q | [q r]]]. - left. exists q. apply eq_refl. - left. exists q. apply eq_refl. - left. exists q, r. apply eq_refl.", "succ": false}]

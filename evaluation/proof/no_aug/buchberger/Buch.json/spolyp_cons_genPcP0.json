@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP R Q i H1 H2 b H3 H4. unfold genPcP in H1. induction H1. - contradiction. - destruct (slice_cons i a L1 H) as [c [Hc1 Hc2]]. destruct (H0 Hc1) as [c' [Hc'1 Hc'2]]. exists c'. split. + apply in_cons. apply Hc'1. + left. apply Hc'2.", "succ": false}]

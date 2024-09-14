@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' failed failed' lb tr H_lb_silent H_lb_step_failure. split. - unfold lb_step_failure in H_lb_step_failure.", "succ": false, "time": 8.042991365000034}]

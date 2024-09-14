@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V H T H0 H1 f Hinj t1 t2 l H2. apply (traverse_var_injective V H T H0 H1 f). - apply Hinj. - apply H2.", "succ": false}]

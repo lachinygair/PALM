@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a0 a1 H1 H2. unfold predta_kill_non_coacc. unfold non_coacc_kill. apply predta_kill_non_coacc_2 with (a1:=a1). - apply H1. - apply H2.", "succ": false}]

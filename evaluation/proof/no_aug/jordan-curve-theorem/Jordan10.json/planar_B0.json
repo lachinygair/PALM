@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x H1 H2 H3. apply weak_planarity_criterion_0; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold sup_prog. intros. apply DTbin.prog_of. constructor.", "succ": false}]

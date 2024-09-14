@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros X Y HX HY m. unfold upwards_closed_Kdenote, sepcon in *. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros X Y HX HY m. unfold upwards_closed_Kdenote, sepcon in *. intros n1 n2 Hleq HXm HYm.", "succ": true}]

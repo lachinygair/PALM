@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st st' H_preserv IMI_preserv h Hst'_Leader. destruct (H_preserv Hst'_Leader) as [Hst_Leader [Hmatch_eq Hlog_eq]]. rewrite <- Hmatch_eq, <- Hlog_eq. apply IMI_preserv. apply Hst_Leader.", "back_times": 0, "succ": false, "time": 67.33424854278564}]

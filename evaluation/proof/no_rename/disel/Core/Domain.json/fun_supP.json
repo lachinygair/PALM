@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply orpF. intro. apply supP. apply RelaxP. - apply H. - apply pair_supP. apply Mem_map_inv. exists p. split. + auto. + reflexivity.", "succ": false}]

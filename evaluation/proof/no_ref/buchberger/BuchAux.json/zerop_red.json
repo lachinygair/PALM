@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a aP Hnf. unfold red. unfold zerop in Hnf. destruct (Reducef _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ a aP) as [q _] eqn: Hred. apply (Hred Hnf).", "succ": false}]

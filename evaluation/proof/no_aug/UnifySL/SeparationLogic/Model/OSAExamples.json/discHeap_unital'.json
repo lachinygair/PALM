@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Build_UnitalSeparationAlgebra Heap' Relation Join). intros n. specialize (incr_exists n) as [m [H_residue H_increasing]]. exists m. split; auto.", "succ": false}]

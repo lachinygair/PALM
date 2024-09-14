@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. apply (raft_net_invariant_init orig_base_params one_node_params raft_params).", "succ": true}]

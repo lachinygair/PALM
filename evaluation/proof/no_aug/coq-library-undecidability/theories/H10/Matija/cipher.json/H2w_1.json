@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: all_ones_2_joins.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite Hu1. rewrite <- Hu1_u2_1. rewrite <- Hu1_u2. rewrite <- Hu2. rewrite Hu2_0. rewrite Hseq_u. rewrite <- Hu1. rewrite all_ones_2_joins. reflexivity.", "succ": true}]

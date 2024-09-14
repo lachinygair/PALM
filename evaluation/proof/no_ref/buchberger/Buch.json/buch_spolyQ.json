@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: reds_SpolyQ1, buch_reds.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros."], "tactic": "apply Grobner_imp_SpolyQ.", "exn": "Unable to find an instance for the variable plusA.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros. apply Grobner_imp_SpolyQ. - auto. - auto.", "succ": true}]

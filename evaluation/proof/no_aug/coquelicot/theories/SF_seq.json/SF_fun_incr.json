@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold SF_fun. unfold sorted_dec. destruct (sorted_dec (SF_lx s) 0 x Hs Hx) as [H | H]. - destruct H as [i [Hlt Hgt]]. rewrite -> Hlt. reflexivity. - destruct H. rewrite last_nth. reflexivity.", "succ": false}]

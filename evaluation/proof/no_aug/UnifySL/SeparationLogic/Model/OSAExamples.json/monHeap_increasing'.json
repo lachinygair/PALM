@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros x n n' H. destruct H as [m [H1 H2]]. apply transitivity with m. - apply (all_increasing x n m H2). - apply H1.", "succ": false}]

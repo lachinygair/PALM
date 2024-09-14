@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply raft_refinement_interface. auto.", "succ": false}]

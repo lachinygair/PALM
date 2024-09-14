@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold UnitalSeparationAlgebra. intros. unfold UnitalSeparationAlgebra in UnitalSeparationAlgebra. apply UnitalSeparationAlgebra.", "succ": false}]

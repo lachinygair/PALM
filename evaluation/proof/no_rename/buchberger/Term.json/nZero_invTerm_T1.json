@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H0. hauto lq: on use: nZero_invTerm_nZero, T1_nz.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H0. intro contra. unfold zeroP in contra. unfold invTerm in contra. contradiction.", "succ": true}]

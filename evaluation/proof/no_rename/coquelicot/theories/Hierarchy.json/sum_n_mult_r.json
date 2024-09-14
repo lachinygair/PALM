@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K a u n. induction n. - simpl. unfold sum_n. simpl. rewrite sum_O. rewrite mult_one_l. reflexivity. - simpl. unfold sum_n. simpl. rewrite sum_Sn. rewrite IHn. rewrite sum_Sn. reflexivity.", "succ": false}]

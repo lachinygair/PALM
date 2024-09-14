@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: send_step.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros cn others pts Hnin Puniq ptag prec commit to this d msg. split. - intros H. split. auto. exists. auto. - intros [b [pf send_step]]. exists b. exists pf. auto.", "succ": true}]

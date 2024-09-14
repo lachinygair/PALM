@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. unfold cPair. apply Nat.le_add_r.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros a b. unfold cPair. apply Nat.le_add_r.", "back_times": 0, "succ": true, "time": 0.4597599506378174}]

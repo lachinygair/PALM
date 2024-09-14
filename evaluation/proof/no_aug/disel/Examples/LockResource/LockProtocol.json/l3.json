@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros hcoh. destruct hcoh as [hsoup hdstate hvalid hdomeq]. scongruence depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros hcoh. destruct hcoh as [hsoup hdstate hvalid hdomeq]. apply hdomeq.", "succ": true}]

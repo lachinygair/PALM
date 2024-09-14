@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold leaderLogs_candidateEntries. intros h e t ll H_in_ll H_in_e. apply (cei orig_base_params one_node_params raft_params net h e t ll). apply (lltsi orig_base_params one_node_params raft_params). apply H_refined. auto. auto.", "succ": false}]

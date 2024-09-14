@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rintro_rstep RExists m n c y H. ++ unfold R. apply H. + apply rintro. Unfold R. rintro c. apply H.", "succ": true}]

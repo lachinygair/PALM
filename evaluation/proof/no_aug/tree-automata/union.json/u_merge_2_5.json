@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a t r. unfold u_merge_inv_0_dta. unfold u_conv_rec_0. unfold u_conv_rec_1. elim r using mreconnaissance_ind; clear r p a t. - intros. eapply u_conv1. eauto. - intros. eapply u_conv0. eauto.", "succ": false}]

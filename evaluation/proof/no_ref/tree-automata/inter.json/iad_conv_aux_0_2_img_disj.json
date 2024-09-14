@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p0 p1 p2 H. strivial use: iad_conv_aux_img_disj.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros p0 p1 p2 H."], "tactic": "intros H0.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros p0 p1 p2 H. intros H0. apply H0.", "succ": true}]

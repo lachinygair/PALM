@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros L p H. unfold red in H. apply redacc_cb in H. scongruence use: app_nil_end.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros L p H. unfold red in H. apply redacc_cb in H. apply H.", "succ": true}]

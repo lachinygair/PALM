@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold in_any_log_term_was_created. intros. apply H with (xs:=xs) (p:=p) (ys:=ys) (net:=net) (st':=st') (ps':=ps') (gd:=gd) (d:=d) (m:=m) (t:=t) (cid:=cid) (lli:=lli) (llt:=llt).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite finfun.fun_of_fin in w. rewrite Inject in w. rewrite pcmPV in w. rewrite prod_unitb in w. apply unit_coh. apply Coh0. reflexivity.", "succ": true}]

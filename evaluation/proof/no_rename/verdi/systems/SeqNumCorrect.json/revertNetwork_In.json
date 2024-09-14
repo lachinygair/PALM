@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p H1 H2. unfold revertNetwork. unfold revertPacket. unfold assoc_default, name_eq_dec, pSrc, pDst, pBody, tmNum, tdSeen. intros Hin1 Hin2. simpl in *. rewrite map_map. simpl. rewrite filter_In. apply Hin1.", "succ": false, "time": 13.660859782999978}]

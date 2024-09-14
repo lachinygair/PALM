@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /SF_ly. rewrite /SF_rcons. rewrite SF_t. rewrite unzip2_rcons. auto.", "back_times": 0, "succ": false, "time": 32.90208911895752}]

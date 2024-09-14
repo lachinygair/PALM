@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction a. - simpl. auto. - simpl. rewrite IHa. rewrite app_comm_cons. auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "induction a. - simpl. auto. - simpl. rewrite IHa. rewrite app_comm_cons. auto.", "back_times": 0, "succ": true, "time": 0.1367347240447998}]

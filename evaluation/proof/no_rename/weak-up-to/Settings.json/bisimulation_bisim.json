@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold bisimulation, union_st. intros x y. unfold relation2, simulation. intros [Hx1 Hx2] [Hy1 Hy2]. split; intros. - split. + apply wexpansion1 in H. apply H. + apply wexpansion1 in H. apply H. - split. + apply evole_1 in H. apply H. + apply evole_1 in H. apply H.", "succ": false}]

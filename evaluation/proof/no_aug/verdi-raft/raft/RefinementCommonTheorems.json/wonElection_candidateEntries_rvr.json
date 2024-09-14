@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p e Hvotes Hcronies Hcandidate Hin HpBody HcurrentTerm HwonElection. unfold candidateEntries in Hcandidate. unfold type, Candidate in Hcandidate. rewrite <- HpBody. rewrite HcurrentTerm. rewrite HwonElection. auto.", "succ": false}]

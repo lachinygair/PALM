@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: is_opposite.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H x y Hop. unfold is_opposite in Hop. destruct Hop as [H1 [H2 H3]]. apply BinInt.Z.compare_eq in H3. apply H3.", "succ": true}]

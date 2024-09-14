@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_IncreasingSeparationAlgebra. intros ab1 ab2 H. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. - intros ab1 ab2 H.", "succ": true}]

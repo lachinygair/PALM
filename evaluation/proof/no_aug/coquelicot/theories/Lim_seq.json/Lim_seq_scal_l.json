@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Lim_seq_mult. apply Lim_seq_ext_loc. intros n. apply Rbar_mult_comm.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (refined_raft_net_invariant_request_vote votes_le_currentTerm). - auto. - auto. - auto. - auto. - auto. - auto. - auto. - intros. eapply votes_le_current_term_invariant. + apply H1. + apply H2. - auto.", "succ": false}]

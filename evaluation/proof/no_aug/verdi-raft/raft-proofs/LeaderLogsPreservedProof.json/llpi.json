@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold leaderLogs_preserved_interface. unfold leaderLogs_preserved_invariant. intros. apply leaderLogs_preserved with (h:=h) (ll:=ll) (t':=t') (h':=h') (ll':=ll') (e:=e) (e':=e'). auto. auto. auto. auto. auto.", "succ": false}]

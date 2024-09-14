@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A dom\u2081 dom\u2082 m\u2081 m\u2082 H. unfold eq. intros x. rewrite H. sfirstorder depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A dom\u2081 dom\u2082 m\u2081 m\u2082 H. unfold eq. intros x. rewrite H.", "succ": true}]

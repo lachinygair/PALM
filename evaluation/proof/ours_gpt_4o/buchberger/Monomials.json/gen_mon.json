@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d n. induction d. - apply n_0. - apply (c_n d n IHd).", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d n. induction d. - apply n_0. - apply (c_n d n IHd).", "back_times": 0, "succ": true, "time": 0.7339770793914795}]

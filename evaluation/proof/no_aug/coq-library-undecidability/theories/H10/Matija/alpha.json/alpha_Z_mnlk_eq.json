@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H2m: 2 * m = 2 + (2 * (m - 1))) by lia. rewrite H2m. clear H2m. rewrite Z.add_comm. rewrite Z2Zp_plus. rewrite Z.add_comm. rewrite Z2Zp_plus. rewrite Z.add_comm. rewrite Z2Zp_plus. reflexivity.", "succ": false}]

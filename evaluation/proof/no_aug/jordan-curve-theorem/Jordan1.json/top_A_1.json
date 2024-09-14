@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k z H1 H2. hecrush use: A_A_1, not_exd_nil, top_A, pred_exd unfold: succ.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k z H1 H2. unfold top. unfold pred in H2. destruct H2. destruct H1 as [H3 _]. rewrite (nosucc_top m k (A_1 m k z)); auto. rewrite (nosucc_top m k z); auto. reflexivity.", "succ": true}]

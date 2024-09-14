@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. destruct H as [Hdiv1 [Hdiv2 Hgcd]]. exists (exist _ 1 _). apply pair_equal_spec. split. - rewrite Zp_mult_one. reflexivity. - rewrite Zp_mult_one. reflexivity.", "succ": false}]

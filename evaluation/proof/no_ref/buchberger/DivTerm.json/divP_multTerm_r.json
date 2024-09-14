@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c HzA HzB Hmult. sfirstorder use: divP_eqTerm_comp, divTerm_multTermr.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c HzA HzB Hmult. apply divP_def; auto.", "succ": true}]

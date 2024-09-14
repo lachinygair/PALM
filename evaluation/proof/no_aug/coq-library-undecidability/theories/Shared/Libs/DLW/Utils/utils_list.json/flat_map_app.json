@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite flat_map_concat_map. rewrite flat_map_concat_map. scongruence use: flat_map_app, flat_map_concat_map.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite flat_map_concat_map. rewrite flat_map_concat_map. rewrite app_assoc_reverse. rewrite <- flat_map_app. rewrite <- flat_map_app. reflexivity.", "succ": true}]

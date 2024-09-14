@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: in_filter_iff unfold: incl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X q p A H. intros x HA Hpx. unfold incl. intros y Hy. apply filter_id in Hy. rewrite -> Hy. apply in_filter_iff. split. apply filter_incl. apply H in Hpx. apply Hpx. apply HA. apply Hpx.", "succ": true}]

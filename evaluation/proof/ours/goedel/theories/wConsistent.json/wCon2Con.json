@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros T H."], "tactic": "apply H.", "exn": "In environment T : System H : wConsistent T Unable to unify \"wConsistent T\" with \"Consistent LNN T\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros T H. apply H.", "succ": false}]

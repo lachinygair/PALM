@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st os st' ps H. unfold doGenericServer in H. inversion H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Nat.lt_asymm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m n H1 H2. intros H3. apply Nat.lt_neq in H3. apply H3 in H2. apply Nat.neq_sym. apply H2.", "succ": true}]

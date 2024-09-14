@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros WFR. unfold decreasing_sequence_property. unfold not. intros. destruct H as [a G]. apply (WFR nat (fun n m => ~ R (a (S n)) (a n))). intro n. destruct (G n) as [m C]. exists m. intro H. apply C. auto.", "succ": false}]

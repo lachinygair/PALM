@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B P S f H l H0. pose proof H as H'. apply ExistsL_rec with (l:=l) in H0. - clear H0. induction H'. + simpl. apply FoundE. apply H. + simpl. apply SearchE. apply IHE. * auto. * auto. - intros a l p. apply in_map with (f:=f) in p. apply H in p. auto.", "succ": false}]

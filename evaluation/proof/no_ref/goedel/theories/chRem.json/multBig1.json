@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b Ha Hb. unfold gt in Ha, Hb. apply Nat.mul_pos_pos; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros a b Ha Hb. unfold gt in Ha, Hb. simpl. apply Nat.mul_pos_pos; auto.", "succ": true}]

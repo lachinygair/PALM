@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d p p' H. srun best use: pl_path_exists.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d p p' H. apply pl_non_empty_path_true_rev in H. destruct H as [plp [H1 H2]]. exists plp. apply H2.", "succ": true}]

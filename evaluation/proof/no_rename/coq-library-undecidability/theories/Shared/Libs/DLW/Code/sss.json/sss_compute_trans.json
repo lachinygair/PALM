@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "apply sss_steps_ind with (p:=st1) (p0:=st3).", "exn": "Unable to find an instance for the variables P, n.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros. intros. intros. apply sss_steps_ind with (p:=st1) (p0:=st3). auto. auto. auto.", "succ": false}]

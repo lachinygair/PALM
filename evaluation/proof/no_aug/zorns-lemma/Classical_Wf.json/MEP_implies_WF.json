@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hmep. apply well_founded. intros S Hin. destruct (Hmep S Hin) as [x [HinS Hminforall]]. apply (WF_implies_MEP _ S (Inhabited_intro _ _ x HinS) x HinS Hminforall).", "succ": false}]

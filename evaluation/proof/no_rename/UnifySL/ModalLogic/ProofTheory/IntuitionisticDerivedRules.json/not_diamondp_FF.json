@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold not. intros H. apply weak_excluded_middle in H. destruct H. - apply not_falsep in H. contradiction. - apply H.", "succ": false}]

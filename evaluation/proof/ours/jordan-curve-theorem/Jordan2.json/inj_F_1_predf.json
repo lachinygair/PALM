@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m Hmap. unfold inj_dart, predf, F_1. intros x x' H1 H2 H3. apply inj_A_1 with zero in H1; try auto. apply inj_A_1 with one in H2; try auto. rewrite H1, H2 in H3. injection H3 as H4. apply H4.", "succ": false}]

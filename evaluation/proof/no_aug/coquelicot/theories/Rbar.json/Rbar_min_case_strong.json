@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. unfold Rbar_min. destruct H1; destruct H2. - apply Rbar_min_case; auto. - apply Rbar_min_case; auto. - apply Rbar_min_case; auto.", "succ": false}]

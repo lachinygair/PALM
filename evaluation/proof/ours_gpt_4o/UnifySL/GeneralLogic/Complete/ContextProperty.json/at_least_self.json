@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P. unfold at_least. intros Phi cPPhi. apply cPPhi.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros P. unfold at_least. intros Phi cPPhi. apply cPPhi.", "back_times": 0, "succ": true, "time": 0.8104593753814697}]

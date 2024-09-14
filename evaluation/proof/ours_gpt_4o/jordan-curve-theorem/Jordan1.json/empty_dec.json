@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m. induction m using fmap_ind. - left. simpl. auto. - right. simpl. auto. - right. simpl. auto.", "back_times": 0, "succ": true, "time": 1.4294488430023193}]

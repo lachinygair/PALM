@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hz Heq. subst st. apply mm_null_spec with (k := v#>src). - reflexivity. - auto. - reflexivity.", "back_times": 0, "succ": true, "time": 0.3337216377258301}]

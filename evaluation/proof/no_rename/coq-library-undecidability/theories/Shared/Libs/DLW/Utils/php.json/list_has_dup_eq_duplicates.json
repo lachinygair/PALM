@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m. split. - intros H. induction H. + exists x, nil, aa, bb, cc. reflexivity. + destruct IHlist_has_dup as [x' [aa [bb [cc H']]]]. exists x', (x :: aa), bb, cc. simpl. rewrite H'. reflexivity. - intros [x [aa [bb [cc H]]]]. subst. apply in_list_hd0. apply in_elt.", "succ": false}]

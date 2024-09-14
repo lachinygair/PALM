@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros [Hsim HQ]. destruct P as [i xs]. destruct Q as [li ys].", "back_times": 0, "succ": false, "time": 136.87046098709106}]

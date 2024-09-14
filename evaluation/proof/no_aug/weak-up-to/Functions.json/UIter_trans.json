@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros R. unfold UIter. rewrite <- HF. apply trans_eeq.", "succ": false}]

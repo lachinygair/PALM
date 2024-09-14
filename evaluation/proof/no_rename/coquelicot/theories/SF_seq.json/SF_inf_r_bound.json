@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f b a n x. unfold SF_inf_r. rewrite SF_inf_subdiv_val. destruct (Rle_dec a b) as [Hab | Hab]; reflexivity.", "succ": false}]

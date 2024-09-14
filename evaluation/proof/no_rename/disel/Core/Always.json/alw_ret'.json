@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros s1 H_coherent H_rely. unfold always_sc. intros s2 H_network_rely. apply alw_envs' with (s1:=s1) (p:=Ret v) (scs:=scs) (s2:=s2) (P:=P). - apply alw_coh' with (P:=P) in H_rely. apply H_coherent. - apply H_network_rely.", "succ": true}]

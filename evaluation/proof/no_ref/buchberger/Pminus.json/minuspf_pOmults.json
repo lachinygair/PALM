@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "induction p.", "-"], "tactic": "-", "exn": "Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "intros. induction p. - reflexivity. - simpl. rewrite <- IHp. reflexivity.", "succ": false}]

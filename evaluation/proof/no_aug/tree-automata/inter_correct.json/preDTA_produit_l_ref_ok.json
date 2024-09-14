@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d d0 d1 s a H1 H2. unfold preDTA_ref_ok_distinct. intros a0 s0 H3 H4. apply preDTA_ref_ok_distinct_dest in H1 as [H1a H1b]. split. - apply s_produit_ref_ok; auto. - apply s_produit_ref_ok; auto.", "succ": false}]

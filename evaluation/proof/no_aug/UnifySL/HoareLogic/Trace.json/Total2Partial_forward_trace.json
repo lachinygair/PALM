@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Included. unfold Total.forward_trace. intros. split. - apply H. - intros n s ms H'. qblast depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Included. unfold Total.forward_trace. simpl. intros. split. - apply H. - intros n s ms H'. apply H. apply H'.", "succ": true}]

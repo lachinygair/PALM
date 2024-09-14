@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. qauto use: handleTimeout_type_strong, handleTimeout_log_same.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros h st out st' ps H. inversion H; clear H; subst. split; [reflexivity| split; [reflexivity| left; reflexivity]].", "succ": true}]

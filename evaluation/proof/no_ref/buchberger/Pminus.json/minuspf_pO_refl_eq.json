@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p. unfold minuspf. rewrite projsig1_with_setoid. rewrite minusP_proofs. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply filter_ext_in. intros x Hx. apply H. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply filter_ext_in. intros x Hx. apply H. auto.", "back_times": 0, "succ": true, "time": 0.09418988227844238}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. hfcrush depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. induction a. - unfold distinct_pbleaves. intros t0 t1 t2 H1 H2 H3. apply H2. - intros t0 t1 t2 H1 H2 H3. intros t H. inversion H. + apply IHpbtree. * apply H3. * apply H2. * apply H1. + apply H2. + apply H3.", "succ": true}]

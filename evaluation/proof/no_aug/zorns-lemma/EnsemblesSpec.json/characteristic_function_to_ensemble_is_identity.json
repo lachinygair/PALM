@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X P. unfold characteristic_function_to_ensemble. reflexivity.", "succ": false}]

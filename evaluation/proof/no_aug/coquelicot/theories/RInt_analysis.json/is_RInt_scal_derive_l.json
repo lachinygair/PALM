@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_RInt_scal_derive_r with (f:=f) (g:=g) (f':=f') (g':=g') (a:=a) (b:=b) (l:=l); auto.", "succ": false}]

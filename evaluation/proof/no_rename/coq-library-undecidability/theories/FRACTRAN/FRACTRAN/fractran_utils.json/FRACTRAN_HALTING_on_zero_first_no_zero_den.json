@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros H1 H2. unfold FRACTRAN_HALTING. split. - intros. destruct H0 as [l0 x0]. simpl in H0. inversion H0. - discriminate.", "succ": false}]

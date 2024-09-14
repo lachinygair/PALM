@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r. unfold codeArityLNNR, arity, LNNArity. simpl. hauto lq: on depth: 3use: codeLNNRelation, LNNRelation.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros r. unfold codeArityLNNR, arity, LNNArity. simpl. unfold codeLNNRelation, LNNRelation. simpl. reflexivity.", "succ": true}]

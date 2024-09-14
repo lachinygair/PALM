@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Cmod_opp, Cmod_1.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold Cmod. rewrite Cmod_opp. rewrite Rabs_R1. apply exp_0.", "succ": true}]

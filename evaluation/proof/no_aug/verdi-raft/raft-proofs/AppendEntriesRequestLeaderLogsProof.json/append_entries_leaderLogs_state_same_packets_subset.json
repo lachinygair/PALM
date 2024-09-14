@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_state_same_packet_subset; intros; intros; intros; intros; unfold append_entries_leaderLogs in *; intros; intros; intros; intros; intros; intros. unfold append_entries_leaderLogs in *. intros. specialize (H0 p t n pli plt es ci H H1).", "succ": false}]

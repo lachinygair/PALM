@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f n x H. destruct H as [l H]. apply (is_derive_pow f n x l H).", "succ": false}]

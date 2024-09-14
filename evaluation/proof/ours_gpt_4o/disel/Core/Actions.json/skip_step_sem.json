@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. destruct H as [s1_in_coh eq_s1_s2]. apply: Idle. split. - apply s1_in_coh. - apply eq_s1_s2.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. destruct H as [s1_in_coh eq_s1_s2]. apply: Idle. split. - apply s1_in_coh. - apply eq_s1_s2.", "back_times": 0, "succ": true, "time": 0.807624101638794}]

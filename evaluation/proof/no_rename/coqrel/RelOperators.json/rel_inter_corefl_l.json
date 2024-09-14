@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A R2 R1 H x y Hxy. unfold Coreflexive in *. intros H1. apply H1. apply H. auto.", "succ": true}]

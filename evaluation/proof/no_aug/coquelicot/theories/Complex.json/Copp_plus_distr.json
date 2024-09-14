@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Cminus. rewrite Z.add_opp_r. rewrite Cplus_comm. rewrite Z.add_opp_r. rewrite Cplus_assoc. rewrite Cplus_opp_r. rewrite Cplus_0_r. rewrite Cplus_0_l. reflexivity.", "succ": false}]

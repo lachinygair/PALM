@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["rewrite <- bot.", ""], "exn": "Cannot find an homogeneous relation to rewrite.", "type": "no_rewrite_homo", "handled": false}]}, "chat": [], "original": "rewrite <- bot. apply leq_refl.", "back_times": 0, "succ": false, "time": 35.54783368110657}]

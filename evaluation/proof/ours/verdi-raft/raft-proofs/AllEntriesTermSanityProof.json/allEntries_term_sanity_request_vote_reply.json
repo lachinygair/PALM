@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_request_vote_reply. intros. unfold handleRequestVoteReply in H4; simpl in H4. repeat break_match; repeat find_inversion. auto.", "succ": false}]

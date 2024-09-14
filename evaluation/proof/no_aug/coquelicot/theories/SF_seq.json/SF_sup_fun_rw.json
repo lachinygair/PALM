@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold SF_sup_fun, unif_part_nat. destruct (Rle_dec a b) as [H_le | H_nle]. - rewrite SF_sup_fun_bound. unfold Sup_fct. destruct (unif_part_nat a b n x Hx) as [[i H_left] | H_right]. + simpl. rewrite nth_mkseq. simpl. rewrite nth_iota. rewrite Sup_fct_bound. reflexivity. lia.", "succ": false}]

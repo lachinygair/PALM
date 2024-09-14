@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply leaderLogs_preserved_invariant. simpl. auto.", "back_times": 0, "succ": false, "time": 87.39960098266602}]

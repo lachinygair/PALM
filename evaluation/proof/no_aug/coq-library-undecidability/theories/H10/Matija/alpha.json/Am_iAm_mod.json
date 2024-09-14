@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hm: \u03b1 (2 + m) = \u03b1 (1 + (S m))). { rewrite alpha_Pell. rewrite alpha_Pell. ring. } rewrite Hv. rewrite <- Hm. clear Hm. unfold A, iA. simpl. repeat rewrite Z2Zp_morph. ring.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h d entries e. unfold apply_log. rewrite fold_left_app. simpl. reflexivity.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros h d entries e. unfold apply_log. rewrite fold_left_app. simpl. reflexivity.", "succ": true, "time": 0.1386175430000094}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_transitive_commit_interface. intros net H. apply CommonTheorems.applyEntries_spec_ind in H. intros P H0. apply H in H0. apply H0.", "succ": false}]

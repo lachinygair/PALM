@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: Z.two_succ, Z.mul_le_mono_nonneg, Z.mul_succ_l, Z.mul_0_l, Z.sgn_nonneg, Pos2Z.inj_mul, Z.le_refl, Z.add_0_l, Z.opp_nonneg_nonpos, Z.abs_neq, Pos2Z.is_nonneg, Z.mul_0_r, Z.mul_1_l unfold: BinIntDef.Z.sgn, BinIntDef.Z.mul, BinIntDef.Z.opp, BinIntDef.Z.abs.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

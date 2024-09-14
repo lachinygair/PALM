@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros v0 a z1 z2 H q. unfold makeTraceForall. apply substituteFormulaForallNice. intros b q' r. apply H.", "succ": false}]

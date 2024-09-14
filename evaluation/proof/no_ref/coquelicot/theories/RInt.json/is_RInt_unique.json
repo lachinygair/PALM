@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold RInt in H. unfold iota in H. destruct (exi_uni_halfx H) as [I [HA HB]]. apply (iota_unique (fun If => is_RInt f a b If) I). intros. apply (is_RInt_ext f a b l0 I HA H).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros Q a b H1 p q H2 H3."], "tactic": "apply reduceplus_mults_inv; auto.", "exn": "Unable to find an instance for the variables plusA, a.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros Q a b H1 p q H2 H3. apply reduceplus_mults_inv; auto.", "succ": false}]

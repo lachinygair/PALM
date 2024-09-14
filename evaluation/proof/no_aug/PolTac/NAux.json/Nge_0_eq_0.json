@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. destruct n. - reflexivity. - exfalso. sfirstorder depth: 3use: Nle_0_eq_0, Npos.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n H. destruct n. - reflexivity. - exfalso. apply (Nle_0_eq_0 (Npos p)). apply H.", "succ": true}]

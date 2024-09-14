@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m x y z Hmap Hprec."], "tactic": "destruct Hmap as [Hmap _].", "exn": "Not an inductive product.", "type": "not_inductive_product", "handled": true}]}, "chat": [], "original": "intros m x y z Hmap Hprec. destruct Hmap as [Hmap _]. unfold cF. unfold cA. unfold cA_1.", "succ": false}]

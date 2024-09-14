@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d s H. unfold state_in_dta in H. destruct H as [a H]. rewrite <- H. apply borne_1_1. apply H.", "succ": false}]

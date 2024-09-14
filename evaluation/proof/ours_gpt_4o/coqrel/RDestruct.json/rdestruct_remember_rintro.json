@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply rintro. intros H1 H2. destruct H1 as [H3 H4]. subst. auto.", "back_times": 0, "succ": true, "time": 1.286665916442871}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: @close_refl unfold: locally, close.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros T x P H. unfold locally in H. destruct H as [eps H]. apply H. apply ball_center.", "succ": true}]

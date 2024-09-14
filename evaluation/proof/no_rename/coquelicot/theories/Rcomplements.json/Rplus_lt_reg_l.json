@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: Rplus_lt_reg_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. apply Rsqr_lt_abs_0 in H. apply triangle_rectangle_lt in H. destruct H. auto.", "succ": true}]

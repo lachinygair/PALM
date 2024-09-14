@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net tr H. induction H as [ | net tr tr' H1 H2 IH]. - constructor. - inversion H1; subst. apply IH in H2. constructor; auto.", "succ": false, "time": 9.696366377000231}]

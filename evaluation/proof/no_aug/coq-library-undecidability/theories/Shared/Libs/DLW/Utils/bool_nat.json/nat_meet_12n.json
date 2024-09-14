@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite Nat.div2_double. apply rem_2_fix_1.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y Hx Hy. unfold corable in *. sauto lq: on depth: 3use: corable_sabs, Build_Corable.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y Hx Hy. unfold corable in *. intros minL pL sepconL wandL Gamma Corable1 Corable2. apply Build_Corable; intros; apply corable_sabs.", "succ": true}]

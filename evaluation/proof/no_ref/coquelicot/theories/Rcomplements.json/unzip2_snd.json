@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /unzip2. rewrite /snd. rewrite /map. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "rewrite /unzip2. rewrite /snd. rewrite /map. rewrite /List.map. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a1 a2 b1 b2 H1 H2. unfold projf2. srun best use: quotient_projection_collapses_R.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a1 a2 b1 b2 H1 H2. unfold projf2. apply (slices_well_defined A B C R S f equivR a1 a2 b1 b2 H1 H2).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Rlt_le, Rle_antisym, Rnot_lt_le unfold: SF_sup_fun.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold SF_sup_fun. unfold SF_sup_fun in IHn. rewrite SF_sup_bound. rewrite SF_sup_bound. rewrite Sup_fct_bound. rewrite unif_part_bound. rewrite<- IHn. reflexivity.", "succ": true}]

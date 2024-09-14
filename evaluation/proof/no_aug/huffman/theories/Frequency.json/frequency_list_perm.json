@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction l. - simpl. constructor. - simpl. sauto lq: on depth: 3use: add_frequency_list_perm.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction l. - simpl. constructor. - simpl. apply add_frequency_list_perm.", "succ": true}]

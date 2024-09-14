@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d s c tl l e l0 h. apply u_merge_inv_1_lst in h. apply u_merge_2_1 in h. apply h.", "back_times": 0, "succ": false, "time": 68.01410174369812}]

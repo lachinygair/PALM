@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a u l H0 H1. unfold is_LimInf_seq in *. unfold Rbar_mult. destruct l. - intros H2 eps. specialize (H1 eps). destruct H1 as [H1a H1b]. split. + intros N. specialize (H1a N). destruct H1a as [n [H2a H2b]]. exists n. split. * apply H2a. *", "succ": false}]

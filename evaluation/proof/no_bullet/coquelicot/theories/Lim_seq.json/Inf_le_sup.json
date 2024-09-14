@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Rbar_le. unfold Inf_seq. unfold Sup_seq. destruct (ex_inf_seq u) as [inf_seq Hinf_seq]. destruct (ex_sup_seq u) as [sup_seq Hsup_seq]. apply (Hinf_seq (fun n => (proj1 (Hsup_seq n)))).", "succ": false}]

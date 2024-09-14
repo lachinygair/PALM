@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x i H. unfold is_gcd. intros H0. split. - apply Zp_mult_invert. apply H0. - split; [apply divides_refl | split; [apply divides_refl | intros k H1 H2; apply divides_refl]].", "succ": false}]

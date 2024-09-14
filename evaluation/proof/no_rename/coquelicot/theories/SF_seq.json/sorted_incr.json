@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s j i H1 H2 H3 x0 H4. replace j with (S (j - 1)) by lia. replace (S (j - 1) < size s)%nat with (j < size s)%nat by lia. rewrite <- nth_last with (x0 := x0). apply sorted_nth in H1 as [H _]. apply H with (i := j - 1). - lia. - lia.", "succ": false}]

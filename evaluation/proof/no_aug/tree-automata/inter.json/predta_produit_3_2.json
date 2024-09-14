@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m Hp1 m0 Hp2. apply (predta_produit_3_def (M2 state m m0)). intros a a0 s s0 H. apply (Hp1 a a0 s s0).", "succ": false}]

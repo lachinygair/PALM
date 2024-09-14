@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. unfold Z.mul. intros a. hfcrush depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold Z.mul. intros a. apply Z.add_nonneg_nonneg. apply Z2Nat.inj_le. auto. apply Z.add_nonneg_nonneg; apply Z.mul_nonneg_nonneg; auto.", "succ": true}]

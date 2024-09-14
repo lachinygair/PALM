@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. apply Nat.eqb_eq. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros n. apply Nat.eqb_eq. reflexivity.", "back_times": 0, "succ": true, "time": 1.6891632080078125}]

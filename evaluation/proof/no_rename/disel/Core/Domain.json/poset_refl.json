@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: mx_leq, mixin, sort, leq.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intro. apply Reflexive_intro.", "succ": true}]

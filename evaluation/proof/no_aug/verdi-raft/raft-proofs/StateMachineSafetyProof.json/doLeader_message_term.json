@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st h os st' ms m t n pli plt es ci HdoLeader Hin Hsnd. apply HdoLeader in Hin as Hin'. destruct Hin' as [? | Hin']. - inversion H. subst. reflexivity. -", "succ": false}]

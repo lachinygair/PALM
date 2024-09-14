@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite <- SF_lx_nil. unfold SF_ly. simpl. rewrite unzip2_nil. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n d a b H. apply coacc_nxt with (s2:=predta_coacc d a (map_mini state d)) (pl:=map_mini state d) (c:=b). - apply H. - apply H. - apply H. - apply H. - apply coacc_id. apply H.", "succ": false}]

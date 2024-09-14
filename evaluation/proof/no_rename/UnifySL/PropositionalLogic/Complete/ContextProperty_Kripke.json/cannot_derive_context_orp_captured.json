@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold cannot_derive, context_orp_captured. intros Phi Psi H. left. intro H1. apply H. intro H2. apply H1. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p net H. destruct H as [H | H]. - exists p. split. apply H. split; [| split; unfold pDst, pSrc, pBody in H; destruct p; reflexivity]. - apply H.", "succ": false}]

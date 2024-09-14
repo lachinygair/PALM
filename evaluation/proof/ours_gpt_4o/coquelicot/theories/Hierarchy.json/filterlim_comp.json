@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T F. unfold filterlim. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros T F. unfold filterlim. apply: filter_le_refl.", "back_times": 0, "succ": true, "time": 2.2308874130249023}]

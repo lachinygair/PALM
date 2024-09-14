@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (rintro). apply rdestruct_rstep. - apply relim_base. apply (Q x y). - apply flip_rexists. fold rdestruct_result. apply eq_refl. - simpl. intros [H1 H2]. subst. apply (rdestruct_result m n Q x y).", "back_times": 0, "succ": true, "time": 1.1814570426940918}]

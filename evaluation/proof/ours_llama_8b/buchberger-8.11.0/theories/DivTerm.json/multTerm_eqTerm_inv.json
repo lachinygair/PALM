@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: divTerm_on_plusM_minusM, mult_mon_zero_r, mult_mon_zero_l, mult_div_com, mult_mon_assoc, ppcm_mom_is_ppcm, eqTerm_multTerm_imp_eqTerm unfold: ppc, M1, T2M, multTerm, eqTerm, plusTerm, invTerm, zeroP, divTerm inv: prod.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 18.174539950909093}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t v s. unfold codeSubTerm, codeTerm, substituteTerm. rewrite <- subTermFunction. reflexivity.", "succ": false}]

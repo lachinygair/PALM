@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B R H1 H2. pose proof (ChoiceFacts.fun_choice_and_small_drinker_imp_omniscient_fun_choice ChoiceFacts.FunctionalChoice_on ChoiceFacts.SmallDrinker'sParadox A B) as H3. apply H3. - intros x. apply FiniteT. - apply H2.", "succ": false}]

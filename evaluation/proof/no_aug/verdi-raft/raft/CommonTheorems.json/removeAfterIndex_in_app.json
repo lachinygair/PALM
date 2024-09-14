@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l l' e Hin_e. unfold removeAfterIndex. rewrite app_assoc. rewrite (app_assoc (removeAfterIndex l _)). reflexivity.", "succ": false}]

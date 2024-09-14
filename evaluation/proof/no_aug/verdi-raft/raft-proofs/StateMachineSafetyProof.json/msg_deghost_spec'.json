@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros base multi ghost net h. unfold nwState. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros base multi ghost net h. unfold nwState. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply eq_ikiM.", "exn": "Unable to unify \"IdentityKripkeIntuitionisticModel ?worlds\" with \"IdentityKripkeIntuitionisticModel Prop\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply eq_ikiM.", "back_times": 0, "succ": false, "time": 33.465476512908936}]

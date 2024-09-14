@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> H. apply/supP. move: (fun_sup s) => fs. rewrite /fun_sup. apply: supP. exists p. split; first by apply: H. reflexivity.", "back_times": 0, "succ": false, "time": 52.574761152267456}]

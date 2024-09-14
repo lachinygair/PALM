@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: is_finite_correct unfold: is_lb_Rbar, is_finite, Rbar_is_lower_bound.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

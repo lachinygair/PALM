@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold leq. apply poset_refl.", "repairs": ["", "ref_not_found"], "exceptions": [{"ctx": ["unfold leq."], "tactic": "apply leq_refl.", "exn": "The reference leq_refl was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. unfold leq. apply leq_refl.", "succ": true}]

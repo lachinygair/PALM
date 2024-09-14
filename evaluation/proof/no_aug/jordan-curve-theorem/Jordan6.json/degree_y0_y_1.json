@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y Hmap Hprec. unfold prec_L in Hprec. destruct Hprec as [Hexd [Hexd' [Hncx [Hncy Hneq]]]]. unfold MF.degree. rewrite 2!cA_cA_1. reflexivity.", "succ": false}]

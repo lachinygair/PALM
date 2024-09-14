@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros E."], "tactic": "apply Ind.", "exn": "The reference Ind was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros E. apply Ind. intros L [H1 H2]. split. - apply H1. - apply INC_IN_Vee_Succ. apply H2.", "succ": false}]

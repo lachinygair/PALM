@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H_sym. unfold RStep. unfold subrel. intros x y Hsub. hfcrush depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros H_sym. unfold RStep. unfold subrel. intros x y Hsub. split. - intros Hxy. apply Hsub. apply H_sym. apply Hxy. - intros Hyx. apply H_sym. apply Hsub. apply Hyx.", "succ": true}]

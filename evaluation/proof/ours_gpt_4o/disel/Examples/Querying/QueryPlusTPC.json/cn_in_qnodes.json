@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold qnodes. apply/orP. left. apply/eqP. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold qnodes. simpl. apply/orP. left. apply/eqP. auto.", "back_times": 0, "succ": true, "time": 0.6218678951263428}]

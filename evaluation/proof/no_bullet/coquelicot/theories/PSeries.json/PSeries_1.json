@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold PSeries. unfold Series. apply Series_ext. intros n. scongruence use: Rinv_1, pow1, Rmult_1_r.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold PSeries. unfold Series. apply Series_ext. intros n. unfold scal, pow_n. ring.", "succ": true}]

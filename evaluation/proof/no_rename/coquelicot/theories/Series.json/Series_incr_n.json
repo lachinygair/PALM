@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a n Hn Hsum. apply is_series_unique in Hsum. rewrite Hsum. rewrite Series_incr_1. rewrite <- plus_assoc. rewrite (plus_comm (sum_f_R0 a (Init.Nat.pred n))). reflexivity.", "succ": false}]

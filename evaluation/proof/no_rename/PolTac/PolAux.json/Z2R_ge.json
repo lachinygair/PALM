@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p q H. hauto use: Z2R_correct, IZR_ge.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros p q H."], "tactic": "apply Z2R_le, H.", "exn": "In environment p, q : Z H : (p >= q)%Z Unable to unify \"q\" with \"p\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros p q H. apply Z2R_le, H.", "succ": true}]

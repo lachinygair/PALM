@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold sss_step_stall. srun best use: sss_step_in_code, in_out_code unfold: fst, subcode.code.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold sss_step_stall. intros H1 H2 st'. intros H3. unfold out_code in H1. apply H1 in H3 as H4. apply H2 in H4.", "succ": true}]

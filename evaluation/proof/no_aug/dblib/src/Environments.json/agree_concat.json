@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A e e1 e2 k n H1 H2. unfold agree, concat. intros H3 H4. rewrite Nat.add_comm. rewrite -> H4. apply (agree_insert _ _ _ k n H3). apply H1.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite <- Nat.mul_1_l. rewrite <- Nat.add_sub_swap. rewrite sum_powers_euclid. rewrite Nat.add_comm. reflexivity.", "succ": false}]

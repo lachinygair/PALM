@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct (lcm_full p q) as [l Hl]. apply (proj2_sig (lcm_full p q)).", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "destruct (lcm_full p q) as [l Hl]. apply (proj2_sig (lcm_full p q)).", "succ": true}]

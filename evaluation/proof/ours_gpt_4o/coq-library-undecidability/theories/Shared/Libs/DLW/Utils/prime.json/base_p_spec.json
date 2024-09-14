@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold base_p. destruct (base_p_full n) as [l Hl]. simpl. apply Hl.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold base_p. destruct (base_p_full n) as [l Hl]. simpl. apply Hl.", "back_times": 0, "succ": true, "time": 0.17938446998596191}]

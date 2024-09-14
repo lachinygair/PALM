@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h out d ms net' HdoLeader Hlogs_sorted Hlog_matching HuniqueIndices Hin_p HnwState_update; unfold log_matching_nw; intros p t leaderId prevLogIndex prevLogTerm entries leaderCommit Hin_packets HpBody; apply log_matching_state_same_packet_subset with net; auto.", "succ": false}]

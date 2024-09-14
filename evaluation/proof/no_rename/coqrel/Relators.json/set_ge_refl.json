@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros HReflexive x. unfold Reflexive, set_ge in *. intros x0 Hx0. exists x0. split. + apply Hx0. + apply HReflexive.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros HReflexive x. unfold Reflexive, set_ge in *. intros x0 Hx0. exists x0. split. + apply Hx0. + apply HReflexive.", "succ": true}]

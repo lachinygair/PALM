@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold continuous in *. unfold filterlim in *. intros cont_fx. unfold scal. apply continuous_scal with (k := k) (f := f) (x := x) in cont_fx. auto.", "succ": false}]

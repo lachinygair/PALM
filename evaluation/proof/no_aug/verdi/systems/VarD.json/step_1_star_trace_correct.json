@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros st trace H. srun best use: trace_correct'_trace_correct, step_1_star_trace_correct' unfold: init, Net.output, Net.input, vard_base_params.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros st trace H. induction H. - apply TCnil. - apply TCApp. + apply IHstep_1_star. + auto.", "succ": true, "time": 3.0836204810002528}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net h t log H1 H2. unfold leaderLogs_currentTerm_sanity_candidate. intros h' t' log' Hin Htype. unfold leaderLogs_currentTerm_sanity in H1. simpl in H1. apply (H1 h). apply Hin. apply Htype.", "succ": true}]

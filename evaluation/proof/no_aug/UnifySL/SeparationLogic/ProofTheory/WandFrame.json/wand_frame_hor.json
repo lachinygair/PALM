@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x1 y1 x2 y2."], "tactic": "intros H.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros x1 y1 x2 y2. intros H. apply wand_frame_intros. apply provable_wand_sepcon_modus_ponens1. apply H.", "succ": false}]

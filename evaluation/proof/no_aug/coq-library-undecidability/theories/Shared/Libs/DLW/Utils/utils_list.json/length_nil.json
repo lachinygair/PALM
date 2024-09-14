@@ -1,0 +1,1 @@
+[{"history": {"proof": "symmetry. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "symmetry. apply length_zero_iff_nil. reflexivity.", "succ": true}]

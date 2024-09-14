@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n P H. apply H. apply Zorder.Zgt_le_succ. apply BinInt.Z.gt_lt. apply BinInt.Z.lt_gt. unfold lt_absZ in H. apply H.", "succ": false}]

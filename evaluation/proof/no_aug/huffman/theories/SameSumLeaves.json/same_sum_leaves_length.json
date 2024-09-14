@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l1 l2 H. unfold same_sum_leaves in H. destruct H as [l3 [l4 [Hperm [Hperm' Heq]]]]. pose proof (permutation_length A (sum_leaves f) l3 l4) as Hlength. rewrite <- Heq in Hlength. apply Hlength in Hperm. apply Hperm.", "succ": false}]

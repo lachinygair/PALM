@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d p a H1 H2. unfold MapGet. rewrite pl_coacc_eq. unfold pl_coacc. destruct p. - simpl. reflexivity. - simpl. rewrite map_replace_eq. reflexivity.", "succ": false}]

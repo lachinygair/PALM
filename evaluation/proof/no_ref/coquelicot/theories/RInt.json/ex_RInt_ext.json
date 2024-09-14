@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g a b H H1. apply ex_RInt_ext with (f := f) (a := a) (b := b). - intros x. specialize (H x). intros. apply H. lia. - apply H1.", "succ": false}]

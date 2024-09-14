@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> H. rewrite /getLocal in H. case: find H=> //= h. move=> [<-]. by move: C; apply.", "back_times": 0, "succ": false, "time": 204.6587200164795}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a P Q H inPoly Comb. induction Comb. - apply CombLinear_0. - apply CombLinear_1 with a q s. + apply H, H0. + apply IHComb. + apply eqP_consistent with p; auto.", "succ": false}]

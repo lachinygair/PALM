@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x Hmap Hsucc. unfold m1. rewrite ne_L_B; try auto. rewrite nv_B; try auto. destruct eq_dim_dec. - subst m1. simpl. rewrite A_L_B; try auto. simpl. auto. - subst m1. simpl. auto.", "succ": false}]

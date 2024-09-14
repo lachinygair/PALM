@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (euclid a r Hr') as [u [v [H1 H2]]]. exists u. exists v. split. - rewrite H2, Hr. reflexivity. - intros k. rewrite H2, Hr. rewrite Nat.mul_comm, Nat.mul_assoc, <- Nat.pow_succ_r', Nat.mul_comm. rewrite <- Nat.mul_assoc, Nat.mul_comm. rewrite Nat.mod_mul; auto.", "succ": false}]

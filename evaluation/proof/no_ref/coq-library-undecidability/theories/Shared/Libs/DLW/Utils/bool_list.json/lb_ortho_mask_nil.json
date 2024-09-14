@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H1 H2. hfcrush use: lb_mask_refl, lb_ortho_meet_nil, lb_meet_idem, lb_ortho_anti.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2.", "succ": true}]

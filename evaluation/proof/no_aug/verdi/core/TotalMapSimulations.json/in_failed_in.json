@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n failed H. srun best use: in_map unfold: name, tot_map_name.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n failed H. apply not_in_failed_not_in in H. apply H.", "succ": true, "time": 1.9720763369999759}]

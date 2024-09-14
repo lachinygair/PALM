@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (msg_lower_prop_all_the_way _). intros net Href. apply (msg_simulation_1 _). apply Href.", "succ": false}]

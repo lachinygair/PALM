@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply Zmult_ge_compat_l_rev in H2. apply Z.le_trans with (m := Z.mul p n); auto.", "succ": false}]

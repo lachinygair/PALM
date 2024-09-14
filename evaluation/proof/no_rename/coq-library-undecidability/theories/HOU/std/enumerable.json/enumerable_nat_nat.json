@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Y HX HY n. unfold enumerable__T. exists (fun n : nat => combine (L_T nat n) (L_T nat n)). intros p. destruct p as [x y]. unfold combine. rewrite -> split_nth. exists (S (x + y)). reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: is_finite_correct, Rbar_plus_0_r, INR_not_0, Rbar_opp_minus, Rbar_minus_eq_0, Rbar_opp_real, Ropp_0, Rbar_opp_involutive, Ropp_inv_permute unfold: is_finite, real, Rbar_opp, Rbar_inv, Rbar_minus.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Ha. apply in_split in Ha. destruct Ha as [y [z Heq]]. exists y, z. rewrite Heq. reflexivity.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Ha. apply in_split in Ha. destruct Ha as [y [z Heq]]. exists y, z. rewrite Heq. reflexivity.", "back_times": 0, "succ": true, "time": 0.11435198783874512}]

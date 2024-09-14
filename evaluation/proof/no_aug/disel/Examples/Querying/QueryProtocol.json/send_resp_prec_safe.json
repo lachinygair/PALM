@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto l: on dep: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply qsend_trans with (prec := send_resp_prec). unfold prec_safe. intros this to q m Hn Hprec. apply Hprec.", "succ": true}]

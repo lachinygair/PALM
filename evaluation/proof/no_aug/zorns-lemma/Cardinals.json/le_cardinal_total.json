@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros kappa lambda. unfold le_cardinal. left. apply inj_le_cardinal. Abort.", "succ": false}]

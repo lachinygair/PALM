@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold cast. sfirstorder depth: 3use: S, cast_spec_find.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold cast. rewrite S.cast_spec_find. reflexivity.", "succ": true}]

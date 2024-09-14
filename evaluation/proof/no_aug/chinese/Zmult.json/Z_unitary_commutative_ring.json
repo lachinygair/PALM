@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Z_ring, multZ_commutativity, multZ_neutral unfold: is_unitary_commutative_ring.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Z_ring.", "succ": true}]

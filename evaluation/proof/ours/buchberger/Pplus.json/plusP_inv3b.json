@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. apply plusP_inv in H1. destruct H1 as [l1 [Hlt|[Hlt|Heq]]]; subst; auto.", "succ": false}]

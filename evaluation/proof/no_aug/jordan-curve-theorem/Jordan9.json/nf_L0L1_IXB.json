@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 m2 H_inv_hmap. unfold m1, m2. intros H_inv_m1. apply (nf_L0L1_VIIIB m x y x' y' H_inv_m1); auto. rewrite <- (nf_L0L0_V m x y x' y' H_inv_m1); auto. apply H_inv_hmap. intros H_B. apply (B0_L1_L0 m x y x' y' H_inv_m1).", "succ": false}]

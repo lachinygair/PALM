@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h e e' t Hreach Hin Hin' Hindex Hcommit. unfold lifted_committed. unfold lifted_committed in Hcommit.", "succ": false}]

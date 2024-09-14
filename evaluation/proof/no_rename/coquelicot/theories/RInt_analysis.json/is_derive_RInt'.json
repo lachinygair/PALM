@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V If f b a H1 H2. apply is_derive_opp. apply is_derive_RInt_0; auto. apply continuous_ext with (fun a0 => f a0). intros a0. unfold opp. reflexivity. apply H2.", "succ": false}]

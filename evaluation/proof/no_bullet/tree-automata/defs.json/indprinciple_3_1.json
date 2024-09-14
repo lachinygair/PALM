@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n H."], "tactic": "apply H.", "exn": "In environment n : nat H : indprinciple_3_aux n Unable to unify \"indprinciple_3_aux n\" with \"indprinciple_3_aux (S n)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros n H. apply H.", "succ": false}]

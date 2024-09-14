@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m H. apply Zeven_ex_iff. rewrite <- Z19 in H. unfold Zeven. now rewrite H.", "succ": false}]

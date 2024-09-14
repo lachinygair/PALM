@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' l H1 H2 H3. apply (disconnect_planar_criterion_Br1 m x x' H1 H2). apply H3.", "succ": false}]

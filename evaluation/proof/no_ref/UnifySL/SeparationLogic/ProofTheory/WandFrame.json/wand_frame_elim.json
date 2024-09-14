@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y. unfold wand. srun best use: @provable_wand_sepcon_modus_ponens2 unfold: wand inv: WandLanguage.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y. unfold wand. rewrite sepcon_comm. rewrite <- wand_proper_iffp. reflexivity.", "succ": true}]

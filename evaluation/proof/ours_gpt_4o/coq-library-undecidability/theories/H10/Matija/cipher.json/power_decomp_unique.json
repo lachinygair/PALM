@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply power_decomp_unique. auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "apply power_decomp_unique. auto.", "back_times": 0, "succ": false, "time": 0.09175825119018555}]

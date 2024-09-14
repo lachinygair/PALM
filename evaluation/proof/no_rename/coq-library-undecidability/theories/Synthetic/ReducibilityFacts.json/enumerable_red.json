@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 H3 H4. apply enumerable_conj. - apply dec_count_enum with (p := p); auto. apply red_comp; auto. - apply discrete_prod; auto.", "succ": false}]

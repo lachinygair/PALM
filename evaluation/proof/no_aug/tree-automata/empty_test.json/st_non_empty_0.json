@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m s p a H1 H2. unfold st_non_empty. destruct s. - discriminate. - simpl in H1. destruct (MapGet prec_list m a). + intro H3. rewrite H3. rewrite H2. reflexivity. + discriminate.", "succ": false}]

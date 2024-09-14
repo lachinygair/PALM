@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_terms_and_indices_from_one_interface. - intros net H. apply terms_and_indices_from_one_log_invariant. apply H. - intros net H. apply terms_and_indices_from_one_log_nw_invariant. apply H.", "succ": false}]

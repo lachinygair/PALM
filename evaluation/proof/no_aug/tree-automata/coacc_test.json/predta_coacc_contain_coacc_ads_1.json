@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a s H. unfold predta_coacc_contain_coacc_ads_def_0. intros H0 H1. pose proof (coacc_id d a s H) as H2. exists 0. apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d. unfold rec_co_def_4. intros a H_d H_list H H0. apply rec_co_empty.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d. unfold rec_co_def_4. intros a H_d H_list H H0. apply rec_co_empty.", "back_times": 0, "succ": true, "time": 0.5419018268585205}]

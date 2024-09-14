@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: is_lim_seq_geom, is_lim_seq_unique.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros q Hq. apply is_lim_seq_unique. apply is_lim_seq_geom. apply Hq.", "succ": true}]

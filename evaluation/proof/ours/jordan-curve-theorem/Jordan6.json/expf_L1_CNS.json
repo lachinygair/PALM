@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x y z t H1 H2. hauto use: expf_L1_I_CN, expf_L1_I_CS, expf_L1_II_CN, expf_L1_II_CS inv: sumbool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x y z t H1 H2. unfold expf, inv_hmap in *.", "succ": true}]

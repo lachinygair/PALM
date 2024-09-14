@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Ens1 Ens2. apply (Ens'_rec _ (fun A e a => Ens1 (sup' A e))).", "succ": false}]

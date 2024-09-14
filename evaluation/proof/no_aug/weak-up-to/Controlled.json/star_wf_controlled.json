@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (mkctrl A X Y TX TY B). - intros R H. apply (mkmon A X Y TX TY (F R)). + apply monotonic_correct. auto. + intros S T H'. apply (mon_a A X Y TX TY (F R)). * eauto. * auto. - intros R S H'. apply (mon_a A X Y TX TY (F R)). + eauto. + auto.", "succ": false}]

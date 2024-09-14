@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Q a p Hpick b q Hpdiv. unfold pickinSetp in Hpick. destruct Hpick as [a' b' p' Hcanonical Hpdiv']. unfold divP in Hpdiv. specialize (Hpdiv' eq_refl Hpdiv) as HdivP. unfold divP. apply HdivP.", "succ": false}]

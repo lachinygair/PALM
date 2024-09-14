@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold r_step_coh_t. intros. apply network_step_sind. intros. apply ReceiveMsg. unfold Protocols.rcv_tags. unfold all. unfold Protocols.snd_tags. unfold has. unfold mem2. unfold pcm. rewrite trans_updDom. unfold prot. apply H0. apply Huniq. apply consume_coh. apply Huniq.", "succ": false}]

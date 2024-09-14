@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Lim_seq_scal_l.", "exn": "The reference Lim_seq_scal_l was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply Lim_seq_scal_l.", "back_times": 0, "succ": false, "time": 104.55998945236206}]

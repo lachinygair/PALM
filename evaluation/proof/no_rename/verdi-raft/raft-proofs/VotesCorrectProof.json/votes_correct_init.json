@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net Hnet. unfold votes_correct in *. destruct Hnet as [H1 [H2 H3]]. auto.", "succ": true}]

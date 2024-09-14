@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi2 Psi. apply not_finite_witnessed_finite_captured. apply orp_funcp.", "succ": false}]

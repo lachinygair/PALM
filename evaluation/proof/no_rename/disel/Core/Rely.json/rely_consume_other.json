@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this s s' m tm from H_rely H_find. unfold network_rely, find in H_rely, H_find. intros H_rely' H_find'. destruct H_rely as [n H_rely']. apply (step_consume_other n H_rely' H_find).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros kappa lambda H. inversion H. hauto lq: on depth: 3use: bij_eq_cardinal, inj_le_cardinal.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros kappa lambda H. inversion H. apply inj_le_cardinal. apply bij_eq_cardinal. apply H1.", "succ": true}]

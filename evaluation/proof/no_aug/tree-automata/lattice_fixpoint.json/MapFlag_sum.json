@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A f. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A f. exists (match f with | flag_true _ x => x | flag_false _ x => x end). destruct f; [left | right]; reflexivity.", "succ": true}]

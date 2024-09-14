@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p0 p1 H. apply pl_compat_sym. apply upl_conv_compat_0_1. apply pl_compat_sym. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p0 p1 H. apply pl_compat_sym. apply upl_conv_compat_0_1. apply pl_compat_sym. auto.", "back_times": 0, "succ": true, "time": 0.4565896987915039}]

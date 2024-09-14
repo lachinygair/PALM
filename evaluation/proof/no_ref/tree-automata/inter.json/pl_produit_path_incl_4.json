@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros pl0 pl1 n plp H1 H2 H3. strivial use: pl_produit_path_incl_3_5, le_n_n unfold: pl_produit_path_incl_def_3, pl_essence, pl_produit.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros pl0 pl1 n plp H1 H2 H3. exists pl_path_nil, pl_path_nil. split; [|split]; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X x m l H. apply incl_cons_inv in H as [Hx Hml]. apply incl_tl in Hml. apply in_inv in Hx as [Hx|Hx]. - left. apply Hx. - right. apply Hml.", "succ": false}]

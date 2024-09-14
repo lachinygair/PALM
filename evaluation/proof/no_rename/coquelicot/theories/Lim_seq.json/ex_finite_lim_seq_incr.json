@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u M H1 H2. apply ex_finite_lim_seq_decr with M. - intro n. specialize (H1 n). specialize (H2 n). transitivity (u (S n)); auto. - intro n. specialize (H2 n). apply H2.", "succ": false}]

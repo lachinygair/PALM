@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": ["apply False_dec.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "apply False_dec.", "succ": true}]

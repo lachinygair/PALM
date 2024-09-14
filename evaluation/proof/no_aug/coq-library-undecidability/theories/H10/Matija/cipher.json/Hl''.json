@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hq2: 1 < q) by lia. assert (Hr2: 1 < r) by lia. assert (Hlq2: l < q) by lia. assert (Hqr: q < r) by lia. lia.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold scal."], "tactic": "rewrite scal_times.", "exn": "Found no subterm matching \"scal ?M1442 (?M1443 \u2297 ?M1444)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "unfold scal. rewrite scal_times. rewrite scal_0. symmetry. apply monoid_unit_r. auto.", "succ": false}]

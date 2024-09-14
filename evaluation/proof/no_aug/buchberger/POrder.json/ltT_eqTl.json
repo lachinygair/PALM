@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c H1 H2. sauto depth: 3use: ltT_eqTr.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c H1 H2. apply (ltT_eqTr _ _ _ H1). apply (ltT_eqTr _ _ _ H2).", "succ": true}]

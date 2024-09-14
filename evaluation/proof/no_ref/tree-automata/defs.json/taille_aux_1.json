@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a la ls. qauto use: Nat.le_0_l, Nat.lt_eq_cases, taille_aux_0, Nat.nle_succ_0 unfold: lt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a la ls. unfold taille_0. simpl. auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: plus_reg_l, plus_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros G r x y H. rewrite <- AbelianGroup.ax1 with (m := AbelianGroup.class G). rewrite H. symmetry.", "succ": true}]

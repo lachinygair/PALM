@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h d os d' ms H. unfold doGenericServer in H. destruct (applyEntries h d (rev (filter (fun x => lastApplied d <? eIndex x && eIndex x <=? commitIndex d) (findGtIndex (log d) (lastApplied d))))). inversion H. reflexivity.", "succ": false}]

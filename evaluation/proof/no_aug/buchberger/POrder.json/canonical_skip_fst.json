@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l a b H_canonical. apply (canonical_pX_order l a b H_canonical).", "succ": false}]

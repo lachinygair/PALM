@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: sumAlg.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply sum_SA.", "exn": "Unable to unify \"SeparationAlgebra sum_worlds\" with \"SeparationAlgebra nat\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply sum_SA.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: is_lim_unique unfold: ex_lim.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f x H. unfold ex_lim, is_lim, Lim in H. destruct H as [l H]. apply is_lim_unique with f x l. apply H.", "succ": true}]

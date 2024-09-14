@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["destruct (le_lt_dec a i).", "-", "left."], "tactic": "-", "exn": "[Focus] Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "destruct (le_lt_dec a i). - left. auto. - right. auto.", "succ": false}]

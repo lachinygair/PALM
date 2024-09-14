@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold not, zeroP in *. intros. sfirstorder use: multTerm_zeroP_div unfold: zeroP inv: prod.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold not, zeroP in *. intros. unfold multTerm. unfold zeroP in *. intros. intro. apply H; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros ps st st' t e H_comm H_st_eq. unfold committed in *. hauto lq: on.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros ps st st' t e H_comm H_st_eq. unfold committed in *.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. rewrite H. unfold SF_ly. destruct s0 as [h0 s0t]. simpl. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. rewrite H. unfold SF_ly. destruct s0 as [h0 s0t]. simpl. rewrite SF_ly_cons. reflexivity.", "succ": true}]

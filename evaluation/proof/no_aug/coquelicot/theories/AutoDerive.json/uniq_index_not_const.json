@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n l. unfold index_not_const. apply mkseq_uniq. intros i j Hi Hj Heq. unfold mkseq. simpl. apply sub_inj. rewrite mem_filter in Hi, Hj. move/andP: Hi => [Hini _]. move/andP: Hj => [Hinj _]. by rewrite Hini Hinj Heq.", "succ": false}]

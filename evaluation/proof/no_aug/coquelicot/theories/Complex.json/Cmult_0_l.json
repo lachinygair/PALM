@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Cmult_0_r, Cmult_comm unfold: RtoC.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite RtoC_mult. rewrite Rmult_0_r. rewrite Rmult_0_l. apply (Cplus_0_r (0, 0)).", "succ": true}]

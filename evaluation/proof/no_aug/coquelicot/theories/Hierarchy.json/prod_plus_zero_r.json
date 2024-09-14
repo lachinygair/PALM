@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. destruct x as [u v]. unfold prod_plus, prod_zero. simpl. sauto q: on depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. destruct x as [u v]. unfold prod_plus, prod_zero. simpl. rewrite AbelianGroup.ax3. rewrite AbelianGroup.ax1. rewrite AbelianGroup.ax1. reflexivity.", "succ": true}]

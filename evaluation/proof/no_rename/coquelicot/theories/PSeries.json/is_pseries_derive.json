@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_pseries, PS_derive. intros H. apply (is_derive_PSeries a x). apply H.", "succ": false}]

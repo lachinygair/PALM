@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold Zp_invert. destruct (Zp_invert_full x) as [i Hi]. sfirstorder depth: 3use: Zp_plus_zero_r.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold Zp_invert. destruct (Zp_invert_full x) as [i Hi]. intros Hx. specialize (Hi Hx). destruct Hi as [H1 H2]. rewrite H2. apply Zp_plus_zero_r.", "succ": true}]

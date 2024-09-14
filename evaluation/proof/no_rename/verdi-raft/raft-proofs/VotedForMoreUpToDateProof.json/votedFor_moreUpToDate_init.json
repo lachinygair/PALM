@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold refined_raft_net_invariant_init, votedFor_moreUpToDate in *. scongruence depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_init, votedFor_moreUpToDate in *. intros net t h h' H1 H2 H3 H4 H5. apply H in H1; auto.", "succ": true}]

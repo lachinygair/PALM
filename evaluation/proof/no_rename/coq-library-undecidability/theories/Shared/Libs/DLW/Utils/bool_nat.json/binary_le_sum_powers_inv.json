@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i j k. intros hf he hbound. intros. pose proof (sum_powers_ortho n f e). rewrite H1 in H. rewrite H in H0. apply meet_sum_powers in H0. exists (\u03bb i : nat, f i). split. - rewrite <- H. apply H0. - intros. apply H4 in H6. apply H6. apply H5.", "succ": false}]

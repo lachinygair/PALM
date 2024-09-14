@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Rfield.", "exn": "Unable to unify \"field_theory 0 1 Rplus Rmult Rminus Ropp Rdiv Rinv eq\" with \"field_theory 0 1 Cplus Cmult Cminus Copp Cdiv Cinv eq\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Rfield.", "succ": false}]

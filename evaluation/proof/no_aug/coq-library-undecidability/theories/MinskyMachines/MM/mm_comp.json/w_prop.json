@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold \"v \u22c8 w\". unfold \"v\", \"w\". simpl. unfold vec_cat. apply eq_sym. apply vec_pos_ext. intros p. destruct (pos_S_inv p) as [Hp | Hp]. + subst. simpl. reflexivity. + destruct Hp as [q Hq]. subst. simpl. reflexivity.", "succ": false}]

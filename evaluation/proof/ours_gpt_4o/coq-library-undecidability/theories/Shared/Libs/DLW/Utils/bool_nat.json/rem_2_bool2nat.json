@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct b. -- simpl. apply rem_2_fix_2. -- simpl. apply rem_2_fix_1.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "destruct b. -- simpl. apply rem_2_fix_2. -- simpl. apply rem_2_fix_1.", "back_times": 0, "succ": true, "time": 0.9213201999664307}]

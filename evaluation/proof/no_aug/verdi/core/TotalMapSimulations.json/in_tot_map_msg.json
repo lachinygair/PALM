@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m l n H1 H2. apply in_map_iff in H2. destruct H2 as [nm [Hin1 Heq]]. destruct nm as [n' m']. unfold tot_map_name_inv, tot_map_msg in Heq. simpl in Heq. injection Heq as Heq1 Heq2. rewrite <- Heq1, <- Heq2. apply in_map. apply H1. apply Hin1.", "succ": false, "time": 4.585602011999981}]

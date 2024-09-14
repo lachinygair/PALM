@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q Hcanonp Hcanonq. unfold canonical in Hcanonp, Hcanonq. intros H_eqP. unfold eqP in H_eqP. rewrite H_eqP. auto.", "succ": false}]

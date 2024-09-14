@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z v t H1 H2 H3. specialize (between_expo1 m z v t H1 H2 H3) as [H4 _]. apply H4.", "succ": false}]

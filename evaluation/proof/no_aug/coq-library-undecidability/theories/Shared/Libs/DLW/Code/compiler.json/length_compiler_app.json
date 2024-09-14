@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction ll. - simpl. reflexivity. - simpl. scongruence use: Nat.add_assoc.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. induction ll. - simpl. reflexivity. - simpl. rewrite Hc, IHll. reflexivity.", "succ": true}]

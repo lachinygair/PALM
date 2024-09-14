@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Lim. unfold Rbar_mult. unfold ex_lim, Lim_seq. destruct (ex_lim_finite_lim f x) as [Hlim Hfin]. destruct (ex_finite_lim_correct f x). apply Lim_opp. apply Hlim.", "succ": false}]

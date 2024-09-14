@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params tsi net st' ps' d h os d' ms H_doLeader H_P H_reachable H_nwState H_st' H_ps'. unfold raft_net_invariant_do_leader in H_P. apply H_P; auto.", "succ": false}]

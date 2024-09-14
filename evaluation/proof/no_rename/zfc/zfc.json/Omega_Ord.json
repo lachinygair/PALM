@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Lo.", "exn": "Unable to unify \"Ord (Union ?M1476)\" with \"Ord Omega\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Lo. intros e H. apply Lo. intros x Hx. apply So. apply Nat_Ord. apply Nat_IN_Omega.", "succ": false}]

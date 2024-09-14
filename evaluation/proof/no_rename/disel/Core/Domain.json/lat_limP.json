@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold lat_lim. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold lat_lim. intros H. apply H.", "succ": true}]

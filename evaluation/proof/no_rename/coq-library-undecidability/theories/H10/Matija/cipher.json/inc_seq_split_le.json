@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i j H. apply inc_seq_split_lt in H. destruct H as [p [H1 [H2 H3]]]. apply binary_le_joins_inv with (n := n) (f := f) in H1.", "succ": false}]

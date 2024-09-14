@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold predta_produit_3_def, M0 in state. intros H. apply H. apply H. apply H. exists a, a0, s, s0. split. - reflexivity. - split. + apply H. + apply H.", "succ": true}]

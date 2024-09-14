@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f x k der_fx. destruct der_fx as [l der_f_x]. apply is_derive_scal_l with (k := k) in der_f_x. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros f x k der_fx. destruct der_fx as [l der_f_x]. apply is_derive_scal_l with (k := k) in der_f_x. apply der_f_x.", "succ": true}]

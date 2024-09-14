@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t sigma sigma' H_eq H_cand. unfold candidateEntriesTerm. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros t sigma sigma' H_eq H_cand. unfold candidateEntriesTerm. intros h. rewrite H_eq. apply H_cand.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f b a n x. unfold SF_sup_r. destruct (Rle_dec a b) as [Hle|Hnle]. - unfold SF_sup_fun. rewrite Hle. reflexivity. - unfold SF_sup_fun.", "succ": false}]

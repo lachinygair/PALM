@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: mt_nodes unfold: cohMT.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros d coh_mt. unfold cohMT in coh_mt. apply (mt_nodes coh_mt).", "succ": true}]

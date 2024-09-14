@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply: allP. move=> H. apply/allP. move=> x Px. rewrite /=. case Hx: (x == e). - done. - move: (allP H) => /(_ _ Px) Hpx. rewrite Hpx. exact: H.", "back_times": 0, "succ": false, "time": 37.00116300582886}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. assert (SysPrf PA (equal a b -> equal (Succ a) (Succ b))). - intros H. apply eqSucc. apply H. pose proof (PA2 a b) as H0. apply impTrans with (equal a b). - apply cp1. apply cp1. apply H0. - auto.", "back_times": 0, "succ": false, "time": 56.428290367126465}]

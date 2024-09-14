@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["left.", "unfold correct_entry."], "tactic": "rewrite eClient, eId, eInput.", "exn": "Cannot find a relation to rewrite.", "type": "no_rewrite_relation", "handled": true}]}, "chat": [], "original": "simpl. left. unfold correct_entry. rewrite eClient, eId, eInput. auto.", "succ": false}]

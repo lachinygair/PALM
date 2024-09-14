@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_mult. hauto lq: on use: Rbar_mult'_comm, Rbar_mult_0_l unfold: Rbar_mult, real inv: option.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_mult. rewrite Rbar_mult_0_l. apply Rbar_mult_comm.", "succ": true}]

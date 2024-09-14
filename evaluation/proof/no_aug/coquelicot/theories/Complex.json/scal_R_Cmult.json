@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. unfold scal. unfold Cmult. simpl. unfold AbelianGroup.Pack. simpl. rewrite Cmult_comm. rewrite Cmult_assoc. unfold ModuleSpace.scal. unfold ModuleSpace.class. rewrite scal_assoc. reflexivity.", "succ": false}]

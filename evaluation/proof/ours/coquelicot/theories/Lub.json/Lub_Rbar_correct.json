@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold is_lub_Rbar. destruct (ex_lub_Rbar E) as [l Hl]. unfold Lub_Rbar. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold is_lub_Rbar. intros. destruct (ex_lub_Rbar E) as [l Hl]. unfold Lub_Rbar.", "succ": true}]

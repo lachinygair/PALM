@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net ps' p' st' H1 H2 H3. unfold packets_ge_prevTerm. intros p t n pli plt entries c e H4 H5 H6. apply H1 in H4; clear H1. apply H4 in H5; clear H4. apply H5 in H6. apply H6.", "succ": false}]

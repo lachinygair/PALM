@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Href. unfold terms_and_indices_from_one_vwl. intros h t h' log Hin. apply (lifted_terms_and_indices_from_one_log net h Href). auto.", "succ": false}]

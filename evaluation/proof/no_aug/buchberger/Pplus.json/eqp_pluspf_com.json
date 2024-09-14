@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q r t Hcanonp Hcanonq Hcanonr Hcanont Heqpq Heqrt. unfold pluspf. apply pluspf_inv3a. - apply Heqpq. - apply zeroP_plusTerml. + apply Heqpq. + apply Heqrt.", "succ": false}]

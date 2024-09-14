@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a t H. hauto lq: on depth: 3use: dt_non_empty_5.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a t H. inversion H as [d a t ladj H0 H1]. apply (dt_non_empty_5 d a t) in H1. apply H1.", "succ": true}]

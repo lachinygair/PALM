@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B R. sauto lq: on depth: 3use: R_setoid3_Symmetric.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B R. intros x y H. apply (R_setoid3_Symmetric A R). apply adjacet_to_symmetric. apply H.", "succ": true, "time": 0.13259669900000404}]

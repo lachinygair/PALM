@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite vec_list_vec_set_pos. simpl. reflexivity.", "succ": false}]

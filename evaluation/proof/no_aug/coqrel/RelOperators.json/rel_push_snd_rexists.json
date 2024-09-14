@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply RExists. apply rel_push_corefl. intros x y H. rewrite H. apply rel_push_rintro. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P x y H. unfold locally_2d in *. intros u v t Ht. unfold locally_2d in H. destruct H as [delta H]. pose proof (H (x + t * (u - x)) (y + t * (v - y))). apply H0. - apply Rabs_minus_sym. rewrite Rplus_comm. rewrite (Rplus_comm y). rewrite Rplus_assoc.", "succ": false}]

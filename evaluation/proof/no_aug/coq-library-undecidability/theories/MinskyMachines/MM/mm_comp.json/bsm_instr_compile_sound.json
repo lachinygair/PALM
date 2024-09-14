@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros bsm_instr_compile bsm_state_enc H. unfold instruction_compiler_sound. unfold bsm_instr_compile. unfold bsm_state_enc. intros v w [H1 [H2 H3]]. split. - apply H1. - split. + apply H2. + intros p. specialize (H3 p). apply H3.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st t h' r v Hin. unfold handleRequestVoteReply in Hin. destruct (currentTerm st <? t) eqn:Hlt. - left. apply (handleRequestVoteReply_spec' _ _ _ _ _ _ eq_refl) in Hin.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros sigma_sum_split sum_permutation_1 flat n f i H. intros H0. unfold flat. destruct (le_lt_dec n i) as [H1 | H1]. - auto. - apply False_ind, (Nat.lt_irrefl i). apply (Nat.lt_le_trans i n i); auto.", "succ": true}]

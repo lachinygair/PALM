@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold id, comp_mono, monotone in *. apply chainE. unfold id_mono in M. rewrite -/id in M. simpl. reflexivity.", "succ": false}]

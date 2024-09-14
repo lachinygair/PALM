@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold continuous. unfold fst. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold continuous. unfold fst. intros A B f H. unfold continuous in H. simpl. unfold fst. intros p. destruct p as [x y]. simpl. reflexivity.", "succ": true}]

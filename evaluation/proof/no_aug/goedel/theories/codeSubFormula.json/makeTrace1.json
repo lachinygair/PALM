@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f v s. unfold cTriplePi1, makeTrace, cTriple. unfold makeTrace. simpl. unfold cPair, cTriple. reflexivity.", "succ": false}]

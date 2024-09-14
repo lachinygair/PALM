@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intro H. exists nil, P. split. reflexivity. split. reflexivity. rewrite <- H. apply g_app.", "succ": false}]

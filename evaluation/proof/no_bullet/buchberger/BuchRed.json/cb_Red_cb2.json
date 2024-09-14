@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p L H. srun best use: Red_cb, Cb_compo.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p L H. inversion H.", "succ": true}]

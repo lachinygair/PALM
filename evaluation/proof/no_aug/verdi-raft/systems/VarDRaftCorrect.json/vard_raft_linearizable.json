@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros failed net tr H1 H2. hauto l: on depth: 3use: raft_linearizable.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros failed net tr H1 H2. apply raft_linearizable. - apply H1. - apply H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a a0 A1' H1 H2. unfold plusTerm. sauto depth: 3.", "repairs": ["used_var", "", "hammer"], "exceptions": [{"ctx": [], "tactic": "intros a a0 A1 H1 H2.", "exn": "A1 is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros a a0 A1 H1 H2. unfold plusTerm. rewrite H1. rewrite H2. reflexivity.", "succ": true}]

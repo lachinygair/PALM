@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Det22. intros R Radd Rmul Ropp M. unfold B. rewrite M. unfold MZ. unfold Z. unfold Z.mul, Z.add, Z.opp. simpl. rewrite Z.mul_1_r, Z.add_opp_diag_l. reflexivity.", "succ": true}]

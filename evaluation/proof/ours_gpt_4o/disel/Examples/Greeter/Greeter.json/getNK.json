@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /coh in C. move: (proj2 (proj2 (proj2 C)) n Hn) => /existsP [v Hfind]. rewrite /getLocal Hfind /= /counter. move: (cohN C Hn Hfind) => //=. move=> Heq. rewrite /= Heq. move: Hfind. rewrite /= => /dyn_tpP <-. by move/eqP.", "back_times": 0, "succ": false, "time": 37.00774145126343}]

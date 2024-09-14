@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: incl_lcons.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X C B A H. split. - intros x H1. apply incl_lcons in H1. destruct H1 as [H1 H2]. apply H in H1. apply H1. - intros x H1. apply incl_lcons in H1. destruct H1 as [H1 H2]. apply H in H2. apply H2.", "succ": true}]

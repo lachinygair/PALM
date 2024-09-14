@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m. intro H. hauto use: le_plus_r, Nat.nle_succ_diag_l.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m. intro H. intro Heq. apply (not_eq_S). intro Hm. apply (H Hm). rewrite Heq. reflexivity.", "succ": true}]

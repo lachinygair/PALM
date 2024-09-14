@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: is_series_unique unfold: NormedModule.sort, ex_series, R_NormedModule.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a. unfold ex_series, is_series, Series. intros [l H]. apply is_series_unique with (l:=l). apply H.", "succ": true}]

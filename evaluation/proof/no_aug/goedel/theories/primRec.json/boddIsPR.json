@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPRrel. unfold bodd. unfold Nat.odd. unfold Nat.div2. unfold Nat.b2n. unfold Nat.shiftr. rewrite Nat.log2_up_eqn. simpl. rewrite Nat.log2. auto.", "succ": false}]

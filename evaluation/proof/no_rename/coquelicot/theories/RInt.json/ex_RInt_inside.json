@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V f a b x e H1 H2 H3. apply ex_RInt_swap. apply ex_RInt_Chasles_2 with (b:=x+e). apply Rle_minus in H2. apply Rle_trans with (Rabs (a - x)); auto. apply Rle_minus in H3. apply Rle_trans with (Rabs (b - x)); auto.", "succ": false}]

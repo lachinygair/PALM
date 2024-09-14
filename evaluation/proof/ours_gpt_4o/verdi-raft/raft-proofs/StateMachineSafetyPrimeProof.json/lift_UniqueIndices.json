@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net H. apply simulation_1 in H. apply UniqueIndices_invariant. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros net H. apply simulation_1 in H. apply UniqueIndices_invariant. auto.", "back_times": 0, "succ": true, "time": 0.5361142158508301}]

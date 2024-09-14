@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply option_rel_some_inv in H0 as [b [Hb HRab]]. apply (uncurry (prod_rel_transport_eq_pair R R)). split. - exists b. split; auto. - split. + auto. + auto.", "succ": true}]

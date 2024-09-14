@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z H1 H2 H3. rewrite -> Zp_plus_comm. rewrite -> Zp_plus_comm with (x:=x). rewrite -> Zp_plus_comm with (x:=x) (y:=y). rewrite -> Zp_plus_comm. rewrite -> Zp_plus_comm with (y:=y). rewrite -> Zp_plus_comm with (x:=y). rewrite -> Zp_plus_comm with (x:=x).", "succ": false}]

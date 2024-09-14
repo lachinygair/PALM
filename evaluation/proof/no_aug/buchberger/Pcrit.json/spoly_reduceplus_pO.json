@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Q p q H1 H2. apply (reduceplus_mults A A0 A1 eqA plusA invA minusA multA divA cs eqA_dec n ltM ltM_dec Q p q H1 H2).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Extensionality_Ensembles unfold: Ensemble.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A P Q cP H1 H2. split. - intros H3 Phi H4. apply H2 with (Phi := Phi). apply H1. auto. auto. - intros H3 Phi H4. apply H2 with (Phi := Phi). apply H1. apply Included_trans with (Q := Q); auto. auto.", "succ": true}]

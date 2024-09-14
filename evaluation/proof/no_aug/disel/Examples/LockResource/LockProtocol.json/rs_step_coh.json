@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. apply r_step_coh_t. intros d pf from this msg. unfold rs_step. destruct (this == server) eqn:E. - apply getSt_server. - apply getLocal.", "succ": false}]

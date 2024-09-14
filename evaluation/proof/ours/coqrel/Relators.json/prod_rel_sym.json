@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hsym1 Hsym2 x y Hxy. destruct Hxy as [Hxy1 Hxy2]. split; [apply Hsym1 | apply Hsym2]; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros Hsym1 Hsym2 x y Hxy. destruct Hxy as [Hxy1 Hxy2]. split; [apply Hsym1 | apply Hsym2]; auto.", "succ": true}]

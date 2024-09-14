@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a la ls hd tl r Hr l Hl. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl r Hr l Hl. apply semantic_equiv_1_3 in Hr as Hr'. apply Hr'. - auto. - apply inductive_proposition_for_pl_tl_length; auto.", "succ": true}]

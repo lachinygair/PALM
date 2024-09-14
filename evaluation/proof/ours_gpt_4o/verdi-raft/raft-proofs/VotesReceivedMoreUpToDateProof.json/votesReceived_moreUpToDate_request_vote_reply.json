@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_client_request. intros. pose proof votesReceived_moreUpToDate_invariant as IH. apply IH. auto.", "back_times": 0, "succ": false, "time": 49.69692850112915}]

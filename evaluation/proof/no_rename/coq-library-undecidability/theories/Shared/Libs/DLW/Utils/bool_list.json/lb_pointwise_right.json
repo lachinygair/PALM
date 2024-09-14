@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: lb_pointwise_left.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f l. induction l as [|x l IHl]. - simpl. reflexivity. - simpl. rewrite lb_pointwise_left. rewrite IHl. reflexivity.", "succ": true}]

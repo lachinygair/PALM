@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold Coh, valid, PCM.valid in *. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold Coh, valid, PCM.valid in *. intros [Hvalidw [Hvalids [Hcomplete [Hdom Hcoh]]]]. apply Hvalids.", "succ": true}]

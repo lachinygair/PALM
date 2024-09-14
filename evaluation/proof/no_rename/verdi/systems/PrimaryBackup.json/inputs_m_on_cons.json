@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t tr. destruct t as [n s]. destruct n; simpl; destruct s; simpl; auto. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros t tr. destruct t as [n s]. destruct n; simpl; destruct s; simpl; auto.", "succ": true, "time": 0.23748454500014304}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold s_step_coh_t. intros nodes coh nodes_coh nat_step send_safe_step. apply: send_safe_step. - unfold uniq in Huniq. apply Huniq. - exists coh. apply: nodes_coh. - intros. case: (prec_valid i H). - by auto.", "back_times": 0, "succ": false, "time": 103.82170009613037}]

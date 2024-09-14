@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: eqT_compat_ltTl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2 H3 H4. intros H5 H6. contradict H5. apply (eqT_compat_ltTl x y (mult_one_inv x) H2).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z H. apply (card_rem_aux m z (fmap_to_set m)). apply (lt_S_n _ _ H).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (log_properties_hold_on_leader_logs_invariant net).", "succ": false}]

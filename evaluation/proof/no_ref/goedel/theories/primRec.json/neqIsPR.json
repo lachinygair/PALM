@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold isPRrel."], "tactic": "apply gtIsPR.", "exn": "Unable to unify \"isPRrel 2 (fun a b : nat => ltBool b a)\" with \"isPR 2 (charFunction 2 (fun a b : nat => negb (a =? b)))\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "unfold isPRrel. apply gtIsPR.", "succ": false}]

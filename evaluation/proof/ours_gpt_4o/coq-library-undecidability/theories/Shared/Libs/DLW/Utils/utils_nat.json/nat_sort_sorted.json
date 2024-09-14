@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction l using nat_sorted_rect. - constructor. - rewrite nat_sort_eq. destruct (nat_sort l) eqn:Hs. ++ apply in_nat_sorted_1. ++ apply nat_list_insert_sorted. apply IHl.", "back_times": 0, "succ": false, "time": 55.65188264846802}]

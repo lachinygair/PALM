@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries. intros. unfold handleAppendEntries in *. break_match. break_match. break_match. break_match. break_and. unfold update_elections_data_appendEntries in *. repeat break_match. find_apply_hyp_hyp. intuition.", "succ": false}]

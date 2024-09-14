@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: Euler_Poincare.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply Euler_Poincare; auto.", "exn": "Unable to unify \"ec ?M2265 / 2 = nc ?M2265\" with \"genus V = 0\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Euler_Poincare; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l l' H. unfold not_nil in *. intros H0. apply app_eq_nil in H0 as [H1 H2]. contradiction.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros l l' H. unfold not_nil in *. intros H0. apply app_eq_nil in H0 as [H1 H2]. contradiction.", "back_times": 0, "succ": true, "time": 0.9920156002044678}]

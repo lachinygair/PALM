@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "induction n.", "exn": "The reference n was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "induction n. -- simpl. ring. -- simpl. rewrite IHn. ring.", "back_times": 0, "succ": false, "time": 74.20973563194275}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: lb_meet_app, lb_meet_comm, lb_meet_idem unfold: lb_shift.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite lb_shift. unfold lb_shift. rewrite lb_shift_S, !app_comm_cons. rewrite lb_shift_S, lb_shift_S. rewrite lb_meet_app, (lb_meet_comm (_ \u2193 _)), lb_meet_app. reflexivity.", "succ": true}]

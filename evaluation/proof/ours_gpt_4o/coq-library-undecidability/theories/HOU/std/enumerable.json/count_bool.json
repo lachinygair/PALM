@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply enumerable_enumerable_T. exists (fun n => match n with | 0 => Some true | 1 => Some false | _ => None end). intros x. destruct x; exists 0; reflexivity. exists 1; reflexivity.", "back_times": 0, "succ": false, "time": 68.51829028129578}]

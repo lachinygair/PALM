@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold nxtprime. destruct (first_prime_above n) as [p Hp]. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold nxtprime. destruct (first_prime_above n) as [p Hp]. destruct Hp as [_ Hp]. apply Hp.", "back_times": 0, "succ": true, "time": 1.9716758728027344}]

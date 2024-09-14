@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m. induction n. - discriminate. - intros H. apply IHn. inversion H. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m. induction n. - discriminate. - simpl. intros H. apply IHn. inversion H.", "back_times": 0, "succ": true, "time": 2.140801429748535}]

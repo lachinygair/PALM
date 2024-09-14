@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m i j z. induction i. - simpl. reflexivity. - simpl. rewrite <- IHi. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m i j z. induction i. - simpl. reflexivity. - simpl. rewrite <- IHi. reflexivity.", "back_times": 0, "succ": true, "time": 0.692286491394043}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b l H1 H2. inversion H1; subst. - inversion H2. - apply ordered_inv_order in H3. apply (order_trans a b b) in H3; auto.", "succ": false}]

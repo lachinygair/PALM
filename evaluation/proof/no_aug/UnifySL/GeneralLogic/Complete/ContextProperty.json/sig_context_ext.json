@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros cP Phi Psi H. apply (PropExtensionalityFacts.PredExt_imp_PropFunExt _ _ _ (fun x => proj1 (H x))).", "succ": false}]

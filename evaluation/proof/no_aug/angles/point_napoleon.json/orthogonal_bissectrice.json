@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros u v H. unfold orthogonal in H. sfirstorder depth: 3use: R_permute, critere_orthogonal.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros u v H. unfold orthogonal in H. apply R_permute in H. apply critere_orthogonal in H. apply H.", "succ": true}]

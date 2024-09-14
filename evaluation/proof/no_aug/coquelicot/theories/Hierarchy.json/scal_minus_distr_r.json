@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold minus, plus, opp. rewrite scal_distr_r. scongruence use: scal_opp_l unfold: opp, plus.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold minus, plus, opp. rewrite scal_distr_r. rewrite scal_distr_r. rewrite scal_opp_r. rewrite scal_opp_r. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros I A B C u H1 H2. unfold colineaire. apply reflexion. - unfold bissectrice in H1. apply bissectrice_double in H1. unfold double in H1. eapply R_permute. apply H1. - unfold bissectrice in H1. apply bissectrice_double in H1. apply R_permute. apply H2.", "succ": false}]

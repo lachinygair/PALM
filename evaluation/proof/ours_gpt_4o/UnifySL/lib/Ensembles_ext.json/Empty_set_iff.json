@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros U x. split. - intros H. apply (Noone_in_empty U x). apply H. - intros H. contradiction.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros U x. split. - intros H. exfalso. apply (Noone_in_empty U x). apply H. - intros H. contradiction.", "back_times": 0, "succ": true, "time": 1.7715449333190918}]

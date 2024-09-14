@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P p Hin Hneq. apply In_inp_inPolySet with (Q:=P) (p:=p); auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros P p Hin Hneq. apply In_inp_inPolySet with (Q:=P) (p:=p); auto.", "succ": true}]

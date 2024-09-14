@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Q Ha Hb. unfold Cb in Ha, Hb. destruct a as [a Ca], b as [b Cb]. unfold spolyp. simpl. unfold spolyf. simpl. exists (spolyf A A0 A1 eqA invA minusA multA divA eqA_dec n ltM ltM_dec a b Ca Cb). reflexivity.", "succ": false}]

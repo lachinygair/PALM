@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h st' ps' gd out d l ht hgd Hp Hrr Hst'. assert (Hinv := allEntries_candidateEntries_invariant). specialize (Hinv net Hrr). auto.", "back_times": 0, "succ": false, "time": 101.02934408187866}]

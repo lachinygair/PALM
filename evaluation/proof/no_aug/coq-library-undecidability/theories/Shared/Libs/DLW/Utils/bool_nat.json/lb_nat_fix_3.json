@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction l. - simpl. unfold bool2nat. rewrite Nat.add_0_r. reflexivity. - simpl. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction l. - simpl. unfold bool2nat. rewrite Nat.add_0_r. reflexivity. - simpl. rewrite <- IHl. unfold bool2nat. reflexivity.", "succ": true}]

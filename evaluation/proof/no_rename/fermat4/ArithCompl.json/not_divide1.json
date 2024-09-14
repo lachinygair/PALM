@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold not. intros. intros contra. destruct contra. destruct H0. destruct (sqr_spos x). auto. unfold Z.divide in H0. destruct H0. apply (Z.mul_divide_cancel_l _ _ x). auto. auto.", "succ": false}]

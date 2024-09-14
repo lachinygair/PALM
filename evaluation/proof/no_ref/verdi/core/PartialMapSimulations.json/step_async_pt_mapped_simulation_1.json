@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' tr H_step_async. inversion H_step_async; subst. - left. unfold pt_map_net. simpl.", "succ": false, "time": 15.206153717999996}]

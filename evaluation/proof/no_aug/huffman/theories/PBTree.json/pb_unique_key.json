@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t H. induction H. - intros t0 t1 t2 H1 H2 H3. specialize (H t0 t1 t2 H1 H2 H3). destruct H. - intros t0 H1. apply distinct_pbleaves_pbleft. apply IHdistinct_pbleaves. apply H1. - intros t0 H1. apply distinct_pbleaves_pbright. apply IHdistinct_pbleaves. apply H1.", "succ": false}]

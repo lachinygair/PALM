@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n st t c li lt st' ms H. apply handleRequestVote_cases in H as [-> | [-> | [[-> _] _]]]. - auto. - apply advanceCurrentTerm_stateMachine. - auto.", "back_times": 0, "succ": false, "time": 78.78104734420776}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m Hm m0 Hm0. unfold sproductl_1_def in *. intros a p c r Hmap. apply Hm in Hmap as [r0 [r1 [H1 H2]]]. exists r0, r1. split. - apply MapGet_M2_bit_0_0. apply Hm. - apply H2.", "succ": false}]

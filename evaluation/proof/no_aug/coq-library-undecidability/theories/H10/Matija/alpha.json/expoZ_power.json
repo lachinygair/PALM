@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold mscal. rewrite Nat2Z.inj_sub_max. rewrite alpha_2. rewrite Nat2Z.inj_sub_max. unfold power. rewrite Nat2Z.inj_mul. rewrite Nat2Z.inj. rewrite Nat2Z.inj. reflexivity.", "succ": false}]

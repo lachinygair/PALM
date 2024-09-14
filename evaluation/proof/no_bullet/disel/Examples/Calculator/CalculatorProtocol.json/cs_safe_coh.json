@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hcs_safe. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros Hcs_safe. destruct Hcs_safe as [Hto_in_cs [Hthis_in_cls [Hcoh Hprec]]]. apply Hcoh.", "succ": true}]

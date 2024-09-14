@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z. intros H1 H2. apply deduction_modus_ponens with (x --> y --> z). - apply H2. - apply deduction_impp_intros. + apply H1.", "succ": false}]

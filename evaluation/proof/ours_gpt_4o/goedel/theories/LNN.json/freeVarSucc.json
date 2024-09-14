@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on drew: off use: app_nil_end unfold: Relations, Succ, LNN, freeVarTerm, Functions, arity, Term.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold Succ. rewrite freeVarTermApply. simpl. auto.", "back_times": 0, "succ": true, "time": 131.17453384399414}]

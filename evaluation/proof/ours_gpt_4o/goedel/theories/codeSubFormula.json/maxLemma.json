@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c d Hle1 Hle2. apply Nat.max_le_compat. - apply Hle1. - apply Hle2.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a b c d Hle1 Hle2. apply Nat.max_le_compat. - apply Hle1. - apply Hle2.", "back_times": 0, "succ": true, "time": 0.9455153942108154}]

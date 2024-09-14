@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: power n (1 + a) = 1 * power n (1 + a)). { rewrite Nat.mul_1_l. reflexivity. } rewrite Newton_nat with (a:=1) (b:=a). rewrite <- H. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros pl0 pl1 H. induction pl0 as [a pl00 pl01 IH |]. - simpl in H. inversion H. - reflexivity.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros pl0 pl1 H. induction pl0 as [a pl00 pl01 IH |]. - simpl in H. inversion H. - reflexivity.", "back_times": 0, "succ": true, "time": 0.4322218894958496}]

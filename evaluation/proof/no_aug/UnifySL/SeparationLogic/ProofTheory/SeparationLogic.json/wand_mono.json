@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x1 x2 y1 y2 H1 H2. srun best use: wand_sepcon_Adj, @sepcon_Mono, @funcp_mono unfold: sepcon, wand.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x1 x2 y1 y2 H1 H2. apply solve_impp_andp. - rewrite H1. apply wandX. - rewrite H2. apply wandX.", "succ": true}]

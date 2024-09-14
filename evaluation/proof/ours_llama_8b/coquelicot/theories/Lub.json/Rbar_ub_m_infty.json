@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Rbar_le_antisym, Rbar_opp_involutive, is_finite_correct, Rbar_lb_m_infty unfold: Rbar_is_upper_bound, Rbar_le, Rbar_is_lower_bound inv: Rbar.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

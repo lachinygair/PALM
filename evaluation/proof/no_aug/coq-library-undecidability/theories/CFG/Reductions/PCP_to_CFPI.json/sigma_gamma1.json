@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold sigma, gamma1, tau1. destruct A. - reflexivity. - simpl. rewrite app_assoc. reflexivity.", "succ": false}]

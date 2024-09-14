@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros cn others pts Hnin Punqi stag prec cn_prec_safe to this d m H. intros [HCn [C H']]. unfold coh. split. - intros i j Hi Hj Hmem. apply cn_prec_safe. auto. - exists C. auto.", "succ": true}]

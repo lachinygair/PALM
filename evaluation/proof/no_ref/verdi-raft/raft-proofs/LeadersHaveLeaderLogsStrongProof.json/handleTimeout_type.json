@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st out st' l handleTimeout_res. destruct st. - simpl in handleTimeout_res. inversion handleTimeout_res. - simpl in handleTimeout_res. destruct (type r); simpl in handleTimeout_res. + inv handleTimeout_res. auto. + inv handleTimeout_res. right. auto.", "succ": false}]

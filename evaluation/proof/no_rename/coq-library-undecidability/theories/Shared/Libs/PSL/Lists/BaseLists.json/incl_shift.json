@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: in_eq, in_cons.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X x B A H1. intros y H2. destruct H2 as [H2 | H2]. - rewrite H2. apply in_eq. - apply in_cons. apply H1. apply H2.", "succ": true}]

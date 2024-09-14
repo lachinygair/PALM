@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply cBPCP with (P := stack bool). apply (cBPCP _ u H).", "succ": true}]

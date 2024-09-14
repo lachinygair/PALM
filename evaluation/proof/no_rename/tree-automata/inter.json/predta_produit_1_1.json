@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a a0. unfold predta_produit_1_def. intros H1 H2. hauto q: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a a0. unfold predta_produit_1_def. intros H1 H2. specialize (H1 a a0 a a0 a0 a0). specialize (H1 a0 a0 eq_refl). apply H1.", "succ": true}]

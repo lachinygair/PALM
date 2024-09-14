@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H : pos2nat (pos_sub p Hm) < m) by apply pos2nat_prop. rewrite pos2nat_nat2pos. rewrite pos2nat_nat2pos. rewrite pos2nat_prop. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: SF_rev_invol.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. rewrite H. rewrite <- (SF_rev_invol s0). reflexivity.", "succ": true}]

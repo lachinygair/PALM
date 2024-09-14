@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Acc_set.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply Acc_set.", "exn": "Unable to unify \"Acc Rs ?M2265\" with \"forall a : set, Acc Rs a\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Acc_set.", "succ": true}]

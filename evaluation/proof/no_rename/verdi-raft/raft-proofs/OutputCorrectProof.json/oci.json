@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params aemi smci si lacimi lmi. unfold output_correct_interface. apply Build_output_correct_interface. intros client id out failed net tr H1 H2. apply output_correct_invariant with (tr := tr). auto. auto.", "succ": false}]

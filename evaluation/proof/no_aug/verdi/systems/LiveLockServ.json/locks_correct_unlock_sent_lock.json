@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros sigma p H. unfold locks_correct_unlock. intros Hbody. scongruence depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros sigma p H. unfold locks_correct_unlock. intros Hbody. rewrite Hbody. auto.", "succ": true, "time": 0.2496165249999649}]

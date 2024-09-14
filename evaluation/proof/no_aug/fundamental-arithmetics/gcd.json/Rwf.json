@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply well_founded_inv_lt_rel_compat with (F := fun _ _ : nat => False). apply well_founded_lt_compat. apply Nat.lt_wf.", "succ": false}]

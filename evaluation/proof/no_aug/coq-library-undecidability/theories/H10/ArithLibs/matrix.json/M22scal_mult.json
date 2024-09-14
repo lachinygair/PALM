@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto q: on depth: 3.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold M22scal. unfold M22scal. unfold M22scal. unfold M22scal. simpl. repeat rewrite R_is_ring. reflexivity.", "succ": true}]

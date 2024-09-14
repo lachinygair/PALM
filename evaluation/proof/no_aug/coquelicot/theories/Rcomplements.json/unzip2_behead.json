@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /behead /unzip2. hauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite /behead /unzip2. rewrite unzip2_zip. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nZa nZb p q r Cpxa Cpxb Cpxr. apply eqTerm_spolyf_red2 with (ppc A1 a b) (ppc A1 a b); auto. apply spolyf_def; auto. apply eqp_spminusf_com; auto.", "back_times": 0, "succ": false, "time": 67.42359924316406}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. strivial use: N.add_lt_mono_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply N.lt_le_trans with (N.add p n). - auto. - rewrite <- N.add_lt_mono_r. apply H.", "succ": true}]

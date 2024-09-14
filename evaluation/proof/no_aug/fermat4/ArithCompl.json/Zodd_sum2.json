@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H1 H2. qauto use: Z.sub_1_r, Zodd_0, Bool.negb_true_iff, Z.odd_succ, Z.odd_pred, Z.one_succ, Zeven_bool_iff, Z.negb_odd, Zodd_bool_iff, Z.odd_sub unfold: negb inv: bool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. apply Zeven_plus_Zodd; auto.", "succ": true}]

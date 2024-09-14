@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. sfirstorder depth: 3use: is_true_true.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold Protocols.rcv_tags. unfold rcv_tags. rewrite is_true_true. simpl. auto.", "succ": true}]

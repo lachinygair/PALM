@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x e t. sfirstorder depth: 3use: ball_center.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x e t. unfold fct_ball. intros t'. apply (ball_center (x t) e).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z Hmap Hsucc. strivial use: pred_exd_A_1 unfold: succf, F.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z Hmap Hsucc. apply (MA1.exd_Iter_upb m z); auto.", "succ": true}]

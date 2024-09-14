@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b aNZ bNZ. strivial use: ppc_nZ, divTerm_def, divTerm_ppcl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros a b aNZ bNZ. unfold divP. apply divTerm_def; auto.", "succ": true}]

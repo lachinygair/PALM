@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p Hreach Hin. unfold msg_refined_raft_intermediate_reachable in Hreach. inversion Hreach; subst. - simpl. intros i Hrange. destruct Hrange as [Hlt Hle]. lia. - contradiction.", "succ": false}]

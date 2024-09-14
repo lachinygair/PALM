@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H1 H2. unfold Coreflexive. intros x y [H | H]. - apply H1. auto. - apply H2. auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H1 H2. unfold Coreflexive. intros x y [H | H]. - apply H1. auto. - apply H2. auto.", "back_times": 0, "succ": true, "time": 1.448065996170044}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H1 H2. apply mult_le_compat_rev_l with (p := p). auto. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply mult_le_compat_rev_l with (p := p). auto. auto.", "back_times": 0, "succ": true, "time": 0.7382478713989258}]

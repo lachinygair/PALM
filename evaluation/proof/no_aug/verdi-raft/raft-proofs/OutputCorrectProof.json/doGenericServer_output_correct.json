@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h ps sigma os st' ms Hreach HdoGS Hout_correct. unfold output_correct. unfold in_output_list in Hout_correct. simpl in *. unfold applied_entries. rewrite HdoGS. apply Hout_correct.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sauto lq: on.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. unfold pair_leq in H1, H2. destruct x as (x1, x2). destruct y as (y1, y2). destruct H1, H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a b. unfold mult_mon. rewrite <- recomp_ok. apply recomp_ok.", "succ": false}]

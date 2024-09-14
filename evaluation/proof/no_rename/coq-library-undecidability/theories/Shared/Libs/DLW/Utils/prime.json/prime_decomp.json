@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n H. destruct n. - intros contra. contradiction. - exists (cons 2 nil). split. + reflexivity. + apply prime_algo with (p:=2). auto.", "succ": false}]

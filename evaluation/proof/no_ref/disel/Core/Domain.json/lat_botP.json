@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold lat_bot. unfold \"<==\". simpl. intros. apply (mx_bot (coerce x)).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A l l' x H. unfold hd_error in *. destruct l. - discriminate. - injection H as H'. rewrite H'. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A l l' x H. unfold hd_error in *. destruct l. - discriminate. - simpl in H. injection H as H'. rewrite H'. reflexivity.", "succ": true}]

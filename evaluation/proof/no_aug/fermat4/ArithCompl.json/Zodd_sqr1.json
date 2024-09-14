@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros z H. sfirstorder depth: 3use: Zodd_opp1, Zodd_mult_Zodd, Zodd_opp2.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros z H. apply Zodd_def2. apply Zodd_mult_Zodd. - apply Zodd_mult_Zodd. + apply Zodd_opp2. apply H. + apply Zodd_opp1. apply H.", "succ": true}]

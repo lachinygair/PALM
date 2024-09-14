@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. pose (pa5) as H1. pose (eqTimes PA a (Succ b) a Zero H1 H0) as H2. pose (pa4 a b) as H3. pose (eqPlus PA a b (Times a b) (Succ b) a b H2 H3) as H4. apply H4.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply StrongPropositionalTransparentModality. apply (StrongPropositionalTransparentModality L minL pL mL Gamma minAX ipAX cpAX KmAX pmGamma).", "succ": false}]

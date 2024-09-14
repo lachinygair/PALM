@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l R R' S H1 H2. intros x y H3. unfold evolve_1 in *. intros H4. sfirstorder depth: 3use: union2_evolve.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l R R' S H1 H2. intros x y H3. unfold evolve_1 in *. intros H4. apply union2_evolve. - apply H1. - apply H4.", "succ": true}]

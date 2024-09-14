@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P. pose proof (Decidable.decidable P) as H. destruct H as [HP | HnotP]. - right. intros HnP. apply HnotP. intros HP. apply HnP. left. apply HP. - left. intros HnotnotP. apply HnotP. intros HP. apply HnotnotP. right. apply HP.", "succ": false}]

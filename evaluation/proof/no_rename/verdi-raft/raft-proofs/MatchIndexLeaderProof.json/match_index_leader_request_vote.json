@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params naertsi leader Htype. unfold match_index_leader. intros; specialize (H leader Htype). unfold assoc_default in H. rewrite H. reflexivity.", "succ": false}]

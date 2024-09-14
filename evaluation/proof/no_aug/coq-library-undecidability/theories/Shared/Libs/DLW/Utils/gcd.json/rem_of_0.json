@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold rem. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold rem. rewrite rem_idem. - apply rem_rem. - apply Nat.min_0_r.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold rem. rewrite rem_not_in. - apply rem_not_in. left. apply rem_neq. intros H. inversion H. - apply rem_not_in. left. apply rem_neq. intros H. inversion H.", "succ": false}]

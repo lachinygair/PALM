@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold getStatelet, empty_dstatelet. rewrite -> dom_notin_empty. intros H. apply find_notindom_None. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (Req_EM_T z1 z2); [left|right]; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Zeq_bool_neq, Z.lt_succ_diag_r, Zeq_is_eq_bool, Z.lt_succ_r, Z.le_ngt unfold: Zeq_bool, Zneq_bool, Z.le, Z.lt.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 18.200917462119833}]

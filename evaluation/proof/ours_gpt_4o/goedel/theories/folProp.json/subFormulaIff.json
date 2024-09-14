@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 v s. unfold substituteFormula. simpl. auto.", "back_times": 0, "succ": false, "time": 104.28709506988525}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st st' h Hnext Hlog. unfold getNextIndex. rewrite Hnext. rewrite Hlog. reflexivity.", "back_times": 0, "succ": false, "time": 87.8042516708374}]

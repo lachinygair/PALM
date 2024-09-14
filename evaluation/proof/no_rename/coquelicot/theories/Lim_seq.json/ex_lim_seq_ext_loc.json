@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. intros H3 H4. unfold eventually, ex_lim_seq, ex_lim_seq in *. intros H5 [l H6]. exists l. apply (is_lim_seq_ext_loc u v l) in H1. apply (is_lim_seq_ext_loc u v l) in H2. apply H1. apply H6. apply H2. apply H4.", "succ": false}]

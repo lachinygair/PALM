@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros L p H. apply redacc_cb in H. rewrite app_nil_r in H. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros L p H. apply redacc_cb in H. rewrite app_nil_r in H. auto.", "back_times": 0, "succ": true, "time": 1.054619312286377}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p sigma u st' out ms q p' Hhandler Hlocks Hinv1 Hinv2 Hnet HIn. unfold LockServ_network_network_invariant in Hnet. destruct Hnet as [Hnet1 [Hnet2 [Hnet3 Hnet4]]]. apply (Hnet4 _ _ HIn).", "hammer_times": 4, "succ": false, "time": 146.06903314590454}]

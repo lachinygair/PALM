@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite getLocal_n.", "exn": "The reference getLocal_n was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "simpl. rewrite getLocal_n. intros Hfind. inversion Hfind as [Hget]. rewrite Hget. reflexivity.", "succ": false}]

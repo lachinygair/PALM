@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "{ intros. unfold msum, nat_join in *. rewrite Hu2_1. rewrite Hu2. rewrite Hu2_1. rewrite <- Hu1_u2. rewrite Hw_1. rewrite H2w_1. rewrite Hu1. rewrite Hu1_w. rewrite Hu1_2w. rewrite Hu1_u2_1. auto. }", "succ": false}]

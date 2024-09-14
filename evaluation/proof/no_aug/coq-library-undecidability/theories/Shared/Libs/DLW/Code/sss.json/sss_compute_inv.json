@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. apply subcode_sss_compute_trans with (st1 := st1). - apply subcode_sss_compute_linstr with (P := P) (li := nil) (st1 := st1) (st2 := st2) (st := st3) (k := 0); auto. - eapply subcode_sss_compute_inv; eauto. - auto.", "succ": false}]

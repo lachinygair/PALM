@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply dp_eval_ext. intros v H1 i H2. destruct (le_lt_dec n i). - rewrite dp_proj_par_equation_2. rewrite H1. reflexivity. - unfold dp_proj_par. rewrite nat2pos_not_le. reflexivity.", "succ": false}]

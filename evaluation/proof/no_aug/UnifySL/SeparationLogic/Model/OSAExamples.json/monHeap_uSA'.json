@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (UpwardsClosure_UpwardsClosed addr val _ (Heap addr val) discHeap_uSA'). auto.", "succ": false}]

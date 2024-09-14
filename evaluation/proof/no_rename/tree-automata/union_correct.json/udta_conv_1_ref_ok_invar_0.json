@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a s c p b H1 H2 H3. intros H4 H5 H6. exists s', p', b'. split. - apply H4. - split. + apply H5. + split. * reflexivity. * split. ++ apply umpl_conv_1_img_0 in H6.", "succ": false}]

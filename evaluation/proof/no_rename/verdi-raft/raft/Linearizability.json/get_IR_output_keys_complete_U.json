@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs k H. unfold get_IR_output_keys. intros Hin. apply filterMap_In_Some. exists (IRU k). split. - auto. - reflexivity.", "succ": false}]

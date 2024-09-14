@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E. destruct (ex_lub_Rbar (fun x : Rbar => E x)) as [l Hlub]. exists l. apply Hlub.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m n n' H1 H2. destruct (H m) as [k Hk]. apply Hk in H1. apply Hk in H2. subst n n'. reflexivity.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m n n' H1 H2. destruct (H m) as [k Hk]. apply Hk in H1. apply Hk in H2. subst n n'. reflexivity.", "back_times": 0, "succ": true, "time": 1.4926750659942627}]

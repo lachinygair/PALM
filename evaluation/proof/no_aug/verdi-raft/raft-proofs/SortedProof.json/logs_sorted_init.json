@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. apply raft_net_invariant_init; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h h' t h'' lli llt st. unfold update_elections_data_requestVote. hauto q: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros h h' t h'' lli llt st. unfold update_elections_data_requestVote. simpl. reflexivity.", "succ": true}]

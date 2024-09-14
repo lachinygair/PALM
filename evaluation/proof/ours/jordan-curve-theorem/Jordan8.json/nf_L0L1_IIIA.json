@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' Hinv Hx1 Hy0 Hy'0 Hx'1 Hy'0b Hx_1b Hexpf1 Hnotexpf1 Hexpf2 Hexpf3 Heq; specialize (Hexpf1 Hinv) as [Hinv1 _]; specialize (Hexpf2 Hinv) as [_ ->]; specialize (Hexpf3 Hinv) as [_ Heq']; congruence.", "succ": false}]

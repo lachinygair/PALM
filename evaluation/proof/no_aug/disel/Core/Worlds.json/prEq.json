@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (l = plab p) as Hl by reflexivity. rewrite Hl. symmetry. apply H.", "succ": false}]

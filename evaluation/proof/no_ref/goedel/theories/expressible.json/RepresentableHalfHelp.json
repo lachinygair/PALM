@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n f A H1 H2. unfold RepresentableHelp, RepresentableHalf1, RepresentableHalf2 in *. intros. apply H with f A. - apply RepresentableHalf1Alternate with (B := A) in H; auto. - apply RepresentableHalf2Alternate with (A := A) in H; auto.", "succ": false}]

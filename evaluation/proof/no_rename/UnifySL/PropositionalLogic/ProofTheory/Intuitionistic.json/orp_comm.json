@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y."], "tactic": "split.", "exn": "Not an inductive product.", "type": "not_inductive_product", "handled": true}]}, "chat": [], "original": "intros x y. split. - intros H. apply deduction_orp_intros1. apply H. - intros H. apply deduction_orp_intros2. apply H.", "succ": false}]

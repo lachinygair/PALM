@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a t Hinvar_list n m d a0 Hrec_term Hleq. apply Hinvar_term with (n:=n) (m:=m) (d:=d) (a:=a0). - apply Hrec_term. - apply Hleq.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros plp tl d H. induction H. - reflexivity. - simpl. rewrite IHpl_path_recon. reflexivity.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros plp tl d H. induction H. - reflexivity. - simpl. rewrite IHpl_path_recon. reflexivity.", "succ": true}]

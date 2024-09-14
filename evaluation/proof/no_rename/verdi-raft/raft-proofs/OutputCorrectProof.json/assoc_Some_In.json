@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. intros K V K_eq_dec k v l H. unfold assoc in H. destruct l. - discriminate. - simpl in H. destruct a as [k' v']. destruct (K_eq_dec k k'). + injection H as Hk Hv. subst. left. reflexivity. + right. apply H.", "succ": false}]

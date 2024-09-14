@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold leaderLogs_candidate_entries_interface. intros net H. apply (leaderLogs_candidateEntries_invariant orig_base_params one_node_params raft_params net H).", "succ": false}]

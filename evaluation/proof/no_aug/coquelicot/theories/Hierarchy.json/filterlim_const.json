@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T U F FF a. unfold filterlim. intros P HP. unfold locally in HP. destruct (fct_ball_center T U a) as [eps eps_prop]. exists eps. intros x ball_ax_a. apply HP. exists eps. intros y ball_x_eps_y. apply eps_prop. apply fct_ball_sym. apply ball_ax_a. apply ball_x_eps_y.", "succ": false}]

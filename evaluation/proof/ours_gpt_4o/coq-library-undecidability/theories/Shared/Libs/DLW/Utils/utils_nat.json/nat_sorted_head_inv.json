@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: app_nil_l unfold: nat_sorted.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. inversion H as [l a m b r Heq Hlt]. simpl in Heq. injection Heq as Hxy Hls. rewrite Hxy. apply Hlt.", "back_times": 0, "succ": true, "time": 118.4266881942749}]

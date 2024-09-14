@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n r f m g H H0 H1 H2. split. - apply nat_ortho_sum_join. intro i. induction i. + intros j Hj. specialize (H j). lia. + intros j. apply H0. lia. - intros i Hi. apply power_2_inj. specialize (H2 i). apply H2. lia.", "succ": false}]

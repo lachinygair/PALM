@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply (Build_UnitalSeparationAlgebra Heap'). hauto use: monHeap_increasing', monHeap_residual' inv: ResidualSeparationAlgebra, IncreasingSeparationAlgebra.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "apply (Build_UnitalSeparationAlgebra Heap'). apply discHeap_unital.", "succ": true}]

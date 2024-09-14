@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k H1 H2. hfcrush use: A_A_1.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k H1 H2. unfold inj_dart. intros x x' H3 H4 H5. apply (eq_trans _ (A_1 m k x)). apply (inj_A _ _ H1). apply H3. apply (eq_trans _ (A_1 m k x')). apply (inj_A _ _ H1). apply H4. rewrite H5. reflexivity.", "succ": true}]

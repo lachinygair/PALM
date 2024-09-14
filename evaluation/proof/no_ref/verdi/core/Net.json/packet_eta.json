@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. destruct p as [src dst body]. simpl. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p. destruct p as [src dst body]. simpl. reflexivity.", "succ": true, "time": 0.19649427399986052}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold inverse_image, Complement. extensionality x. unfold Ensembles.In at 1. rewrite Complement. reflexivity.", "succ": false}]

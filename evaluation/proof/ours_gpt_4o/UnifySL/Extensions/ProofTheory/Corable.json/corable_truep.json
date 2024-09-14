@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "specialize (CosAX). destruct CosAX as [corableTT _ _ _]. apply corableTT.", "back_times": 0, "succ": true, "time": 1.308283805847168}]

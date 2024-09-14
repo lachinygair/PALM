@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "exists (bsm_halt s). split. - apply (in_bsm_sss_halt s). - reflexivity.", "succ": false}]

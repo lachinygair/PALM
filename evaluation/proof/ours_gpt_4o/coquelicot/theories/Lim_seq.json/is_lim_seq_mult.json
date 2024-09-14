@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros L1 L2 Hmult. unfold is_lim_seq. apply (filterlim_comp_2 u v (fun x y => x * y)). - apply L1. - apply L2. - unfold is_Rbar_mult in Hmult. rewrite Hmult. apply filterlim_id.", "back_times": 0, "succ": false, "time": 161.04892444610596}]

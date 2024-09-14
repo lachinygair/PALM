@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "Unable to unify \"0\" with \"FiniteT_nat_cardinal False empty_finite\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. reflexivity.", "succ": false}]

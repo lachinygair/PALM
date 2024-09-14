@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros d a ladj H.", "unfold udta_conv_0."], "tactic": "rewrite H.", "exn": "Found no subterm matching \"MapGet state d a\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros d a ladj H. unfold udta_conv_0. rewrite H.", "succ": false}]

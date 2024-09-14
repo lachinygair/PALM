@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b Hzera Hzerb Heq. srun best use: divTerm_def, divTerm_on_eqT.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b Hzera Hzerb Heq. apply divTerm_def. - apply Hzera. - apply Hzerb. - apply Heq.", "succ": true}]

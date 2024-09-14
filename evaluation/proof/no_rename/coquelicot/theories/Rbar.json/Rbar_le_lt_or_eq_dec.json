@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H. destruct (Rbar_total_order x y) as [[Hlt | Heq] | Hgt]. - left. apply Hlt. - right. apply Heq. - exfalso. apply Rbar_not_lt_le in Hgt. apply Hgt, H.", "succ": false}]

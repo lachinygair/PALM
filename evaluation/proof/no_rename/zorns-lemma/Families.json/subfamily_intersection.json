@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: family_intersection_intro unfold: In, Included inv: FamilyIntersection.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T F G H x H1. unfold Included in H. intros y H2. apply H in H2. apply FamilyIntersection_sind with (t:=x). - intros S H3 z H4. apply H in H4. apply H3 in H4. apply H4. - apply H1. apply H2.", "succ": true}]

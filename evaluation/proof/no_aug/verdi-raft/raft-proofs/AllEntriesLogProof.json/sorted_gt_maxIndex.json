@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. unfold sorted in H. simpl in H. destruct H as [H1 H2]. apply (fast_OMEGA13 1 (maxIndex l2) 0 1). apply (maxIndex_is_max l2 e). apply H2. apply in_or_app. right. left. reflexivity. apply H0. apply le_n. apply le_0_n.", "succ": false}]

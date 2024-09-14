@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P cP1 cP2 HAL Phi H. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros P cP1 cP2 HAL Phi H. apply (at_least_left P (Intersection context cP1 cP2) cP2 HAL). auto.", "succ": true}]

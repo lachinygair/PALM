@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros p L1 H L2 H0. induction H. - apply CombLinear_0. - apply CombLinear_1 with (p:=p)(q:=q). + apply H. + apply H0. + apply IHCombLinear.", "succ": false}]

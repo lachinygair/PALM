@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold unif_part. rewrite seq_step_unif_part. rewrite S_INR. rewrite Rabs_div. rewrite Rabs_triang. rewrite Rabs_Rdiv. rewrite Rabs_Rabsolu. rewrite Rabs_pos_eq. rewrite Rdiv_mult. rewrite Rplus_comm. reflexivity.", "succ": false}]

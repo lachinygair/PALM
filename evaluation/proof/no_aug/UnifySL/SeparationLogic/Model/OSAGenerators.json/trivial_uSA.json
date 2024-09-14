@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Build_IncreasingSeparationAlgebra.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros worlds R J m n H. apply H.", "succ": true}]

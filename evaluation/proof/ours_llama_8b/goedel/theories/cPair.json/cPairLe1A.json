@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on drew: off use: Nat.le_gt_cases, Nat.le_add_r, Nat.le_ge_cases, Nat.le_le_succ_r, sumToN1, cPairProjections, Nat.le_refl unfold: ge, cPairPi2, cPair, Init.Nat.add, in_int inv: le, nat.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

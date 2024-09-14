@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t Hmap Hexp. split. - intro H. apply (proj1 (Hexp (z) (t))). apply H. - intro H. specialize (proj2 (Hexp z t) H). destruct H as [H1 H2]. split. apply H1. destruct (Iter_upb m z) as [p Hp]. exists p. split. apply Hp. apply H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d. destruct d as [p a]. unfold dta_kill_non_coacc_lazy, dta_kill_non_coacc. simpl. unfold predta_kill_non_coacc_lazy, predta_kill_non_coacc. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w H. destruct H as [Tw [H1 H2]]. split. - intros w' Hacc. specialize (H1 (R w) H2). apply H1. exists w'. auto. - intros P Hacc. apply (Delay.unpack (T w' P)).", "succ": false}]

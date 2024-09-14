@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K a u n. induction n. - simpl. rewrite Ring.mult_one_r. reflexivity. - simpl. rewrite sum_n_mult_r. rewrite IHn. rewrite Ring.mult_zero_l. reflexivity.", "succ": false}]

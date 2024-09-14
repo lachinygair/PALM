@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x y x' y' m1 H. unfold m1. hauto lq: on depth: 3use: B0_L0_L0.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 H. unfold m1. intros H0. destruct H0 as [H1 H2]. apply (B0_L0_L0 m x y x' y' H1).", "succ": true}]

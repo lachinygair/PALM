@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "destruct (Req_EM_T z1 z2); [left|right]; auto.", "exn": "In environment z1, z2 : C The term \"z1\" has type \"C\" while it is expected to have type \"R\".", "type": "wrong_type", "handled": true}]}, "chat": [], "original": "destruct (Req_EM_T z1 z2); [left|right]; auto.", "succ": false}]

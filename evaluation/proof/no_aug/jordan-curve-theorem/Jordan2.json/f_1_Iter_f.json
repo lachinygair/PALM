@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m i z Hmap Hexd. unfold f_1. hauto use: exd_Iter_f, M.f_1_f unfold: f, Iter.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m i z Hmap Hexd. unfold f_1. rewrite <- Iter_plus. rewrite Iter_plus_mult. - reflexivity. - apply Hmap. - apply Hexd. - reflexivity.", "succ": true}]

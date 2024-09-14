@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Build_TraverseVarIsIdentity, traverse_my_term_var_is_identity.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. apply traverse_var_is_identity.", "succ": true}]

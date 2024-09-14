@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f H_f t1 t2 l H_traverse_var_eq. apply (traverse_var_injective V H T H0 (Build_TraverseVarInjective V H T H0 H1) f H_f t1 t2 l). apply H_traverse_var_eq.", "succ": false}]

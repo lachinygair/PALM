@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros H. induction H. - simpl. apply I. - simpl. destruct a as [k v]. destruct v. + destruct k. * apply I. * contradiction. + destruct k. * apply I. * apply IHcorrespond.", "succ": false, "time": 5.544301433000101}]

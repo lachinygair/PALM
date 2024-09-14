@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u H1 H2. unfold ex_lim_seq in H1. unfold Lim_seq in H1. unfold Rbar_inv. destruct H1 as [l H1]. intros H3. apply is_lim_seq_inv in H1; auto. rewrite H1. reflexivity.", "succ": false}]

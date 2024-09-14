@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. pose proof (constructive_choice (pos n) (R) H) as [f Hf]. exists f. auto.", "succ": false}]

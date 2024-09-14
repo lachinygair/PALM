@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x.", "unfold multZ."], "tactic": "destruct x; simpl; reflexivity.", "exn": "In environment n : nat Unable to unify \"OZ\" with \"multpos OZ n\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros x. unfold multZ. destruct x; simpl; reflexivity.", "succ": false}]

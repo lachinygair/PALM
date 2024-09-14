@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply lb_mask_equiv_sym. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "apply lb_mask_equiv_sym. apply lb_mask_equiv_refl.", "succ": true}]

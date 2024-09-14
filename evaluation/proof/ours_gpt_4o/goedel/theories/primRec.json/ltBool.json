@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Init.Nat.odd. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "apply Init.Nat.odd.", "back_times": 0, "succ": true, "time": 1.1223173141479492}]

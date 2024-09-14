@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold ex_derive in *. destruct H as [l H]. exists (INR n * l * (f x) ^ (n - 1)). apply is_derive_pow, H.", "succ": false}]

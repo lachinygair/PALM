@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold SF_size, SF_rev. scongruence use: SF_ly_rev, SF_size_ly, size_rev, @size_unzip2 unfold: SF_t, SF_ly, SF_size, SF_rev.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold SF_size, SF_rev.", "succ": true}]

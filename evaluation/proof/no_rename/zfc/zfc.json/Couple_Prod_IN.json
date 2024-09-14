@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E1 E2 E1' E2' H. unfold IN in H. unfold Prod in H. unfold Couple in H. simpl in H. inversion H as [x H1]. split. - apply (pi2 (f x) (dep_i x (dep_i E1' E2' H1))). - apply (dep_i E1' E2' H1).", "succ": false}]

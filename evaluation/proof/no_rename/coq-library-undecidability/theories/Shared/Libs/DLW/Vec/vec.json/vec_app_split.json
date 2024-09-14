@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m n u. unfold vec_split, vec_app. rewrite VectorSpec.append_splitat. reflexivity.", "succ": false}]

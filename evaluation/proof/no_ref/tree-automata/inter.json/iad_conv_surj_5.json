@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. strivial use: iad_conv_surj_4.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p. unfold iad_conv_prop. intros. destruct H; destruct H as [q H]; destruct H; exists q; auto.", "succ": true}]

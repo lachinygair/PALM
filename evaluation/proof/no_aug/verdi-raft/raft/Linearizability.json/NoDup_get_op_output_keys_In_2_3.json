@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs ys zs k H1 H2. hauto lq: on use: NoDup_get_op_output_keys_In_O, get_op_output_keys_defn, app_assoc_reverse, get_op_output_keys_app inv: op.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros xs ys zs k H1 H2. apply (NoDup_app3_not_in_3 _ _ _ (O k) H1 H2).", "succ": true}]

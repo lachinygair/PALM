@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s z. induction s using set_ind. - reflexivity. - simpl. destruct (exds_dec s0 z) as [H_exds | H_not_exds]. + rewrite Ds_s. apply le_S. apply IHs. + apply le_n_S. apply IHs.", "succ": false}]

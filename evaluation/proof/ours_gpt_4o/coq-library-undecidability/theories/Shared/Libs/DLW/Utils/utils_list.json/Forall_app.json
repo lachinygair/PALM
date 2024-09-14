@@ -1,0 +1,1 @@
+[{"history": {"proof": "split. - intros H. apply Forall_app in H. auto. - intros [H1 H2]. apply Forall_app. split; auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "split. - intros H. apply Forall_app in H. auto. - intros [H1 H2]. apply Forall_app. split; auto.", "back_times": 0, "succ": true, "time": 0.17294812202453613}]

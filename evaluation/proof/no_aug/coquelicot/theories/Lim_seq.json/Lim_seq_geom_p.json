@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros q H.", "exn": "q is already used.", "type": "used_var", "handled": true}, {"ctx": [], "tactic": "intros q' H.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros q H. apply is_lim_seq_geom_p. apply H.", "succ": false}]

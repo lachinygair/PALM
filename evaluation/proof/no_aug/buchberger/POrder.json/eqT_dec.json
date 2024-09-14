@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. pose proof (eqTerm_dec A eqA n x y) as [H|H]; [left|right]; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Y R l m2 m1 H. apply Forall2_app_inv_r in H. destruct H as [l1 [l2 [H1 [H2 H3]]]]. exists l1, l2. split. auto. split. auto. auto.", "succ": false}]

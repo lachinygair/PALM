@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /getLocal /=. case: ifP. - move/eqP => Heq. move => Hn. by rewrite Heq eq_refl in Hn. - move => Hne. move => Hvalid. by [].", "back_times": 0, "succ": false, "time": 70.13685894012451}]

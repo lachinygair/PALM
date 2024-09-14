@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T f v t H. srun best use: existI unfold: SysPrf, System, existH, Formula, Term.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros T f v t H. apply existI with (substituteFormula LNN f v t). apply H.", "succ": true}]

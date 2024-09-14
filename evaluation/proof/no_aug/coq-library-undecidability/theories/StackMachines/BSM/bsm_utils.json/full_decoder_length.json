@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold full_decoder, length_full_decoder. simpl. scongruence use: decoder_length.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold full_decoder, length_full_decoder. simpl. rewrite length_full_decoder. reflexivity.", "succ": true}]

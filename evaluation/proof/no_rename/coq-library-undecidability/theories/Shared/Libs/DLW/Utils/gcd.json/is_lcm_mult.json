@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros k l q p H. intros [H1 [H2 H3]]. unfold is_lcm in *. unfold is_lcm. split; [ | split]. - apply Nat.mul_le_mono; auto. - apply Nat.mul_le_mono; auto. - intros k0 H4 H5. apply Nat.mul_le_mono with (p:=k); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3.", "repairs": ["no_product", "hammer"], "exceptions": [{"ctx": [], "tactic": "intros a b c nZa nZb nZppab H1 H2.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros a b c nZa nZb nZppab H1 H2. apply divTerm_ppc; auto.", "succ": true}]

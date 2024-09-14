@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Q a b nZb p q hip divP_def. hauto lq: on depth: 3use: reducetop.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros Q a b nZb p q hip divP_def. inversion divP_def as [a' b' nZb' p' q' r inPolySet_divP eqP_def]. apply (reducetop Q a' b' nZb' p' q' r); auto.", "succ": true}]

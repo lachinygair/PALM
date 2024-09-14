@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_client_request. intros. apply match_index_leader_invariant. auto.", "back_times": 0, "succ": false, "time": 118.54694843292236}]

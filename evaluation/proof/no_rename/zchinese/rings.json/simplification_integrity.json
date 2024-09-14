@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2 a x H3 H4 H5 H6 H7. unfold integrity in H2. unfold is_unitary_commutative_ring in H1. destruct H2 with a (Mult a x) as [Eq | Neq]. + auto. + contradict H6. - auto. - apply H2 in Eq. * apply Eq. * rewrite H6. reflexivity.", "succ": false}]

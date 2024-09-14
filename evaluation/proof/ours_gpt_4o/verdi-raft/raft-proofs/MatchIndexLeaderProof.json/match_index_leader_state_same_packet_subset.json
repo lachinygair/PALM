@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net net' state_eq packets_eq P_net reachable. hauto unfold: match_index_leader.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net net' state_eq packets_eq P_net reachable. apply match_index_leader_invariant. apply reachable.", "back_times": 0, "succ": true, "time": 17.504596948623657}]

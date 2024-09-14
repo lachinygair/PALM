@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (list_eq_dec bool eqdec l m). - left. apply e. - right. intro contra. apply n. symmetry. apply contra.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush brefl: on use: INR_not_0, Nat.lt_0_succ, lt_INR.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x H. destruct H as [n Heq]. rewrite Heq. apply Rgt_lt, lt_0_INR, Nat.lt_0_succ.", "succ": true}]

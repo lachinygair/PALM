@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E1 E2 H. unfold Vee. rewrite <- H. apply EQ_Sing_EQ.", "succ": false}]

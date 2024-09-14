@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros q l f Hq Hl H. exists (\u2211 l (fun i : nat => f i * power (power (power (S i) 2) 2) r)). unfold is_cipher_of. split. - apply Hq. - split. + intros i Hi. apply Hl. + reflexivity.", "succ": true}]

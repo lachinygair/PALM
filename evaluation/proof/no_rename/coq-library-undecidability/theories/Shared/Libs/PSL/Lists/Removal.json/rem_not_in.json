@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: in_rem_iff.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X y x A H. intros [H1 | H2]. - intro H3. apply H2. apply (in_remove (eqType_dec X) A _ _). * apply in_rem_iff. split. + apply H3. + intro H4. apply H2. left. apply H4. - intro H3. apply H2. right. apply H3.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' h t c li lt st' ms e t' HhandleRequest Hupdate Hlifted; unfold lifted_committed; exists h, e'; split; [omega | split; [apply Hlifted | split; [omega| split; [apply Hlifted | split; [apply HhandleRequest | apply Hupdate]]]]].", "succ": false}]

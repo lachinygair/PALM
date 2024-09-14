@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c d Hb Hc Heq. assert (b <> 0) as Hbneq0 by auto. assert (c <> 0) as Hcneq0 by auto. assert (frac a (Z.mul b c) = frac d c) as Hfrac by auto. rewrite <- (Z_div_exact_full_2 a (Z.mul b d)) at 1. rewrite <- Hfrac. rewrite Z.quot_mul; auto.", "succ": false}]

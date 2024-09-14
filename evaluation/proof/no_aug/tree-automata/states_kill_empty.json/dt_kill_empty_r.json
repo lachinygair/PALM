@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a t H. apply dt_kill_empty_d. apply H.", "succ": false}]

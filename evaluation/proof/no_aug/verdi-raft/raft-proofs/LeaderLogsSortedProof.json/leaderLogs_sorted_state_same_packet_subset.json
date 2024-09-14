@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_state_same_packet_subset. intros net net' Heq1 Heq2 Hinv Hinvariant Hst. apply Hinvariant in Hinv as HP. apply (HP net'). - auto. - auto. - auto.", "succ": false}]

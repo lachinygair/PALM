@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros P Q HDecPQ HPQ. intros HP. destruct HDecPQ as [H | H]. - left. apply (Dec_true P H). apply HP. - right. apply (Dec_false Q H). intros HQ. apply H. apply (ssreflect.iffRL P Q HPQ HQ).", "succ": true}]

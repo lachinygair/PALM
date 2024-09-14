@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u H1 H2. destruct H1 as [l Hu]. exists (Rbar_inv l). apply is_lim_seq_inv in Hu; auto.", "succ": false}]

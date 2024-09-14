@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros i H.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros i H. apply msum_plus1. apply msum_only_one; auto. intros j G1 G2. destruct j. - inversion G1. - lia.", "succ": false}]

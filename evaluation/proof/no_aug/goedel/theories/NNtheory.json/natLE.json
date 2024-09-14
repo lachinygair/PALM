@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. apply (folLogic3.eqSym NN (LT (natToTerm a) (natToTerm b)) _ (LT (natToTerm b) (natToTerm a))). apply (eqLT NN (natToTerm a) (natToTerm b) (natToTerm b) (natToTerm a) _ _ (nn9 (natToTerm b) (natToTerm a))). apply (eqSym NN _ _ (nn8 (natToTerm b) (natToTerm a))).", "succ": false}]

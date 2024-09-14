@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_ring, commutativity, is_group, intern, associativity, distributivity in *. intros [comm_add [group [intern_mult [assoc_mult dist]]]]. intros x y Ax Ay. rewrite (mult_opp_r _ _ x y Ax Ay). rewrite (mult_opp_l _ _ x y Ax Ay). reflexivity.", "succ": false}]

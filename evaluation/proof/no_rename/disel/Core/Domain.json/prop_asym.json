@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: pext unfold: ClassicalFacts.prop_extensionality, ClassicalFacts.proof_irrelevance, prop_leq.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. apply Poset.Mixin. - apply H1. - apply H2. - apply poset_asym.", "succ": true}]

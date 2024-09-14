@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3. destruct l eqn:Heq. - intros. contradict H. reflexivity. - intros. destruct l; simpl in H2. + inversion H2. + unfold F_div in H3. inversion H. subst. apply fractran_step_head_not_zero with (l:=l) in H2. auto.", "succ": true}]

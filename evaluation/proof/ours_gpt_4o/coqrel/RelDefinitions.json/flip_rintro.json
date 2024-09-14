@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply rintro. apply reflexivity_rstep. intros x H. apply RDestruct with (T:= RExists H). apply rexists.", "back_times": 0, "succ": true, "time": 1.2134625911712646}]

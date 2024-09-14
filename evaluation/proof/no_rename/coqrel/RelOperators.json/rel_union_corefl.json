@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Coreflexive.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A R1 R2 H1 H2 x y H. unfold Coreflexive in H1, H2. unfold Coreflexive. intros H3. destruct H3 as [H3 | H3]. - apply H1 in H3. rewrite -> H3. reflexivity. - apply H2 in H3. rewrite -> H3. reflexivity.", "succ": true}]

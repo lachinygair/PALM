@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 m2 H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11. assert (T1: x <> y). { intros eq. apply H10. now rewrite eq. } assert (T2: y = cA_1 m zero y). { symmetry. apply cA_eq. auto. } tauto.", "succ": false}]

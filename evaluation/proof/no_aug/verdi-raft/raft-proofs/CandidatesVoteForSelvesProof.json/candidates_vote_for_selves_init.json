@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold raft_net_invariant_init, candidates_vote_for_selves. intros. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_init, candidates_vote_for_selves. intros. apply H.", "succ": true}]

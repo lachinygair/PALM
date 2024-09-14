@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr1 tr2. induction tr1 as [|(name, [inr l | inl _]) tr1 IHtr1]; simpl. - auto. - destruct name. + simpl. rewrite IHtr1. reflexivity. + apply IHtr1.", "succ": false, "time": 5.275005624999949}]

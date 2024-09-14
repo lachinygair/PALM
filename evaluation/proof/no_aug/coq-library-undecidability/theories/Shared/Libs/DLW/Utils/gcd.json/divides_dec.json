@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "left. exists (q / p). rewrite div_rem_spec1. rewrite rem_prop. - apply divides_rem_eq. - destruct (div_full q p) as [n []]; exists n; auto. right. intro Hnot. apply (Hnot 0). apply eq_sym. apply mult_is_one.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold \u03b1. srun best use: Nat2Z.is_nonneg.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold \u03b1. rewrite alpha_nat_fix_2. apply Nat.le_sub_l.", "succ": true}]

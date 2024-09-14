@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["apply mkmon.", "+"], "tactic": "+", "exn": "Wrong bullet +: Current bullet + is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "apply mkmon. + apply mkwmon. ++ apply mon_m. ++ intros. apply silent. + intros. apply UExp_mon. apply mon_m. apply HRa.", "succ": false}]

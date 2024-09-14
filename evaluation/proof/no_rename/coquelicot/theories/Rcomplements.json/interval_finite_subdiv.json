@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b eps H. exists [:: a; b]. split. - reflexivity. - split. + reflexivity. + intros i Hi. simpl. destruct i. * simpl. apply Rlt_Rminus. apply H. * simpl. split. { apply Rlt_Rminus. apply H. } { apply Rplus_lt_compat_l. apply cond_pos. }", "succ": false}]

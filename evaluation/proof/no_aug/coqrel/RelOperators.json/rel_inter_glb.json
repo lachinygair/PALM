@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold subrel, rel_inter. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold subrel, rel_inter. intros x y [H1 H2]. split. - intros m n [H3 H4]. split; auto. - intros m n [H3 H4]. split; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x Hin. destruct (classic (mem (fol.Formula LNT) T x)) as [Hmem | Hnotmem]. - left. intros g Hin'. apply expressT'1 in Hmem. apply Hmem. - right. exists x. split; try auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply eqptail_spminusf_com; auto. apply plusTerm_is_pX; auto.", "succ": false}]

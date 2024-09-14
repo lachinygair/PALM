@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Y X f l r1 y r2 H. unfold flat_map in H. rewrite flat_map_app in H. apply list_app_eq_inv in H. destruct H as [m [H1 H2]]. apply list_cons_app_cons_eq_inv in H1. destruct H1 as [[H1 H2] | [z [H1 H2]]]. - exists nil, m, z, r2, nil. auto. - exists nil, m, z, r2, z. auto.", "succ": false}]

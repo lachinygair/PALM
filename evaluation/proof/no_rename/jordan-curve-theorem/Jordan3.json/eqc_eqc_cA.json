@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x y H1 H2. hauto lq: on use: eqc_cA_r, eqc_exd_exd, eqc_trans.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x y H1 H2. intros H3. apply (eqc_trans m x y (cA m k y)). apply H3. apply H2. apply (eqc_symm m x y). apply H3.", "succ": true}]

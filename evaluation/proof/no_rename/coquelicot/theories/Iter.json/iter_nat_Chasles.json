@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T op x0 neutral_l neutral_r assoc a k m n H1 H2. revert m. induction n as [|n IH]; intros m H1 H2. - simpl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold StepFun, head, last in *. apply (ad_SF_compat 0 s pr).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": ["unfold Join."], "tactic": ["apply SA.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros. unfold Join. apply SA. apply dSA.", "back_times": 0, "succ": true, "time": 33.07002329826355}]

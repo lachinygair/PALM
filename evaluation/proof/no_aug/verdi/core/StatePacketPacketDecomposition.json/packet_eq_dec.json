@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p1 p2. destruct (do_packet_eq_dec p1 p2). - left. apply e. - right. intro contra. apply n. apply contra.", "succ": false, "time": 4.5102621019999996}]

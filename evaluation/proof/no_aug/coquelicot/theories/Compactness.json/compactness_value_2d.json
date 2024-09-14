@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b a' b' delta. destruct (compactness_value_1d a b delta) as [d Hd]. exists d. intros x y Hx Hy Hnot. apply Hd; auto.", "succ": false}]

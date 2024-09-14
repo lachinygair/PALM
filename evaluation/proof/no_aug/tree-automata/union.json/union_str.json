@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s0 s1 d c tl H_mpl H_reconnait_union. unfold mpl_compat in H_mpl. unfold state_reconnait in *. destruct H_reconnait_union as [H_reconnait_union1 | H_reconnait_union2]. - left. apply H_reconnait_union1. - right. apply H_reconnait_union2.", "succ": false}]

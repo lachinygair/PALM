@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. srun best use: Ropp_Rmax.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. rewrite -> Rmax_def, Rmin_def. destruct (Rle_dec (-a) (-b)) as [H1 | H1], (Rle_dec a b) as [H2 | H2]. - apply Ropp_involutive. - apply Ropp_involutive. - apply Ropp_involutive. - apply Ropp_involutive.", "succ": true}]

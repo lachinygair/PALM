@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T U F G FF D f g H H0 H1. apply (filterlim_comp_2 f g (fun x y => x = y) FF (filter_filter G) (filter_filter F)). - apply H0. - apply (filterlim_ext_loc f g). + intro. apply Eqdep.EqdepTheory.Streicher_K. + apply H1.", "succ": false}]

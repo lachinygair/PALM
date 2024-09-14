@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x xs y. split. - intros H. induction xs. + simpl. auto. + simpl. apply (deduction_weak). apply IHxs. assert (|-- a --> multi_imp xs y). { apply (deduction_modus_ponens _ a). apply H. }", "succ": false}]

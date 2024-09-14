@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply well_founded_lt_compat with (f := card). intros x y H. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "apply well_founded_lt_compat with (f := card). intros x y H. simpl in H. apply H.", "back_times": 0, "succ": true, "time": 0.6530458927154541}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment Ack : nat -> nat -> nat Unable to unify \"29\" with \"Ack 3 2\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. reflexivity.", "succ": false}]

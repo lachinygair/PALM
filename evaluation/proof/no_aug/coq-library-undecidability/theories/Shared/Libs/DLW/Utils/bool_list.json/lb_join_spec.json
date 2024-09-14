@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply lb_join_mono. - apply lb_join_inc_right. - apply lb_join_inc_left.", "succ": false}]

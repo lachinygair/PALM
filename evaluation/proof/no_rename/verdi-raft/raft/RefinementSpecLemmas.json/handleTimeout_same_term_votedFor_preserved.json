@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st out st' ps H1 H2. intros H3. unfold handleTimeout in H1. destruct (type st) eqn:Htype. - inversion H1; subst; simpl in H2, H3; eauto. - destruct (tryToBecomeLeader h st) eqn:Htry. + inversion H1; subst; simpl in H2, H3. subst. split; auto. + inversion H1.", "succ": false}]

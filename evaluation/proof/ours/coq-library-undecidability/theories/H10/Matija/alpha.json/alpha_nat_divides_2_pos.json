@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. apply (fun H1 : alpha_nat b k * alpha_nat b k \u2502 alpha_nat b m => divides_mult_r _ _ _ H1). apply (alpha_nat_divisibility_1 _ _ _ Hb Hk). apply (alpha_nat_divides_k_ge_1 _ _ _ Hb Hk).", "succ": false}]

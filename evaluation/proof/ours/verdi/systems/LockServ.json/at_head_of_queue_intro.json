@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros sigma c t H. unfold at_head_of_queue. exists t. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros sigma c t H. unfold at_head_of_queue. exists t. apply H.", "hammer_times": 0, "succ": true, "time": 1.7098193168640137}]

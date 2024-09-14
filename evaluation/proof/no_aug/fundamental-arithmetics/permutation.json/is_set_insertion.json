@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A l l' x H1 H2. unfold is_set. intros y Hy. apply H2. apply insertion_inclusion with (x:=x) in H1. apply H1. apply Hy.", "succ": false}]

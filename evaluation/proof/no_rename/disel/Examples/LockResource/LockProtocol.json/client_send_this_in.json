@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: client_nodes unfold: HClient.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros HClient_prop Hin_nodes. destruct HClient_prop as [Hin_clients Heq_server]. apply Hin_server.", "succ": true}]

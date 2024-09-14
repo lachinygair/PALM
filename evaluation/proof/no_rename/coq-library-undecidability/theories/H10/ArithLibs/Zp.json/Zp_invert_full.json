@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "{ intros i. exists i. split. - intros H. symmetry in H. rewrite H. apply Zp_plus_zero_r. - intros H. destruct (Z.eq_dec x Zp). * auto. * apply Zp_mult_revert in H. apply H. apply Hp'. }", "succ": false}]

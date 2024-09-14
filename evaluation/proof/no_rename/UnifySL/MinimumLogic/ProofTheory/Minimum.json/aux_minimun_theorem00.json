@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z. intros H1 H2 H3. apply aux_minimun_rule00. apply modus_ponens with (x := y --> z). apply modus_ponens with (x := x --> y). apply modus_ponens with (x := x). apply axiom1. apply axiom1. apply H1. apply H2.", "succ": false}]

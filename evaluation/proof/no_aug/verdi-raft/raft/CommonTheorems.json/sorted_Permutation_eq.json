@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l l' H1 H2 H3. destruct H3. - reflexivity. - symmetry. apply Permutation_sym. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold A, M22scal, Z.opp, PL22. rewrite alpha_fix_2. rewrite alpha_fix_3. rewrite alpha_nat_fix_2. simpl. reflexivity.", "succ": false}]

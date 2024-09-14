@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold getLocal, init_heap_c, init_dstatelet. rewrite /find. rewrite /union_map_classPCM. rewrite /union_mapUMC. rewrite /union_mapOrdTypePCM. rewrite /union_mapUMC. rewrite /Unit. rewrite /emptym. rewrite /find. rewrite /cfind. reflexivity.", "succ": false}]

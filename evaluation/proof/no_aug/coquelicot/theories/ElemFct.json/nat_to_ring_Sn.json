@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold nat_to_ring. simpl. rewrite <- nat_to_ring_O. rewrite <- Nat2Z.inj_succ. reflexivity.", "succ": false}]

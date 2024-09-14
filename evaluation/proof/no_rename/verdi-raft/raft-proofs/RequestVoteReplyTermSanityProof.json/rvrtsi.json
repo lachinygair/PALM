@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Build_requestVoteReply_term_sanity_interface. intros net. apply requestVoteReply_term_sanity_invariant. apply requestVote_term_sanity_invariant with net. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: newVar2, Nat.lt_irrefl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros l H1 H2. intro H. apply H. apply in_map.", "succ": true}]

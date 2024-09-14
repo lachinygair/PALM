@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold true_in_reachable. intros. apply H0 with a; auto.", "hammer_times": 4, "succ": false, "time": 102.27585315704346}]

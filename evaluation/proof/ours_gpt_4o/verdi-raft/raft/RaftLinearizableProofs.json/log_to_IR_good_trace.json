@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros env_o log. induction log. - simpl. constructor. - hauto q: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros env_o log. induction log. - simpl. constructor. -", "back_times": 0, "succ": true, "time": 1.2811498641967773}]

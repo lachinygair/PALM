@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s. hauto use: recons, map_Cons unfold: output, hd, tl, name, label, input.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros s. induction s. - simpl. reflexivity. - simpl. rewrite IHs. reflexivity.", "succ": true, "time": 1.9123581300000296}]

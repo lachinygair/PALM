@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros st os d' ms h0 H. sfirstorder depth: 3use: doLeader_lastApplied.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros st os d' ms h0 H. apply (doLeader_lastApplied st os d' ms h0 H).", "succ": true}]

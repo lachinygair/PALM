@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hlen Hincl. apply finite_php_dup in Hlen; auto. apply list_has_dup_equiv in Hlen. apply Hlen.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hlen Hincl. apply finite_php_dup in Hlen; auto. apply list_has_dup_equiv in Hlen. apply Hlen.", "back_times": 0, "succ": true, "time": 0.11337447166442871}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B C h. unfold zero_or_one_outputs_per_step_trace. intros x H. hauto unfold: zero_or_one_outputs_per_step, snd, In inv: prod.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B C h. unfold zero_or_one_outputs_per_step_trace. intros x H. apply H.", "succ": true, "time": 1.0153105220001635}]

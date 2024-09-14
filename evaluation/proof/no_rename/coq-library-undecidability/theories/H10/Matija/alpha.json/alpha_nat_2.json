@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H_eq. unfold alpha_nat. rewrite H_eq. intro. symmetry. apply Nat.eq_mul_1_nonneg'; auto.", "succ": false}]

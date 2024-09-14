@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K K_eq_dec l xs ys H. induction H. - intros. constructor. - intros. constructor. apply IHop_equivalent. - intros. constructor. apply (good_op_move). + auto. + apply IHop_equivalent. - intros. apply op_equiv_trans with (l2 := []). + auto. + apply IHop_equivalent2.", "succ": false}]

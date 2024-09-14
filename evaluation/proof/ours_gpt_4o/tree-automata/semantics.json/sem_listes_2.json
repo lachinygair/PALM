@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d pl H. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d pl H. induction pl using liste_reconnait_ind. - reflexivity. - exfalso. apply sem_listes_1 with (d := d) (hd := hd) (tl := tl). auto.", "back_times": 0, "succ": true, "time": 1.3994884490966797}]

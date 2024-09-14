@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b."], "tactic": ["apply Rminmax.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros a b. apply Rminmax.", "back_times": 0, "succ": false, "time": 66.38473415374756}]

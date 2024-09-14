@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros b a x H1 H2. unfold PSeries, PS_mult. rewrite Series_in_eq. rewrite Series_scal_l. rewrite <- Series_mult.", "succ": false}]

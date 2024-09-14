@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. apply lb_ortho_anti_left with (x:=a) (b:=b) (a:=b). apply H2. apply H1.", "succ": false}]

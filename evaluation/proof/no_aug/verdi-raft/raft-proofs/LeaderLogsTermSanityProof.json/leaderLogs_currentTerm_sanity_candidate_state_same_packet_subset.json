@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. unfold refined_raft_net_invariant_state_same_packet_subset in *. intros. apply H1; auto.", "succ": false}]

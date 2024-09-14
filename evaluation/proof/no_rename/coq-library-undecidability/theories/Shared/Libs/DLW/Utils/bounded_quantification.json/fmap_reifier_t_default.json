@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Q k x H. pose proof (fmap_reifier_t X Q k H) as Hf. exists (fun i Hi => proj1_sig (Hf i Hi)). intros i Hi. apply (proj2_sig (Hf i Hi)).", "succ": false}]

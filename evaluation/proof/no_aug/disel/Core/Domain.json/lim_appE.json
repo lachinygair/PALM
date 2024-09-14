@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold lim. unfold app_chain. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold lim. unfold app_chain. apply f_equal. apply functional_extensionality. intro c. apply (limM _ _ (s c)). intros x H. apply H.", "succ": true}]

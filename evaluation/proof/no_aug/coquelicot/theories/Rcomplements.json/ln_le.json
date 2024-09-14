@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto use: ln_increasing unfold: Rle.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply (derive_increasing_interv _ _ ln _). - auto. - apply ln_increasing; auto. - lra.", "succ": true}]

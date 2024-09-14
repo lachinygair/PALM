@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x H1 H2. srun best use: succ_exd, not_succ_B.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x H1 H2. reflexivity.", "succ": true}]

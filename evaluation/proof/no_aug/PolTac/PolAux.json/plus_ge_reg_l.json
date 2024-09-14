@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply (not_ge (p + n) (p + m)). intros contra. apply (plus_ge_compat_l p n m) in contra. contradiction.", "succ": true}]

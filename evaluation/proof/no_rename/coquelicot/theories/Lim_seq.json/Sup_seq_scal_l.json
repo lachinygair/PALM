@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a u H. apply is_sup_seq_unique. apply is_sup_seq_ext. intros n. unfold Rbar_mult. rewrite <- Rbar_mult_comm. rewrite -> Rbar_sup_eq_lub. exists n. reflexivity.", "succ": false}]

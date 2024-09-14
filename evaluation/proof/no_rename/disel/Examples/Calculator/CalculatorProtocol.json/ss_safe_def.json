@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H. split. - destruct H as [pf H1]. exists (ss_step pf), pf. apply H1. - intros [b [pf H1]]. split. + apply ss_safe_this in H1. apply ss_safe_in in H1. apply H1. + exists b, pf. apply H1.", "succ": true}]

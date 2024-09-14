@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l l1 l2 l2' i H1 H2 H3 H4. apply Prefix_exists_rest in H2. destruct H2 as [rest H2]. rewrite H2. intros H5. assert (H6: l1 = l1). reflexivity. apply (thing l1 rest l2 i l2' i) in H6. - apply H6. - apply H1. - apply H4. - apply H5. - apply H2. - apply H3. - apply H2.", "succ": false}]

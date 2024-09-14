@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a b H1 H2. destruct H1 as [H1a H1b]. destruct H2 as [q H2]. unfold divides in H2. destruct H2 as [H2]. destruct (H1 p H2) as [H3 | H3]. - left. exists q. apply H3. - right. exists q. apply H3.", "succ": false}]

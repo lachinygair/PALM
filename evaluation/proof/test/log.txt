@@ -1,0 +1,90 @@
+disel/Core/Domain.json sval_mono
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/TwoPhaseCommit/TwoPhaseProtocol.json this_not_pts
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/Greeter/Greeter.json validV
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Core/Domain.json sval_mono
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/TwoPhaseCommit/TwoPhaseProtocol.json this_not_pts
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/Greeter/Greeter.json validV
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 101, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Core/Domain.json sval_mono
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 103, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/Greeter/Greeter.json hook_complete_unit
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 103, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/Greeter/Greeter.json hooks_consistent_unit
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 103, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+
+disel/Examples/Greeter/Greeter.json hooks_consistent_unit
+Traceback (most recent call last):
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 103, in prove_file
+    succ = prove(state, file, proof, resume, backtrack=backtrack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/minghai/data/PALM_ano/PALM/src/main.py", line 42, in prove
+    raise Exception('resume failed: original proof is empty')
+Exception: resume failed: original proof is empty
+

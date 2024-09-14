@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. srun best use: beq_nat_refl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. unfold Nat.eqb. destruct n. - simpl. reflexivity. - simpl. reflexivity.", "succ": true}]

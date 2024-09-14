@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: A_mult, A_plus.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intro H. subst m. apply A_is_sum with k.", "back_times": 0, "succ": true, "time": 15.801660776138306}]

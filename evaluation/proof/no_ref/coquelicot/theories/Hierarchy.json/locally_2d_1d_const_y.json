@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P x y H. destruct H as [eps H]. exists eps. intros z Hz. apply H. apply Hz. hauto use: cond_pos, R_dist_eq unfold: R_dist.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros P x y H. destruct H as [eps H]. exists eps. intros z Hz. apply H. apply Hz.", "succ": true}]

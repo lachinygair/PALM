@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Cinv_r, Cmult_comm unfold: RtoC.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros r r_neq_0. rewrite <- Cinv_r with (r:=r); auto.", "succ": true}]

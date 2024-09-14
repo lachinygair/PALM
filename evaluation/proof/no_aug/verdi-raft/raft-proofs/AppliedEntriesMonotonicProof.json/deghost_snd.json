@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net h. unfold deghost. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net h. unfold deghost. rewrite RaftRefinementInterface.deghost_spec. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro H. unfold soupCoh. unfold consume_msg. unfold CalCoh in H. unfold CohPred in H. unfold CohPredMixin in H. destruct H. unfold calcoh in H1. destruct H1. auto.", "succ": false}]

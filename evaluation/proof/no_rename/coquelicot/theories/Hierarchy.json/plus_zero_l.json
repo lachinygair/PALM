@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: plus_zero_r, plus_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros G x. unfold plus, zero, AbelianGroup.plus, AbelianGroup.zero in *. rewrite plus_zero_r. reflexivity.", "succ": true}]

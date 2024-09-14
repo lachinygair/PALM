@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction Q as [|q Q' IH]. - intros a p nZa HComb. inversion HComb. + apply CombLinear_0. + contradiction nZa.", "back_times": 0, "succ": false, "time": 68.25968623161316}]

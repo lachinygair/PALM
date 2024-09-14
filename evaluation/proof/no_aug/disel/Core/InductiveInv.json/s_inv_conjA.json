@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold s_inv_conj. qauto unfold: S_inv.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold s_inv_conj. rewrite s_inv_conjC. reflexivity.", "succ": true}]

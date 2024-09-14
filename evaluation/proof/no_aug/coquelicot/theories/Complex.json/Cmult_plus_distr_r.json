@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Cmult_plus_distr_l, Cmult_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite Cmult_plus_distr_l. reflexivity.", "succ": true}]

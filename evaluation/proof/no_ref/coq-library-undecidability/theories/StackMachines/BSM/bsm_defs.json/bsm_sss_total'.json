@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct (bsm_sss_total ii s) as [t H]. exists t. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "destruct (bsm_sss_total ii s) as [t H]. exists t. apply H.", "succ": true}]

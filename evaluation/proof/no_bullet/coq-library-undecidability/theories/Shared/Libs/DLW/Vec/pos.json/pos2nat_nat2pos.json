@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["symmetry."], "tactic": "apply pos2nat_inj.", "exn": "In environment n, i : nat H : i < n Unable to unify \"?M1451 = ?M1452\" with \"i = pos2nat (nat2pos H)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "symmetry. apply pos2nat_inj. rewrite pos2nat_prop. apply H.", "succ": false}]

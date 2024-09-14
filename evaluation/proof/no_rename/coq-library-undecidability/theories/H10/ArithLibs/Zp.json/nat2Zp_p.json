@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold Zp."], "tactic": "rewrite nat2Zp_zero.", "exn": "Found no subterm matching \"\u301a 0 \u301b\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "unfold Zp. rewrite nat2Zp_zero.", "succ": false}]

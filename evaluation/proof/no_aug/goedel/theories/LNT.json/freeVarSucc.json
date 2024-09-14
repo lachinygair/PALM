@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold Succ. hauto lq: on drew: off use: app_nil_end unfold: LNT, Succ, freeVarTerm, Term, Functions, arity, Relations.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold Succ. unfold freeVarTerm. rewrite freeVarTermApply. reflexivity.", "succ": true}]

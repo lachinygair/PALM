@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P H p. induction p using nat_ind. - apply Zrec2. auto. - apply Zrec3. + auto. + apply IHp. auto.", "back_times": 0, "succ": false, "time": 47.429343461990356}]

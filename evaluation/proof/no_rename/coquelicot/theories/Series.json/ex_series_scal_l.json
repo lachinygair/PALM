@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V c a Hex. destruct Hex as [l Hl]. exists (scal c l). apply (is_series_scal c a l Hl).", "succ": false}]

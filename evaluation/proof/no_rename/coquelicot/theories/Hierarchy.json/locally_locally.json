@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T x P Hloc y. unfold locally in *. intros (eps & Heps). exists eps. intros z Hz. apply Hloc. exists eps. intros w Hw. apply Heps. apply ball_le with x; auto.", "succ": false}]

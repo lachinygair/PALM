@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /pairmap. elim: s => [|x s IHs] //=. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite /pairmap. elim: s => [|x s IHs] //=. rewrite /pairmap in IHs. rewrite IHs. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply ex_derive_n_scal_l.", "exn": "The reference ex_derive_n_scal_l was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply ex_derive_n_scal_l. auto.", "back_times": 0, "succ": false, "time": 40.469590187072754}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_do_generic_server, match_index_leader in *. intros. specialize (H leader). simpl in *. unfold assoc_default in *. congruence.", "succ": false}]

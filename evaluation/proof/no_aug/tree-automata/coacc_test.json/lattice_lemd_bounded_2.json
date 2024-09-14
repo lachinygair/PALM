@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p Hl. apply lattice_lemd_bounded_1_def. apply lattice_lemd_bounded_1 in Hl. apply Hl.", "succ": false}]

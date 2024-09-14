@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: Prop_Join, join, Krelation, DownwardsClosedSeparationAlgebra, discProp_R.", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply prod_dSA.", "exn": "Unable to unify \"(?M2113 * ?M2114)%type\" with \"Prop\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply prod_dSA.", "succ": true}]

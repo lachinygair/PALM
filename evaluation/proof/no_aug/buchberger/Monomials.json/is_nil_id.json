@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a. rewrite <- (recomp_ok d eq_refl a). reflexivity.", "succ": true}]

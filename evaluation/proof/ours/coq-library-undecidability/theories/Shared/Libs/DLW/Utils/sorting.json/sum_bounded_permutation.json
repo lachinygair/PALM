@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "apply sum_permutation_1; auto.", "exn": "Unable to find an instance for the variables i, j.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros. apply sum_permutation_1; auto.", "succ": false}]

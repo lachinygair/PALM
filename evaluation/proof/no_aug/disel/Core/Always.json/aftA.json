@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. split. - intros. apply aftI. apply alwsafe_bnd with (p1:=p) (pp2:=fun (_:B) => fun (_:A) => p) in H. destruct H. intros x. apply aft_imp with (P1:=fun (_:B)(_:=_) => forall x0:B, P x0 v s') in H0. apply H0. intros.", "succ": false}]

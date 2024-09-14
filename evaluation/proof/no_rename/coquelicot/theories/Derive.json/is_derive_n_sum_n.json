@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hlocally. apply is_derive_n_ext_loc with (l := sum_n (fun j : nat => Derive_n (f j) k x) n). - intros. eapply ex_derive_n_sum_n_m. apply Hlocally. lia. lia. - apply Derive_n_sum_n_m. apply Hlocally.", "succ": false}]

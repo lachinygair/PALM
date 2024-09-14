@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params tsi net net' H_eq_state H_packets_subset H_P H_reachable. apply raft_net_invariant_state_same_packet_subset; auto.", "succ": false}]

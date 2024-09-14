@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. unfold is_ring, commutativity, is_group, intern, associativity, distributivity, mult_opp_r, opp_unicity, regular_l, neutral, is_opposite, opposite, is_group in *. intros [H_comm [H_group [H_intern [H_assoc H_dist]]]]. apply mult_opp_r in H; try auto. apply H.", "succ": false}]

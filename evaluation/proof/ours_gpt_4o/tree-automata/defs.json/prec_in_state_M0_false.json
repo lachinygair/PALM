@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. unfold not. intros H. destruct H as [c Hc]. apply (in_M0_false prec_list p). exists c. auto.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p. unfold not. intros H. destruct H as [c Hc]. apply (in_M0_false prec_list p). exists c. auto.", "back_times": 0, "succ": true, "time": 0.5622453689575195}]

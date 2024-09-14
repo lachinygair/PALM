@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z H1 H2. unfold cF. unfold cF_1. hauto use: cA_1_cA, exd_cA_cA_1.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z H1 H2. unfold cF. unfold cF_1. apply exd_cA_cA_1 in H2. destruct H2 as [H2 H3]. apply cA_cA_1 in H3. rewrite H3. apply cA_cA_1 in H2. rewrite H2. reflexivity.", "succ": true}]

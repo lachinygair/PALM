@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intro H. exists a. exists ((a + b) / 2). split. - exists ((a + b) / 2). split. + reflexivity. + split. * apply Rlt_Rimin. apply Rdiv_lt_1; lra. * apply Rdiv_lt_1; lra.", "succ": false}]

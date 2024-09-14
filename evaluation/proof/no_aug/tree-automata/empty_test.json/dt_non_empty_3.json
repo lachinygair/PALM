@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl r H1 l H2. induction H2. - intros H3. apply rec_consn. apply rec_empty. - intros H3. apply rec_consn. apply rec_consi. apply rec_st with (c:=a) (tl:=tl). + auto. + auto. + apply IHH2. auto.", "succ": false}]

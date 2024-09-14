@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: Idle.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros S r H. destruct H as [Hcoh Heq]. apply Idle. - apply Hcoh. - apply Heq.", "succ": true}]

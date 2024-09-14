@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros U P Q H x HComp. unfold Complement in *. intro HQ. apply HComp. apply H. auto.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros U P Q H x HComp. unfold Complement in *. intro HQ. apply HComp. apply H. auto.", "back_times": 0, "succ": true, "time": 0.7250323295593262}]

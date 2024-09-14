@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold out_code in H.", "repairs": [""], "exceptions": []}, "chat": [], "original": "intros. unfold out_code in H. unfold gen_linker in H. rewrite P_eq in H. inversion H. subst iP cP. symmetry in P_eq. injection P_eq. intros. rewrite <- H0. apply Hicomp.", "succ": false}]

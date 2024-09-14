@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d0 a0 t0 d a s H1 H2 H3 H4 H5. srun best use: new_state_insr_5 unfold: new_state_insr_def_dta.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d0 a0 t0 d a s H1 H2 H3 H4 H5. rewrite H3. apply new_state_ins_d. - apply H1. - apply H4. - apply H2. - apply H5. - apply H4.", "succ": true}]

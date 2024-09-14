@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b HzA HzB HzA0 HzB0. unfold not in HzA, HzB, HzA0, HzB0. unfold divP, not, zeroP, multTerm, divTerm in *. intros. apply divTerm_def. - auto. - apply nzeroP_multTerm in H; auto. - rewrite H1. auto.", "succ": false}]

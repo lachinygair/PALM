@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hneq Hstep. sauto l: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros Hneq Hstep. intros. exists k'. exists st2. split. - reflexivity. - split. + auto. + auto.", "succ": true}]

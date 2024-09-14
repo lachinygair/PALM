@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T U F G H_filterlim Hfg Hf_filterlim. apply filterlim_ext_loc with (fun x => f x = g x). - auto. - apply H_filterlim.", "succ": false}]

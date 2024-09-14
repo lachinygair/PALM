@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros e. unfold subsume. intros x. scongruence use: lookup_empty_None unfold: osub.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros e. unfold subsume. intros x. unfold empty. reflexivity.", "succ": true}]

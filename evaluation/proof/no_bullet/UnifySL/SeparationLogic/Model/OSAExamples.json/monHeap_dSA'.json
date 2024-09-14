@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Build_DownwardsClosedSeparationAlgebra.", "exn": "The reference Build_DownwardsClosedSeparationAlgebra was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply Build_DownwardsClosedSeparationAlgebra.", "succ": false}]

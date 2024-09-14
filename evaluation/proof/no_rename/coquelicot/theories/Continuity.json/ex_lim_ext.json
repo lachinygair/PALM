@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: is_lim_ext unfold: ex_lim.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros g f x Hf Hlimf. unfold ex_lim in *. unfold ex_lim in Hlimf. destruct Hlimf as [l Hlimf]. exists l. apply (is_lim_ext f g x l Hf Hlimf).", "succ": true}]

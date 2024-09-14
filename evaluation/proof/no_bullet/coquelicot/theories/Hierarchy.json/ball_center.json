@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x e. apply (UniformSpace.ax1 M (UniformSpace.class M) x e).", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros x e. apply (UniformSpace.ax1 M (UniformSpace.class M) x e).", "succ": true}]

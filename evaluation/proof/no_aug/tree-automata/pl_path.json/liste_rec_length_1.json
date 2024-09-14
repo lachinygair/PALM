@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a la ls hd tl H1 H2 H3. unfold liste_rec_length_def in H3. intros n Hr Hl. sauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl H1 H2 H3. unfold liste_rec_length_def in H3. intros n Hr Hl. apply H3 in Hl. rewrite Hl. apply Hr in H2. apply H2.", "succ": true}]

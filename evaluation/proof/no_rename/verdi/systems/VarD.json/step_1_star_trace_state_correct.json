@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st st' trace H. unfold trace_state_correct. intros k. intros H1. rewrite <- H1. apply H.", "succ": false, "time": 7.40200400599997}]

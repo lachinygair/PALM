@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n E t T H1 m H2. induction H1; intros. - auto. - apply JAbs. apply IHint. apply le_trans with (S m). + apply le_S. apply le_0_n. + auto. - apply JApp with m1 m2. + apply IHH1_1. auto. + apply IHH1_2. auto. - apply JTyAbs. apply IHH1. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr h i H. intros H0. apply trace_mutual_exclusion'_extend_input with (i:=i) in H. simpl in H. apply H.", "succ": false, "time": 8.664570799000103}]

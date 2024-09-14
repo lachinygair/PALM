@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply compose2_2IsPR with (f := fun x y => x) (g := fun x y => y). apply pi1_2IsPR. apply pi2_2IsPR.", "succ": false}]

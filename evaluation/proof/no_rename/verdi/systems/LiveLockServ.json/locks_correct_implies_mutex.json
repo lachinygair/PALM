@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros sigma Hlocks_correct Hmutual_exclusion h1 h2 Hheld_m1 Hheld_m2. apply (Hmutual_exclusion h1 h2). - apply (Hlocks_correct h1). apply Hheld_m1. - apply (Hlocks_correct h2). apply Hheld_m2.", "succ": true, "time": 0.42701350700008334}]

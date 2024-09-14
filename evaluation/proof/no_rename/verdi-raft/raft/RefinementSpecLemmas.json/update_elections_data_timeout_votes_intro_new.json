@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st out st' ps t' h' HhandleTimeout Hvotes t HvotedFor Hgoal. apply votes_update_elections_data_timeout_votedFor with (h := h) (st := st) (out := out) (st' := st') (ps := ps) (t' := t') (h' := h'). - apply HhandleTimeout. - apply Hgoal. - apply HvotedFor.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros w k x. destruct (le_gt_dec k x); auto.", "repairs": ["", ""], "exceptions": [{"ctx": ["intros w k x."], "tactic": "unfold lift.", "exn": "Cannot coerce lift to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros w k x. unfold lift. destruct (le_gt_dec k x); auto.", "succ": true}]

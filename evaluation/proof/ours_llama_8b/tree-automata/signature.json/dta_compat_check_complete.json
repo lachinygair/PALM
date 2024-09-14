@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: positive_ind, predta_compat_check_complete, N_ind, predtas_correct_wrt_sign_compatibles, dtas_correct_wrt_sign_compatibles, st_compat_check_0_complete unfold: ad, dta_compat_check, dta_correct_wrt_sign, st_compat_check, andb inv: sumor, DTA, bool.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

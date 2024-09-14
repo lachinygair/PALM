@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t s H. unfold exds, Iter_rem_aux. intros H1. unfold exds. intros H2. destruct (exds_dec s t) as [H3 | H4]. - apply H1. apply H2. apply H3. - apply H. apply H4.", "succ": false}]

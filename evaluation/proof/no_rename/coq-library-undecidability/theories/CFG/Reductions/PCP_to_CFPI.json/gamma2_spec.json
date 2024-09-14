@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P B C H. unfold \"<<=\" in H. apply gamma1_spec in H as [A [H1 H2]]. exists A. split; auto.", "succ": false}]

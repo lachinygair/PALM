@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q H. unfold vec_one, vec_pos. rewrite H. destruct (pos_eq_dec p q) as [H' | H']. - rewrite H'. auto. - apply vec_change_neq. intro contra. apply H'. rewrite contra. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold bsm_instr_compile_length. hauto l: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold bsm_instr_compile_length. destruct ii; cbn; lia.", "succ": true}]

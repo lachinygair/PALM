@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (diagram_reverse RX (plus R) RX (plus S) HR). intros x y H. constructor. apply H. apply star_refl.", "succ": false}]

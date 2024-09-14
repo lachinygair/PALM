@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["rewrite Fin.depair with (m:=n) (n:=Fin.F1).", ""], "exn": "No such bound variable m (no bound variables at all in the expression).", "type": "no_such_bound", "handled": false}]}, "chat": [], "original": "rewrite Fin.depair with (m:=n) (n:=Fin.F1). reflexivity.", "succ": false}]

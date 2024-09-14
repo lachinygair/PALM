@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. destruct a, b; try (right; discriminate). all: try (left; reflexivity).", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros a b. destruct a, b; try (right; discriminate). all: try (left; reflexivity).", "hammer_times": 0, "succ": true, "time": 0.419461727142334}]

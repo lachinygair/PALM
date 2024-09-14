@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H0 H1. srun best use: Rinv_le_contravar.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y H0 H1. apply Rle_Rinv in H0. apply Rinv_le_contravar in H1. apply Rle_Rinv in H1. apply H1.", "succ": true}]

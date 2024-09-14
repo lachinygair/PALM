@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: surjective_pairing.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. rewrite <- (surjective_pairing P). reflexivity.", "succ": true}]

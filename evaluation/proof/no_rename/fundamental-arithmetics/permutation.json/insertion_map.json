@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros B y ys yss H A f x H0 xs H1. intros H2 H3. pose proof in_map_iff A B f xs y H1 as [x' [H4 H5]]. exists (x' :: xs). split. + subst. rewrite map_cons, H4. reflexivity. + apply insertion_snoc.", "succ": false}]

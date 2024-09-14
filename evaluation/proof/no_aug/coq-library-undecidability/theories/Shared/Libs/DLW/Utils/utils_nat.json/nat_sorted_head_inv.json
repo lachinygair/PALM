@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold nat_sorted in H. hauto lq: on use: app_nil_l unfold: nat_sorted.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold nat_sorted in H. apply H with (a:=x) (m:=nil) (b:=y) (r:=ll). simpl. reflexivity.", "succ": true}]

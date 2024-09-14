@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 m2 Hinv Hx1y Hy'0nx Hy'0nx' Hx'y'0b Hx'y1 y'0ny' Hx'y Hxyl Hxdiff H' H''. apply (nf_L0L1_VIII m x y x' y' Hinv Hx1y Hy'0nx Hx'y'0b H' H'').", "succ": false}]

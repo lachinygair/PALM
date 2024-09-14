@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply mpl_compat_8_def.", "exn": "Unable to unify \"Prop\" with \"mpl_compat_8_def (M0 prec_list)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply mpl_compat_8_def.", "succ": true}]

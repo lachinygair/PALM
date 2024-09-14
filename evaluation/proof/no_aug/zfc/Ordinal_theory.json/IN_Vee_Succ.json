@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E X H_ord_E Y H_ord_Y H_INC_Y_E H_INC_X_VeeY. apply (IN_Vee_Succ_EXType E X H_ord_E H_INC_X_VeeY). split. - apply H_INC_Y_E. - split. + apply Ord_Succ, H_ord_E. + apply INC_IN_Vee_Succ; auto.", "succ": false}]

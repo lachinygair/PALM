@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. unfold mgv_deghost_packet. destruct p as [src dst body]. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p. unfold mgv_deghost_packet. destruct p as [src dst body]. reflexivity.", "succ": true}]

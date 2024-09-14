@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros k k'. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros k k'."], "tactic": "unfold good_op_move, I.", "exn": "Cannot coerce I to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros k k'. unfold good_op_move, I. split; intros; contradiction.", "succ": true}]

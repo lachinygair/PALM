@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite <- Nat.sub_succ. reflexivity.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "rewrite <- Nat.sub_succ. reflexivity.", "succ": true}]

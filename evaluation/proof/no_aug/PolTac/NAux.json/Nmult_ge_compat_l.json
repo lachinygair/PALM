@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. hauto use: N.mul_le_mono_r, N.ge_le_iff, N.mul_comm, N.ge_le unfold: N.le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply N.mul_le_mono_nonneg. - apply Nle_ge. auto. - apply N.le_ge. auto. - apply N.le_ge. reflexivity. - apply N.le_ge. reflexivity.", "succ": true}]

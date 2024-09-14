@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d. unfold pl_path_rec_equiv_0_def. intros H. sfirstorder depth: 3use: pl_path_rec_nil.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d. unfold pl_path_rec_equiv_0_def. intros H. apply H. apply pl_path_rec_nil.", "succ": true}]

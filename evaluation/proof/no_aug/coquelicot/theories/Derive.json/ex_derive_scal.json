@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f k x H. unfold ex_derive. unfold ex_derive in H. destruct H as [l Hd]. exists (k * l). apply is_derive_scal. apply Hd.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f k x H. unfold ex_derive. unfold ex_derive in H. destruct H as [l Hd]. exists (k * l). apply is_derive_scal. apply Hd.", "succ": true}]

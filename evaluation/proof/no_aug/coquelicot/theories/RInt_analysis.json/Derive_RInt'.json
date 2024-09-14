@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. unfold Derive. apply is_derive_unique. apply is_derive_RInt with (b := b); auto.", "succ": false}]

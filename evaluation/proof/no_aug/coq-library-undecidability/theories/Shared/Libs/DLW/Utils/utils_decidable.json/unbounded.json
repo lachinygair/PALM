@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold HP in *. destruct (HP n) as [k Hk]. exists k. split. - apply f_ge_n. - apply Hk.", "succ": true}]

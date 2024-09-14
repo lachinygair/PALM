@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f2 z1 z2 H q. unfold makeTraceNot. destruct q as [n t]. rewrite H. reflexivity.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f2 z1 z2 H q. unfold makeTraceNot. unfold makeTraceNot in H. destruct q as [n t]. unfold makeTraceNot. rewrite H. reflexivity.", "succ": true}]

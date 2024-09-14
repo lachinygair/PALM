@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A l l' H. destruct H as [l'' H]. exists (rev l''). srun best use: rev_app_distr.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A l l' H. destruct H as [l'' H]. exists (rev l''). rewrite rev_involutive. symmetry. apply rev_unit.", "succ": true}]

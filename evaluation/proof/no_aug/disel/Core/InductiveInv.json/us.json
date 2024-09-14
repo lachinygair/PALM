@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite map_comp. simpl. apply map_inj_uniq. apply coh. apply map_uniq. apply uniq.", "succ": false}]

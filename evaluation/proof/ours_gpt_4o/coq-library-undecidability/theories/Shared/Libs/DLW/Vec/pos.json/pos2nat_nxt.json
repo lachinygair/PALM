@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "pose (pos_S_invert (fun p0 => pos2nat (pos_nxt p0) = S (pos2nat p))). specialize (e eq_refl). apply e. intros q. simpl. reflexivity.", "back_times": 0, "succ": true, "time": 0.5789790153503418}]

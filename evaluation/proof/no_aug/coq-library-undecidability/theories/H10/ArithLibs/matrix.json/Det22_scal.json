@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. destruct x as [[a b] [c d]]. simpl. unfold M22scal, M22mult, Det22. unfold M22mult at 1. unfold M22mult at 2. unfold Det22. simpl. ring_simplify. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st st' ms m H_handleTimeout H_In_m. intros H_is_append_entries. unapply H_handleTimeout. destruct st; simpl in H_is_append_entries; contradiction.", "succ": false}]

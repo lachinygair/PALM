@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. unfold server_send_safe, coh. intros. destruct H as [HS Hprec]. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold server_send_safe, coh. intros. destruct H as [HS Hprec]. apply Hprec in H0. apply H0.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b p q H_ab H_pq. induction H_pq. - constructor. - simpl. hauto l: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b p q H_ab H_pq. induction H_pq. - constructor. - simpl. apply plus_pX. apply (IHeqP H_ab).", "succ": true}]

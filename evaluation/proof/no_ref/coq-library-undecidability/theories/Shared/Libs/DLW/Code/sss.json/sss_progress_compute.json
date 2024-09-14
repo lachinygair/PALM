@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: sss_step.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold sss_eval. intros H. inversion H. subst. apply sss_step with (i:=Ec i e) in H1. - apply H1 in H0. apply H0. - unfold trans_step. exists i, s1, s2, e. reflexivity.", "succ": true}]

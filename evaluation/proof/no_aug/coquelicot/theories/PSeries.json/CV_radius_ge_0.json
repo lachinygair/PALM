@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold CV_radius. unfold Lub_Rbar, CV_disk. apply is_sup_seq_major with (l := 0). apply Lim_seq_le_loc. intros n. destruct n. - unfold CV_series. apply Rbar_le_refl. - apply is_ub_Rbar_forall_R, ex_series_lim_0. intros k. unfold Rbar_le. apply Rle_refl.", "succ": false}]

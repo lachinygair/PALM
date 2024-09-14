@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A T r f e n m Hmini Hdef Hincr Hbound Hleq. unfold lower_fix_point. apply iteres_non_sas_chain_fp_0; auto. - apply Hdef. - apply Hmini. - apply Hincr. - apply iteres_increasing_chain; auto. - apply Hbound. - apply Hleq.", "succ": false}]

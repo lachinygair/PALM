@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. srun best use: zip_rcons.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold zip. unfold rcons. rewrite H.", "succ": true}]

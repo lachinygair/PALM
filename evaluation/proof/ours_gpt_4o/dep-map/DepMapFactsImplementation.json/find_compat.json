@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x y dom1 dom2 m1 m2 Heqx Heqm. pose proof (eq_sym _ _ _ _ _ _ Heqm) as Heqm'. rewrite <- Heqm. f_equal. rewrite Heqx. reflexivity.", "back_times": 0, "succ": false, "time": 51.95335102081299}]

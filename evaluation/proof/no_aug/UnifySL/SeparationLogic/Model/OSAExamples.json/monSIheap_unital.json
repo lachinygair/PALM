@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply StepIndex_Unital with (worlds:=heap). srun best use: monHeap_unital unfold: heap_jn.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "apply StepIndex_Unital with (worlds:=heap). apply prod_unitalSA. apply StepIndex_SA. apply monSIheap_increasing. apply monSIheap_R. apply SIheap_Join.", "succ": true}]

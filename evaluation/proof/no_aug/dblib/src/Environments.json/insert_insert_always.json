@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A k s a b e. unfold raw_insert. rewrite raw_insert_successor. rewrite raw_insert_successor. rewrite lookup_shift_insert. rewrite lookup_map_none. simpl. destruct (le_gt_dec k s). - apply insert_insert. auto. - apply lookup_insert_recent. auto.", "succ": false}]

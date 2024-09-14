@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: incl_app_inv.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X C B A H. intros x H1. apply incl_tran with (A := A ++ B). - apply incl_app. apply incl_l_nil. apply H. - apply H1.", "succ": true}]

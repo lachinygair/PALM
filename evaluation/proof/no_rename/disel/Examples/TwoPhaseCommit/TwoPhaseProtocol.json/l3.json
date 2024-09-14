@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros cn others pts Hcoh Hnodes. unfold tpc_coh in Hcoh. destruct Hcoh as [Hsoup [Hdom _]]. rewrite Hdom. apply Hnodes.", "succ": true}]

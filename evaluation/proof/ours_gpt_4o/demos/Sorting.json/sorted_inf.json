@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m x H. rewrite sorted_eq3 in H. destruct H as [Hinf _]. apply Hinf.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n m x H. rewrite sorted_eq3 in H. destruct H as [Hinf _]. apply Hinf.", "back_times": 0, "succ": true, "time": 1.0695490837097168}]

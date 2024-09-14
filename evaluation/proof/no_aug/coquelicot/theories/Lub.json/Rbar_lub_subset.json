@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. destruct H as [H_lub1 H_lub2]. unfold Rbar_le in *. destruct (Rbar_ex_lub E1) as [l1 [H_ub1 H_lb1]]. destruct (Rbar_ex_lub E2) as [l2 [H_ub2 H_lb2]]. apply (Rbar_is_lub_subset E1 E2 l1 l2). - intros x H_x. apply H_lub1. apply H_x. - apply H_lb1. - apply H_ub2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros I A B C D H1 H2 H3. apply cocyclicite_six. exists A. split. - apply bissectrice_direction with (u:=vec D B). + apply isocele_bissectrice_hauteur; auto. + apply bissectrice_hauteur_isocele; auto. - apply isocele_bissectrice_hauteur; auto.", "succ": false}]

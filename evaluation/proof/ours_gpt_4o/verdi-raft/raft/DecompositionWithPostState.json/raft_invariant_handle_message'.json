@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. eapply raft_invariant_handle_message; eauto.", "back_times": 0, "succ": false, "time": 111.68043828010559}]

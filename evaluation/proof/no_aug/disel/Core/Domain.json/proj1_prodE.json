@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold prod_chain. unfold proj1_chain. simpl. unfold dapp_mono. unfold f1. reflexivity.", "succ": false}]

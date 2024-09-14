@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros ps ps' st st' t e H_st_committed. unfold committed in *. hauto lq: on.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros ps ps' st st' t e H_st_committed. unfold committed in *. destruct H_st_committed as [h [e' [H_term [H_dc [H_eindex [H_in H_in']]]]]]. exists h, e'. repeat split; auto.", "succ": true}]

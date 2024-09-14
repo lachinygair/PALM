@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hpos0 HPnxt. apply pos_invert. split. - apply Hpos0. - apply HPnxt.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hpos0 HPnxt. apply pos_invert. split. - apply Hpos0. - apply HPnxt.", "back_times": 0, "succ": true, "time": 0.29467129707336426}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: nat_lb_spec inv: g_nlb.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite lb_pointwise_nil. reflexivity.", "succ": true}]

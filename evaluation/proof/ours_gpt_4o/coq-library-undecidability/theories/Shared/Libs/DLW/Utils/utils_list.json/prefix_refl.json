@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction l using list_ind. - apply in_prefix_0. - apply in_prefix_1. auto.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "induction l using list_ind. - apply in_prefix_0. - apply in_prefix_1. auto.", "back_times": 0, "succ": true, "time": 0.1025688648223877}]

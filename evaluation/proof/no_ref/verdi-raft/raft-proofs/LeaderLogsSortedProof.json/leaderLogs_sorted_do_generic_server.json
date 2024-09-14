@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold refined_raft_net_invariant_do_generic_server. intros. apply H8 with (h:=h); auto.", "succ": false}]

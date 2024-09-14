@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z H1 H2 nr. split. - apply upb_pos. apply H2. - split. + apply Iter_upb_period. apply H1. apply H2. + intros i H3. apply (not_exds_Iter_f_i m z i H2 nr). apply H3.", "succ": false}]

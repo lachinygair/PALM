@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Phi. split. - apply derivable_derivable. - apply Included_derivable.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Phi. split. - apply derivable_derivable. - apply Included_derivable.", "back_times": 0, "succ": true, "time": 0.7069172859191895}]

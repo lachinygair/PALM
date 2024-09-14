@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr h n Hmutual Hlast. apply trace_mutex'_no_out_extend in Hmutual. apply last_holder'_no_out_extend in Hlast. auto.", "succ": false, "time": 4.662157493999985}]

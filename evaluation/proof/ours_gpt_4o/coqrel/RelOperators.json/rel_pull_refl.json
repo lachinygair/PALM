@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hrefl. unfold Reflexive. intros x. apply Hrefl.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hrefl. unfold Reflexive. intros x. apply Hrefl.", "back_times": 0, "succ": true, "time": 0.513953447341919}]

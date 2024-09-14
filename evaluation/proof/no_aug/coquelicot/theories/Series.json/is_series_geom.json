@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros q Hq.", "exn": "q is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros q Hq. apply GP_infinite. apply Hq.", "succ": false}]

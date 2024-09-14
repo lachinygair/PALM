@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri llli rlmli ollpti llsi llsli lsli nisi llci aelmi aertsi aelsi. unfold refined_raft_net_invariant_reboot. intros net net' gd d h d' Hreboot HP H_intermediate HnwState HnwState' HnwPackets. split; auto.", "succ": false}]

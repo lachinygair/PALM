@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a H. sfirstorder depth: 3use: dt_non_empty_fix_1.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a H. intros H0. apply dt_non_empty_fix_1 in H0. exists 0. apply H0.", "succ": true}]

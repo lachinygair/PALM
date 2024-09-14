@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros y. unfold open. intros x Hx. unfold locally. apply (filterlim_locally_ball_norm (fun u : R => u <> y) x). intros eps. exists (mkposreal (Rabs (x - y)) (Rabs_no_R0 _ Hx)). intros x' Hball. apply Hx. intros Heq. apply Hball. apply Rabs_lt_between'. split. -", "succ": false}]

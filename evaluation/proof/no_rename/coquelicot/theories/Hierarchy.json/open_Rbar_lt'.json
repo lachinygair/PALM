@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H. unfold Rbar_locally. unfold Rbar_locally in *. intros u H1. destruct x; destruct y; try contradiction. - apply open_Rbar_gt in H. apply H in H1. apply H1. - exists x. intros u0 H2. apply H in H2. apply H2. - exists x. intros u0 H2. apply H in H2. apply H2.", "succ": false}]

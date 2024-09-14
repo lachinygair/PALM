@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f h d. extensionality n. unfold update. sauto depth: 3use: name_eq_dec.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros f h d. extensionality n. unfold update. destruct (name_eq_dec n h) as [Heq|Hneq]. - subst. reflexivity. - reflexivity.", "succ": true, "time": 0.2764608339999768}]

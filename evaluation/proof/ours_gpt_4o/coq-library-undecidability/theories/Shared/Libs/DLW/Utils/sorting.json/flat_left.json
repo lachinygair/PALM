@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. unfold flat. destruct (le_lt_dec n i). - exfalso. lia. - reflexivity.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. unfold flat. destruct (le_lt_dec n i). - exfalso. lia. - reflexivity.", "back_times": 0, "succ": true, "time": 0.46007871627807617}]

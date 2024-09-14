@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y. scongruence use: pred_succZ, succ_predZ, succ_addZ_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y. rewrite addZ_eq5, addZ_eq4. reflexivity.", "succ": true}]

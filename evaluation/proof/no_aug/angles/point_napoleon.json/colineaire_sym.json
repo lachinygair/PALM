@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros u v H. unfold colineaire in *. hfcrush use: transitive, symetrique, angle_nul, zero_plus_a, regulier, double_permute unfold: double.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros u v H. unfold colineaire in *. apply double_permute. apply H.", "succ": true}]

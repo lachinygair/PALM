@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net e e' t h Hlog Hcommitted HeIndex_le He_in_log He'_in_log. apply committed in Hcommitted.", "succ": false}]

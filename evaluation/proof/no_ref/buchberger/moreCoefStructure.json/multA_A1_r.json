@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. rewrite multA_com with (a := a) (b := A1). rewrite multA_A1_l. reflexivity.", "succ": true}]

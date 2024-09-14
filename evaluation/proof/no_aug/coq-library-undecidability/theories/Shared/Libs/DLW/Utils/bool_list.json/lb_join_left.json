@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite lb_pointwise_left. rewrite map_id. rewrite lb_mask_equiv_rst_Symmetric. rewrite lb_meet_right. rewrite app_nil_r. reflexivity.", "succ": false}]

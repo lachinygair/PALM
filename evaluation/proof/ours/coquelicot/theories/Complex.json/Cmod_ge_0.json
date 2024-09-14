@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold Cmod. srun best use: sqrt_pos unfold: C, snd, fst.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold Cmod. rewrite sqrt_pos. apply Rplus_le_le_0_compat. apply pow2_ge_0. apply pow2_ge_0.", "succ": true}]

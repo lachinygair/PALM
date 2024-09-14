@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X ll l H. induction H. - exists nil. reflexivity. - destruct IHlist_prefix as [r IH]. exists (x :: r). rewrite IH. reflexivity.", "succ": false}]

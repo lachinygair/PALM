@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K K_eq_dec ks k i H. apply Nat.le_lt_trans with (m:=assoc_default K_eq_dec ks k 0); auto. exists (assoc_default K_eq_dec ks k 0); auto.", "succ": false}]

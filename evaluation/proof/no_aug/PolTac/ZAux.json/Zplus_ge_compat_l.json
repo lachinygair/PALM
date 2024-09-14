@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n m p H. apply Zge_trans with (m:=m) (n:=Z.add p m). apply Z.add_le_mono. apply Zge_left. apply Zle_ge. apply H. apply Z.le_refl. apply Z.le_refl. apply Z.ge_le_iff. apply H. apply Z.le_refl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros cn others pts Hnin Puniq d m Hcoh. unfold soupCoh, consume_msg. simpl. rewrite <- Hcoh. apply send_soupCoh. auto.", "succ": false}]

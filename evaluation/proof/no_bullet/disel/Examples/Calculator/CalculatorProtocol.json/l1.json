@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hcalcoh. unfold calcoh, valid in *. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros Hcalcoh. unfold calcoh, valid in *. destruct Hcalcoh as [Hcoh1 [Hcoh2 [Hcoh3 Hcoh4]]]. split. - apply Hcoh3. - intros n Hn. apply Hcoh4. apply Hn.", "succ": true}]

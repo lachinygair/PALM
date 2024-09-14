@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_append_entries_reply in *. intros. specialize (rri one_node_params raft_params). unfold raft_refinement_interface, refined_raft_net_invariant_append_entries_reply in rri. apply (rri aellti aerlli rlmli). apply H.", "succ": false}]

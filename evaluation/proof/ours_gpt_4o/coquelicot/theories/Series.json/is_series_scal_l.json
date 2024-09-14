@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["apply Series_ext.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "apply Series_ext. intro n. reflexivity.", "back_times": 0, "succ": false, "time": 37.12357831001282}]

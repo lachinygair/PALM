@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros X Y f n S Hcard Hinjective. hfcrush use: @injective_preserves_cardinal, @cardinal_Im_intro.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros X Y f n S Hcard Hinjective. apply cardinal_Im_intro in Hcard as [p HImcard]. apply HImcard.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply someExistingLemma.", "exn": "The reference someExistingLemma was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply someExistingLemma. auto.", "back_times": 0, "succ": false, "time": 73.88058495521545}]

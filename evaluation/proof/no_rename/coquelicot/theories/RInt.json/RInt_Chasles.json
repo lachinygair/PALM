@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b c H1 H2. rewrite (is_RInt_unique f a b (RInt f a b) (RInt_correct f a b H1)). rewrite (is_RInt_unique f b c (RInt f b c) (RInt_correct f b c H2)). apply RInt_Chasles. apply ex_RInt_Chasles_2 with (b := c). - apply Rlt_le. apply H1. - apply H2.", "succ": false}]

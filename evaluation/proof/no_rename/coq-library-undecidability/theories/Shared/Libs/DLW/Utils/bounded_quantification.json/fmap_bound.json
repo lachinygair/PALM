@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n P H. assert (forall x : nat, x < n -> exists y, P x y) as H2. - apply H. exists 0. intros x H3. apply ex_intro with (x:=x). split. + apply H3. + apply H2.", "succ": false}]

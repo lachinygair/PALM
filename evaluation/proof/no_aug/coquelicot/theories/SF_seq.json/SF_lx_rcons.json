@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: @unzip1_rcons unfold: rcons, SF_lx, SF_rcons, SF_t, SF_h.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite /SF_lx /rcons /fst. reflexivity.", "succ": true}]

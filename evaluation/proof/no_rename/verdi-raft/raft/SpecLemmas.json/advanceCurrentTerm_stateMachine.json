@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros st t. unfold stateMachine. unfold advanceCurrentTerm. destruct (currentTerm st <? t) eqn:H. - reflexivity. - simpl. rewrite advanceCurrentTerm_log. reflexivity.", "succ": false}]

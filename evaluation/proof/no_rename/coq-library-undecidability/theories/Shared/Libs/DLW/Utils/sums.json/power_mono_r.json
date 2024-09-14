@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros q p n H. apply Nat.le_trans with (m := power n p). - apply power_mono; auto. - apply power_mono; auto.", "succ": false}]

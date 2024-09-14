@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite <- main_loop_length.", "exn": "Found no subterm matching \"length_main_loop ?M1472\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite <- main_loop_length. reflexivity.", "succ": false}]

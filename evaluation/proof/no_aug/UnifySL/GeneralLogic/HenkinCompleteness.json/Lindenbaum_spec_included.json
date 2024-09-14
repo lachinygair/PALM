@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros step init n a H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros step init n a H. unfold Included. unfold LindenbaumConstruction in H. unfold Included in H. destruct H as [m H']. exists (n + m). induction n. - simpl. apply H'. - simpl. apply step. apply IHn.", "succ": true}]

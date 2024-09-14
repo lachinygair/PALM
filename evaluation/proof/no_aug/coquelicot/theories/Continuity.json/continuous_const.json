@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold continuous. intros. unfold locally. unfold within. unfold and. unfold within. unfold locally. unfold and. unfold locally. apply filterlim_comp with (V := V). apply filterlim_const. apply continuous_comp with (V := V). apply continuous_id.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Z_Zp1 Z_Zp2. rewrite Z_Zp1, Z_Zp2. auto.", "succ": true}]

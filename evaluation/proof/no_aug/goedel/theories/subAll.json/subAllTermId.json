@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t. induction t using fol.Term_ind. - reflexivity. - simpl. f_equal. induction t; simpl; try rewrite IHt; try destruct (arity L (inr f)); reflexivity.", "succ": false}]

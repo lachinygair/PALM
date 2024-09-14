@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Z.sqrt_up_pos, Z.ge_le, Z.sqrt_up_eqn0, Z.le_neq, Z.lt_mul_0 unfold: Z.ge, Z.lt.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 4.037067814962938}]

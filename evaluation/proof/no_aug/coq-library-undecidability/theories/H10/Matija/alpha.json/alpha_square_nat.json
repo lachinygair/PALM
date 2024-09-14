@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (nat2Zp_surj Hak2 (alpha_nat b k)) as [ak2 _]. exists ak2. split. - apply Zp_invertible. - rewrite (alpha_nat_mnlk_eq b Hb k Hk m l Hm) at 1. rewrite (alpha_nat_mnlk_eq b Hb k Hk m 1 Hak2) at 1. rewrite (alpha_nat_2lm_minus_j b Hb l k m ak2 Hak2 Hak2). reflexivity.", "succ": false}]

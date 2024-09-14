@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_append_entries_reply. intros. unfold leaderLogs_entries_match in *. unfold leaderLogs_entries_match_host in *. unfold leaderLogs_entries_match_nw in *. specialize (H xs p ys net st' ps' gd d m t es res H0 eq_refl eq_refl). apply H.", "succ": false}]

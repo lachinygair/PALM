@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply: r_step_coh_t. - move=> d cohD src tgt. apply: rp_wf. exact: cohD. - exact: rp_tag. - exact: rp_step.", "back_times": 0, "succ": false, "time": 42.78498697280884}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold codeNatToTerm, codeTerm, natToTermLNN, LNN; simpl. rewrite Nat.add_comm. reflexivity.", "succ": false}]

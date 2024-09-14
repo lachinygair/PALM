@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g x Hloc Hcontf. apply continuity_pt_locally_ext with (a := 1); try lra. intros y Hy. apply Hloc in Hy as [eps Hep]. exists eps. intros y' Hy'. apply Hep in Hy'.", "succ": false}]

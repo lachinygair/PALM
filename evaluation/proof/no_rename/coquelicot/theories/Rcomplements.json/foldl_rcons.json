@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T T0 f x0 s t. induction s. - simpl. reflexivity. - simpl. rewrite <- foldl_cat. rewrite <- IHs. reflexivity.", "succ": false}]

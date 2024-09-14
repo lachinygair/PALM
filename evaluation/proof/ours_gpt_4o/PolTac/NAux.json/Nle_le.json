@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n m H."], "tactic": "apply N2Nat.inj_le.", "exn": "The reference N2Nat.inj_le was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros n m H. apply N2Nat.inj_le. auto.", "back_times": 1, "succ": false, "time": 84.03304982185364}]

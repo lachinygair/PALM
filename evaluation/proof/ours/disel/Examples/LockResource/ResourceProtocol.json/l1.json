@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro Hrescoh. unfold resource_coh, valid in *. destruct Hrescoh as [Hscoh Hdom Hvalid Hstcoh]. apply Hvalid.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intro Hrescoh. unfold resource_coh, valid in *. destruct Hrescoh as [Hscoh Hdom Hvalid Hstcoh]. apply Hvalid.", "succ": true}]

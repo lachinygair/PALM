@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries. intros. unfold votedFor_moreUpToDate, moreUpToDate in *. intros. specialize (H t h h'). destruct H as [vl H]. exists vl. split. - apply H. - apply H0.", "succ": false}]

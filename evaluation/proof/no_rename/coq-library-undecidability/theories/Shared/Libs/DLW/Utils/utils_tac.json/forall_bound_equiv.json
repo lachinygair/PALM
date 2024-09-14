@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: proj2, proj1.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X Q P A HPQ. split. - intros n H1 H2. apply (proj1 (HPQ n H1)). apply H2. - intros n H1 H2. apply (proj2 (HPQ n H1)). apply H2.", "succ": true}]

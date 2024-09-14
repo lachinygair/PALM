@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z m. qauto use: @sat_orp, @sat_impp.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z m. unfold Implies, Or, And, Not. intros H. apply H.", "succ": true}]

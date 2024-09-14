@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. apply is_LimSup_LimInf_lim_seq. - apply is_LimSup_seq_ext_loc with u. + auto. + apply is_LimInf_seq_ind_k with 0. * apply is_LimInf_seq_ext with (u := fun n => u n) (l := l). ++ intros n. apply H1. ++ auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. strivial use: lb_mask_app unfold: lb_mask_equiv.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 H3. apply lb_mask_app; auto.", "succ": true}]

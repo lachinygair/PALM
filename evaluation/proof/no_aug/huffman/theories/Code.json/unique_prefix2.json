@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros c up. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros c up. unfold unique_prefix, unique_key in *. intros ca la cb lb ia ib ip. apply (unique_prefix1 c). auto. auto. auto.", "succ": true}]

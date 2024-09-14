@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y m. intros m' H. unfold satisfies, denotation in *. intros H'. apply sat_impp with (m:=m'); try auto. apply sat_andp in H'. apply H'.", "succ": false}]

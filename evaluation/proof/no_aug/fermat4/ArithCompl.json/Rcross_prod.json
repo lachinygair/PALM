@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c d H1 H2 H3. rewrite <- Rinv_mult_distr; auto. rewrite Rmult_comm. rewrite <- Rinv_r_sym; auto. rewrite Rmult_assoc. f_equal. apply Rmult_integral_contrapositive_currified; auto. intros contra. apply tech7 in contra; auto. contradiction.", "succ": false}]

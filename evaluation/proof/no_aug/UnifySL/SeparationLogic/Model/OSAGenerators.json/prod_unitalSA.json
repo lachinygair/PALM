@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply prod_incrSA. - apply incr_unital_iff_residual. apply unitalSA_A. - apply incr_unital_iff_residual. apply unitalSA_B.", "succ": false}]

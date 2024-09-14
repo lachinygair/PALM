@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite -[s]Chain. apply image_chain with (f := id). - apply id_mono. - apply M.", "back_times": 0, "succ": false, "time": 30.65764880180359}]

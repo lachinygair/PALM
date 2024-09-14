@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i H. apply nat_joins_binary_le_right. apply H.", "succ": false}]

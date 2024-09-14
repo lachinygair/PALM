@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H_lin. unfold is_linear in H_lin. destruct H_lin as [H_plus [H_scal H_norm]]. rewrite -> H_scal. rewrite -> H_scal. rewrite -> (opp_mult_m1 one). reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f x y cont_f_neq0 cont_f_loc. unfold locally_2d. intros eps. specialize (cont_f_neq0 eps). intros delta cont_f. unfold locally_2d in cont_f. unfold locally_2d. intros u v H1 H2. apply cont_f. apply cont_f_loc. apply H1. apply H2.", "succ": false}]

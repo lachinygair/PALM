@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x. srun best use: map_maxi_maxi, map_mini_mini, lem_order unfold: mLattice.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A x. apply Mapmeridian. apply map_maxi_maxi. apply map_mini_mini. apply map_maxi_appartient. apply map_mini_appartient.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite mem_cat in_cons. apply/orP. left. hauto lb: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite mem_cat in_cons. apply/orP. left. rewrite eq_sym. apply/negP. exact: Hnin.", "back_times": 0, "succ": true, "time": 2.0629425048828125}]

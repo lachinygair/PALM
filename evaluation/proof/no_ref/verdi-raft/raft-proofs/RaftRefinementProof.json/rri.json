@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Build_raft_refinement_interface. intros. apply refined_raft_net_invariant; auto. intros. apply refined_raft_net_invariant'; auto.", "succ": false}]

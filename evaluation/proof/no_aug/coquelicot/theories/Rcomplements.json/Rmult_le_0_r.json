@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H1 H2. hauto drew: off use: Rmult_le_compat_l, Rmult_0_l, Rmult_comm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. apply Rmult_le_pos; auto.", "succ": true}]

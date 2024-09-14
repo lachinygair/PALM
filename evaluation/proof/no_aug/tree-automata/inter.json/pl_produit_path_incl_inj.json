@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros plp0 plp1 plp2 plp3 n H0 H1 H2 H3 H4. unfold pl_path_product in H4. rewrite H0, H1 in H4. rewrite H2, H3 in H4. injection H4 as H5 H6. split. - rewrite H5. reflexivity. - rewrite H6. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' failed failed' tr H. inversion H; subst; simpl. rewrite <- H2. unfold serialize_net. simpl. rewrite map_app. eapply StepFailure_deliver; eauto.", "succ": false, "time": 23.082835225000053}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u m n H. rewrite <- (tech2 (fun x => u (x + 1)%nat) n m H). rewrite <- (sum_f_rw (fun x => u (x + 1)%nat) n m H). rewrite <- (sum_f_rw_0 (fun x => u (x + 1)%nat) n). rewrite <- (sum_f_n_Sm (fun x => u (x + 1)%nat) n m (lt_S_n n m H)). auto.", "succ": false}]

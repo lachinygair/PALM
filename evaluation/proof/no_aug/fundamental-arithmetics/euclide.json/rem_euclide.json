@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. unfold remainder_euclide. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. unfold remainder_euclide. apply Nat.mod_upper_bound. auto.", "succ": true}]

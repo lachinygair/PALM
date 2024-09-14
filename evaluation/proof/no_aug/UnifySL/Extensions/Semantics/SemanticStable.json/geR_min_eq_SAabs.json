@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Build_SeparationAlgebraAbsorbStable nat nat_geR Nat.log2). intros m m1 m2 Hjoin. exists m1, m2. repeat split. - apply Hjoin. - reflexivity. - reflexivity. - apply Nat.le_refl. - apply Nat.le_refl.", "succ": false}]

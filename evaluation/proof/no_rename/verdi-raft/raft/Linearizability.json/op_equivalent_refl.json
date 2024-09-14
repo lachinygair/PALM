@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs. induction xs as [|x xs' IHxs]. - apply op_equiv_nil. - apply op_equiv_cons. apply IHxs.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros xs. induction xs as [|x xs' IHxs]. - apply op_equiv_nil. - apply op_equiv_cons. + apply IHxs.", "succ": true}]

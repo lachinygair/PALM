@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f ts v s. unfold substituteTerm, substituteTerms. destruct (Nat.eq_dec v v) eqn: H. - reflexivity. - contradiction.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f ts v s. unfold substituteTerm, substituteTerms. destruct (Nat.eq_dec v v) eqn: H. - reflexivity. - contradiction.", "succ": true}]

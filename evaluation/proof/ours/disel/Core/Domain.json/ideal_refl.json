@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl use: id_pf. srun best use: poset_refl unfold: id_val, ideal_leq.", "repairs": ["cannot_unify", "hammer"], "exceptions": [{"ctx": [], "tactic": "apply id_pf.", "exn": "In environment T : poset P : T x : ideal P Unable to unify \"id_val x\" with \"P\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply id_pf.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: u_conv0_2, u_conv0_1, u_conv0_0, u_conv0_4, mreconnaissance_ind, u_conv0_3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p a t r. apply (u_conv0_3 p a (prec_empty) (tnil) t r). apply e. apply rec_empty.", "succ": true}]

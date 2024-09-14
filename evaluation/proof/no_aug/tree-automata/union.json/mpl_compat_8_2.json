@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m H1 m0 H2. apply mpl_compat_8_def. intros a c pl l mapget ac_neq. apply H1 with (a := a) (c := c) (pl := pl) (l := l). apply mapget. apply ac_neq.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply alpha_nat_coprime in alpha_Pell.", "exn": "No such hypothesis: alpha_Pell", "type": "no_hypos", "handled": true}]}, "chat": [], "original": "apply alpha_nat_coprime in alpha_Pell.", "back_times": 0, "succ": false, "time": 32.20225715637207}]

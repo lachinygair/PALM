@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. apply append_entries_reply_sublog_invariant. auto.", "back_times": 0, "succ": false, "time": 88.2897961139679}]

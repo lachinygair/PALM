@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H1 H2. destruct H2 as [q H2']. hfcrush use: Nat.eq_mul_0, mult_lemma1.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. destruct H2 as [q H2']. apply Nat.div_le_upper_bound. - apply H1. - rewrite H2'. apply Nat.le_refl.", "succ": true}]

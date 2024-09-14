@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: S_star, star_refl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X Y R R' incl_trans. intros x y H. induction H. - apply S_star with (y:=y). + apply incl_trans. apply H. + apply star_refl. - apply S_star with (y:=y). + apply incl_trans. apply H. + apply IHstar.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n R A B H1 H2. apply (RepresentableHalfHelp n R A); apply (RepresentableHalf2Alternate n R (iffH A B)). - apply (iffE2 T (iffH A B) (iffH B A) H1), (iffSym T A B H2). - apply (iffE1 T (iffH A B) (iffH B A) H1), H2.", "succ": false}]

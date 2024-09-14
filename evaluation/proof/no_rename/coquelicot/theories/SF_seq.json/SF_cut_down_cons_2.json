@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold SF_cut_down. unfold SF_cons. simpl. hauto lq: on use: surjective_pairing, Rle_lt_trans unfold: Rmax, snd, Rle, behead, SF_h, head, SF_t, fst inv: sumbool.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold SF_cut_down. unfold SF_cons. simpl. intros H. apply H.", "succ": true}]

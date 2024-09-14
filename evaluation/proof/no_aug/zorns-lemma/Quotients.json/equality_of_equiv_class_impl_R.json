@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H. unfold equiv_class in H. apply R_impl_equality_of_equiv_class. apply H.", "succ": false}]

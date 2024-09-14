@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold transitive_commit. intros h e e' t H_in_e H_in_e' H_index H_comm_e' H_comm_e. apply H_comm_e.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u. unfold is_inf_seq, Inf_seq. destruct (ex_inf_seq u) as [l H]. apply is_inf_seq_unique in H. rewrite -> H. reflexivity.", "succ": false}]

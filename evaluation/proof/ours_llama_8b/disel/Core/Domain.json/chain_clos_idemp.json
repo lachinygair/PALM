@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: chain_clos_min, subp_refl, chain_clos_sub unfold: CPO.sort, EqMem, SubMem, Pred_Sort, Pred, PredPredType.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

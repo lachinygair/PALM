@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Phi x H. apply derivable_assum in H. srun best use: @derivable_trans unfold: context, derivable, Ensembles.In.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros Phi x H. apply derivable_assum in H. apply deduction_weaken0. auto.", "succ": true}]

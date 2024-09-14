@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. apply Build_Rotate1SelfInverse. intros. rewrite rotate. rewrite rotate. rewrite H6. reflexivity.", "succ": false}]

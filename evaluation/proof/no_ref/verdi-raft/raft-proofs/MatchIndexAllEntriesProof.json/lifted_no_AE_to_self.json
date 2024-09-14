@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p t n pli plt es ci Hreachable Hin Hbody HeqDst. destruct p as [src dst body]. simpl in *. inversion Hbody; subst. congruence.", "succ": false}]

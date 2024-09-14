@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold scal. rewrite mscal_comm. rewrite <- mscal_sum. rewrite mscal_1. apply monoid_unit_r.", "succ": false}]

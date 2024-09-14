@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros L p H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros L p H. apply cb_zerop. apply zerop_elim_cb with (p := p). - apply H. - apply cb_nf.", "succ": true}]

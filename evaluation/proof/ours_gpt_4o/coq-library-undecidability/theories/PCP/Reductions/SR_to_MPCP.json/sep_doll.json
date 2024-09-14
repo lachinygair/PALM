@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply Znat.neq.", "exn": "In environment R : stack nat x0, y0 : string Unable to unify \"Prop\" with \"$ <> #\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Znat.neq.", "back_times": 0, "succ": false, "time": 999.6882224082947}]

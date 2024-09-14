@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr tr' l tr1 exp filter. apply (input_correct_filterMap_trace_non_empty_out tr tr'). - apply (correct_filterMap_trace_non_empty_out_input_correct tr). - apply filter.", "succ": false}]

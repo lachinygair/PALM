@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: is_lim_seq_ext unfold: ex_lim_seq.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros u v Huv Hulim. unfold ex_lim_seq in *. destruct Hulim as [l Hu]. exists l. apply is_lim_seq_ext with (u := u); auto.", "succ": true}]

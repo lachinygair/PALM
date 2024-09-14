@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: u_conv_0_invar_4, u_conv_0_invar_2.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros d a ladj H. apply u_conv_0_invar_4 in H. destruct H as [ladj0 [H1 H2]]. exists ladj0. split. - apply H1. - apply u_conv_0_invar_2. rewrite H1. apply H2.", "succ": true}]

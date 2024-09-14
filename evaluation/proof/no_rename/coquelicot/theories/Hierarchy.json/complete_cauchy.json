@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T F ProperFilter_F cauchy_F eps. apply CompleteSpace.ax1 with (F := F); auto.", "succ": false}]

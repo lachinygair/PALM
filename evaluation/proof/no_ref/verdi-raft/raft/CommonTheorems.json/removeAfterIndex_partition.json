@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l x. exists (removeAfterIndex l x ++ []). rewrite app_nil_r. symmetry. apply removeAfterIndex_remove_id.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a l. split. - intros H. unfold infinite_sum. intros eps H0. apply is_series_unique in H. rewrite <- H. apply Series_correct. apply H. - intros H. unfold is_series. intros eps H0. apply is_series_unique. apply uniqueness_sum with (l1 := l). apply H. apply H.", "succ": false}]

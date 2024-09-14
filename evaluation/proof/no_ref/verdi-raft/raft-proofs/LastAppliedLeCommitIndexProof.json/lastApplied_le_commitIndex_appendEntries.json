@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply lastApplied_le_commitIndex_invariant with (net := net) in H.", "exn": "No such hypothesis: H", "type": "no_hypos", "handled": true}]}, "chat": [], "original": "apply lastApplied_le_commitIndex_invariant with (net := net) in H. apply H.", "succ": false}]

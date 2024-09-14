@@ -1,0 +1,1 @@
+[{"history": {"proof": "qblast use: Nat.lt_succ_r, Nat.le_0_1, div_prop, divides_rem_eq, div_rem_spec1, Nat.mul_comm, rem_2_fix_1, divides_div.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

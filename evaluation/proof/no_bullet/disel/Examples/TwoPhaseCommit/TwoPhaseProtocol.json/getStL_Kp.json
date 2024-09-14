@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply: getStL_Kc. apply: (hcancelV d st l). - by apply: getLocalU. - by rewrite hcancelPtV2.", "succ": false}]

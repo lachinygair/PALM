@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H x. destruct x as [a |]. - apply Some_ge_def. apply H. - apply None_ge_def.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H x. destruct x as [a |]. - apply Some_ge_def. apply H. - apply None_ge_def.", "back_times": 0, "succ": true, "time": 0.5355172157287598}]

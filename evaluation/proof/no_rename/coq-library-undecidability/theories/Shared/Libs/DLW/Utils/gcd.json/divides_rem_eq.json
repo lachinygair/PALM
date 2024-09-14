@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q. split. - intro H. destruct H as [n H]. rewrite div_rem_spec1 in H. rewrite H. apply rem_0. - intro H. unfold divides. exists (div q p). rewrite div_rem_spec1. rewrite H. apply rem_0.", "succ": false}]

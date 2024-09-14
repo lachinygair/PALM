@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l1 l2. unfold minuspf. destruct (minuspp (l1, l2)) as [l3 HminusP]. apply HminusP.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros l1 l2. unfold minuspf. destruct (minuspp (l1, l2)) as [l3 HminusP]. apply HminusP.", "back_times": 0, "succ": true, "time": 0.595902681350708}]

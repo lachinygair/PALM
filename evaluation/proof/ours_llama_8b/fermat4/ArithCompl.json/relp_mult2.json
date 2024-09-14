@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Pos2Z.opp_pos, Z.divide_factor_l, Z.divide_refl, Z.divide_1_r unfold: rel_prime inv: Zis_gcd.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

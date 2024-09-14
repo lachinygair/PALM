@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u l H. unfold Rbar_is_lub. split. - intros x [n Hn]. rewrite Hn. apply H. - intros b [H1 H2]. specialize (H b). destruct l; try contradiction. + intros eps. destruct (H (Finite r eps)) as [H3 _]. apply H3. split. * intros n. apply H1. * exists n. apply H2. + apply H.", "succ": false}]

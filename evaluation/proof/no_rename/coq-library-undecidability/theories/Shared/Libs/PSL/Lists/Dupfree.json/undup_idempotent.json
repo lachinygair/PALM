@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: dupfree_undup, undup_id.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X A. induction A as [| x A' IH] using list_ind. - reflexivity. - simpl. destruct Dec eqn: HxelA'. + apply IH. + simpl. f_equal. apply IH.", "succ": true}]

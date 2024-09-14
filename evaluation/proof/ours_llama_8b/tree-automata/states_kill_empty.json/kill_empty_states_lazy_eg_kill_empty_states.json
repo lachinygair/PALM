@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: dta_states_non_empty_lazy_eg_dta_states_non_empty unfold: DTA_kill_empty_states_lazy, DTA_kill_empty_states.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

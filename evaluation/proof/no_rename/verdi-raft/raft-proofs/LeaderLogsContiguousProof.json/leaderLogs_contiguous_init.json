@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold refined_raft_net_invariant_init. hfcrush depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_init. intros net H_reachable h t ll H_in_leadersLogs. apply H_in_leadersLogs.", "succ": true}]

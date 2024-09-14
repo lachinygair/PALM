@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l l' Hwf Hwf' Hrefactor x n HIn. apply in_prod with (x:=x) (y:=n) in HIn. apply in_wf with (p:=x) (n:=n) in HIn. destruct HIn as [Hprime Hpos]. apply in_combine_r with (l:=(combine l l')) in HIn. apply Hrefactor. apply Hprime. apply Hpos. apply Hwf. apply HIn.", "succ": false}]

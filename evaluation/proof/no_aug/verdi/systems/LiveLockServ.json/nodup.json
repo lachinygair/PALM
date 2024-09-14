@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply NoDup_disjoint_append; auto; intros x H1 H2.", "succ": false, "time": 1.8610488570000143}]

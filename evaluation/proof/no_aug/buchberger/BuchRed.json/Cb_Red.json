@@ -1,0 +1,1 @@
+[{"history": {"proof": "hecrush use: app_nil_end, cb_redacc unfold: Red.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros L p H. apply Cb_in with (a := p). - apply cs. - apply eqA_dec. - apply n. - apply ltM. - apply ltM_dec. - auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Ha Hb Hc Hd. subst. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros Ha Hb Hc Hd. subst. reflexivity.", "back_times": 0, "succ": true, "time": 0.12699007987976074}]

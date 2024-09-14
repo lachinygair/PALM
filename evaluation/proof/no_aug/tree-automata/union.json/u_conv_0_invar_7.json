@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s c p H. hauto use: u_conv_0_invar_6, u_conv_0_invar_3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros s c p H. unfold umpl_conv_0 in H. destruct s eqn:Hs; intros; try discriminate. inversion H; subst. apply u_conv_0_invar_6 in H2. exists p0. auto.", "succ": true}]

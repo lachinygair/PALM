@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- tau1_f. symmetry. rewrite <- tau2. auto.", "succ": false}]

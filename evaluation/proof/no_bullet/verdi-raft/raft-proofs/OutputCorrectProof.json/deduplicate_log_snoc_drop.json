@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros es e e' Hin Hclient Hid. unfold deduplicate_log. rewrite deduplicate_log'_snoc_drop_es with (e':=e') by auto. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros es e e' Hin Hclient Hid. unfold deduplicate_log. rewrite deduplicate_log'_snoc_drop_es with (e':=e') by auto. reflexivity.", "succ": true}]

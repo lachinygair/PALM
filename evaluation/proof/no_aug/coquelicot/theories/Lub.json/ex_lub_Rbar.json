@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply completeness. - unfold bound. exists 0. intros x _. apply Rbar_le_neg_infinity. - exists 0. apply Rbar_le_neg_infinity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l1 l2 l3 H1 H2. unfold weight_tree_list. rewrite (ordered_sum_leaves_eq _ f _ _ H1 H2).", "succ": false}]

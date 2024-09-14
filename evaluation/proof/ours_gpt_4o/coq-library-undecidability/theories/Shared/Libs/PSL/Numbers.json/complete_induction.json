@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply lt_wf_rect.", "repairs": [""], "exceptions": [{"ctx": ["apply lt_wf_rect."], "tactic": "intros n IH H.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "apply lt_wf_rect. intros n IH H. apply H. intros y Hy. apply IH. auto.", "back_times": 0, "succ": true, "time": 0.14303827285766602}]

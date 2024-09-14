@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h H_reachable. unfold msg_refined_raft_intermediate_reachable in H_reachable. destruct H_reachable as [H_init | H_failure]. - simpl. apply le_n. - inversion H_failure.", "succ": false}]

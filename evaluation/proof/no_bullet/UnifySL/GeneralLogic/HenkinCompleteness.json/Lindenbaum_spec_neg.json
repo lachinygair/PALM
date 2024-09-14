@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros step init a n Hchain. unfold LindenbaumChain in Hchain. unfold LindenbaumConstruction. exists n. apply Hchain.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros step init a n Hchain. unfold LindenbaumChain in Hchain. unfold LindenbaumConstruction. exists n. apply Hchain.", "succ": true}]

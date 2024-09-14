@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @Build_Associativity1, sepcon_Comm, sepcon_Mono unfold: sepcon inv: SepconAxiomatization.", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_Associativity'. intros x y z. split. - apply assoc_fold_left_cons. - apply assoc_fold_right_cons.", "back_times": 0, "succ": true, "time": 38.79089617729187}]

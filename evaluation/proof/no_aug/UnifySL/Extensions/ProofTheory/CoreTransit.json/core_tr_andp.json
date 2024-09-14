@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. split. - intros H. split. + apply boxp_andp. * apply deduction_andp_elim1 in H. apply H. * apply deduction_andp_elim2 in H. apply H. + apply boxp_andp in H. apply H. - intros [H1 H2]. apply boxp_andp. apply H1. apply H2.", "succ": false}]

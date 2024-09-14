@@ -1,0 +1,1 @@
+[{"history": {"proof": "qblast use: @Korder_identity, @disc_incr_unit unfold: DownwardsClosedSeparationAlgebra, unit_element, increasing, equiv_Join, join, Krelation.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros w. apply all_increasing.", "succ": true}]

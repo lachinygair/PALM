@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. rewrite <- Rmult_0_l with x. rewrite Rmult_comm.", "succ": false}]

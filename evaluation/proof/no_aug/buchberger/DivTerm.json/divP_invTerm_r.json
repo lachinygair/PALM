@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. inversion H; subst. apply divTerm_def. - apply divP_inv1 in H. auto. - intros. apply eqTerm_invTerm_comp. auto.", "succ": false}]

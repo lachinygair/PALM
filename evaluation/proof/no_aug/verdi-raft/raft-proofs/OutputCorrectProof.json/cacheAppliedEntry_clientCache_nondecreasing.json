@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st e l st' c i o i' o' Hcache Hid1 Hid2. apply getLastId_ext in Hcache. rewrite Hid1 in Hcache. rewrite Hid2 in Hcache. apply Hcache.", "succ": false}]

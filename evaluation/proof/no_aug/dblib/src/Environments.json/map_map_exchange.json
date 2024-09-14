@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A F G B f1 f2 g1 g2 e H. hauto l: on depth: 3use: map_map_fuse.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A F G B f1 f2 g1 g2 e H. apply map_map_fuse. apply H.", "succ": true}]

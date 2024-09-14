@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro P. apply Same_set_rel_Transitive with (Intersection A P (Full_set A)). - apply Intersection_comm. - apply Same_set_refl.", "back_times": 0, "succ": false, "time": 100.66129064559937}]

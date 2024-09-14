@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u M H1 H2. apply ex_lim_seq_decr. intros n. apply H1. assert (H3 : forall n : nat, u (S n) <= u n). - apply H1. - apply ex_lim_seq_incr with (u:= u) in H3. apply is_lim_seq_decr_compare with (u:= u) in H3. apply Lim_seq_correct. auto.", "succ": false}]

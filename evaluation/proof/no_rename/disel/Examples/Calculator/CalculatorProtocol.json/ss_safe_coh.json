@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold ss_safe, coh. intros Hss. destruct Hss as [Hto [Hthis Hmsg]]. apply Hmsg.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold ss_safe, coh. intros Hss. destruct Hss as [Hto [Hthis Hmsg]]. apply Hmsg.", "succ": true}]

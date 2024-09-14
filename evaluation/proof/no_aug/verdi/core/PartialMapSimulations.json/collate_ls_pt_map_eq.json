@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros ns f h m m' H. unfold collate_ls. repeat rewrite collate_tot_map_eq. reflexivity.", "succ": false, "time": 6.291700921999961}]

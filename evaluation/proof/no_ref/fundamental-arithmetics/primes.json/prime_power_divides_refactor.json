@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p n m l H1 H2 H3 H4 H5. apply le_trans with (m:= ref l). apply prime_divides_refactor with p; auto. apply wf_impl_pwd; auto. apply gt_trans_S with (m:=n); auto. apply factor_divides_refactor with (x:=(p,m)); auto.", "succ": false}]

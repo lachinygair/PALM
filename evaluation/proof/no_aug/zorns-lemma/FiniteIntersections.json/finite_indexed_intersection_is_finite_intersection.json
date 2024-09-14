@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X S J V H_finiteT H_V_in_S. apply intro_intersection. induction H_finiteT. - apply intro_full. - apply intro_S. apply H_V_in_S. - apply IHH_finiteT1. apply IHH_finiteT2.", "succ": false}]

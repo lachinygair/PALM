@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold In, is_true."], "tactic": "apply iff_reflect.", "exn": "The reference iff_reflect was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "unfold In, is_true. apply iff_reflect. symmetry. apply in_seq.", "succ": false}]

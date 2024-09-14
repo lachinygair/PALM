@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f1 f2 v T H1 H2. hfcrush use: iffE1, impForall, iffI, iffE2.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros f1 f2 v T H1 H2. unfold not in H1. unfold iffH in H2. specialize (H1 v). unfold iffH. apply and_comm.", "succ": true}]

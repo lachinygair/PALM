@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros r x y H. rewrite <- plus_comm with (x:=y). rewrite H.", "succ": false}]

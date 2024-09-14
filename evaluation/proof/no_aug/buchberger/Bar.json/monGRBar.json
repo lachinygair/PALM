@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R xs bs cs H. apply monGRBarAux with (l:=xs++cs). apply H. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A R xs bs cs H. apply monGRBarAux with (l:=xs++cs). apply H. reflexivity.", "succ": true}]

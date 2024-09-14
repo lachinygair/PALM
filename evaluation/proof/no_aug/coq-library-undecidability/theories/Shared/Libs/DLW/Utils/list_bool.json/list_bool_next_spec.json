@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (list_bool_next_def l) as [m H]. apply H.", "succ": false}]

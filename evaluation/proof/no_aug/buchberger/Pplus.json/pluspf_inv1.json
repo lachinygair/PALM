@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros a b p q H. rewrite <- plusP_inv1 with (a:=a) (b:=b) (p:=p) (q:=q); auto. + apply ltT_dec. + apply eqp_eqTerm.", "succ": false}]

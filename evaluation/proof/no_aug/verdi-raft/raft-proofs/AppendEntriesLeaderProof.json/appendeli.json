@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold append_entries_leader_interface. intros net ref. unfold append_entries_leader_invariant. intros p t leaderId prevLogIndex prevLogTerm entries leaderCommit h e HinPacket BodyP CurrentT IsLeader. split. - apply HinPacket. - apply CurrentT. - apply IsLeader.", "succ": false}]

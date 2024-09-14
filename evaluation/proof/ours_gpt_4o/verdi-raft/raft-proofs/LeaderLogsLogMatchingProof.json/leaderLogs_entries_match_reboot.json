@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' H1 H2 H3. unfold leaderLogs_entries_match_host in *. intros h h' t ll H4. rewrite <- H2 in H4. apply H1 with (h := h) (h' := h') (t := t) (ll := ll) in H4. rewrite <- H3. auto.", "back_times": 0, "succ": false, "time": 132.65005922317505}]

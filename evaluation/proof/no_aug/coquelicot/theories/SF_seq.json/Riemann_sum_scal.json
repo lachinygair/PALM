@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Riemann_sum. unfold scal. unfold ModuleSpace.scal. rewrite scal_distr_r. rewrite sum_fold_plus. reflexivity.", "succ": false}]

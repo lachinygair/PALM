@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply is_LimSup_seq_unique. apply is_LimSup_seq_const.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "apply is_LimSup_seq_unique. apply is_LimSup_seq_const.", "back_times": 0, "succ": true, "time": 0.4370400905609131}]

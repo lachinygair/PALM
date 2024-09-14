@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a v. unfold not; intros. induction a; simpl in *. - inversion H. - scongruence use: freeVarSucc.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a v. unfold not; intros. induction a; simpl in *. - inversion H. - apply not_or_and in H. destruct H. apply IHa. apply H.", "succ": true}]

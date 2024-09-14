@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite <- H. apply CV_radius_ge_0.", "succ": false}]

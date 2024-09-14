@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d n H. destruct (Nat.le_exists_sub n d H) as [q [Hqn Hq0]]. exists q.", "succ": false}]

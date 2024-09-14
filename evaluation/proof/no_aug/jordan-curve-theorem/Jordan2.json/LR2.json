@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z s sr. unfold sr. unfold Iter_rem_aux. rewrite Iter_rem_aux_equation. destruct (exds_dec s (Iter (f m) (ndN m - card s) z)). - unfold not. intros Habs. apply Habs. - apply n.", "succ": false}]

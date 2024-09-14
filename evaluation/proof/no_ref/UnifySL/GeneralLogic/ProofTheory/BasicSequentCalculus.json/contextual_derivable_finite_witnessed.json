@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi y H. apply derivable_finite_witnessed in H. destruct H as [xs [H1 H2]]. exists xs. auto.", "succ": false}]

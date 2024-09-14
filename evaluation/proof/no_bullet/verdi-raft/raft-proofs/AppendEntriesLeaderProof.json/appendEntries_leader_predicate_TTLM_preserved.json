@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto unfold: type_term_log_monotonic.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros. unfold appendEntries_leader_predicate. intros H1 H2. split. - apply H1. - apply H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_client_request. intros orig_base_params one_node_params raft_params h net st' ps' out d l client id c H_handleClientRequest H_P H_reachable H_st' H_ps'. apply candidates_vote_for_selves_invariant with (net:=net); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st h' t r st' H. strivial use: handleRequestVoteReply_spec.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros h st h' t r st' H. apply handleRequestVoteReply_log in H. apply H.", "succ": true}]

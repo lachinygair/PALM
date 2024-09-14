@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite Rmult_comm. scongruence use: Rplus_0_l, Rmult_comm, Ropp_0, Rmult_0_l, Rmult_0_r, Rplus_comm, Rmult_1_l, Rplus_0_r, Rmult_minus_distr_l unfold: RtoC, Cmult, fst, Rminus, snd, C.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite Rmult_comm. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: minus_Sn_m.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m n H. apply Nat.sub_succ_l. apply le_S_n. apply H.", "succ": true}]

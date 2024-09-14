@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_opp. destruct x; simpl; auto. scongruence use: Ropp_involutive.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_opp. destruct x; simpl; auto.", "succ": true}]

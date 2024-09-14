@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold subcode in H. sauto depth: 3. destruct H as [l [r [H1 H2]]]. inversion H1. subst. left.", "repairs": ["", "hammer", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros. unfold subcode in H. destruct H as [l [r [H1 H2]]]. inversion H1. subst. left. split; auto. unfold subcode. exists l, r. auto.", "succ": true}]

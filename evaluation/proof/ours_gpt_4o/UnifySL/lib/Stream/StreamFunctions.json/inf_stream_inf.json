@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f. unfold is_inf_stream, inf_stream. intros n H. simpl in H. discriminate.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f. unfold is_inf_stream, inf_stream. intros n H. simpl in H. discriminate.", "back_times": 0, "succ": true, "time": 0.5380606651306152}]

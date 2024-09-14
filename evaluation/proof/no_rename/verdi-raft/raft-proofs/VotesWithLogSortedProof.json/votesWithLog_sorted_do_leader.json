@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_do_leader, votesWithLog_sorted. intros orig_base_params one_node_params raft_params rri si net h t h' log HvotesWithLog. apply HvotesWithLog.", "succ": false}]

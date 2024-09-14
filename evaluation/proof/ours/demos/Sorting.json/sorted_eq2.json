@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. simpl. auto.", "repairs": ["", "", ""], "exceptions": [{"ctx": ["intros n.", "simpl."], "tactic": "rewrite sorted_eq1.", "exn": "Found no subterm matching \"sorted (Nil nat)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros n. simpl. rewrite sorted_eq1. auto.", "succ": true}]

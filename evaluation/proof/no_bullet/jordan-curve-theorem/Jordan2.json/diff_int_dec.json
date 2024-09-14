@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m z a b."], "tactic": "apply classical.", "exn": "The reference classical was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros m z a b. apply classical.", "succ": false}]

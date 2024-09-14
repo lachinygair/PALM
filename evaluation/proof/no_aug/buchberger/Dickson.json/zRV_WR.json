@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply keylem with (A := nat) (B := nat) (lt := fun n m : nat => n < m) (R := PeanoNat.Nat.lt); auto. apply (jjProp1 0). auto.", "succ": false}]

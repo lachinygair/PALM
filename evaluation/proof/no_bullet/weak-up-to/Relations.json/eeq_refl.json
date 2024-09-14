@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl use: S_star.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply S_star.", "exn": "In environment X, Y : Type S, R, T : relation2 X Y Unable to unify \"star ?M1495 ?M1497 ?M1498\" with \"incl R R /\\\\ incl R R\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply S_star.", "succ": true}]

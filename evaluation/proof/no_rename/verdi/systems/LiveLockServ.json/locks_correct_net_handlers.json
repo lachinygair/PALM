@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p sigma u st' out ms H Handler_correct Locked_correct Unlock_correct Locked_correct_unlock. unfold locks_correct; intros n Held. destruct (name_eq_dec (pDst p) n) as [Eq | Neq]. + rewrite Eq. auto. + apply Held.", "succ": false, "time": 4.259001668999986}]

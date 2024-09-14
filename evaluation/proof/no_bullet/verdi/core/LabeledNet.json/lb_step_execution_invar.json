@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros step x s H. inversion H; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros step x s H. inversion H; auto.", "hammer_times": 0, "succ": true, "time": 0.5350546836853027}]

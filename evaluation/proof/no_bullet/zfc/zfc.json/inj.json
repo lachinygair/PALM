@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "apply (EQ' X).", "exn": "In environment X : Ens' Unable to unify \"Prop\" with \"Ens\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply (EQ' X).", "succ": false}]

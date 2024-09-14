@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 H3 H4. destruct H4 as [H4a H4b]. split. - auto. - rewrite mm_nullify_length. lia.", "succ": false}]

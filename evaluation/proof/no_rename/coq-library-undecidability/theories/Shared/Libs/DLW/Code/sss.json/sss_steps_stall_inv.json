@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on use: sss_steps_S_inv unfold: sss_step_stall inv: sss_steps.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. intro. intro. rewrite H0 in H1. apply conj. easy. rewrite H in H1. easy.", "succ": true}]

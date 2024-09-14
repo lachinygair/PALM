@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "{ { intros a b Hz. destruct Hz as [H | H]. - rewrite H. apply eq_refl. - destruct a, b. discriminate H. } }", "succ": false}]

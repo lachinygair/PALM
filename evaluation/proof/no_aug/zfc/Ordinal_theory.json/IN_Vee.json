@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V W H1 E H2. apply IN_INC_Union in H2. apply Ord_trans with (E' := Vee W) in H2. - apply plump with (E := Vee W); try auto. - apply Ord_intro; intros. + apply Ord_trans with (E' := Vee (f a)) in H4. apply H4. apply H3. + apply plump with (E := Vee (f a)); try auto.", "succ": false}]

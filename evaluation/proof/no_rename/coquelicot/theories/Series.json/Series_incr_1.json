@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a H_ex_series. unfold ex_series in H_ex_series. destruct H_ex_series as [l H_is_series]. rewrite (is_series_unique a l H_is_series). reflexivity.", "succ": false}]

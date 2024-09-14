@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z. rewrite Rmax_comm. scongruence use: Rmax_comm, Rmax_assoc.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z. rewrite Rmax_comm.", "succ": true}]

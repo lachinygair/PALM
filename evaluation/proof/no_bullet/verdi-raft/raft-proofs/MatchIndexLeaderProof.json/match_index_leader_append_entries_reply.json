@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_append_entries_reply, match_index_leader. simpl. intros. unfold handleAppendEntriesReply in H0. break_let. unfold pBody in H1. discriminate.", "succ": false}]

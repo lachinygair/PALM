@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a c Hin. unfold find_code. sfirstorder depth: 3use: find_code_app, restrict_code_in.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a c Hin. unfold find_code. rewrite restrict_code_app. rewrite find_code_app. rewrite -> (restrict_code_in _ _ _ a c Hin). reflexivity.", "succ": true}]

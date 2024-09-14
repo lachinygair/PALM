@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold PreOrder. split. - unfold Reflexive. intros x. reflexivity. - unfold Transitive. intros x y z H1 H2. transitivity y; auto.", "succ": false}]

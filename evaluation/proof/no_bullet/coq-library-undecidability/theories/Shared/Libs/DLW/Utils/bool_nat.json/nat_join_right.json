@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl use: nat_join_left. hauto use: nat_join_comm.", "repairs": ["cannot_unify", "hammer"], "exceptions": [{"ctx": [], "tactic": "apply nat_join_left.", "exn": "In environment n, m : nat Unable to unify \"n\" with \"m\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply nat_join_left.", "succ": true}]

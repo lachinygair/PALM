@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros step init P H. unfold true_in_reachable. intros a H'. sfirstorder use: step_star_inductive unfold: reachable, inductive_invariant.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros step init P H. unfold true_in_reachable. intros a H'. apply H in H'. apply H'.", "succ": true, "time": 0.4547190260000207}]

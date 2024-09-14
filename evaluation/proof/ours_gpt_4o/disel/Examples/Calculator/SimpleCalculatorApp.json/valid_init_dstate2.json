@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /=. apply: validUn. simpl. apply: valid_true. - by rewrite /valid. - by rewrite /valid. move=> k. simpl. rewrite /umnamed. intros. by rewrite /nullpt validPt. - by rewrite /valid. - by rewrite /valid.", "back_times": 0, "succ": false, "time": 29.51081418991089}]

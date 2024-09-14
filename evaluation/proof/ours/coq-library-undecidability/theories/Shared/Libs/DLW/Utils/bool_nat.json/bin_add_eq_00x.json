@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. hauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. rewrite bool_add_with_rem. auto.", "succ": true}]

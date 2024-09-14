@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold candidate_term_gt_log_interface. constructor. intros net H. apply candidate_term_gt_log_invariant. apply no_entries_past_current_term_invariant; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s' s m H H0. intros contra. destruct s'. - contradiction. - exists p, a. unfold states_kill_aux in H. destruct (prec_list_kill m p0) eqn:E. + inversion H. + reflexivity.", "succ": false}]

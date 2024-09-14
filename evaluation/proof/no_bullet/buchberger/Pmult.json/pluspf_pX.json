@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "apply plusP_com; auto.", "exn": "Unable to find an instance for the variables A0, A1, plusA, invA, minusA, multA, divA, ltM, p, q.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros. apply plusP_com; auto.", "succ": false}]

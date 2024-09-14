@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite Hu, Hw. unfold u, w. rewrite Hu2, Hu1. rewrite sum_powers_ortho with (n:=m)(f:=f)(e:=(fun i => 2*f i)). reflexivity. apply Hu1_u2_1.", "succ": false}]

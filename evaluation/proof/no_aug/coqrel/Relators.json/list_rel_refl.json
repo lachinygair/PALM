@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Reflexive. intros. induction x. - apply nil_rel_def. - apply cons_rel_def. apply HR. apply IHx.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold Reflexive. intros. induction x. - apply nil_rel_def. - apply cons_rel_def. apply HR. apply IHx.", "succ": true}]

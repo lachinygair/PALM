@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi H_maxConsistent x. split. - intros H_not_Phi_x. intros H_derivable_x_FF. apply H_not_Phi_x. apply H_maxConsistent. intros y H_Phi_y. assert (Phi |-- x --> FF). + apply (derivable_finite_witnessed Phi x). * auto. +", "succ": false}]

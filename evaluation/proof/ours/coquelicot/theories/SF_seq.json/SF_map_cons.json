@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold SF_cons, SF_map. simpl. f_equal.", "repairs": ["", "", ""], "exceptions": [{"ctx": ["unfold SF_cons, SF_map.", "simpl.", "f_equal."], "tactic": "unfold fst, snd.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "unfold SF_cons, SF_map. simpl. f_equal. unfold fst, snd. reflexivity.", "succ": true}]

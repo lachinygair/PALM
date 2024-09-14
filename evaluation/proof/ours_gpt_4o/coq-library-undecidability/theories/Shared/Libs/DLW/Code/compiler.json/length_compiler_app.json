@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction ll. - simpl. auto. - simpl. rewrite IHll. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction ll. - simpl. auto. - simpl. rewrite IHll. auto.", "back_times": 0, "succ": true, "time": 0.288895845413208}]

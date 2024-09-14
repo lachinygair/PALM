@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B B' H. unfold EQ. unfold Paire. intros x. split. - intros y. destruct H as [H1 H2]. simpl in H1,H2. rewrite H1. apply H2. - intros y. destruct H as [H1 H2]. simpl in H1,H2. rewrite <- H1. apply H2.", "succ": false}]

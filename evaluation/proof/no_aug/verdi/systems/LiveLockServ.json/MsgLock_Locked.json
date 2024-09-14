@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c s H0 H1 H2 H3. apply (Lock_in_network_eventually_MsgLock c s H1 H2). auto. unfold now. auto.", "succ": false, "time": 4.335730558000023}]

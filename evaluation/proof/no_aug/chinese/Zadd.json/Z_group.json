@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: addZ_opposite, addZ_neutral, addZ_associativity unfold: IdZ, intern, is_group.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (is_group Z IdZ addZ OZ oppZ).", "succ": true}]

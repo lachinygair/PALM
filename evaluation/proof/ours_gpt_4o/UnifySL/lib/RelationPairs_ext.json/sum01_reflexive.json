@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros [a | b]. -- apply sum01_ll. apply H. -- apply sum01_rr. apply H0.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros [a | b]. -- apply sum01_ll. apply H. -- apply sum01_rr. apply H0.", "back_times": 0, "succ": true, "time": 0.6474018096923828}]

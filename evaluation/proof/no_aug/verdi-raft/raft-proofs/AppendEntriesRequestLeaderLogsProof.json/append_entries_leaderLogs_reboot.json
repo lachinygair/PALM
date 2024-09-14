@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_reboot. intros. unfold append_entries_leaderLogs. unfold refined_raft_net_invariant_reboot in rri. specialize (rri _ _ _ H). apply rri.", "succ": false}]

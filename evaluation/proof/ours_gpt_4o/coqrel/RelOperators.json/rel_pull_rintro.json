@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply unfold_monotonic_rstep.", "repairs": [""], "exceptions": [{"ctx": ["apply unfold_monotonic_rstep."], "tactic": "apply rel_pull.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "apply unfold_monotonic_rstep. apply rel_pull.", "back_times": 0, "succ": true, "time": 0.558401346206665}]

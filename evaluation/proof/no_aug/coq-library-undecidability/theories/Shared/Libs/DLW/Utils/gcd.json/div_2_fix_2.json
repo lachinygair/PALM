@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Nat.lt_1_2, Nat.add_comm, Nat.mul_comm, div_prop.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold div. rewrite div_prop with (n:=1) (r:=1) (p:=2). - rewrite rem_2_fix_1. rewrite Nat.mul_1_r. reflexivity. - rewrite rem_2_fix_1. apply Nat.lt_1_2.", "succ": true}]

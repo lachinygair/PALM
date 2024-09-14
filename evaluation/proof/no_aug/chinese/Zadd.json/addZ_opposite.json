@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold opposite. unfold IdZ. hauto use: tech_pos_not_posZ, addZ_eq1, tech_add_neg_posZ, tech_add_pos_negZ, pred_succZ, add_OZ unfold: Init.Nat.add, oppZ, is_opposite.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold opposite. unfold IdZ. unfold addZ. unfold OZ. unfold oppZ. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z s Hmap Hcard n0 nr Hexds. unfold diff_int. intros i j [H1 H2]. unfold not. intros H. apply (LP7 m z s Hmap Hcard n0 nr Hexds j); split. - auto. - split. + auto. + apply H. - apply H. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E l H x Hx. unfold is_upper_bound. intros y Hy. unfold Rbar_is_lower_bound in H. unfold is_upper_bound in Hx. unfold Rbar_opp in Hx. apply H with (x := - y). apply Hx. apply Hy.", "succ": false}]

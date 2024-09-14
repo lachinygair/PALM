@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold orth_l, join_l in H. destruct a, b. - auto. - inversion H. - inversion H. - split. + auto. + auto.", "succ": true}]

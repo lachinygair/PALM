@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros i H.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros i H. destruct H as [j [H1 H2]]. apply nat_joins_binary_le_left in H2. apply H2.", "succ": false}]

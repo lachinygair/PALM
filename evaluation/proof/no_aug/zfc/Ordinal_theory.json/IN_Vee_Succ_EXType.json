@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E X H1 H2. unfold EXType. unfold Vee. unfold Succ. intros H3 H4. apply IN_Vee_EXType in H2. destruct H2 as [Y [H5 [H6 H7]]]. exists Y. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p q. induction p as [|x px IH]. - simpl. reflexivity. - simpl. rewrite IH. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p q. induction p as [|x px IH]. - simpl. reflexivity. - simpl. rewrite IH. reflexivity.", "back_times": 0, "succ": true, "time": 0.7224881649017334}]

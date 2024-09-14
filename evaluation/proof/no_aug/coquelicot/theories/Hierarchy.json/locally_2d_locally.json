@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P x y. split. - intros [delta H]. unfold locally, locally_2d.", "succ": false}]

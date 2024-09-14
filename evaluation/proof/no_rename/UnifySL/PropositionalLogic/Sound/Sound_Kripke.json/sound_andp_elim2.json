@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y m H. unfold satisfies, denote_andp. unfold Same_set in H. unfold andp. rewrite H. reflexivity.", "succ": false}]

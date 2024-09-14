@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_do_generic_server, no_entries_past_current_term. intros net st' ps' d os d' ms h Hgen Hnet Hreach Hstate Hupdate Hin. split; [apply Hnet | apply Hnet]; auto.", "succ": false}]

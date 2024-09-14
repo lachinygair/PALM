@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u v w t H1 H2. apply regulier_cons with (u:=v) (w:=t) (t:=w) (s:=w); auto. apply double_permute. apply R_permute. apply double_permute. apply R_permute. apply double_permute in H2. apply double_permute in H2. apply H2.", "succ": false}]

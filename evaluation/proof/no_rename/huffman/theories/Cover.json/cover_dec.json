@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros eqA_dec l t."], "tactic": "destruct (cover_dec l t); [left|right]; auto.", "exn": "The reference cover_dec was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros eqA_dec l t. destruct (cover_dec l t); [left|right]; auto.", "succ": false}]

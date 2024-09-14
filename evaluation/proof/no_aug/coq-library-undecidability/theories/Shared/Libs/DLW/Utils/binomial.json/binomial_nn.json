@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction n. - simpl. reflexivity. - hauto use: Nat.add_1_l, Nat.succ_inj, Nat.lt_succ_diag_r, binomial_gt unfold: binomial.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction n. - simpl. reflexivity. - rewrite binomial_n1. 2: lia. rewrite IHn. reflexivity.", "succ": true}]

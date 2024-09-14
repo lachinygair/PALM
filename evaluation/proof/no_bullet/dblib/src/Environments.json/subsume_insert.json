@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros e1 e2 H x o1 o2 H0. unfold subsume in H. unfold osub in H0. apply subsume_transitive with (e2 := e1); auto.", "succ": false}]

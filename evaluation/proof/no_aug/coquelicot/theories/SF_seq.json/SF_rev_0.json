@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: SF_size_lx_ly, size_rev.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite SF_size_ly. rewrite SF_size_lx. reflexivity.", "succ": true}]

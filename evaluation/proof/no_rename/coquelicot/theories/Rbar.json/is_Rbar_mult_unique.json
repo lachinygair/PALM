@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold is_Rbar_mult, Rbar_mult. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold is_Rbar_mult, Rbar_mult. intros H. destruct x; destruct y; try discriminate H. - injection H as H. rewrite H. reflexivity. - injection H as H. rewrite H. reflexivity. - reflexivity.", "succ": true}]

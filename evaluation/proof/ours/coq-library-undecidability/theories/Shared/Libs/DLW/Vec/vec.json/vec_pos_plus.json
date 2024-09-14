@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["rewrite vec_plus.", ""], "exn": "Cannot find an homogeneous relation to rewrite.", "type": "no_rewrite_homo", "handled": false}]}, "chat": [], "original": "rewrite vec_plus. unfold vec_plus. rewrite vec_pos_set. reflexivity.", "succ": false}]

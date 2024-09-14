@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold is_true. hauto use: ltnn, leqNgt unfold: negb.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold is_true. apply eqxx.", "succ": true}]

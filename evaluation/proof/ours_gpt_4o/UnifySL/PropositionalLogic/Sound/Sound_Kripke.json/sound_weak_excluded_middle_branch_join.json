@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x m. apply sound_excluded_middle_ident.", "back_times": 0, "succ": false, "time": 65.3745129108429}]

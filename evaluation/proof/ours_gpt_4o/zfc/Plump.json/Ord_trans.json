@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E H_ord E' H_in. unfold INC. intros E'' H_in'. apply IN_Ord_Ord with (E' := E') in H_ord; auto.", "back_times": 0, "succ": false, "time": 136.14052939414978}]

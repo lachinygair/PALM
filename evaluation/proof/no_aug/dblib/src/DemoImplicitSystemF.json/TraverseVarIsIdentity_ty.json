@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold TraverseVarIsIdentity in *. unfold traverse_var_is_identity in *. intros. apply traverse_var_is_identity with (f := f) (l := l) in H. apply H.", "succ": false}]

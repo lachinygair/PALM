@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "specialize (ZornsLemmaForPreorders _ _ H H0). intros [x H1]. exists x. intros y H2. apply H1. exists y. apply H2.", "succ": false}]

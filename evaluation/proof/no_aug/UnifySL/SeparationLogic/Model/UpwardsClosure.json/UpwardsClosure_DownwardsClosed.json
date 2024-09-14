@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_ResidualSeparationAlgebra. intros n. destruct (residue_exists n) as [m [H1 H2]]. exists m. split. - apply H1. - apply all_increasing.", "succ": false}]

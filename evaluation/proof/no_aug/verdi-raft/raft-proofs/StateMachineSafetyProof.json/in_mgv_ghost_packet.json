@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p Hin. unfold In in Hin. unfold mgv_deghost. simpl. rewrite map_map. apply in_map_iff in Hin. destruct Hin as [p_orig [Hin_eq Hin_in]]. exists p_orig. split. - apply in_map_iff. exists p. split. + symmetry. auto. + apply in_map_iff. auto. - auto.", "succ": false}]

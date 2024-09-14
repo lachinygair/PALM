@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: discHeap_ikiM', po_discHeap_R', @ikiM_dSA.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros x. unfold increasing. intros n1 n2 H. rewrite Z.mul_comm. apply Z.mul_wd; auto.", "succ": true}]

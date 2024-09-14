@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply (proj2_sig pi3_4IsPR).", "exn": "Unable to unify \"extEqual 4 (evalPrimRec 4 (proj1_sig pi3_4IsPR)) (fun _ _ c _ : nat => c)\" with \"isPR 3 (fun _ fn _ : nat => S fn)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply (proj2_sig pi3_4IsPR).", "succ": false}]

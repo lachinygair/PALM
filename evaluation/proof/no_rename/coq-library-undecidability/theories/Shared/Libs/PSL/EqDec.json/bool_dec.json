@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: dec2bool.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply dec2bool.", "exn": "In environment b : bool Unable to unify \"bool\" with \"dec b\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply dec2bool.", "succ": true}]

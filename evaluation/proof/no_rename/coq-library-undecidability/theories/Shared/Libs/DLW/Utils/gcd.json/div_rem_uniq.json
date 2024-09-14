@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros r2 n2 r1 n1 p H1 H2 H3 H4. intros Hneq Hsum Hlt1 Hlt2. apply Nat.div_mod_unique with (b:=p) (q1:=n1) (q2:=n2) (r1:=r1) (r2:=r2). - apply Hlt1. - apply Hlt2. - apply H2.", "succ": false}]

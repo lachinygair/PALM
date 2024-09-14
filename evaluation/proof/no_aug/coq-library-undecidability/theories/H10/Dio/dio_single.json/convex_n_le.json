@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. induction n. - simpl. auto. - simpl. apply Nat.add_le_mono. + apply convex_le. + apply IHn.", "succ": false}]

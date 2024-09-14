@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: eqc_B_CS, eqc_B_CN inv: dim.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m k x z t H1 H2 H3 xk m0. intros H. split. - intro H4. left. apply H4. - intro H4. right. left. split. + apply H. + apply H4.", "succ": true}]

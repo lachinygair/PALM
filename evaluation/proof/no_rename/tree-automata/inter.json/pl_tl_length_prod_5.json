@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p p' H. split. - unfold pl_tl_length_prod_def_0 in H. apply H. - unfold pl_tl_length_prod_def_1 in H. apply H.", "succ": false}]

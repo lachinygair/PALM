@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net nodes t e H_in h H_in_nodes. unfold contradicting_leader_logs, contradicting_leader_logs_on_leader in H_in. apply map_eq_nil in H_in. intros t' log' H_in_l H_gt. contradiction.", "succ": false}]

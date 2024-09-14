@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. unfold append_entries_request_term_sanity. intros p t n pli plt es ci e Hin1 Hin2 Hin3. apply Hin3.", "succ": false}]

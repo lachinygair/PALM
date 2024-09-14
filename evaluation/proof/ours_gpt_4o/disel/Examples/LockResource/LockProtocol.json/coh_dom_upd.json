@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> Hthis HlockCoh. rewrite /= in HlockCoh. case: HlockCoh. move=> _ Hdom _ _. apply: Hdom.", "back_times": 0, "succ": false, "time": 164.57400465011597}]

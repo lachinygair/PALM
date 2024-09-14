@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold valid. unfold dsoup. hauto lq: on drew: off use: pcm_validE, valid_unit unfold: DepMaps.Label, empty_dstatelet, mid inv: dstatelet.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold valid. unfold dsoup. simpl. unfold empty_dstatelet. reflexivity.", "succ": true}]

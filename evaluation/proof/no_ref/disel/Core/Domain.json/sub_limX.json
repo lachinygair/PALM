@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hlim: lim (ubysval (sval u)) \\In s). { apply: (sval u). } apply: Hlim.", "succ": false}]

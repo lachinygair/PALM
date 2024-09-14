@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros e c i H1 H2. srun best use: has_key_intro.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros e c i H1 H2. unfold has_key. rewrite H1, H2. simpl. apply andb_true_intro. split. - destruct (clientId_eq_dec c (eClient e)); auto. - apply Nat.eqb_eq. apply H2.", "succ": true}]

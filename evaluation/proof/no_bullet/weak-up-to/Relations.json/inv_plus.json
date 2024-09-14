@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["apply trans_eeq."], "tactic": "apply sym_equality.", "exn": "The reference sym_equality was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply trans_eeq. apply sym_equality.", "succ": false}]

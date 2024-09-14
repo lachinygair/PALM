@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: opp_unicity, is_group.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold is_group, Opp. intros [H1 [H2 [H3 H4]]]. apply opp_unicity in H1 as H5. unfold Opp. rewrite H3. rewrite H5. apply H3. intros x y H. apply H4. apply H1. apply H. apply H.", "succ": true}]

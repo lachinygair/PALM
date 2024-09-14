@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sauto lq: on depth: 3use: in_lb_ortho_2.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. inversion H. split. - left. reflexivity. - apply (in_lb_ortho_2 x y l m). + apply H1. + apply H3.", "succ": true}]

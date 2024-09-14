@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. apply VectorEq.eq_nth_iff. intros p1 p2 H'. rewrite <- H', H, exp_cons. auto.", "succ": false}]

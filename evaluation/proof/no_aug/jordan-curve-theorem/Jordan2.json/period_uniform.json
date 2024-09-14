@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z i H1 H2. induction i. + reflexivity. + simpl. rewrite IHi. apply Iter_plus. auto. apply exd_Iter_f_i. auto. auto. apply (Nat.le_refl (S i)).", "succ": false}]

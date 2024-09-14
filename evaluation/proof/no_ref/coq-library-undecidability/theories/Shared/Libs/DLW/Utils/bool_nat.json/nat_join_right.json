@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: nat_join_comm, nat_join_left.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply nat_join_left.", "exn": "In environment n, m : nat Unable to unify \"n\" with \"m\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply nat_join_left.", "succ": true}]

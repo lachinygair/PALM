@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Rbar_le_refl, Rbar_inv_opp, Rbar_abs_neg, Rbar_lt_le, Rbar_not_le_lt, Rbar_abs_lt_between, Rbar_le_antisym unfold: Rbar_opp, Rbar_inv, Rbar_le, Rbar_abs, Rbar_is_upper_bound.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

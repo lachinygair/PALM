@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply compose2_1IsPR with (f:= searchXY) (g:= searchXY). apply succIsPR.", "succ": false}]

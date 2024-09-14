@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": "reflexivity.", "exn": "In environment x : Map bool Unable to unify \"true\" with \"eqm_bool x x\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros x. reflexivity.", "succ": false}]

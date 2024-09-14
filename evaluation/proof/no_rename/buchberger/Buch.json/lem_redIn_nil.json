@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP Q R a b H0 H1 H2 H3 H4. intros H5 H6. induction H5. - intros H7 H8. subst. inversion H8. - intros H7 H8 H9 H10 H11. inversion H11. + subst. apply redIn0 with (P:=P) (Q:=Q) (R:=R) (b:=b); auto. + subst. apply redIn0 with (P:=P) (Q:=Q) (R:=R) (b:=b); auto.", "succ": false}]

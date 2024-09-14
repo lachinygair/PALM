@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a p q Hcanonp Hcanonq. unfold eqP, minuspf, projsig1, minusP, minuspp. simpl. rewrite pluspf_assoc. rewrite Mult.side_indep_inv. rewrite pluspf_inv2_eq. rewrite pluspf_inv1_eq. reflexivity.", "succ": false}]

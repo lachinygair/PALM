@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros z H. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros z H. apply Zeven_def2. apply Zeven_equiv in H. apply Zeven_def1 in H. destruct H as [k Hk]. exists (2 * k). rewrite Hk. rewrite Z.mul_assoc. rewrite (Z.mul_comm k 2). reflexivity.", "succ": true}]

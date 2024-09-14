@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m m' h ns nm Hpt HIn. unfold pt_map_msg in Hpt. unfold filterMap in HIn. destruct nm as [n msg]. simpl in HIn. destruct (pt_map_msg msg) eqn:Hmsg; try discriminate. inversion HIn; subst. rewrite Hmsg in Hpt. injection H. intros; auto.", "succ": false, "time": 9.267604222999978}]

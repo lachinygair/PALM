@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros w x y z H k. hauto l: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros w x y z H k. intros LiftZero. rewrite H. unfold lift at 1. unfold lift at 1. rewrite <- Nat.add_assoc. rewrite LiftZero. rewrite Nat.add_0_r. rewrite Nat.add_0_r. reflexivity.", "succ": true}]

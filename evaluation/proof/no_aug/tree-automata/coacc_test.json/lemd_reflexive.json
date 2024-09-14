@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d m H. unfold lemd. unfold ensemble_base in H. srun best use: lem_reflexive unfold: r_reflexive, ensemble_base.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d m H. unfold lemd. unfold ensemble_base in H. destruct H as [Hbase1 Hbase2]. split; auto.", "succ": true}]

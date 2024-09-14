@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Rbar_mult', Rbar_opp. destruct x, y; simpl; destruct (Rle_dec 0 r), (Rle_lt_or_eq_dec 0 r l); simpl; try rewrite Rbar_mult'; try rewrite Rbar_mult'_comm; auto.", "succ": false}]

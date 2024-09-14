@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply divides_fact. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply divides_fact. auto.", "back_times": 0, "succ": true, "time": 0.1537926197052002}]

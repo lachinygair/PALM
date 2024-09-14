@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. symmetry in H. apply divides_0 in H. symmetry in H. apply divides_anti in H. symmetry in H. apply mult_is_one in H as []. - symmetry in H. apply mult_is_O in H. auto. - exfalso. apply Nat.lxor_eq_0_iff in H. auto.", "succ": true}]

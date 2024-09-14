@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t Ht t0 Ht0. srun best use: semantic_equiv_0_6 unfold: sem_equiv_prop_l, sem_equiv_prop_t.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros t Ht t0 Ht0. apply term_list_term_ind. - apply Ht. - intros t1 H1 t2 H2. apply term_occur_0_2. + apply H1. + apply H2. - apply Ht0.", "succ": true}]

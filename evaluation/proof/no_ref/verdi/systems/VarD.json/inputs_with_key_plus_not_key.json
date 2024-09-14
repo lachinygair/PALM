@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l k i o H. unfold inputs_with_key. simpl. rewrite list_filter_app. simpl. apply filterMap_app_distinct. intros [inp out] con. simpl. destruct (key_eq_dec k (input_key inp)). - discriminate con. - reflexivity.", "succ": false, "time": 17.563302793000275}]

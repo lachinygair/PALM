@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z H1 H2 H3. unfold F, F_1. hauto use: not_exd_nil, predf_F_1, A_1_A unfold: predf, succ, F_1.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z H1 H2 H3. unfold F, F_1. rewrite A_A_1 with (k:=zero) (z:=z); auto. rewrite A_1_A with (k:=zero) (z:=z); auto.", "succ": true}]

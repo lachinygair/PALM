@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T f v Hnvf HTf. apply forallI. - apply Hnvf. - apply HTf.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros T f v Hnvf HTf. apply forallI. - apply Hnvf. - apply HTf.", "back_times": 0, "succ": true, "time": 0.63962721824646}]

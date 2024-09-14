@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: canonical_reduce.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (canonical_reduce A A0 A1 eqA plusA invA minusA multA divA cs eqA_dec n ltM ltM_dec os q).", "succ": true}]

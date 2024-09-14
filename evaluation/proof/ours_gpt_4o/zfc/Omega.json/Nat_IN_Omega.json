@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. unfold Omega. unfold IN. exists n. srun best use: EQ_refl.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. unfold Omega. unfold IN. simpl. exists n. simpl. reflexivity.", "back_times": 0, "succ": true, "time": 4.518979549407959}]

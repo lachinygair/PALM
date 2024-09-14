@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold \"\u2aaf\". exists (fun c : EILL_SEQUENT => let (p, u) := c in let (\u03a3, \u0393) := p in \u03a3; \u0393 \u22a6 u : EILL_SEQUENT). intros c. split. - intros H. apply EILL_rILL_cf_PROVABILITY. auto. - intros H. apply EILL_rILL_cf_PROVABILITY. auto.", "succ": false}]

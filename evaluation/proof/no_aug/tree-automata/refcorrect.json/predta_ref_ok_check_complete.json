@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. sfirstorder use: preDTA_ref_ok_def, predta_ref_ok_check_complete_0 unfold: predta_ref_ok_check, preDTA_ref_ok_distinct.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d H. unfold preDTA_ref_ok. intros a s c pl b H0 H1 H2. apply H in H0. apply H in H1. apply H2. auto.", "succ": true}]

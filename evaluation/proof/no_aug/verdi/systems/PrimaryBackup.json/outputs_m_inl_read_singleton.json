@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h. unfold outputs_m. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros h. unfold outputs_m. simpl. reflexivity.", "succ": true, "time": 0.10522105899963208}]

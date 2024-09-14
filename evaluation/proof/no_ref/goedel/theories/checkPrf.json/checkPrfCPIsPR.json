@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros. exists (fun x y => X (fst x) y). intros. destruct n. - apply X0. - specialize (X1 (codeArityF n) (codeF f)). destruct X1 as [y Hy]. exists y. intros. apply X0. apply Hy.", "succ": false}]

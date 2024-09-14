@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite <- f_s_app.", "exn": "Found no subterm matching \"f_s ?M1385 ++ f_s ?M1386\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite <- f_s_app. unfold f_s. auto.", "succ": false}]

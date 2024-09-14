@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: AbelianGroup.sort, Ring.AbelianGroup, Ring.base, mult, Ring.sort, Ring.mult.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y z. rewrite Ring.ax4. rewrite Ring.ax4. rewrite Ring.ax5. reflexivity.", "succ": true}]

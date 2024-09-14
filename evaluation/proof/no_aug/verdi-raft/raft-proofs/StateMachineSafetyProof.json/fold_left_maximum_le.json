@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l x. induction l; intros. - simpl. apply Nat.le_refl. - simpl. specialize (IHl (Nat.max x a)). apply Nat.le_trans with (m:=Nat.max (Nat.max x a) a). + apply fold_left_maximum_le'. apply Nat.le_max_l. + apply fold_left_maximum_le'. apply Nat.le_max_r.", "succ": false}]

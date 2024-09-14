@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f h n. unfold stream_map. simpl. destruct h as [h_prop cond]. simpl. reflexivity.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f h n. unfold stream_map. simpl. destruct h as [h_prop cond]. simpl. reflexivity.", "back_times": 0, "succ": true, "time": 0.6560311317443848}]

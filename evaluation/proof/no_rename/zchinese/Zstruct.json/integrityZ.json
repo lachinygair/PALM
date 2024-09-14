@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros S Mult O integrity_Z_ZMul zero integrity_Z_ZMul_O a H_a zero_mult_a_eq_a. symmetry. apply zero_mult_a_eq_a.", "succ": false}]

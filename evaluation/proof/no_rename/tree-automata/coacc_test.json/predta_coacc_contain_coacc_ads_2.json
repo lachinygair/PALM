@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a0 a1 a2 s1 s2 pl c H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11. apply predta_coacc_contain_coacc_ads_def_0 in H9. apply H9. apply coacc_nxt with (s1:=s1) (s2:=s2) (pl:=pl) (c:=c); auto.", "succ": false}]

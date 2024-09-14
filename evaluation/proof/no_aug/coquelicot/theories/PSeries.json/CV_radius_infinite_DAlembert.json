@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a_neq_0 lim_seq_abs_a_ratio_lim_0. apply CV_radius_finite_DAlembert. - apply a_neq_0. - apply is_lim_seq_const. - apply lim_seq_abs_a_ratio_lim_0.", "succ": false}]

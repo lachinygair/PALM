@@ -1,0 +1,1 @@
+[{"history": {"proof": "pose proof (Fin.eq_dec p pos0) as H_dec. destruct H_dec. - left. auto. - right. sauto lq: on dep: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "pose proof (Fin.eq_dec p pos0) as H_dec. destruct H_dec. - left. auto. - right. exists p. auto.", "succ": true}]

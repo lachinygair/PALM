@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. hauto lq: on drew: off use: Nat.le_add_r, Nat.add_comm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. apply Nat.sub_add_le in H. apply le_lt_dec in H. destruct H. - apply l. - apply Nat.lt_sub_lt_add_r in l. apply lt_O_minus_lt in l. apply l.", "succ": true}]

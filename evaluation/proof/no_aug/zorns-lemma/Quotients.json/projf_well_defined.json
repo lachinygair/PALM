@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a1 a2 H. unfold projf. unfold quotient_projection. srun best use: quotient_projection_collapses_R unfold: quotient_projection.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a1 a2 H. unfold projf. unfold quotient_projection. reflexivity.", "succ": true}]

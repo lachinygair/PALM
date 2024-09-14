@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. unfold ltBool in H. destruct (le_lt_dec b a) as [Hle | Hlt]. - discriminate. - apply Hlt.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a b H. unfold ltBool in H. unfold ltBool. destruct (le_lt_dec b a) as [Hle | Hlt]. - discriminate. - apply Hlt.", "succ": true}]

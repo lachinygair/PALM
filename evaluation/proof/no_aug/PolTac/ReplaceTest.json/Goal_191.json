@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c d H1 H2. qauto use: Z.add_cancel_r, Z.add_comm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros a b c d H1 H2. rewrite H1. rewrite H2. reflexivity.", "succ": true}]

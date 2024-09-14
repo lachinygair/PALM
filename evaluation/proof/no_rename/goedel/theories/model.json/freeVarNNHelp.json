@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros L M nnHelp f. induction f using Formula_depth_ind2. - simpl. reflexivity. - simpl. rewrite <- nnHelp. reflexivity. - simpl. rewrite IHf1, IHf2. reflexivity. - simpl. rewrite IHf. reflexivity. - simpl. rewrite <- nnHelp, <- nnHelp. reflexivity.", "succ": false}]

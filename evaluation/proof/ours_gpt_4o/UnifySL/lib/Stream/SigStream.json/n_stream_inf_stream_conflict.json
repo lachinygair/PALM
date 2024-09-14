@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h n [hnnone hnnotnone] hinf. specialize (hinf n). apply hinf. apply hnnone.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros h n [hnnone hnnotnone] hinf. specialize (hinf n). exfalso. apply hinf. apply hnnone.", "back_times": 0, "succ": true, "time": 0.6963508129119873}]

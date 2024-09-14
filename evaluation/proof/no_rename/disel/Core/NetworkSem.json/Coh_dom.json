@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this l s Hdom HCoh. unfold dom in Hdom. unfold Coh in HCoh. unfold gets in Hdom. unfold dstate in Hdom. rewrite <- Hdom.", "succ": false}]

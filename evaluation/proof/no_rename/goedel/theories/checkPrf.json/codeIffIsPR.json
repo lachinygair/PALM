@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR, codeIff. intros n f1 f2 H1 H2 x y. pose (g := fun z => if z then f1 x y else f2 x y). apply compose2_1IsPR with (g:=g). - apply compose1_2IsPR; auto. - apply H1. - apply H2.", "succ": false}]

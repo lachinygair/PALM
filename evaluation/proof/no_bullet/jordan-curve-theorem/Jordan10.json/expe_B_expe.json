@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x z t Hmap Hexpe. apply (expe_L_B_top_bot m x z t Hmap).", "succ": false}]

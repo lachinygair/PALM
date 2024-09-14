@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P HP. unfold isPR in *. unfold isPRrel in *. unfold boundedSearch. apply HP.", "succ": false}]

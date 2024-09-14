@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l ks c i. unfold a_equiv. intros H. unfold assoc_default. rewrite get_set_diff_default. rewrite get_set_same_default. rewrite assoc_default_a_equiv with (l' := log_to_ks' l (assoc_set clientId_eq_dec ks c i)). apply H.", "succ": false}]

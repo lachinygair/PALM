@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /behead /unzip1. destruct s as [| [a b] s'] eqn:Heq. - reflexivity. - reflexivity.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "rewrite /behead /unzip1. destruct s as [| [a b] s'] eqn:Heq. - reflexivity. - reflexivity.", "succ": true}]

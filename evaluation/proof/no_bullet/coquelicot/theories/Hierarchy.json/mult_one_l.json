@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": "rewrite mult_one_r.", "exn": "The LHS of mult_one_r (mult _ one) does not match any subterm of the goal", "type": "no_match_term", "handled": true}]}, "chat": [], "original": "intros x. rewrite mult_one_r.", "succ": false}]

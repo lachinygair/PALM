@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. destruct (ghost_msg_eq_dec x y). - left. apply e. - right. intros contra. inversion contra. contradiction.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros L P H n b H1. generalize dependent b. induction n as [|n' IHn]. - intros b H1. apply H. - intros b H1. apply H. intros b' H2. apply IHn. simpl in H1. apply le_S_n in H1. apply H1.", "succ": false}]

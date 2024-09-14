@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /iter_nat. rewrite (iota_addl n 0) /= addn0 subnn. rewrite iter_cat. rewrite iter_nil /= 2!neutral_l. rewrite iter_rcons 2!neutral_r. rewrite (iota_0_rcons n). rewrite big_nil addn0 //. rewrite big_add1_iter. rewrite //.", "back_times": 0, "succ": false, "time": 44.45085525512695}]

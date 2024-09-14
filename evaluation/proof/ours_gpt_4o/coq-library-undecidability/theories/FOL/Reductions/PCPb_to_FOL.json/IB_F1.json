@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply IB_F1.", "exn": "The reference IB_F1 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply IB_F1.", "back_times": 1, "succ": false, "time": 57.99087905883789}]

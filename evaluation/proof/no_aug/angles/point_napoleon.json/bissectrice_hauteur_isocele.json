@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: symetrique, transitive, abba, angle_nul, non_zero_pi.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros I A B C H1 H2. unfold isocele. apply (triangle_isocele A B C). apply H2. apply H1.", "succ": true}]

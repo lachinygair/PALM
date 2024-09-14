@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_min. destruct x; destruct y; auto. hauto use: Rle_antisym, Rnot_lt_le unfold: Rle, Rmin.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_min. destruct x; destruct y; auto.", "succ": true}]

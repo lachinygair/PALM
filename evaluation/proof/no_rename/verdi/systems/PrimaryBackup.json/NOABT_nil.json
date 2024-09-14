@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A. unfold no_output_at_backup_trace. intros x H. inversion H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A. unfold no_output_at_backup_trace. intros x H. inversion H.", "succ": true, "time": 0.18037861999982852}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net h. unfold deghost, snd, nwState. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net h. unfold deghost, snd, nwState. rewrite deghost_spec. reflexivity.", "succ": true}]

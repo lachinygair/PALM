@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m u Hmonoid n f i H1 H2. apply msum_of_unit. intros j H3 H4. apply H2; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (norm_factor = 1 * norm_factor) as H by auto. rewrite H. apply Rmult_lt_0_compat. - apply Rlt_R0_R2. - apply cond_pos.", "succ": false}]

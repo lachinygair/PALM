@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hv Hu. apply is_lim_seq_le_p_loc. - intros n. specialize (Hv n). specialize (Hu n). apply Hv. - apply Hu.", "succ": false}]

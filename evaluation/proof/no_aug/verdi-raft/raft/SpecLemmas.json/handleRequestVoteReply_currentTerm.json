@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st h' t r x Hx. apply Le.le_trans with (m:= x) (n:= currentTerm st). auto. apply handleRequestVoteReply_currentTerm'.", "succ": false}]

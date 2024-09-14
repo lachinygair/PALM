@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["apply limE."], "tactic": "apply: subsume_chain.", "exn": "The reference subsume_chain was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply limE. apply: subsume_chain. Defined.", "back_times": 0, "succ": false, "time": 79.75166416168213}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hf Hg. destruct Hf as [Lf Hf']. destruct Hg as [Lg Hg']. exists (Lf * g x + f x * Lg). apply is_derive_mult; auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hf Hg. destruct Hf as [Lf Hf']. destruct Hg as [Lg Hg']. exists (Lf * g x + f x * Lg). apply is_derive_mult; auto.", "succ": true}]

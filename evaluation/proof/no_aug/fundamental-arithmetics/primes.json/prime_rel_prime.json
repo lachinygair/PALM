@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a Hprime Hnrel. apply prime_div_gcd in Hprime. apply divides_antisym. apply Hnrel. apply Hprime.", "succ": false}]

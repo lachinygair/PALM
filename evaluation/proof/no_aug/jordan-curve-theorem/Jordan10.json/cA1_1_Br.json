@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l m z H_inv_hmap. unfold cA_1. unfold cA_1. destruct H_inv_hmap as [H_inv_hmap _]. simpl. rewrite <- H_inv_hmap. reflexivity.", "succ": false}]

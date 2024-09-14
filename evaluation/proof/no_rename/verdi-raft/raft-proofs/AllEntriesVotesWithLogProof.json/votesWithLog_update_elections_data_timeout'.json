@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h out st' ps t' h' l' H1 H2 H3. intros H_ref H_timeout H_in. right. split. - apply H_in. - split; [|split]. + apply H_timeout. + apply H_in. + apply H_timeout.", "succ": false}]

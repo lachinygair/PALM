@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold continuity_pt, ex_finite_lim in *. srun best use: is_lim_continuity unfold: continuity_pt.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold continuity_pt, ex_finite_lim in *. intros. destruct H as [l H1]. exists l. apply (is_lim_continuity f x H0).", "succ": true}]

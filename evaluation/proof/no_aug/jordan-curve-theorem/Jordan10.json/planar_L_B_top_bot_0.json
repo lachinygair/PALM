@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x inv succ planar. apply planarity_crit_0. apply inv. apply succ. apply planar. apply betweene_bottom_x_top. apply inv. apply succ. apply planar_B0. apply inv. apply succ.", "succ": false}]

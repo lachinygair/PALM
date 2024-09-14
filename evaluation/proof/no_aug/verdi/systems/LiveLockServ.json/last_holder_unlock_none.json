@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros tr c H. unfold last_holder in *. srun best use: last_holder'_unlock_none.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros tr c H. unfold last_holder in *. rewrite H. simpl. reflexivity.", "succ": true, "time": 0.7095816239998385}]

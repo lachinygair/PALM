@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. unfold sign. destruct (total_order_T 0 x) as [[Hx|Hx]|Hx]. - reflexivity. - exfalso. apply (Rlt_irrefl 0). rewrite <- Hx. apply H. - exfalso. apply (Rlt_irrefl 0). apply Rlt_trans with (r2 := 0); [apply Rlt_0_1 | apply Hx].", "succ": false}]

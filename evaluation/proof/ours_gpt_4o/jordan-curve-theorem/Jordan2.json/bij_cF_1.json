@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m H. split. - apply inj_cF_1. apply H. - apply surj_cF_1. apply H.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m H. split. - apply inj_cF_1. apply H. - apply surj_cF_1. apply H.", "back_times": 0, "succ": true, "time": 1.0364279747009277}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros dX nX. destruct (dX). - auto. - exfalso. apply nX. auto.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros dX nX. destruct (dX). - auto. - exfalso. apply nX. auto.", "back_times": 0, "succ": true, "time": 0.09690570831298828}]

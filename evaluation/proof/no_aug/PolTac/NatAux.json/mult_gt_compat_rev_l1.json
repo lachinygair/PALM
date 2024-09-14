@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. qauto use: gt_0_eq unfold: Init.Nat.mul, gt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply mult_lt_compat_rev_l1 with (n := p) (m := m) in H. apply mult_gt_compat_l in H as [Hp_pos H']. auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. apply Nat.mul_le_mono_nonneg_r. - apply Nat.le_0_l. - apply H.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n m p H. apply Nat.mul_le_mono_nonneg_r. - apply Nat.le_0_l. - apply H.", "back_times": 0, "succ": true, "time": 0.5811681747436523}]

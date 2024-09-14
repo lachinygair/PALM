@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros [a|]. - apply Some_Some_option00. apply H. - apply None_None_option00.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros [a|]. - apply Some_Some_option00. apply H. - apply None_None_option00.", "back_times": 0, "succ": true, "time": 0.9664723873138428}]

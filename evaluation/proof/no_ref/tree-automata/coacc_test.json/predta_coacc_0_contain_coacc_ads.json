@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d d' a s c p b m H1 H2 H3 H4 H5 H6. apply map_get_true. - apply H1. - apply predta_coacc_0_def_ok. - apply H3. - apply H4. - apply H5. - apply H6.", "succ": false}]

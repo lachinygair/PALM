@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. apply continuity_2d_pt_ext with (f := fun u v => -1 * f u v). - intros u v. reflexivity. - apply continuity_1d_2d_pt_comp with (f := fun z => -z). + apply continuity_2d_pt_const. + apply H.", "back_times": 0, "succ": false, "time": 68.11224889755249}]

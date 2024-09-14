@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: eqA_ref.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (eqA_ref A A0 eqA cs).", "succ": true}]

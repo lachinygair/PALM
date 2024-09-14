@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros pl0 pl1. unfold pl_essence. sfirstorder use: Nat.add_le_mono, pl_card_0, Nat.add_1_l.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros pl0 pl1. unfold pl_essence. unfold pl_card. simpl. omega.", "succ": true}]

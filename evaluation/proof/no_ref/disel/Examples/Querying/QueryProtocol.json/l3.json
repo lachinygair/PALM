@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro d'. sauto lq: on depth: 3.", "repairs": ["used_var", "hammer"], "exceptions": [{"ctx": [], "tactic": "intro d.", "exn": "d is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intro d. unfold qcoh in d. move: d => [dsoup_val [dstate_val dom_eq _]]. exact: dom_eq.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @provable_impp_refl unfold: sepcon inv: WandAxiomatization.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. pose proof wand_proper_iffp L minL sepconL wandL Gamma minAX sepconAX wandAX as H1. pose proof sepcon_elim1 L as H2. rewrite <- H1. apply wand_andp.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: pred_of_minus, Nat.sub_0_l, Nat.mul_0_r, Nat.mul_comm, Nat.mul_pred_r, Nat.mul_0_l, Nat.pred_0 unfold: Init.Nat.pred.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

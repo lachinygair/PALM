@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f x H. unfold ex_lim in *. destruct H as [l Hlim]. exists (- l). apply is_lim_opp. apply Hlim.", "succ": false}]

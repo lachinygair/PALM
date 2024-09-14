@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply lt.", "exn": "Unable to unify \"Prop\" with \"DecRel nat lt\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply lt.", "succ": false}]

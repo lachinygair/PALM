@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold rem. rewrite Nat.mul_comm. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold rem. rewrite Nat.mul_comm. rewrite Nat.rem_mul_r. simpl. auto.", "succ": true}]

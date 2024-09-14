@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite (vec_split_app X n m (Vector.cons X x n v) w). rewrite (vec_app_split X n m (Vector.cons X x n v w)). reflexivity.", "succ": false}]

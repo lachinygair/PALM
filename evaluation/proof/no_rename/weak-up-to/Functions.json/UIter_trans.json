@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros R.", "unfold UIter."], "tactic": "rewrite <- HF.", "exn": "Found no subterm matching \"F (trans ?r)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros R. unfold UIter. rewrite <- HF. apply trans_eeq.", "succ": false}]

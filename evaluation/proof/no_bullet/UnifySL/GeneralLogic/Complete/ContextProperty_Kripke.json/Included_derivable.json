@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Phi x H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros Phi x H."], "tactic": "intros y Hin.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros Phi x H. unfold Included. intros y Hin. auto.", "succ": true}]

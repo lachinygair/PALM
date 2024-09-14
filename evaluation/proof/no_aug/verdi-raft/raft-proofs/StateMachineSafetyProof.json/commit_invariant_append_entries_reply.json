@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold msg_refined_raft_net_invariant_append_entries_reply, commit_invariant. intros; apply msg_refined_raft_net_invariant_append_entries_reply; auto.", "succ": false}]

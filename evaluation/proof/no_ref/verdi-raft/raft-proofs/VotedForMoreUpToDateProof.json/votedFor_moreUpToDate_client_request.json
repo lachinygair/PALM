@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold votedFor_moreUpToDate. intros. destruct raft_params as [N input_eq_dec output_eq_dec clientId clientId_eq_dec]. destruct net. intros. specialize (H t h h').", "succ": false}]

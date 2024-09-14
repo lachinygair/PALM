@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' z Hmap Hlink. unfold cF_1. unfold Br1. destruct Hlink as [Hneq Hexpe]. unfold cF. destruct (eq_dart_dec (cA m one z) (cA m one z)) as [_ | Hcontr]; [reflexivity | contradiction].", "succ": false}]

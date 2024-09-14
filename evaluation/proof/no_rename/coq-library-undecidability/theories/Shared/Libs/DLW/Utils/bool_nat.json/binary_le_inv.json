@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on rew: off depth: 3use: div_rem_spec1, in_ble_1.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m n H. intros H1. apply in_ble_1 in H1. - right. split. + apply div_rem_spec1. + apply H1. - left. apply H1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a la ls hd b tl r H1 H2 l H3 H4. apply rec_co_consi; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros d a la ls hd b tl r H1 H2 l H3 H4. apply rec_co_consi; auto.", "succ": true}]

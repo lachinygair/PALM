@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. exfalso. apply H. destruct n. - reflexivity. - reflexivity.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n H. exfalso. apply H. destruct n. - reflexivity. - reflexivity.", "back_times": 0, "succ": true, "time": 0.6642811298370361}]

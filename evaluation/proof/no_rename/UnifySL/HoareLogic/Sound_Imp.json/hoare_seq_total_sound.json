@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c1 c2 P1 P2 P3 H1 H2 s_pre ms_post Hpre Haccess. unfold triple_total_valid in H1, H2. intros s0 Hpre0. specialize (H1 s_pre ms_post Hpre Haccess s0 Hpre0) as H1'. specialize (H2 (Terminating s0) ms_post H1') as H2'. apply H2'.", "succ": false}]

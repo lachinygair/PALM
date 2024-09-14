@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m0 m1 a H H0. apply map_or_mapget_true_l with (a:=a) in H; auto. apply map_or_mapget_true_ld; auto.", "succ": false}]

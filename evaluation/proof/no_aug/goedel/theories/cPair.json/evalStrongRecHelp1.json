@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f n m H. unfold evalStrongRec. unfold evalStrongRecHelp. rewrite minus_Sn_m. rewrite Nat.sub_succ_r. rewrite <- Nat.add_succ_r. rewrite reduce2ndCompose. rewrite <- replaceCompose2. simpl. reflexivity.", "succ": false}]

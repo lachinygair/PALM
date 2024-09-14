@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P LPO_min. pose proof (LPO_min P) as [[n H1]|H2]. - left. exists n. apply H1. - right. intros n H3. destruct (H2 n) as [H4 _]. contradiction (H4 H3).", "succ": false}]

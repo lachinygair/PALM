@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a0 a1 a2 H1 H2. apply coacc_transitive_1 with (s1:=MapGet state d a0) (s2:=MapGet state d a1) (pl:=MapGet prec_list (MapGet state d a1) a2). - auto. - auto. - auto. - auto. - apply coacc_nxt with (s1:=MapGet state d a1); auto.", "succ": false}]

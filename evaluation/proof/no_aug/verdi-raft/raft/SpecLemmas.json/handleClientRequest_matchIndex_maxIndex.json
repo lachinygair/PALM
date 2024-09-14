@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st client id c out st' ps H. split. - apply handleClientRequest_log in H. destruct H as [H1 H2]. apply H1. - apply handleClientRequest_log in H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H l x. apply size_induction with (f := fun x => f l x). intros l0 x0 IH. apply H. apply IH.", "back_times": 0, "succ": false, "time": 86.48455238342285}]

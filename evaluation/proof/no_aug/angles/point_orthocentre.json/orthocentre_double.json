@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold double. unfold cons. unfold plus. apply somme_triangle.", "succ": false}]

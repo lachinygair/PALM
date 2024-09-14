@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. induction l as [| [n m] l' IHl]. - simpl. auto. - simpl. destruct p as [ps pd pm]. intros H. inversion H. subst. clear H. rewrite filterMap_pt_map_packet_map_eq.", "succ": false, "time": 14.76328217699998}]

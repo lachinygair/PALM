@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. apply sss_compute_trans with (st2:=st2); auto.", "succ": false}]

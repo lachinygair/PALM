@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold every_entry_was_created_host_log_interface. intros. apply Build_every_entry_was_created_host_log_interface. intros. apply every_entry_was_created_in_any_log_invariant with net e. auto. auto.", "succ": false}]

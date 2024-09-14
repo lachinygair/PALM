@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction A as [|a A IH]. - simpl. reflexivity. - simpl. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction A as [|a A IH]. - simpl. reflexivity. - simpl. rewrite <- equi_push. rewrite IH. reflexivity.", "succ": true}]

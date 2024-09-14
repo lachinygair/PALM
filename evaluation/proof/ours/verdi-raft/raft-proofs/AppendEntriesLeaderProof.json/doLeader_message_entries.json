@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto use: @doLeader_message_entries, @doLeader_messages.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros. inversion H0; subst. split. - apply H4. - split. + apply H5. + eapply doLeader_same_log; eauto.", "succ": true}]

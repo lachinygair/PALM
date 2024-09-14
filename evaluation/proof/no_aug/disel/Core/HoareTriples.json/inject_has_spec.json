@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold inject_prog, inject_s. intros. apply bind_has_spec with (e2 := fun _ => e). apply DTbin_make. auto.", "succ": false}]

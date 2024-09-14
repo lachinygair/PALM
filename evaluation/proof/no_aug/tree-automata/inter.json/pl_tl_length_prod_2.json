@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. hauto use: pl_tl_length_prod_1 unfold: pl_tl_length_prod_def_1 inv: pl_tl_length.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p. apply (pl_tl_length_prod_def_1 p prec_empty).", "succ": true}]

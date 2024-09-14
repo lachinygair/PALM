@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold nat_to_ring. reflexivity.", "repairs": ["", ""], "exceptions": [{"ctx": ["unfold nat_to_ring."], "tactic": "rewrite sum_O.", "exn": "The LHS of sum_O (sum_n _ 0) does not match any subterm of the goal", "type": "no_match_term", "handled": true}]}, "chat": [], "original": "unfold nat_to_ring. rewrite sum_O. reflexivity.", "succ": true}]

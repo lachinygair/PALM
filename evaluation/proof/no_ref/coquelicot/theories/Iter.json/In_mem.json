@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold In, is_true. apply iff_reflect. symmetry. apply in_seq.", "succ": false}]

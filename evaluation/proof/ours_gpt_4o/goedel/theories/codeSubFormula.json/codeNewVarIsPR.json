@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply (projT2 (isPR_natEmbedding1 1)).", "exn": "The reference isPR_natEmbedding1 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply (projT2 (isPR_natEmbedding1 1)).", "back_times": 0, "succ": false, "time": 35.203593492507935}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net. unfold pt_map_net, deserialize_net. simpl. rewrite filterMap_compose. rewrite filterMap_id. reflexivity.", "succ": false, "time": 22.480199529999936}]

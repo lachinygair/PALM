@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Ca Cb. unfold spolyf. unfold mults. unfold eqP. unfold invTerm. unfold mults. unfold eqP. simpl. rewrite <- map_rev. rewrite <- map_rev. rewrite <- map_map. apply map_eq. intros t H. rewrite invTerm_invTerm. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E'. unfold IN. unfold Paire. exists true. simpl. apply EQ_refl.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros E E'. unfold IN. unfold Paire. simpl. exists true. simpl. apply EQ_refl.", "back_times": 0, "succ": true, "time": 1.1924428939819336}]

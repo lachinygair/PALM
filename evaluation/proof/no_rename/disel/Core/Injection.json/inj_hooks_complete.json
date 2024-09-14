@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros W U K H1 H2 H3 H4. unfold union_mapPCM in H1. unfold union_mapPCM in H4. intros. apply Injection.injects; auto.", "succ": false}]

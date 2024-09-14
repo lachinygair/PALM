@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: step_coh, cohS.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros w this s2 s1 H. inversion H; subst. - apply stepV1 in H1. apply cohS. auto. - apply step_preserves_labels in H1. apply cohS. auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params. unfold term_sanity_interface. constructor. intros net H_net. apply (no_entries_past_current_term_invariant orig_base_params one_node_params raft_params net H_net).", "succ": false}]

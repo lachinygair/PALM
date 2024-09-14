@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros WF_leA. unfold well_founded in WF_leA. unfold Lex_Exp. apply wf_clos_trans. apply WF_leA.", "succ": false}]

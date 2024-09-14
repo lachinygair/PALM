@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (h : X -> Y). - intros x. apply g. apply (f_inj x). exists h. split. + intros x1 x2 H. destruct (f_inj x1 x2). * apply H0. * rewrite <- H. apply H0. + intros y. exists (g y). apply f_inj.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x z t Hmap Hsucc Hinv. split. - intros H. apply H. - intros [H1 | [H2 H3] | [H4 H5]]. + left. apply H1. + right. apply H3. + right. split; apply H5.", "succ": false}]

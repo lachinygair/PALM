@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. unfold induced_function3. unfold quotient_projection. reflexivity.", "succ": false}]

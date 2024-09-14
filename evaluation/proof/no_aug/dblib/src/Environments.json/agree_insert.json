@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A e1 e2 k H x o H0 H1. unfold agree in H. intros H2. apply (length_insert 0 (1 + k)). - simpl. rewrite H0. auto. - lia. - lia.", "succ": false}]

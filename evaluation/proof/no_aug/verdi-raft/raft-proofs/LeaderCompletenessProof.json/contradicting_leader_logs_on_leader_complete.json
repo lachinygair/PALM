@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t e t' l ll H1 H2 H3. unfold contradicting_leader_logs_on_leader. destruct ll as [| [t'' log''] ll']. - contradiction. - simpl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l c. induction l; simpl; auto. srun best use: Nat.max_r, high_aux_1, Nat.le_ge_cases, Nat.max_l, le_n_S, Nat.le_0_l.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l c. induction l; simpl; auto.", "succ": true}]

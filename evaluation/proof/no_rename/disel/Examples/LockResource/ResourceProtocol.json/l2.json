@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto q: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros server clients Hnin Huniq d Hres_coh. unfold resource_coh, valid in Hres_coh. destruct d as [d_state d_soup]. simpl in Hres_coh. destruct Hres_coh as [Hsoup_coh _ _ _]. apply Hsoup_coh.", "succ": true}]

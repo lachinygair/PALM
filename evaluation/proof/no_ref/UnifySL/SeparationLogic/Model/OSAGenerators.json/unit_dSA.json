@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: unit_SA.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply unit_SA.", "exn": "Unable to unify \"SeparationAlgebra unit\" with \"DownwardsClosedSeparationAlgebra unit\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply unit_SA.", "succ": true}]

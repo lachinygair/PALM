@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b delta. exists (mkposreal (delta a)). intros x Hx contra. apply contra.", "succ": false}]

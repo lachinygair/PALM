@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net H_refined. unfold no_append_entries_to_self. intros p t n pli plt es ci Hin Hpbody Heq. fcrush depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold no_append_entries_to_self. intros p t n pli plt es ci Hin Hpbody Heq. apply H_refined in Hin. apply Hin; auto.", "succ": true}]

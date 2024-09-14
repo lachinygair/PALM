@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. destruct v. - simpl. intros. inversion H. - simpl. intros. pose proof vec_pos_ext n v (x##v) as Q. specialize (Q _ _ (fun p => eq_refl (vec_pos (x##v) p))). exists pos0. rewrite Q. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b1 H. unfold sum_order, le_sum in *. apply le_bool_correct3 in H. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a b1 H. unfold sum_order, le_sum in *. simpl in H. apply le_bool_correct3 in H. apply H.", "succ": true}]

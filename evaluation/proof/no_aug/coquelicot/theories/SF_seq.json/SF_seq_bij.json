@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite (surjective_pairing s). destruct s as [h t]. simpl. rewrite (eq_sig2_nondep _ _ eq_refl eq_refl eq_refl). rewrite (eq_sig2_nondep _ _ eq_refl eq_refl eq_refl). rewrite (surjective_pairing t). reflexivity.", "succ": false}]

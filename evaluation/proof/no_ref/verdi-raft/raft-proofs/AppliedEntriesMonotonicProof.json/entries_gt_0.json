@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p es e H_reachable H_in_p H_mEntries H_in_e. unfold mEntries in H_mEntries. destruct (pBody p) eqn:H_pBody; try discriminate. inversion H_mEntries; subst. clear H_mEntries. unfold mEntries_result in H. apply findAtIndex_intro with (e:=e) in H; auto.", "succ": false}]

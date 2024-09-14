@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l1 l2 c. induction l1 as [| a1 l1' IHl1]. - simpl. reflexivity. - simpl. rewrite IHl1. srun best use: app_assoc.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l1 l2 c. induction l1 as [| a1 l1' IHl1]. - simpl. reflexivity. - simpl. rewrite IHl1. reflexivity.", "succ": true}]

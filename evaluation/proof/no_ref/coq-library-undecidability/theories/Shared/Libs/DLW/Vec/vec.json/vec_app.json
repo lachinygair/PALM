@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["apply VectorDef.trunc with (p:=n) (A:=X) in v.", ""], "exn": "No such bound variable A (possible name is: p).", "type": "no_such_bound", "handled": false}]}, "chat": [], "original": "apply VectorDef.trunc with (p:=n) (A:=X) in v. apply v.", "succ": false}]

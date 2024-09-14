@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: is_lim_continuity, is_lim_unique.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f x cont_f_x. apply is_lim_unique. apply Lim_correct. apply ex_finite_lim_correct. apply cont_f_x. apply cont_f_x.", "succ": true}]

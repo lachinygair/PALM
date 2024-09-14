@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: linker_app.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. apply linker_app in H. rewrite app_length. simpl. rewrite plus_0_r. rewrite Nat.eq_succ_r. simpl. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. unfold cPairPi2. srun best use: cPairProjections, cPairProjections1, cPairInj2 unfold: cPairPi2, cPair.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. unfold cPairPi2. rewrite cPairProjections1. reflexivity.", "succ": true}]

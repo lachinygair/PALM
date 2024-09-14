@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: in_split, Permutation_sym, Permutation_vs_elt_inv.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X l2 l1 H x Hin. apply In_perm in Hin. destruct Hin as [m Hperm]. apply in_split in H. destruct H as [l [r Heq]]. exists l, r. rewrite Heq in Hperm. auto.", "succ": true}]

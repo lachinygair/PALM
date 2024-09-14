@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_RInt_ext with (fun t => fst (f t)). - intros. simpl. reflexivity. - auto.", "succ": false}]

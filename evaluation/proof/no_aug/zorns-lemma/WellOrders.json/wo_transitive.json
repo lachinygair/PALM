@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros R wo x y z Hxy Hyz. unfold transitive in *. apply (wo_total_strict_order T R wo) with (y:=y). auto. auto.", "succ": false}]

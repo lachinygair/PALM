@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h i sigma u st' out ms p p' H1 H2 H3 H4 H5 H6. unfold LockServ_network_network_invariant. split; intros; contradiction.", "succ": false, "time": 3.3827518289999716}]

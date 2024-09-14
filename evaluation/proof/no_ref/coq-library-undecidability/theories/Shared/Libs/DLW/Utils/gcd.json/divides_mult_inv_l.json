@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. qauto use: divides_mult, Nat.mul_comm, divides_mult_inv unfold: divides, Init.Nat.mul.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. apply Nat.divide_div_div. - apply H. - apply Nat.divide_mul_l with (p := q). apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold monotone, pow."], "tactic": "intros n m x y Hleqxy.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "unfold monotone, pow. intros n m x y Hleqxy. induction n. - simpl. apply CPO.axiom. - simpl. apply continuous. apply IHn.", "succ": false}]

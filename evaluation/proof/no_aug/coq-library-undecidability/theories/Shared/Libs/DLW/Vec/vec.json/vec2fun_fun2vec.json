@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro H. rewrite vec_pos_fun2vec. rewrite vec_pos_fun2vec. rewrite fun2vec_id. rewrite vec_set_pos. rewrite Nat.add_0_r. rewrite <- plus_n_O. reflexivity.", "succ": false}]

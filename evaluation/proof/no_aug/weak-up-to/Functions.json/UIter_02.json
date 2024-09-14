@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold contains, UIter. intros x y H. unfold UIter. unfold contains in HF0. apply (HF0 (F (UIter F))).", "succ": false}]

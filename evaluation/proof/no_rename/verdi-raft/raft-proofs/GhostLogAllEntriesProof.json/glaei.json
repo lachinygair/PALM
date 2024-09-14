@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hrefined HghostLog. apply Build_ghost_log_allEntries_interface. intros net' HMsgRefined. apply (ghost_log_allEntries_invariant net'). - apply Hrefined. - apply (iliaei net' HMsgRefined).", "succ": false}]

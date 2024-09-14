@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros \ud835\udd3bR_R \ud835\udd3bR_S. unfold \ud835\udd3bR. intros \u03bd [H_R | H_S]. - apply dio_rel_conj. + apply \ud835\udd3bR_R. apply H_R. + apply dio_rel_cst. apply H_S. - apply dio_rel_conj. + apply \ud835\udd3bR_S. apply H_S. + apply dio_rel_cst. apply H_S.", "succ": false}]

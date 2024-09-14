@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold refined_raft_net_invariant_init. unfold requestVoteReply_term_sanity in *. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_init. unfold requestVoteReply_term_sanity in *. intros net t p Hin Hp. apply Hp. auto.", "succ": true}]

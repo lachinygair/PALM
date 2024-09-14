@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP R Q a b Hin_aP Hin_b redIn_ab_aP_QR c Q1 H1 H2. apply lem_redln_cons with (c:=c) (Q1:=Q1); auto.", "succ": false}]

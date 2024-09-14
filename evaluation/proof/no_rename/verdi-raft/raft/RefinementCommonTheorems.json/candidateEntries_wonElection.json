@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net e h H H0 H1 H2 H3 H4 H5 H6. apply H1 with (e := e) in H3. - apply H0 in H3. + destruct H3 as [h' [H3 H7]]. apply H in H3. * destruct H3 as [H8 H9]. apply H5 in H8. apply n_Sn in H8. contradiction. * apply H6. + apply H2. + apply H4. -", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H_int. destruct H_int as [If H_if]. apply is_RInt_comp_lin with (u := u) (v := v). auto.", "succ": false}]

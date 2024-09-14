@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "inversion 1.", "intros."], "tactic": "apply vrf_pre with j; auto.", "exn": "The reference j was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. inversion 1. intros. apply vrf_pre with j; auto. apply H0; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_do_generic_server, allEntries_candidateEntries. intros orig_base_params one_node_params raft_params net h t e Hin. apply candidateEntries_inv. auto.", "succ": false}]

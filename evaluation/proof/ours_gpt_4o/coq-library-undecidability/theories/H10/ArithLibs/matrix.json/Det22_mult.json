@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros [a b c d] [e f g h]. unfold Det22. unfold M22mult. simpl. unfold Rmult, Rplus, Ropp. rewrite <- R_is_ring. rewrite Det22_scal. rewrite R_is_ring. rewrite <- R_is_ring. rewrite Rmul_assoc. apply Radd_assoc. constructor.", "back_times": 0, "succ": false, "time": 55.65247440338135}]

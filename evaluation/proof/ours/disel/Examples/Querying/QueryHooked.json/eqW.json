@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite 2!joinA.", "exn": "At iteration 1: The LHS of joinA (_ \\\\+ (_ \\\\+ _)) does not match any subterm of the goal", "type": "no_match_term", "handled": true}]}, "chat": [], "original": "rewrite 2!joinA.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: and4, rcv_uniq, snd_uniq.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply and4.", "exn": "Unable to unify \"Prop\" with \"is_true (uniq pts)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply and4. split; [apply Protocols.snd_uniq | apply Protocols.rcv_uniq].", "succ": true}]

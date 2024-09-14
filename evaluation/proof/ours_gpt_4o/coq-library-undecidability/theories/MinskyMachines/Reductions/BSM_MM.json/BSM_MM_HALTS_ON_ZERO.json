@@ -1,0 +1,1 @@
+[{"history": {"proof": "exists f. intros [n [m [P v]]]. sauto lq: on rew: off depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "exists f. intros [n [m [P v]]]. exists (bsm_mm_compiler_2 n P). exists (0 ## 0 ## vec_map stack_enc v). destruct (bsm_mm_compiler_2 n P) as [Q W].", "back_times": 0, "succ": true, "time": 0.759617805480957}]

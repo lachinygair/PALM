@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "split.", "-"], "tactic": "-", "exn": "[Focus] Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "intros. unfold alpha_conditions. split. - apply M22_equal; auto. - apply Pell_alpha_nat; auto.", "succ": false}]

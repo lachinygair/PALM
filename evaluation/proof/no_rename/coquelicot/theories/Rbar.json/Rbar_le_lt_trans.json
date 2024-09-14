@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Rbar_not_le_lt, Rbar_lt_le_trans, Rbar_le_not_lt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. intros H3 H4. apply Rbar_lt_le_trans with (2 := H4). apply Rbar_lt_le. apply Rbar_lt_le in H3. apply Rbar_le_not_lt. apply H3.", "succ": true}]

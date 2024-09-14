@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (mkmon Y Y Y (identity (Y:=Y))). - apply (wmon_m Y Y (identity (Y:=Y))). - apply (wmon_t Y Y (identity (Y:=Y))). - apply (wmon_a Y Y (identity (Y:=Y))).", "succ": true}]

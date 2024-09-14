@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c P1 P2 Q1 Q2 H1 H2 s ms HP. specialize (H1 s ms HP). specialize (H2 s ms HP). destruct H1 as [H1_pre H1_post]. destruct H2 as [H2_pre H2_post]. split. - apply (conj H1_pre H2_pre). - apply (conj H1_post H2_post).", "succ": false}]

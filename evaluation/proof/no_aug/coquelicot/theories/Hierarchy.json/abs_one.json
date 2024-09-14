@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold abs. hauto use: abs_opp_one, abs_opp unfold: AbelianGroup.sort, AbsRing.AbelianGroup, Ring.sort, AbsRing.base, abs, Ring.AbelianGroup, AbsRing.sort, AbsRing.Ring, Ring.class.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold abs. apply abs_opp_one.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A m. unfold dist_compl_def_1. apply dist_single.", "succ": false}]

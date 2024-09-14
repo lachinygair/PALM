@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (BinPos.Pos.eq_dec x y). - left. apply e. - right. intro contra. apply n0. apply (Fin.eqb_nat_eq (S n) (S n) x y). apply contra.", "succ": false}]

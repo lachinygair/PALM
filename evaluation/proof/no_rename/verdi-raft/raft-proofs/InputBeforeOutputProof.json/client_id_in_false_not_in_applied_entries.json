@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hclient_not_in H. intros H_in. destruct H_in as [e [Hclient [Hid Hin]]]. contradict Hclient_not_in. exists e. split; [|split]; auto.", "succ": false}]

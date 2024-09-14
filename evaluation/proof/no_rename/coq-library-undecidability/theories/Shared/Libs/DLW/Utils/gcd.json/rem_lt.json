@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: rem_idem.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hp a H. intros Hlt. apply rem_prop with (n := 0). - rewrite Nat.mul_0_r. auto. - apply Hlt.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d1 d2 d3 d4 Hincl1 Hincl2. unfold Included in *. intros tr Htr. sfirstorder unfold: traces_app, In.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d1 d2 d3 d4 Hincl1 Hincl2. unfold Included in *. intros tr Htr.", "succ": true}]

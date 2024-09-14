@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold SF_seq_f2, behead, pairmap, SF_ly. simpl. reflexivity.", "succ": false}]

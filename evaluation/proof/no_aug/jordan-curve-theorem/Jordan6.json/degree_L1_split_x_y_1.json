@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "unfold m1, y0, y_1, dx."], "tactic": "rewrite H3.", "exn": "The reference H3 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. unfold m1, y0, y_1, dx. intros. rewrite H3. auto.", "succ": false}]

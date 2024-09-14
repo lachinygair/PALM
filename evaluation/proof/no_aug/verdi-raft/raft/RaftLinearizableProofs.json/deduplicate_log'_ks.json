@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l ks e id Hin Hassoc. apply (deduplicate_log'_In l ks e Hin) in Hassoc as [e' [Heq [Heq' Hin']]]. apply Heq'.", "succ": false}]

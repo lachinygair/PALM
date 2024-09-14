@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. assert (H1: Rabs q > 1). { unfold Rabs. destruct (Rcase_abs q); lra. } pose proof (Pow_x_infinity q H1 1). destruct H0 as [N HN]. exists p_infty. intros M. exists N. intros n Hn. apply HN in Hn. lra.", "back_times": 0, "succ": false, "time": 747.0994064807892}]

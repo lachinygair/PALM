@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. strivial use: Nat.add_0_l, Nat.lt_add_lt_sub_r.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m H. apply Nat.lt_le_incl in H. apply Nat.sub_lt. - apply lt_n_Sm_le in H. apply Nat.lt_lt_0. apply H. - apply Nat.mul_pos_cancel_l. apply H. apply Nat.lt_lt_0. apply H.", "succ": true}]

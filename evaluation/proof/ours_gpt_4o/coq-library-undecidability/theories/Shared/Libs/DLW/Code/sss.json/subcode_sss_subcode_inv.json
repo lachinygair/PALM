@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H_out_code H_subcode H_p. revert st3 k. induction H_p as [ | n m p s r H_step H_ind IH]. - intros. exists k. split. + omega. + auto. - intros st3 k H_Q. apply IH in H_Q as [q [H_eq H_Q]]. exists (S q). split. + omega. + auto.", "back_times": 0, "succ": false, "time": 128.32769322395325}]

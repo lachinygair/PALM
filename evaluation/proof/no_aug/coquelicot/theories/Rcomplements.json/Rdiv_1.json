@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold Rdiv. scongruence use: Rinv_1, Rmult_1_r.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold Rdiv. rewrite Rinv_l_sym. - field. - apply R1_neq_R0.", "succ": true}]

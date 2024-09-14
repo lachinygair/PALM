@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold poly. sfirstorder depth: 3use: I.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold poly. intros A0 eqA ltM. apply I.", "succ": true}]

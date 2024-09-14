@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net H H0 net' H1 H2 H3 H4 H5. intros. hauto l: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net H H0 net' H1 H2 H3 H4 H5. unfold msg_refined_raft_net_invariant_reboot' in *. intros. apply H2 with (h:=h) (d:=d) (d':=d') in H6; auto. apply H3; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction n. - simpl. unfold not. intros. inversion H. - rewrite list_an_S. unfold not. intros Hdup. apply list_hd_cons_inv in Hdup as [Hin | Hdup]. + apply list_an_spec in Hin as [H1 H2]. lia. + apply IHn. auto.", "back_times": 0, "succ": false, "time": 192.2780909538269}]

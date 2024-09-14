@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H1 H2. sfirstorder use: Z.le_mul_0, Zlt_not_le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. apply Zle_sign_pos_neg with (x := Z.mul x y) (y := y) in H2. - apply H2. - apply H1.", "succ": true}]

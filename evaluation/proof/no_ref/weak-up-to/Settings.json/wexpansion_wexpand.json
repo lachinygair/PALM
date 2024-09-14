@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold wexpansion, union_st. unfold wexpansion1. intros. destruct H. split. - auto. - apply simulation_t_eeq with R. apply sym_e. apply trans_sym_e_eq. apply incl_sym. auto.", "succ": false}]

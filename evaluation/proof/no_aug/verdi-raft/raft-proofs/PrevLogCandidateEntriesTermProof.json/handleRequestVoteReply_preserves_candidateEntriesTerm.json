@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h h' t r st' t' Hhandle_refine Hrefined HcandidateEntriesTerm. apply (votes_update_elections_data_request_vote_reply h (nwState net h) h' t r st' t' h). - apply Hhandle_refine. - apply Hrefined. - apply HcandidateEntriesTerm.", "succ": false}]

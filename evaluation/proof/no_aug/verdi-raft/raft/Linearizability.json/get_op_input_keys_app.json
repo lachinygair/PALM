@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs ys. induction xs as [|x xs' IHxs]. - simpl. reflexivity. - simpl. hauto use: app_comm_cons, get_op_input_keys_defn inv: op.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros xs ys. induction xs as [|x xs' IHxs]. - simpl. reflexivity. - simpl. rewrite IHxs. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. hauto use: N.ge_le, N.le_ge, N.add_le_mono_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply Nge_ge_rev in H. apply ge_Nge in H. apply (ge_Nge (N.to_nat p + N.to_nat n) (N.to_nat p + N.to_nat m) (N.to_nat n) H). rewrite Nge_ge in H. apply (ge_Nge p n m H).", "succ": true}]

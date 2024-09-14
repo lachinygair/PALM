@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros z z1 z2 H H0. qauto use: Z.div_unique_exact.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros z z1 z2 H H0. apply Z.mul_reg_r with (p:= z) in H. apply Z.quot_unique_apply in H. - symmetry. auto. - apply H0.", "succ": true}]

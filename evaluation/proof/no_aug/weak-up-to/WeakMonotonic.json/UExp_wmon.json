@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n.", "induction n.", "-"], "tactic": "-", "exn": "Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "intros n. induction n. - unfold wmonotonic. constructor. - unfold wmonotonic. intros. apply UExp_mon. auto.", "succ": false}]

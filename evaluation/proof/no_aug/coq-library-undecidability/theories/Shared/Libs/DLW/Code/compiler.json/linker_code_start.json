@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- (Hc linker (length (snd P)) i). unfold linker. rewrite list_assoc_equiv. simpl. rewrite Nat.eq_dec_refl. reflexivity.", "succ": false}]

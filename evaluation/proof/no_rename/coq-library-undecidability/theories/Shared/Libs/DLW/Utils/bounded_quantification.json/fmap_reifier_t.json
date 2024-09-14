@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i H. assert (Hx: forall i : nat, i < k -> {x : X | Q i x}). { intros i' H'. apply H with (i:= i'). auto. } exists (fun i H => proj1_sig (Hx i H)). intros i' H'. apply (proj2_sig (Hx i' H')).", "succ": false}]

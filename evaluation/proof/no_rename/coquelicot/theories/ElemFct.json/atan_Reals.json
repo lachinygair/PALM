@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. rewrite <- atan_eq_ps_atan in H; [|apply H]. rewrite <- Rabs_R0. rewrite <- Rabs_Rabsolu. apply Rabs_lt_between1.", "succ": false}]

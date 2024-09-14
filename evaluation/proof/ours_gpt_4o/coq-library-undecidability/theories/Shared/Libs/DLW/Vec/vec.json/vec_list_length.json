@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction v using Vector.t_ind. - simpl. reflexivity. - simpl. f_equal. apply IHv.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "induction v using Vector.t_ind. - simpl. reflexivity. - simpl. f_equal. apply IHv.", "back_times": 0, "succ": true, "time": 0.23053383827209473}]

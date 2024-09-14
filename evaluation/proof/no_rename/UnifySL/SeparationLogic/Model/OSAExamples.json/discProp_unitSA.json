@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_UnitalSeparationAlgebra. intros worlds R J n. exists n. split. - exists n. split. + reflexivity. + apply UpwardsClosure_increasing. - apply UpwardsClosure_increasing.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z i n Hmap Hexd Hiter. srun best use: Iter_upb_period, Iter_plus_mult.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z i n Hmap Hexd Hiter. unfold Iter_upb in Hiter. rewrite <- Hiter. reflexivity.", "succ": true}]

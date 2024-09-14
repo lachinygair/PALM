@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 x y H3 H4. unfold commutativity, is_group, intern in H1. destruct H1 as [H1 _]. unfold is_group, intern in H1. destruct H1 as [H1 _]. unfold commutativity in H2. unfold opposite in H1.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H1 H2. hauto use: app_assoc_reverse unfold: prefix.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2. apply (Permutation_Add_inv _ _ _ H1 H2).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. strivial use: Z.opp_lt_mono.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros."], "tactic": "lia.", "exn": "The reference lia was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. lia.", "succ": true}]

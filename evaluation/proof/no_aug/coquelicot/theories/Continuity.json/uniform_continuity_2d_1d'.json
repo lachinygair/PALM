@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b c H eps. specialize (uniform_continuity_2d_1d f a b c H eps) as H'. destruct H' as [delta H']. exists delta. intros x y u v H1 H2 H3 H4 H5 H6 H7. apply H'; auto.", "succ": false}]

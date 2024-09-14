@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s x z H. hauto use: not_exds_Ds.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros s x z H. unfold exds in H. intros H0. apply H0.", "succ": true}]

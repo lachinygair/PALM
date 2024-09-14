@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. pose proof (plusA_eqA_comp A A0 A1 eqA plusA invA minusA multA divA cs) as Hplus. apply Hplus; auto.", "succ": false}]

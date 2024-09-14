@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros alpha. induction alpha using ord_le_sind. - apply ord_le_respects_succ_converse. - apply ord_le_S_sup. - apply ord_le_sup.", "succ": false}]

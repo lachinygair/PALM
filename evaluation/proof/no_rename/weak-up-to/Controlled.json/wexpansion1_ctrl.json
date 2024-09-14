@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. apply mkctrl with (R:=B). + apply wexpansion1_ctrl_t. auto.", "succ": false}]

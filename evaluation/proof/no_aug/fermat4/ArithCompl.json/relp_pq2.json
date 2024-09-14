@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q H1 H2. apply rel_prime_div with (r := q * q - p * p) in H1. apply distp_sqr1 in H2. apply distp_sqr2 in H2. apply relp_pq1 in H1; auto.", "succ": false}]

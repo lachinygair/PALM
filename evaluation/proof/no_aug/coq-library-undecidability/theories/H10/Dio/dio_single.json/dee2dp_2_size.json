@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply le_trans with (m := 1 + 8 * length l). apply dee2dp_1_size. unfold \"<=\". omega.", "succ": false}]

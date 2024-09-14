@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V x e1 e2 H y H0. apply ball_le with (e1 := e1). - apply H. - apply ball_le with (e1 := e2). + apply Rle_trans with (r2 := e1); try apply H. apply H. + apply ball_sym. apply H0.", "succ": false}]

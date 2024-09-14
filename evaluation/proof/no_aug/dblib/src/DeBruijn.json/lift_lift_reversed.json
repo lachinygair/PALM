@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T H LiftLift wk k ws s t k_ge_s_ws. unfold lift. rewrite Nat.sub_add; auto. rewrite Nat.add_comm. rewrite <- (Nat.add_sub_eq_r ws). rewrite (Nat.add_comm k). rewrite Nat.add_sub_eq_l; auto.", "succ": false}]

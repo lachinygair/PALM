@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H1 H2. hfcrush use: N.lt_gt, N.gt_lt, N.mul_lt_mono_pos_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply Nat.mul_lt_mono_nonneg. - apply gt_Ngt. apply N.gt_lt. apply N.gt_lt. auto. - apply N.gt_lt. auto. - apply N.gt_lt. auto. - auto.", "succ": true}]

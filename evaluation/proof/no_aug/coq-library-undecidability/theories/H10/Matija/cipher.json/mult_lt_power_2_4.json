@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "apply lt_trans with (power k 2).", "-"], "tactic": "-", "exn": "[Focus] Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "intros. apply lt_trans with (power k 2). - auto. - apply mult_lt_power_2; auto.", "succ": false}]

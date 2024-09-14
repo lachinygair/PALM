@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net h e Hin Hle. unfold commit_recorded. split; auto. - hauto lq: on depth: 3. - hauto lq: on depth: 3.", "repairs": ["", "", "", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net h e Hin Hle. unfold commit_recorded. split; auto.", "succ": true}]

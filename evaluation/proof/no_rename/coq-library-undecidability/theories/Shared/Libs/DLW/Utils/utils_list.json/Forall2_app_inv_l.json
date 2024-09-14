@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. apply list_app_eq_inv in H. destruct H as [m1 [H1 H2]]. apply Forall2_app_inv_l in H1. destruct H1 as [m1' [m2' [H1 [H2 H3]]]]. exists m1', m2'. split. + auto. + split. * auto. * rewrite H2. reflexivity.", "succ": false}]

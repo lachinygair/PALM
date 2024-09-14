@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros this Hnodes Hcohd. unfold dom. intro x. unfold upd. destruct (this == x) eqn:Heq. - apply eq_true_iff_eq in Heq. subst. reflexivity. - apply not_eq_sym in Heq. apply Hcohd. apply Hnodes.", "succ": false}]

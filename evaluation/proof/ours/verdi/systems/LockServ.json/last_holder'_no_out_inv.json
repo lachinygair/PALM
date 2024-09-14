@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr h c n H. induction tr as [| [c' [inl out' | inr]] tr' IHtr']. - simpl in H. inversion H. - simpl. destruct tr' eqn:Heq. + simpl in H. injection H as H1. subst. simpl. auto. + simpl in H. apply IHtr' in H. apply H.", "hammer_times": 2, "succ": false, "time": 79.70544385910034}]

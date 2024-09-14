@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net net' e t Hlifted Hlog. qauto depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net net' e t Hlifted Hlog.", "succ": true}]

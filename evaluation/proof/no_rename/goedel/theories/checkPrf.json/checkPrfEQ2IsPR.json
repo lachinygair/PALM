@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros f Hf f' Hf' g Hg. unfold naryFunc, naryRel. intros x y. exists (fun z => Hg (f (f' z) (f' z))). intros z. reflexivity.", "succ": false}]

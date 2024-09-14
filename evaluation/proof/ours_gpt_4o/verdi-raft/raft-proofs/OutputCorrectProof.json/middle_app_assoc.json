@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A xs y zs. rewrite <- app_assoc. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros A xs y zs. rewrite <- app_assoc. reflexivity.", "back_times": 0, "succ": true, "time": 0.45730042457580566}]

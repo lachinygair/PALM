@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros c a1 a2 lb1 lb2 H_unique H_in1 H_in2 H_pref. apply H_unique with (lb1:= lb1) (lb2:= lb2); auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros c a1 a2 lb1 lb2 H_unique H_in1 H_in2 H_pref. apply H_unique with (lb1:= lb1) (lb2:= lb2); auto.", "succ": true}]

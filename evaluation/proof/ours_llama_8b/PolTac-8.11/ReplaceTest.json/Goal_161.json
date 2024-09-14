@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on use: N.add_0_l, N.add_0_r, N.nlt_0_r, N.lt_eq_cases, N.add_nonpos_cases, N.lt_add_pos_r.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 32.45505549595691}]

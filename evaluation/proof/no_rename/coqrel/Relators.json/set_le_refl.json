@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Href x Hx. unfold Reflexive, set_le in *. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros Href x Hx. unfold Reflexive, set_le in *. intros a Ha. specialize (Href a). apply Href. apply Hx. apply Ha.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: in_nat_sorted_1, Forall_cons_inv, in_nat_sorted_2 inv: list.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x ll H1 H2. induction ll as [|a l IHl]. - auto. - intros H3 H4. apply Forall_cons. + apply H3. + apply IHl. * apply Forall_inv_tail in H1. apply H1. * apply in_nat_sorted_0 in H2. apply H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold predZ, succZ. destruct x as [|n|n]. - reflexivity. - reflexivity. - hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold predZ, succZ. destruct x as [|n|n]. - reflexivity. - reflexivity. - reflexivity.", "succ": true}]

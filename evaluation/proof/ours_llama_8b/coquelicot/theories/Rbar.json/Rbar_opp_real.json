@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Ropp_le_cancel, Rlt_trans, Rnot_le_lt, Ropp_involutive, Rminus_0_l, Ropp_0, Rbar_opp_involutive, Ropp_lt_contravar, Rlt_irrefl unfold: Rbar_opp, real, Rle, opp_fct.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

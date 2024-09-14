@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1. unfold is_lim. unfold filterlim. intros H2. apply (is_lim_Reals_0 f x l). unfold limit_in in H2. apply H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Double' unfold: map inv: falsity_flag.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply trans_trans.", "exn": "In environment b : falsity_flag phi : form Unable to unify \"list form\" with \"[] \u22a2C phi\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply trans_trans.", "succ": true}]

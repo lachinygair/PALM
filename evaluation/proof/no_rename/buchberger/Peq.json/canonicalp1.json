@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a Ha_z. unfold canonical. sfirstorder depth: 3use: canonical.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a Ha_z. unfold canonical. intros pf_a. unfold canonical in pf_a. destruct pf_a. rewrite <- H. rewrite H0 in Ha_z. contradiction.", "succ": true}]

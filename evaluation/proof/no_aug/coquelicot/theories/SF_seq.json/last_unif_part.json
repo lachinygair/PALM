@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on use: head_unif_part, unif_part_bound, @head_rev.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold unif_part. simpl. rewrite -> nth_last. rewrite -> head_unif_part. rewrite -> unif_part_bound. rewrite -> rev_rev. simpl. unfold rev. simpl. rewrite -> nth_mkseq with (x := 0); auto. field.", "succ": true}]

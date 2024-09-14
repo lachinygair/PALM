@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k H_inv_hmap. srun best use: surj_cA_1, inj_cA_1 unfold: bij_dart.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k H_inv_hmap. apply surj_cA_1 with (m:=m) (k:=k). apply H_inv_hmap.", "succ": true}]

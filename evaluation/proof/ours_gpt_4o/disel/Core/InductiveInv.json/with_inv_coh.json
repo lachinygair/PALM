@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. apply: CohUn. - apply: (cohW _ _ H). - apply: (cohH _ _ H). - apply: (coh_coh _ _ _ H). - apply: cohS; exact: H.", "back_times": 0, "succ": false, "time": 66.48457336425781}]

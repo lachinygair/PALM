@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold incl.", "intros x y H."], "tactic": "right.", "exn": "Not an inductive goal with 2 constructors.", "type": "not_inductive_goal", "handled": true}]}, "chat": [], "original": "unfold incl. intros x y H. right. auto.", "succ": false}]

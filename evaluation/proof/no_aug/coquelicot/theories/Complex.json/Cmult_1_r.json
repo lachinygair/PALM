@@ -1,0 +1,1 @@
+[{"history": {"proof": "symmetry. hauto lq: on use: Rmult_1_l, Rmult_0_l, Cmod_1, Ropp_0, Cmult_comm, Rmult_1_r, Rplus_0_r unfold: Rminus, C, Cmult, fst, RtoC, Cmod, snd.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "symmetry. rewrite RtoC_mult. rewrite Rmult_1_r. reflexivity.", "succ": true}]

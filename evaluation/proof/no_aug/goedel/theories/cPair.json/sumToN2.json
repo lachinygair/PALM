@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros b a H. induction H. - reflexivity. - simpl. qauto use: le_plus_trans, Nat.add_comm, Nat.le_le_succ_r.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros b a H. induction H. - reflexivity. - simpl. apply Nat.add_le_mono. apply IHle.", "succ": true}]

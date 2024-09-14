@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri net gd d d' Hreboot Hnet Hreach Hstate Hst' Hp Hpackets. apply (refined_raft_net_invariant_reboot' rri net gd d d' Hreboot Hp Hreach). - auto. - auto. - intros h'. apply Hst'. - auto. - reflexivity.", "succ": false}]

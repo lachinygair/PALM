@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold superset_preserved, can_derive. intros Phi Psi HIncl Hcan. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold superset_preserved, can_derive. intros Phi Psi HIncl Hcan. apply Hcan. apply HIncl.", "succ": true}]

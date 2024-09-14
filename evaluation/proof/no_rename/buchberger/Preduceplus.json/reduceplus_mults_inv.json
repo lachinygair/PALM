@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a H1 H2 Q p q H3 H4 H5. apply (reduceplus_mults_invf0 _ H1 H2 Q p q H3 H4). auto. apply (canonical_spminusf_full _ H1 H2 H5). apply (eqP_trans _ H5). apply (reducetop_sp _ H1 H2 H3 H4). auto. rewrite H2. reflexivity.", "succ": false}]

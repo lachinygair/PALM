@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n0 n q r H1 H2. pose proof tech_div1 as H3. pose proof tech_div31 as H4. apply (eq_sym (tech_div2 _ _ _ H1)). rewrite H4. rewrite tech_add_pos_negZ. rewrite H3. rewrite tech_opp_pos_negZ. auto.", "succ": false}]

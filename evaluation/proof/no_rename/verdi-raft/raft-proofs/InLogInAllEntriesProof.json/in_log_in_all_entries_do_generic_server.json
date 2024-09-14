@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri net h e H. specialize (in_log_in_all_entries_invariant _ _ _ net H). intros H'. apply H'. auto.", "succ": false}]

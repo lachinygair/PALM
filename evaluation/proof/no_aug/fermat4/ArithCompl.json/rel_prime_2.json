@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros z H. apply gcd2_relp_odd. - apply Zodd_sum3 in H. apply Zodd_ex in H. destruct H as [k H]. rewrite H. apply Zodd_ex_iff. exists (k - 1). ring. - apply Zodd_ex in H. destruct H as [k H]. rewrite H. apply Zodd_ex_iff. exists (k + 1). ring. - apply H.", "succ": false}]

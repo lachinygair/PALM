@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a. unfold ex_RInt. exists (f a). apply is_RInt_point.", "succ": false}]

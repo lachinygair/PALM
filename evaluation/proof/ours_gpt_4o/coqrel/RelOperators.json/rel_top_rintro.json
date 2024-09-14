@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: I.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply I.", "exn": "In environment A : Type B : Type x : A y : B Unable to unify \"True\" with \"RIntro True \u22a4 x y\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply I.", "back_times": 0, "succ": true, "time": 0.6411809921264648}]

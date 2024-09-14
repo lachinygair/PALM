@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Symmetric in H. intros x y H1. unfold not. intros H2. apply H1. apply H. apply H2.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold Symmetric in H. intros x y H1. unfold not. intros H2. apply H1. apply H. apply H2.", "succ": true}]

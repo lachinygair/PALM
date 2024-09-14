@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B T f F subF x H. sauto lq: on depth: 3use: indexed_union_intro.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B T f F subF x H. intros y Hy. apply (indexed_union_intro A T F (f x) y). apply H. apply Hy.", "succ": true}]

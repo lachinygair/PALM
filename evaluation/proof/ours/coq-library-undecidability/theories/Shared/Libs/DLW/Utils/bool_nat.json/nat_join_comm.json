@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["symmetry."], "tactic": "apply Nat.mul_comm.", "exn": "In environment n, m : nat Unable to unify \"?M1534 * ?M1535 = ?M1535 * ?M1534\" with \"m \u21e1 n = n \u21e1 m\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "symmetry. apply Nat.mul_comm.", "succ": false}]

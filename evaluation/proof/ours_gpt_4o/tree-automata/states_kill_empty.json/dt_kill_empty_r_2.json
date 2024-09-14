@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n H. unfold dt_kill_empty_def_1 in *. intros d a t Ht Hr.", "back_times": 0, "succ": false, "time": 137.64250349998474}]

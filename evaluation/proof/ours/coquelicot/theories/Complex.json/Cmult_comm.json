@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Cmult. scongruence use: Rplus_comm, Rmult_comm unfold: snd, C, fst.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Cmult. unfold C. simpl. ring.", "succ": true}]

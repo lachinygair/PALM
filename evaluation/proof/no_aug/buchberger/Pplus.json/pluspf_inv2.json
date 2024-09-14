@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b p q H. induction H. - intros. apply eqp_eqTerm in H. unfold eqP, pX. rewrite H. reflexivity. - intros. apply eqp_eqTerm in H. unfold eqP, pX. rewrite H. reflexivity. - intros. apply eqp_eqTerm in H. unfold eqP, pX. rewrite H. reflexivity.", "succ": false}]

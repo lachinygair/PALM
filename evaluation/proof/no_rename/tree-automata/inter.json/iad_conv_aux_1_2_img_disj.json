@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p0 p1 p2 H. strivial use: iad_conv_aux_img_disj.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p0 p1 p2 H. unfold not. intro. rewrite H. apply (iad_conv_aux_img_disj p0 p1 p2).", "succ": true}]

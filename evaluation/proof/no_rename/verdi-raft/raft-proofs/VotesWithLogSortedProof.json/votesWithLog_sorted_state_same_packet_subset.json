@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri si h t h' log H In_t_votes_sorted. unfold votesWithLog_sorted in In_t_votes_sorted. apply In_t_votes_sorted in H. apply H.", "succ": false}]

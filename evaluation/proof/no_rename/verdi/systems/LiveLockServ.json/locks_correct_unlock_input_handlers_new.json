@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros h i sigma u st' out ms p H1 H2 H3 H4. intros Hlocks_correct HIn Hsrc. unfold locks_correct in Hlocks_correct. unfold locks_correct_unlock. intros H. destruct i; inversion H. - exists c. apply H1. - contradiction. - contradiction.", "succ": false, "time": 6.011964650999971}]

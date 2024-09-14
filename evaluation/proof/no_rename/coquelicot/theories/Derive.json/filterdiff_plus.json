@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold filterdiff. split. - apply is_linear_plus. - intros x H. unfold is_domin. intros y Hlim. apply is_linear_plus in H. destruct H as [Hplus H]. rewrite Hplus. apply H.", "succ": false}]

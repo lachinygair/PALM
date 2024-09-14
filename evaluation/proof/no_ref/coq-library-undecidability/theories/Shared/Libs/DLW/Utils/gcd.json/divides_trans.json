@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Nat.mul_assoc unfold: divides.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2. apply Nat.divides_anti in H1. apply Nat.divides_anti in H2. rewrite <- Nat.div_mod. rewrite <- H2. rewrite <- H1. rewrite Nat.div_mod. auto.", "succ": true}]

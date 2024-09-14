@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Riemann_sum. simpl. rewrite Riemann_sum_cons. unfold plus, scal. rewrite scal_distr_r. rewrite scal_distr_l. reflexivity.", "succ": false}]

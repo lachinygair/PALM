@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold rt_inv. intro H. rewrite H. apply Mem_map_inv in H. destruct H as [y [H1 H2]]. rewrite H1. apply Mem_map. apply Im_mem in H2. apply H2.", "succ": false}]

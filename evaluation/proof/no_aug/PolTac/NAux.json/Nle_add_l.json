@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: N.add_comm, N.le_0_l, N.add_le_mono_l, N.add_0_r.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. apply (le_trans _ (N.add y x) _). - apply le_add_r. - rewrite <- N.add_comm. apply le_add_l.", "succ": true}]

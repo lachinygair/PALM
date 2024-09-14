@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net H. unfold refined_raft_net_invariant_timeout' in *. intros. hauto l: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net H. unfold refined_raft_net_invariant_timeout' in *. intros. apply H with (net' := net') (failed := failed) (failed' := failed') (out := out). auto.", "succ": true}]

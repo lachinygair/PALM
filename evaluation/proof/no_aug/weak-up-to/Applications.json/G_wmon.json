@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Chaing_l_mon.", "exn": "The reference Chaing_l_mon was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply Chaing_l_mon. apply wmon_t. apply Chaing_l_sim.", "succ": false}]

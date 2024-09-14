@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z j k H1 H2 H3 H4 H5 H6. intros p H7 H8 H9. unfold p in H9. apply (f_equal (Iter (f m) j)) in H9. rewrite Iter_comp in H9. rewrite Iter_period in H9; auto. rewrite Iter_plus_mult in H9; auto. rewrite Iter_plus in H9; auto.", "succ": false}]

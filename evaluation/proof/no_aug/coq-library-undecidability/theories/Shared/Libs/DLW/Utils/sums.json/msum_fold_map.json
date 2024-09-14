@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite map_ext_in_iff. split. - intros a H. simpl. rewrite H. reflexivity. - intros H x Hx. simpl in H. apply H. apply Hx.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply nat_lb_full.", "exn": "In environment nat_lb_full : forall n : nat, {l : lb | g_nlb n l} n : nat H : nat -> lb Unable to unify \"lb\" with \"g_nlb n (nat_lb n)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply nat_lb_full.", "succ": false}]

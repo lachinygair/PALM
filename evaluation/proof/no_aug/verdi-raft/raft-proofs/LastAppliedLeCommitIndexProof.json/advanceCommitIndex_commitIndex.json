@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st h. unfold advanceCommitIndex. destruct st. simpl. apply Nat.le_max_l.", "succ": false}]

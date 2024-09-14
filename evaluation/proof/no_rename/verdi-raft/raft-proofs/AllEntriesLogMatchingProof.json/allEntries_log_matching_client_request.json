@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_client_request, allEntries_log_matching_inductive. intros orig_base_params one_node_params raft_params h net st' ps' gd out d l client id c Hreq Hgd HP Hrefl. apply (Hreq h net st' ps' gd out d l client id c); auto.", "succ": false}]

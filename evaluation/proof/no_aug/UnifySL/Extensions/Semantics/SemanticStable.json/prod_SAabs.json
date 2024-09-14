@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_SeparationAlgebraAbsorbStable. intros m m1 m2 Hjoin. destruct Hjoin as [n1 [n2 [H1 [H2 [H3 H4]]]]]. exists n1, n2. split; [|split; [|split; [|split]]]; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' Hstate Hpackets HallEntries Hinvariant. apply allEntries_log_invariant. auto.", "back_times": 0, "succ": false, "time": 92.49158692359924}]

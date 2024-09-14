@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_mult. hfcrush use: Rle_0_sqr, Rmult_0_l, Rsqr_0, Rle_not_lt, Rbar_minus_eq_0, Rbar_opp_minus, Rbar_opp_involutive unfold: Rbar_opp, Rbar_mult' inv: option.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_mult. rewrite Rmult_0_l. reflexivity.", "succ": true}]

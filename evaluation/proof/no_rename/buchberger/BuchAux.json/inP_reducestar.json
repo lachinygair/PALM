@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P Q H a b H0 H1. induction H1. - auto. - inversion_clear H0. apply IHreducestar. + auto. + apply H. auto.", "succ": false}]

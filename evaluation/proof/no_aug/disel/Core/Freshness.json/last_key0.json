@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. rewrite <- pcm_unitE. rewrite dom0. reflexivity.", "succ": false}]

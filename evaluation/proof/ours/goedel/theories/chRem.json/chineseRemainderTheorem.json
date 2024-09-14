@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x1 x2 H a b pa pb. apply chineseRemainderTheoremHelp with (a:=a) (b:=b). apply H.", "succ": false}]

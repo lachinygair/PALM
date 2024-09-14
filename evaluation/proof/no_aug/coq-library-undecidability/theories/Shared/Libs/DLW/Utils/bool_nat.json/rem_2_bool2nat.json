@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold rem, bool2nat. sauto depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold rem, bool2nat. intros. rewrite rem_plus. rewrite rem_mult_rem. rewrite Nat.add_0_r. rewrite rem_2_is_0_or_1. destruct b. - rewrite rem_2_fix_1. simpl. auto. - rewrite rem_2_fix_2. simpl. rewrite Nat.add_1_r. auto.", "succ": true}]

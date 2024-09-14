@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_gcd in *. intros [H1 [H2 H3]]. split; [|split]. - apply H1. - apply power_ge_n. - apply is_rel_prime_mult; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros R a b Hin_a Hin_b HredIn. srun best use: lem_redIn_nil.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros R a b Hin_a Hin_b HredIn. apply redIn0 with (Q := R). apply Hin_a.", "succ": true}]

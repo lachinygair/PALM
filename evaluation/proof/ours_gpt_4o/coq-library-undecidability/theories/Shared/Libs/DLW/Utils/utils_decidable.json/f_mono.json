@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "revert y. induction x using nat_rev_ind. - intros y Hle. induction y. -- auto. -- simpl in Hle. exfalso. omega. - intro y. intros Hle. specialize (Hle 0 ltac:(auto)). exfalso. omega. - intros Hyx.", "back_times": 0, "succ": false, "time": 72.72187924385071}]

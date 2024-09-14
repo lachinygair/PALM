@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros RD. unfold RDestruct, flip. intros m n H P TP. apply RD with (m := n) (n := m). apply H. apply TP.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros RD. unfold RDestruct, flip. intros m n H P TP. apply RD with (m := n) (n := m). apply flip_rintro. apply H. apply TP.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B M O H1 H2 H3. apply angle_inscrit in H1. apply angle_inscrit in H2. apply orthogonal_sym in H3. apply somme_triangle. - apply H1. - apply H2. - apply H3.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold msum. rewrite msum_fold_map. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "unfold msum. simpl. rewrite msum_fold_map. reflexivity.", "succ": true}]

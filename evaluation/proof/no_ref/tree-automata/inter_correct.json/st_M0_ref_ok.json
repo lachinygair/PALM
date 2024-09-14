@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d. hfcrush depth: 3use: prec_empty, rec_empty.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d. apply (fun d => preDTA_ref_ok_destr prec_empty d). apply rec_empty.", "succ": true}]

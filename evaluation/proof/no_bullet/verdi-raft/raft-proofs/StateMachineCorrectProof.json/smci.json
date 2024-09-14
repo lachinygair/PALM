@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_state_machine_correct_interface. intros net H. apply state_machine_correct_invariant. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "apply Build_state_machine_correct_interface. intros net H. apply state_machine_correct_invariant. auto. auto.", "succ": true}]

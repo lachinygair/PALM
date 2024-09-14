@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment a : lb Unable to unify \"a\" with \"a \u2193 a\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "reflexivity.", "succ": false}]

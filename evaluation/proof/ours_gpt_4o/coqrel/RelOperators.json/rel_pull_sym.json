@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros HS x y Hxy. unfold relation in *. unfold Symmetric in HS. apply HS in Hxy. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros HS x y Hxy. unfold relation in *. unfold Symmetric in HS. apply HS in Hxy. auto.", "back_times": 0, "succ": true, "time": 0.5684201717376709}]

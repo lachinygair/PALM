@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold min_Join, DownwardsClosure_J. unfold DownwardsClosure_J. unfold min_Join. intros. unfold min_Join in H. destruct H as [x [y [H1 [H2 H3]]]]. exists x, y. auto.", "succ": false}]

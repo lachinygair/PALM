@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro H_dec. destruct (cfind A p H_dec) as [H | H]. - left. destruct H as [x [H1 H2]]. exists x. split; auto. - right. intro H_ex. destruct H_ex as [x [H1 H2]]. specialize (H x H1). contradiction.", "back_times": 0, "succ": false, "time": 57.50119090080261}]

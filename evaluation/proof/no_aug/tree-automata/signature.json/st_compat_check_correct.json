@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s sigma H. unfold st_compat_check. apply st_compat_check_0_correct. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros s sigma H. unfold st_compat_check. apply st_compat_check_0_correct. apply H.", "succ": true}]

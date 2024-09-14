@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net tr H. induction H. - simpl. auto. - simpl. rewrite inputs_eq_outputs_plus_inc_plus_ack. lia.", "succ": false, "time": 6.634418531000051}]

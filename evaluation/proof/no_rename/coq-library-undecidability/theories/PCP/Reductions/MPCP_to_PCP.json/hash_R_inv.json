@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. rewrite <- H. symmetry. apply hash_L_diff.", "succ": false}]

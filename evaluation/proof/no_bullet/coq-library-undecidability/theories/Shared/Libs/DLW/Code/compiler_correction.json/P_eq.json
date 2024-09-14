@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite <- (surjective_pairing P).", "exn": "Found no subterm matching \"(fst P, snd P)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros. rewrite <- (surjective_pairing P). reflexivity.", "succ": false}]

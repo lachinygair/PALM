@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a p Q H."], "tactic": ["inversion H as [a' b p' H1 P'].", ""], "exn": "Expects a disjunctive pattern with 2 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "simpl. intros a p Q H. inversion H as [a' b p' H1 P']. exists a', p'. reflexivity.", "succ": false}]

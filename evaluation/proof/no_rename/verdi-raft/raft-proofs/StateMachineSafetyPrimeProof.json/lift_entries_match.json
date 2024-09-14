@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net h h' H_refinement. sauto lq: on rew: off depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net h h' H_refinement. unfold entries_match. intros e e' e'' H_eindex H_eterm H_e_in_h H_e'_in_h'. apply (H_refinement (log (snd (nwState net h))) (log (snd (nwState net h')))).", "succ": true}]

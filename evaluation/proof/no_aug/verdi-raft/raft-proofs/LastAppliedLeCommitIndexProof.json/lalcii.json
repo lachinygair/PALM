@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: lastApplied_le_commitIndex_invariant.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply lastApplied_le_commitIndex_invariant.", "succ": true}]

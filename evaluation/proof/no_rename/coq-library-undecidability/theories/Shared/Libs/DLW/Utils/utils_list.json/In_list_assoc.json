@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. split. - apply list_assoc_In in H. destruct (list_assoc x l) eqn:Eq. + exists y. split. * reflexivity. * apply list_assoc_eq in Eq. apply Eq. + contradiction. - intros [y [H1 H2]]. apply list_assoc_In. rewrite H1. apply H2.", "succ": false}]

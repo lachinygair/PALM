@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Hp Heq. unfold zeroP in *. rewrite <- Heq. auto.", "back_times": 0, "succ": false, "time": 109.51292061805725}]

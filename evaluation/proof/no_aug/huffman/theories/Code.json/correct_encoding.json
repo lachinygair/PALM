@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros c H1 H2 m H3 a.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros c H1 H2 m H3 a. unfold decode. rewrite -> decode_aux_correct; try auto. - apply f_equal. apply H3. - apply H2. - apply H1.", "succ": false}]

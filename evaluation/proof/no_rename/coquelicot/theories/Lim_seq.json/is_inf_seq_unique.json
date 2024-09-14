@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u l H. unfold Inf_seq. apply Rbar_is_glb_unique. apply is_inf_seq_glb, H.", "succ": false}]

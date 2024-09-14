@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g h x lf lg lh Hf Hg Hh. intros Ff Fg Fh. apply (filterdiff_comp_2 f g h lf lg lh x Ff Fg Fh).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: app_nil_r, execute_log'_trace unfold: input, output.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros l d d' tr' tr'' H. unfold execute_log' in *. functional induction (execute_log' l d []). - inversion H. - simpl in H. rewrite app_nil_r in H. subst. reflexivity.", "succ": true}]

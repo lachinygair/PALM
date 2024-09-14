@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply recognize_subst with (traverse_ := traverse); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite lb_meet_join_distr. symmetry. rewrite lb_meet_join_distr. rewrite lb_meet_comm. rewrite <- lb_meet_app. reflexivity.", "succ": false}]

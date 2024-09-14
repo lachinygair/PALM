@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y m. qauto use: @sat_impp, @sat_orp.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y m. intros H. apply (sat_impp m). intros H1. apply (sound_orp_intros1 y x m). apply H1.", "succ": true}]

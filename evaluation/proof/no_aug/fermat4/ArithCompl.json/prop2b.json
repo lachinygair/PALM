@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m n H. srun best use: rel_prime_mult, Zis_gcd_for_euclid2, Znumtheory.rel_prime_sym unfold: rel_prime.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m n H. apply relp_sum. apply prop1. - apply H. - apply distinct_parity_two_together. apply prop2. apply H.", "succ": true}]

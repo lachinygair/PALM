@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. unfold LNN2LNT_formula. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. unfold LNN2LNT_formula. rewrite LNN2LNT_and. rewrite LNN2LNT_or. rewrite LNN.iffH. reflexivity.", "succ": true}]

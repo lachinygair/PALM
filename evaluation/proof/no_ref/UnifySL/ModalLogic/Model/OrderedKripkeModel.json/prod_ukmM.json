@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Build_UpwardsClosedOrderedKripkeModel (A * B) (prod_BranchJoinKripkeIntuitionisticModel A B ukmM_A ukmM_B)).", "succ": false}]

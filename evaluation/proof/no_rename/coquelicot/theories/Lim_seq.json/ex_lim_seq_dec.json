@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u. destruct (Empty_dec {l : R | is_lim_seq u l}). - left. exists (proj1_sig (ex_LimSup_seq u)). apply Lim_seq_correct. apply proj2_sig. - right. intro H. apply n. exists (proj1_sig (Lim_seq u)). apply Lim_seq_correct. apply H.", "succ": false}]

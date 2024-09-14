@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply bezout_generalized.", "exn": "In environment p, q : nat H : nat -> nat -> nat Unable to unify \"nat\" with \"{x : nat | is_gcd p q x}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply bezout_generalized.", "succ": false}]

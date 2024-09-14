@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply ball_center.", "exn": "Unable to unify \"posreal\" with \"Rbar\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply ball_center.", "back_times": 0, "succ": false, "time": 59.48051643371582}]

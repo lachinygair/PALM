@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (leaders_have_leaderLogs_invariant net); auto.", "succ": false}]

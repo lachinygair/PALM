@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "symmetry. apply const_u_square with (m:=l) (k':=l) (w:=w) (f:=fun i => power (S i) 2) in H19. symmetry in H19. apply sum_powers_injective in H19 as [-> _].", "succ": false}]

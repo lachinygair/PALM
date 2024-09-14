@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto use: poset_asym, sup_mono unfold: EqMem, Poset.sort, SubMem, Lattice.poset.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. rewrite H. reflexivity.", "succ": true}]

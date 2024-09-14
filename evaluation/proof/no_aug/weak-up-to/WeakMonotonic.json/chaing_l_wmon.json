@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold wmonotonic, chaining_l. intros. apply Union_wmon. - apply chaining_l_mon. apply simulation_eeq with TY. + unfold eeq. intros. split. apply H, HL. apply H0, HL. + apply HL. - apply HF. - apply HG.", "succ": false}]

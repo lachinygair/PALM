@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl use: dec2bool. sauto lq: on depth: 3.", "repairs": ["cannot_unify", "hammer"], "exceptions": [{"ctx": [], "tactic": "apply dec2bool.", "exn": "In environment b : bool Unable to unify \"bool\" with \"dec b\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply dec2bool.", "succ": true}]

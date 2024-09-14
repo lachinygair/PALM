@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X ll k H. induction ll as [|x xs IH]. - intros H'. exists nil, nil. auto. - simpl. intros H'. assert (Hl: k <= length xs) by lia. apply IH in Hl as [l [r [H1 [H2 H3]]]]. exists (x :: l), r. auto.", "succ": false}]

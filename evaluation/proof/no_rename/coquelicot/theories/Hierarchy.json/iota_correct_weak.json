@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T P H x Px. unfold iota. apply close_lim. - intros eps. exists x. intros y Py. apply H. apply (exist _ P y Py). - intros eps. exists x. intros y Py. unfold lim. apply (exist _ (fun A => forall z, P z -> A z)). intros z Pz. apply H. apply (exist _ P z Pz).", "succ": false}]

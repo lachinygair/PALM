@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p t n pli plt es ci H1 H2 H3. unfold msg_refined_raft_intermediate_reachable in H1. destruct H1 as [H1|H1]. - inversion H2. - unfold lifted_sorted_network in H1. specialize (H1 net p t n pli plt es ci H2 H3). apply H1.", "succ": false}]

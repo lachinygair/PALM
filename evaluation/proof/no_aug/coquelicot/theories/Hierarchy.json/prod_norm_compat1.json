@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y eps. unfold ball, prod_norm, minus. intros H. apply (NormedModule.ax3 _ _ U H).", "succ": false}]

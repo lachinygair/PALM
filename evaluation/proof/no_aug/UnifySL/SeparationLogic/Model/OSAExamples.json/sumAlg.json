@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_SeparationAlgebra. apply join_comm. apply join_assoc.", "succ": false}]

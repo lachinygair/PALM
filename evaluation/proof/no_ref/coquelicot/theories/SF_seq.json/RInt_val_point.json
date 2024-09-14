@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold RInt_val. unfold Riemann_sum. apply Riemann_sum_zero. apply SF_seq_f2_sorted. apply SF_seq_f2_head. apply zero.", "succ": false}]

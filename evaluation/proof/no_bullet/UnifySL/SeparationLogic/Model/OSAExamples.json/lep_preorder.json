@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_PreOrder. - unfold Reflexive. intros x. reflexivity. - unfold Transitive. intros x y z Hxy Hyz. rewrite Hxy. apply Hyz.", "succ": false}]

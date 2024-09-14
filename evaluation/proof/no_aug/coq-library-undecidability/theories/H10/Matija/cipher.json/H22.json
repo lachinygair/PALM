@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold u1. rewrite Hu1. unfold u. rewrite Hu. rewrite H18. rewrite H19. rewrite H20. rewrite H21. rewrite power_add_mult. rewrite <- Nat.pow_add_r. rewrite Nat.mul_add_distr_l. rewrite <- Nat.add_assoc. reflexivity.", "succ": false}]

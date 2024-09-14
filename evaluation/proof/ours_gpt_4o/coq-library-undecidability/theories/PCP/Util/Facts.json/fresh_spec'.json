@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction l as [| x l IH]. - intros H. inversion H. - intros H. destruct (in_inv _ _ _ _ H) as [H1 | H1]. + subst. simpl. apply Nat.lt_succ_diag_r. + simpl. apply Nat.lt_lt_succ_r. apply IH, H1.", "back_times": 0, "succ": false, "time": 103.54454588890076}]

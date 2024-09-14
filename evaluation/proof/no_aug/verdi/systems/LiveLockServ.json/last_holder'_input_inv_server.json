@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros tr h i n H. rewrite <- H. srun best use: last_holder'_server_extend.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros tr h i n H. rewrite <- H. reflexivity.", "succ": true, "time": 0.6724285109999073}]

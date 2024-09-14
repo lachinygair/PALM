@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n0 n q r H1 H2. hauto use: tech_div3, tech_mult_pos_negZ, tech_mult_neg_posZ.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n0 n q r H1 H2. unfold neg, addZ, multZ in *. rewrite H1, H2. reflexivity.", "succ": true}]

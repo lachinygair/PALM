@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold contains, chaining_l, star, bicontrolled, monotonic, relation2, wmonotonic in *. intros R x y H. destruct H as [R' [H1 H2]]. exists (chaining_l (star B) x y). split. - exists x. exists y. split; auto. - apply Expansion1. exists x. exists y. split; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros A l l' H1 H2 H3."], "tactic": "unfold is_permutation.", "exn": "Cannot coerce is_permutation to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros A l l' H1 H2 H3. unfold is_permutation. intros x. split. - intros Hin. apply H1.", "succ": false}]

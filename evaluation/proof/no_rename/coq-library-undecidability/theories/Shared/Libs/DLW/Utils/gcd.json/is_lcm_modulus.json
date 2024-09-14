@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros k p q u l g H1 H2 H3 H4. apply is_lcm_minus. - apply mult_le_compat. apply H1. auto. - auto. - apply H3. - apply H4.", "succ": false}]

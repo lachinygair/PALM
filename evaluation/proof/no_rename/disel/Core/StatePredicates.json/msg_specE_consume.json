@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hval Hfind Hneq Hspec. apply (msg_spec_consume s from to' tg cnt cnt' i Hval Hfind). apply Hspec.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply prod_residualSA. - hauto l: on depth: 3use: monSIheap_residual. - srun best use: discHeap_residual unfold: heap_jn.", "repairs": ["", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply prod_residualSA. apply monSIheap_residual.", "succ": true}]

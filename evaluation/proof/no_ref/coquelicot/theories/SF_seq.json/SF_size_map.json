@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold SF_map, SF_size. destruct s as [h t]. simpl. srun best use: size_map unfold: fst, snd.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold SF_map, SF_size. destruct s as [h t]. simpl. rewrite map_size. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply ikiM_dSA. apply eq_preorder. apply discHeap_ikiM. apply discHeap_Join.", "back_times": 0, "succ": false, "time": 28.512163162231445}]

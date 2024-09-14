@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s i H_sorted H_size x0. induction s as [| h t IH]. - intros H_lt. inversion H_lt. - intros H_lt. destruct i as [| i']. + simpl. apply H_sorted. + simpl. apply IH. * apply sorted_behead. apply H_sorted. * apply lt_S_n. apply H_size.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X H n H0. unfold FiniteT_nat_cardinal. apply cardinal_unicity with (m := n). apply FiniteT_nat_cardinal_def. auto.", "succ": false}]

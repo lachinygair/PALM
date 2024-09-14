@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["apply AbsRing.ax2.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "apply AbsRing.ax2.", "back_times": 0, "succ": false, "time": 32.17371344566345}]

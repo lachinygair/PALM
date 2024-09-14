@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros f1 Hf1 f2 Hf2 g Hg x y z.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros f1 Hf1 f2 Hf2 g Hg x y z. apply compose1_3IsPR with (fun x => g (f1 x y z) (f2 x y z)). - apply compose3_1IsPR; auto. - auto.", "succ": false}]

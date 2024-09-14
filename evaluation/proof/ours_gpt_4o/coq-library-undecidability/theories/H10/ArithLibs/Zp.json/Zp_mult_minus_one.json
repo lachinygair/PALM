@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: Zp_mult_one.", "repairs": ["no_subterm"], "exceptions": [{"ctx": [], "tactic": "rewrite Zp_mult_one.", "exn": "Found no subterm matching \"Op \u2297 ?M1452\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite Zp_mult_one. auto.", "back_times": 0, "succ": false, "time": 50.84613609313965}]

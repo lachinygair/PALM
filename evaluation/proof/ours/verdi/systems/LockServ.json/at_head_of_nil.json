@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros sigma c H1 H2. destruct H1 as [t H3]. rewrite H2 in H3. discriminate H3.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros sigma c H1 H2. destruct H1 as [t H3]. rewrite H2 in H3. simpl in H3. discriminate H3.", "hammer_times": 0, "succ": true, "time": 0.5216937065124512}]

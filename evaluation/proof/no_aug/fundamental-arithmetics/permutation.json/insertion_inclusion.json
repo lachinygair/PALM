@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x l l' H y H0. apply insertion_in with (x:=x) (l:=l) (l':=l') in H. apply Permutation_in with (l':=l') (l:=l) (x:=x) in H. apply H. auto.", "succ": false}]

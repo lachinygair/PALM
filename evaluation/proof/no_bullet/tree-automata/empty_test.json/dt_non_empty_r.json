@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n d a H."], "tactic": "exists t.", "exn": "The reference t was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros n d a H. exists t. apply reconnaissance_ind with d a. - auto. - apply H.", "succ": false}]

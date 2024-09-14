@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st client id c out st' ps p HhandleClientRequest Hin. unfold handleClientRequest in HhandleClientRequest. inversion HhandleClientRequest as [Hout Hst' Hps Heq1 Heq2]. subst. intro Hin_p. apply False_ind. apply Hin_p.", "succ": false}]

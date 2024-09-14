@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A p. induction p using prechain_ind. - left. exists m. reflexivity. - right. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A p. induction p using prechain_ind. - left. exists m. reflexivity. - right. exists x, y, p. reflexivity.", "succ": true}]

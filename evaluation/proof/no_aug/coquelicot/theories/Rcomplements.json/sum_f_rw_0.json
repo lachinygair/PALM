@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. scongruence use: minus_n_O, Nat.add_0_r unfold: sum_f_R0, sum_f, Init.Nat.sub.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. reflexivity.", "succ": true}]

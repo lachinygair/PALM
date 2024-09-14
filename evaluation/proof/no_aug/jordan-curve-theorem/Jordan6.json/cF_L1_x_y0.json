@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m x y i j H1 H2 H3 H4 H5 H6."], "tactic": "unfold m1, y0, dx, m1.", "exn": "The reference m1 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros m x y i j H1 H2 H3 H4 H5 H6. unfold m1, y0, dx, m1. apply cF_L1_x_x10; auto.", "succ": false}]

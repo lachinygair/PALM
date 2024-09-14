@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold ResourceCoh, soup_coh, consume_msg. intros Hrescoh. apply soup_coh_post_msg. apply Hrescoh.", "succ": false}]

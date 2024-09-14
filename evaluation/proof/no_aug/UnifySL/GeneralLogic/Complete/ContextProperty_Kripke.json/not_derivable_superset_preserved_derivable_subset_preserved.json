@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P H. intros Phi Psi H_d H_n. intros H_not_Psi. unfold derivable_superset_preserved in H. sfirstorder depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros P H. intros Phi Psi H_d H_n. intros H_not_Psi. unfold derivable_superset_preserved in H. apply H with (Psi:=Psi); auto.", "succ": true}]

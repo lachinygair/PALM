@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net ps' st' H1 H2. hauto unfold: nwPackets, logs_sorted_nw.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net ps' st' H1 H2. apply H1; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d s c tl l e l0 H. intro H1. unfold u_merge_inv_0_lst in H1. unfold u_merge_inv_0_st. apply u_merge_2_0 with (ladj:= l). - apply e. - apply l0. - apply H1.", "succ": false}]

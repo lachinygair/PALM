@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l st o. unfold execute_log'. hauto lq: on depth: 3use: snd_execute_log'.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l st o. unfold execute_log'. rewrite snd_execute_log'. rewrite snd_execute_log'. reflexivity.", "succ": true}]

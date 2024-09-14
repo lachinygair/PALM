@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. unfold DTA_main_state_correct, DTA_kill_empty_states_lazy in *. hauto q: on depth: 3use: inter_DTA_main_state_correct_invar.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d H. unfold DTA_main_state_correct, DTA_kill_empty_states_lazy in *. apply inter_DTA_main_state_correct_invar, H.", "succ": true}]

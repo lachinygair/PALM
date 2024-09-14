@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. split. - intros H. split. + apply andp_intros. apply H. + apply GC_Ext_Classical_collapse. apply H. - intros [H1 H2]. apply deduction_andp_intros. + apply H1. + apply plain_sepcon. apply H2.", "succ": false}]

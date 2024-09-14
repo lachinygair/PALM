@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: card_le, Nat.le_antisymm unfold: equi.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X A B eq_AB. unfold eq in eq_AB. apply eq_AB.", "succ": true}]

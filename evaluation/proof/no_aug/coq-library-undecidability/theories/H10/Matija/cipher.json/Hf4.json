@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i j H1 H2 H3. apply Nat.mul_cancel_r with (n:=power i r). - apply power_nonzero. - rewrite Nat.mul_add_distr_r. rewrite Nat.mul_comm with (n:=f i)(m:=m). rewrite Nat.mul_comm with (n:=f j)(m:=m). rewrite H3. rewrite Nat.add_comm. reflexivity.", "succ": false}]

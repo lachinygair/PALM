@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l m H1 H2 H3. unfold nc. unfold Br. unfold nc in H3. unfold Br in H3. assert (H4: nc m + 1 = nc m + 1). { reflexivity. } rewrite <- H4. apply Jordan1 with (x := fst (first l)) (x' := snd (first l)) in H1. apply H1; auto.", "succ": false}]

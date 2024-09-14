@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply allP. intros x Hx. apply hook_complete. unfold hooks_consistent. intros z lc ls t Hin. apply andb_true_iff. split. - apply getc. apply Hin. - apply getc. apply Hin.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "inversion H."], "tactic": "unfold is_append_entries.", "exn": "Cannot coerce ex to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. intros. inversion H. subst. unfold is_append_entries. discriminate.", "succ": false}]

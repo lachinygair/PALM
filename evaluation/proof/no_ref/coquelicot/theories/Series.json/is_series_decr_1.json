@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_series_ext with (fun k => a (S k)) (plus l (opp (a 0%nat))). intros. simpl. reflexivity. apply is_series_incr_1. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_allEntries_log_matching_interface. intros net H_reachable. unfold allEntries_log_matching_interface in *. apply (allEntries_log_matching_invariant orig_base_params one_node_params raft_params net H_reachable).", "succ": false}]

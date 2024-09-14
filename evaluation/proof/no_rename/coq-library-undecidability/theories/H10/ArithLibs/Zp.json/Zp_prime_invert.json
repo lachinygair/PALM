@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p Hp Hprime x Hx. intros prime_p. apply (Zp_mult_invert x).", "succ": false}]

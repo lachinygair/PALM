@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T map A B H1 H2. apply reduceCloseList with (f1:= fol.iffH L A B) (l:= nil); auto.", "succ": false}]

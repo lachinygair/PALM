@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3use: poly, list, CoefStructure.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold CoefStructure in cs. unfold poly in H. unfold list in H. apply H.", "succ": true}]

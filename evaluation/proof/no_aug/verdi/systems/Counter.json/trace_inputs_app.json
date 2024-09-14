@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr1 tr2. unfold trace_inputs. rewrite filterMap_app. rewrite map_length. rewrite map_length. rewrite filterMap_length. reflexivity.", "succ": false, "time": 9.408128801999965}]

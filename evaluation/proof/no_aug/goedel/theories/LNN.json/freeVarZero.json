@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Zero. sfirstorder depth: 3use: concat_nil.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Zero. unfold apply. simpl. rewrite concat_nil. reflexivity.", "succ": true}]

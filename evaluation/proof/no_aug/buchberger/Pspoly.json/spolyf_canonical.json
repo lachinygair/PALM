@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q Cp Cq. unfold canonical in Cp, Cq. destruct Cp as [Hp1 [Hp2 [Hp3 Hp4]]]. destruct Cq as [Hq1 [Hq2 [Hq3 Hq4]]]. unfold canonical. repeat split. - apply reduceplus_skip. auto. - apply reduce_inv; auto. - apply reduceplus_mults; auto. - apply reduce_mults; auto.", "succ": false}]

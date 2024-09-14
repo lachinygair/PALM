@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["apply is_pseries_R."], "tactic": "apply exp_in.", "exn": "In environment x : R Unable to unify \"Prop\" with \"Series.is_series (fun n : nat => / INR (fact n) * x ^ n) (exp x)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply is_pseries_R. apply exp_in.", "succ": false}]

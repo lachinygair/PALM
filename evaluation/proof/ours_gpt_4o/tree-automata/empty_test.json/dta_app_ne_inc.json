@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d. unfold increasing_app. intros m. induction m using (well_founded_induction lt_wf). -- unfold dta_app_ne. apply dta_app_ne_inc_3. apply lem_reflexive.", "back_times": 0, "succ": false, "time": 119.64561176300049}]

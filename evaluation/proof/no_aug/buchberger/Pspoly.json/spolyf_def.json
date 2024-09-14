@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nZa nZb p q Cpxa Cpxb. unfold eqP. rewrite (spolyf_extend A A0 A1 eqA plusA invA minusA multA divA cs eqA_dec). reflexivity.", "succ": false}]

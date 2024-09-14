@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros d a0 a1 a2 s1 s2 pl c H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11 H12 H13. apply (coacc_transitive_def d a0 a1 a2). - apply (coacc_nxt d a0 a1 a2 s1 s2 pl c); auto. - apply (coacc_nxt d a0 a1 a2 s1 s2 pl c); auto.", "succ": true}]

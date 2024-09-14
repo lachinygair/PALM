@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply Dec_false with (P := False).", "exn": "Unable to unify \"~ False\" with \"dec False\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Dec_false with (P := False). intro not_False. apply not_False. constructor.", "succ": true}]

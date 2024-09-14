@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: id, contE, cpo.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (fun x => contE cpo _ id x).", "succ": true}]

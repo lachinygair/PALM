@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z H1 H2. strivial use: succ_exd unfold: predf.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z H1 H2. apply (H2 m z). apply H1.", "succ": true}]

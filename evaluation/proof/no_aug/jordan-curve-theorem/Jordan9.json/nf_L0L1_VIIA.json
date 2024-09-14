@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' Hm1 Hinv x_1 y_0 y'0 x'1 y'0b x_1b Hnx1y Hex xny'0 Hnxy'0b Hxy' contra. pose proof (nf_L0L1_IVC m x y x' y' Hm1 Hinv x_1 y_0 y'0 x'1 y'0b x_1b Hnx1y Hex contra) as Hcontra. contradiction Hcontra.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A1 A2 B1 B2 R1 R2 R subrel_x_y_forall x y x_func y_func H_x_y_R x1 y1 H_R2_x_y_forall x2 y2 H_x2_y2_R2. apply H_x_y_R. apply H_x2_y2_R2. apply H_R2_x_y_forall. apply x_func. apply H_x2_y2_R2. apply y_func. apply H.", "succ": true}]

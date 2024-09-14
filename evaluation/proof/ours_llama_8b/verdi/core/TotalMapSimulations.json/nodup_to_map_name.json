@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun eauto use: FinFun.Injective_map_NoDup, @tot_map_name_injective unfold: name, FinFun.Injective, tot_map_name.", "exceptions": []}, "chat": [], "original": "", "succ": true}]

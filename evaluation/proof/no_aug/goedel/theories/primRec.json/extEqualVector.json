@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m v1 v2. sfirstorder depth: 3use: evalOneParamList, extEqualVectorGeneral, succFunc, evalPrimRecs.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m v1 v2. apply (extEqualVectorGeneral n m (evalOneParamList n m (evalPrimRecs n m succFunc) v1) m (evalOneParamList n m (evalPrimRecs n m succFunc) v2)).", "succ": true}]

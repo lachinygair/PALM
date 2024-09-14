@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: ulist_unique_key.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A B l H. apply ulist_unique_key. apply H.", "succ": true}]

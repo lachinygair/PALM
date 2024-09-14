@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n t. pattern n, t. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n t. pattern n, t. apply Terms_rec. - apply nil. - intros n0 t' IH. apply (cons (cons n0 nil) IH).", "back_times": 0, "succ": true, "time": 0.991854190826416}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite (Lim_seq_ext_loc _ (fun n => u n * v n)). -", "succ": false}]

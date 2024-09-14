@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold seq_step. unfold foldr. unfold pairmap. simpl. apply Rle_0_abs.", "succ": false}]

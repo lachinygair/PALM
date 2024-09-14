@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite rem_mult_rem. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite rem_mult_rem. rewrite rem_mult_rem. rewrite Nat.mul_shuffle3. reflexivity.", "succ": true}]

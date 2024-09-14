@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri. unfold refined_raft_net_invariant_append_entries_reply. intros xs p ys net st' ps' gd d m t es res H1 H2 H3 H4 H5 H6 H7 H8. apply H5 with (p:=p) (gd:=gd) (d:=d) (m:=m) (t:=t) (es:=es) (res:=res); auto.", "succ": false}]

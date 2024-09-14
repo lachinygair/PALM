@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d. apply mdiv_ind. - apply mdiv_nil. - intros d0 v v' n n' H H0 IH. apply mdiv_cons; try auto. apply IH.", "succ": false}]

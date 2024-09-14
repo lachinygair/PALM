@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X R. apply Build_PreOrder. - intros z. apply rewR. - intros x y z H1 H2. apply rewS with (y:=y). + apply H1. + apply H2.", "succ": false}]

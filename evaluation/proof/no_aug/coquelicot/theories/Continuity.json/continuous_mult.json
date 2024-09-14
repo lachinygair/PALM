@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hf Hg. apply continuous_scal with (k := f x) (f0 := g) (x0 := x). apply continuous_ext_loc with (g0 := f * g). apply filter_and; auto. apply continuous_comp_2; try auto. apply continuous_scal; auto. apply filterlim_mult.", "succ": false}]

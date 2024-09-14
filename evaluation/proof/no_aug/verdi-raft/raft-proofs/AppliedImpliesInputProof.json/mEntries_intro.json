@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m t n l t' es l' H. inversion H. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros m t n l t' es l' H. inversion H. reflexivity.", "succ": true}]

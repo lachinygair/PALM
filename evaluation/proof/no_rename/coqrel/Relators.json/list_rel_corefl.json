@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A R HR x y Hxy. induction Hxy. - apply nil_rel_def. - apply cons_rel_def; auto.", "succ": false}]

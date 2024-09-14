@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply in_ble_0.", "exn": "In environment x : nat Unable to unify \"0 \u2272 ?M1486\" with \"x \u2272 x\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply in_ble_0.", "succ": false}]

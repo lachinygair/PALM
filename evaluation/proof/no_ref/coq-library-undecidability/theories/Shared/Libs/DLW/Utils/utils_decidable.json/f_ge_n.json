@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: exists k : nat, n = f k). apply HP. destruct H as [k Hk]. rewrite Hk. apply f_mono.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hrrir. pose proof (leader_completeness_invariant net Hrrir) as [Hcomplete_direct Hcomplete_committed]. apply Hcomplete_committed.", "back_times": 0, "succ": false, "time": 88.75853276252747}]

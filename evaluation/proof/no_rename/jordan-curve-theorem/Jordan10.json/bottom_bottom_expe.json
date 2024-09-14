@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t H1 H2 H3 H4 H5. apply MA0.expo_exds_orb; auto.", "succ": false}]

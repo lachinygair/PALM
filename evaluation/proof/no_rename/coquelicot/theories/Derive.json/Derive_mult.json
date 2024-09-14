@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros (fu & Hv) (gu & Hg). unfold Derive. rewrite (is_derive_unique _ _ _ (ex_derive_Reals_1 _ _ (ex_derive_opp _ _ fu Hv))). rewrite (is_derive_unique _ _ _ (ex_derive_Reals_1 _ _ (ex_derive_opp _ _ gu Hg))). rewrite Derive_minus. rewrite Derive_scal.", "succ": false}]

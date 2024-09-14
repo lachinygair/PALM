@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold pl_non_empty_path_true_def_0. intros m H_incl H_true. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold pl_non_empty_path_true_def_0. intros m H_incl H_true. inversion H_incl. subst. contradiction.", "back_times": 0, "succ": true, "time": 1.2442457675933838}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A P p. destruct p as [x H]. simpl. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A P p. destruct p as [x H]. simpl. apply H.", "back_times": 0, "succ": true, "time": 1.3376832008361816}]

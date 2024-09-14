@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros S Mult I x Hcomm Hinversible. destruct Hinversible as [y Hy]. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros S Mult I x Hcomm Hinversible. destruct Hinversible as [y Hy]. apply (Hy).", "succ": true}]

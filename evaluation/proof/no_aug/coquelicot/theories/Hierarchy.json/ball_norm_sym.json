@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y eps H. unfold ball_norm in H. unfold ball_norm. apply norm_compat1. apply NormedModule.ax4. apply norm_compat2 with (y := x). apply H.", "succ": false}]

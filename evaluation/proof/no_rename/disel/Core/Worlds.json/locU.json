@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n' n x st s Hneq Hvalid. unfold getLocal. unfold upd. destruct (n' == n) eqn:Heq. - rewrite (eqP Heq). reflexivity. - reflexivity.", "succ": false}]

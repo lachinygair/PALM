@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply (log_properties_hold_on_leader_logs_invariant net).", "exn": "The reference net was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. apply (log_properties_hold_on_leader_logs_invariant net).", "succ": false}]

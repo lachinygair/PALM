@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. pose (s := fun (i : nat) (Hi : i < n) => match H i Hi with | ex_intro x _ => x end). exists s. intros i Hi. unfold s. destruct (H i Hi) as [x Hx]. apply Hx.", "succ": false}]

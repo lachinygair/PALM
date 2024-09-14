@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m H1 m0 H2. unfold predta_produit_1_def in *. intros a s a0 a1 s0 s1 H3 H4. unfold M2. rewrite -> H3, H4. apply H1. apply H2.", "succ": false}]

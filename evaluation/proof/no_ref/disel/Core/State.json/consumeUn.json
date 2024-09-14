@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "unfold consume_msg."], "tactic": "rewrite <- H.", "exn": "Found no subterm matching \"true\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros. unfold consume_msg. intros. rewrite <- H. auto.", "succ": false}]

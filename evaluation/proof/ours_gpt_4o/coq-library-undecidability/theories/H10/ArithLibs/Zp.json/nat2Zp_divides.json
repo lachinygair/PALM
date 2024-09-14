@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: divides_rem_eq, nat2Zp_inj.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros Hu Hv. apply nat2Zp_inj in Hu. rewrite rem_plus_div with (b := u) in Hu by auto. rewrite rem_plus_div with (b := v) in Hu by auto. apply divides_minus with (q2 := u) in Hv; auto.", "back_times": 0, "succ": true, "time": 213.53254556655884}]

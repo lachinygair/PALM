@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: divides_rem_eq, nat2Zp_inj.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. intros H3 [p0 H4]. exists p0. apply Nat.mul_cancel_r. apply H1. apply H3.", "succ": true}]

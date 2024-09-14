@@ -1,0 +1,1 @@
+[{"history": {"proof": "exists f. split. - intros n. apply f_sinc. - intros n. apply f_P.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "exists f. split. - intros n. apply f_sinc. - intros n. apply f_P.", "back_times": 0, "succ": true, "time": 0.36855006217956543}]

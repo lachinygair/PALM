@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c H1 H2. unfold Divides in H1. unfold Divides in H2. destruct H1 as [q1 H1']. destruct H2 as [q2 H2']. rewrite <- H1'. apply div_mult_compat_l. exists (q2 * c). rewrite Nat.mul_comm. reflexivity.", "succ": false}]

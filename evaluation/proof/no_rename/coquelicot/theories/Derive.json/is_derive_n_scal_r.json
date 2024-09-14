@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f n x l a H. unfold is_derive_n in *. destruct n. - simpl in *. rewrite H. auto. - simpl in *. apply is_derive_n_scal_l. apply H.", "succ": false}]

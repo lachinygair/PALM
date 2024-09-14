@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. apply subcode_left. - intros. simpl in H. injection H as H1 H2. rewrite <- H1. rewrite app_length. simpl. rewrite plus_comm. apply plus_reg_l with (p:= length l). simpl in H2. apply H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (MonoPred_gdpAX A R2 po_R1 _ po_R1). apply (MonoPred_kminSM A R2 po_R1).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_reach p' p e t li pli plt es lc H_body Hin_p Hin_e. unfold CandidateEntriesLowered_rvr. intros H_in_hw H_in_body H_eTerm H_won. apply (candidate_entries_lowered_nw_rvr' net) with (e:=e) (p:=p); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply add_add. apply addZ_commutativity. apply addZ_associativity.", "succ": false}]

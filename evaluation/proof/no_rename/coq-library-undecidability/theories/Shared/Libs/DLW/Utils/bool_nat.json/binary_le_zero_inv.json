@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: binary_le_le inv: le.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros n H. destruct n. - reflexivity. - exfalso. apply (binary_le_inv (S n) 0). + apply H. + left. reflexivity.", "succ": true}]

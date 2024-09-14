@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z. unfold mult. sauto lq: on depth: 3use: mult_assoc, Ring.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z. unfold mult. rewrite Ring.mult_assoc. reflexivity.", "succ": true}]

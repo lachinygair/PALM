@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite Newton_nat.", "exn": "Found no subterm matching \"mscal Init.Nat.mul 1 ?M1454 (?M1452 + ?M1453)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite Newton_nat. rewrite power2_gt_0. reflexivity.", "succ": false}]

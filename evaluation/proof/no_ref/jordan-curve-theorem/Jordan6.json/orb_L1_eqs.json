@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y z m1 y0 Inv ExdM NotExpf1 NotExpf2 NotExpf3. unfold eqs; intros z0. split; intros H. + unfold MF.Iter_orb; simpl. apply -> MF.expo_Iter_iter in H. apply -> MF.expo_Iter_iter.", "succ": false}]

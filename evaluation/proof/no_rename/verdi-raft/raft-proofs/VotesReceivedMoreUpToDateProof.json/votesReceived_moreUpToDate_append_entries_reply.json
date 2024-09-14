@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net Ht Htype Hin. unfold votesReceived_moreUpToDate in *. intros t h h' Hterm Htype_candidate HinVotesReceived. apply votesReceived_moreUpToDate_invariant with (net:=net); auto.", "succ": false}]

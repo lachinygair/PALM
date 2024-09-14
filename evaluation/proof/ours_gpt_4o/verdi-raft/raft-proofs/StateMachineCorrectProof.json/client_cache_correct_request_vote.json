@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs p ys net st' ps' d m t cid lli llt H H0 H1 H2 H3 H4. apply state_machine_correct_invariant in H2. destruct H2 as (Hsm1 & Hsm2 & Hsm3). unfold client_cache_correct in *. intros h client id out H5. apply Hsm2, H5.", "back_times": 0, "succ": false, "time": 70.42333006858826}]

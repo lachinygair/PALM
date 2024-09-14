@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["apply eqA_trans with (a := A0); apply eqA_sym.", ""], "exn": "No such bound variable a (no bound variables at all in the expression).", "type": "no_such_bound", "handled": false}]}, "chat": [], "original": "apply eqA_trans with (a := A0); apply eqA_sym.", "succ": false}]

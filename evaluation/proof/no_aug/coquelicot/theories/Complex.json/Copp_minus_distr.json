@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on drew: off use: Cplus_assoc, Cplus_comm, Cplus_0_l, Cplus_0_r, Cplus_opp_r, Copp_plus_distr unfold: Cminus.", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: - (z1 - z2) = - (z1 + - z2)). { rewrite Copp_plus_distr. reflexivity. } rewrite H. rewrite RtoC_minus. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y i Hmap x_1 y_0 y_0_1 z H1 H2. unfold expf, inv_hmap, MF.expo, MF.between, cA_1, cA, cF, Iter in *. intuition. subst x_1 y_0 y_0_1 z. auto.", "succ": false}]

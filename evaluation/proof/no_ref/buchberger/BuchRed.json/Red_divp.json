@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros L p H1 H2. hecrush use: redacc_divp, app_nil_end unfold: Red.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros L p H1 H2. apply not_all_ex_not in H2. destruct H2 as [q H2]. exists q. split. - apply redacc_in_red; auto. - split. + apply redacc_divp; auto. + apply redacc_not_zerop; auto.", "succ": true}]

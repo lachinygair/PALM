@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sauto q: on.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. inversion 1. intros. inversion H. intros. apply sscode_progress_dec_0_inv with (x:=x)(k:=k)(v:=v) in H4. destruct H4 as [H4a H4b]. rewrite H4a. rewrite H4b. auto.", "succ": true}]

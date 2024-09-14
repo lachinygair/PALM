@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P fcP spP CA init HPi. apply Lindenbaum_preserve_omega. - apply HPi. - apply fcP. - apply spP.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros P fcP spP CA init HPi. apply Lindenbaum_preserve_omega. - apply HPi. - apply fcP. - apply spP.", "back_times": 0, "succ": true, "time": 0.9026272296905518}]

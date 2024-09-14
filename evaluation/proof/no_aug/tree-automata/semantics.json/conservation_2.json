@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d p. specialize (borne_2 d p). intros H. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d p. specialize (borne_2 d p). intros H. specialize (Nat.le_trans _ _ _ conservation_1 borne_2 H).", "succ": true}]

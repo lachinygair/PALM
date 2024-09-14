@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. constructor.", "repairs": ["", ""], "exceptions": [{"ctx": ["intros.", "constructor."], "tactic": "constructor.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "intros. constructor. constructor.", "succ": true}]

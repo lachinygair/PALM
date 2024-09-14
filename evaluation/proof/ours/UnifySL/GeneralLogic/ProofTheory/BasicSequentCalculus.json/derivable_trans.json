@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi y H1 H2. apply deduction_subst with Psi. - intros x H3. apply H1. auto. - auto.", "succ": false}]

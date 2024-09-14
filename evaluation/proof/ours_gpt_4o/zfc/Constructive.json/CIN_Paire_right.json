@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros E E'."], "tactic": "apply CIN_Paire_right.", "exn": "The reference CIN_Paire_right was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros E E'. apply CIN_Paire_right.", "back_times": 0, "succ": false, "time": 59.90746021270752}]

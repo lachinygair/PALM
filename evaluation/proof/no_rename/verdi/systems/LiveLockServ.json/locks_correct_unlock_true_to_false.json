@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros sigma p x st' H1 H2 H3. unfold locks_correct_unlock. intros H4 H5 H6. unfold update. destruct (name_eq_dec (Client x) (Client x)) eqn:E1. - simpl. rewrite -> update_eq. apply H6. - contradiction.", "succ": false, "time": 6.4256459030000315}]

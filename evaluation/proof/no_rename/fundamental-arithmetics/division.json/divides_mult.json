@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a b H. unfold divides. srun best use: divides_trans unfold: divides.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a b H. unfold divides. intros [q Hq]. exists (q * b). rewrite Hq. rewrite Nat.mul_assoc. auto.", "succ": true}]

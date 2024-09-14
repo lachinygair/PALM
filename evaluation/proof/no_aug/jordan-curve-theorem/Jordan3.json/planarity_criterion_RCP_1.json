@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y Hmap Hprecm Hplanar HplanarL. apply (weak_planarity_criterion_1 m x y Hmap Hprecm). apply Hplanar. apply HplanarL.", "succ": false}]

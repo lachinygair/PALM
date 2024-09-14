@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_votes_votesWithLog_correspond_interface. intros net H_ref. apply votes_votesWithLog_correspond_invariant; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "apply Build_votes_votesWithLog_correspond_interface. intros net H_ref. apply votes_votesWithLog_correspond_invariant; auto.", "succ": true}]

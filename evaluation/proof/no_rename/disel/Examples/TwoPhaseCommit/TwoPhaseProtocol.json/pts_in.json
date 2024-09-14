@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros cn others pts Hnin Puniq n H. rewrite mem_cat. intros [H0 | H0]. - auto. - rewrite cn_in in H0. discriminate.", "succ": false}]

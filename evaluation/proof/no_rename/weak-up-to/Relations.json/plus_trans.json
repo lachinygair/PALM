@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros y x z H1 H2. qblast depth: 3use: star_trans, star_refl, plus_star, star_plus_plus.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros y x z H1 H2. apply (star_trans _ _ y). - apply (star_plus_plus _ _ x). + apply (plus_star _ _ _ H1). + apply (star_refl _ _ _). - apply H2.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply mkmon. - apply UExp_incl. - apply HFG. - apply wmon_a. + apply mkctrl. * apply mon_t. apply HF. apply HRt. apply HFG. apply HRa. * apply HGFG. + apply wmon_t. apply HG. apply visible. + apply UExp_mon. apply HF. + apply UExp_wmon. apply HF.", "succ": false}]

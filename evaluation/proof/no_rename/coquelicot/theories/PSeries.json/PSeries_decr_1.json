@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a x ex_ps. unfold PSeries. rewrite PSeries_eq. unfold PSeries in ex_ps. apply is_pseries_unique in ex_ps. rewrite ex_ps. rewrite Series_plus. rewrite Series_scal. rewrite PSeries_incr_1. rewrite <- PSeries_eq. reflexivity.", "succ": false}]

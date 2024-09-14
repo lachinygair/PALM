@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros fn f x r H1. split. - intros H2 eps H3. destruct (CVU fn f x r H1 eps H3) as [N H4]. intros n y H5 H6. apply H4; auto. - intros H7 eps H8. apply H7.", "succ": false}]

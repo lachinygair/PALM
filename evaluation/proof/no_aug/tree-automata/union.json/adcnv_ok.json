@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. unfold not. intros H. sauto lq: on dep: on depth: 3use: adcnv_inj0.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. unfold not. intros H. apply H. rewrite <- adcnv_inj0 with (a := a) (b := b). reflexivity.", "succ": true}]

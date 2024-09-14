@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m n H. srun best use: relp_mult3, rel_prime_sym.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m n H. apply relp_sum. apply prop2. apply H.", "succ": true}]

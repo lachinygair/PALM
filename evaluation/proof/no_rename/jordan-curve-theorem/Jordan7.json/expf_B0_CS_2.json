@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x z t H1 H2 H3 H4 H5 H6 H7. unfold expf, inv_hmap, MF.expo, prec_I, cA, cA_1, bottom, top, B, cF, Iter, cA, cA_1 in *. split; [left | constructor]. apply H6. constructor; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. apply Zlt_sign_neg_pos. - apply H1. - apply Zlt_sign_pos_pos_rev with (x:=x). + apply H1. + apply H2.", "succ": false}]

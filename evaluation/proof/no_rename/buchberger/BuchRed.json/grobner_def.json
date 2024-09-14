@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros L H1 p H2."], "tactic": "destruct H2 as [H2 | H2].", "exn": "Not an inductive product.", "type": "not_inductive_product", "handled": true}]}, "chat": [], "original": "intros L H1 p H2. destruct H2 as [H2 | H2]. - left. apply (H1 p H2). - right. apply H2.", "succ": false}]

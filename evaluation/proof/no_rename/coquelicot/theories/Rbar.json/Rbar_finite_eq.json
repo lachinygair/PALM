@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "split; intro H; apply H.", "exn": "In environment x, y : R H : x = y Unable to unify \"@eq Rbar (Finite x) (Finite y)\" with \"@eq R x y\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "split; intro H; apply H.", "succ": true}]

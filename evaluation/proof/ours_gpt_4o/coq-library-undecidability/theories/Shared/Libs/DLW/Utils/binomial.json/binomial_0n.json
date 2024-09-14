@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply binomial_gt. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply binomial_gt. auto.", "back_times": 0, "succ": true, "time": 0.08263826370239258}]

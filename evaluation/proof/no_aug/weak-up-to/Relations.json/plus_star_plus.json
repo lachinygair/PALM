@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros y x z H1 H2. apply (star_ind X R (fun x z => plus R x z)). - apply plus_star. - apply H1. - apply H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold terms_and_indices_from_one_ll. intros h t ll Hin. apply H_refined in taifoli. apply taifoli in H_refined. apply H_refined. auto.", "succ": false}]

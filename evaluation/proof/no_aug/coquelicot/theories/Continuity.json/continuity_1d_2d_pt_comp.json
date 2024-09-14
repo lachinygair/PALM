@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g x y H1 H2. unfold continuity_2d_pt in *. intros eps. specialize (H1 eps). specialize (H2 (pos_div_2 eps)). destruct H1 as [d1 Hd1]. destruct H2 as [d2 Hd2]. exists (Rmin d1 d2). intros x0 y0 H3 H4 H5 H6. apply Hd1; auto. apply Hd2; auto.", "succ": false}]

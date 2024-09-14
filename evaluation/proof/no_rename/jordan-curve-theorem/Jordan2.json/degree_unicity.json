@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z j k H1 H2 H3 H4 H5 H6. qauto use: upb_eq_degree, unicity_mod_p.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z j k H1 H2 H3 H4 H5 H6. intros H7 H8 H9. unfold p, degree in *. apply (unicity_mod_p m z j k H4 H8) in H3. apply (unicity_mod_p m z j k H4 H8) in H5. rewrite H3, H5. reflexivity.", "succ": true}]

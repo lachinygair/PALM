@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t H1 H2 s p. unfold exds, exd in H2. destruct H2 as [H2 | H2]. - split. + intros [i Hi]. exists i. reflexivity. + intros [i Hi]. exists i. auto. - split. + intros [i Hi]. exists i. split. * omega. * auto. + intros [i [Hi Hi']]. exists i. auto.", "succ": false}]

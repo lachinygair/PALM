@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: sum_n_n, Nat.le_succ_diag_r, sum_n_m_Chasles unfold: sum_n_m.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros G a m n H. apply sum_n_m_Chasles. apply Peano.le_S_n in H. apply Peano.le_S_n. apply Nat.le_trans with (S m). - apply Peano.le_n_S. apply Nat.le_0_l. - apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z i Hmap Hexd. induction i. - simpl. reflexivity. - simpl. rewrite <- IHi. symmetry. apply expo_degree. + apply Hmap. + apply Hexd. + apply Iter_period. * apply Hmap. * apply Hexd.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: append_entries_leaderLogs_invariant.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. apply append_entries_leaderLogs_invariant. apply lhllsi.", "succ": true}]

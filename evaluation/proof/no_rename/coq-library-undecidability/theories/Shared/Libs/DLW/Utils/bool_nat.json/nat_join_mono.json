@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. unfold binary_le in H1, H2. unfold binary_le. destruct H1. - apply in_ble_0. - destruct H2. apply in_ble_1. + rewrite H. apply binary_le_le. apply H0. + rewrite H0. apply binary_le_le. apply H2.", "succ": false}]

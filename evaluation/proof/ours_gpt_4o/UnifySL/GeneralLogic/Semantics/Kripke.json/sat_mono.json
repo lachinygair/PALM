@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m n x Hle Hm. destruct kiSM as [upwards_closed]. apply (upwards_closed x m n Hle Hm).", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros m n x Hle Hm. destruct kiSM as [upwards_closed]. apply (upwards_closed x m n Hle Hm).", "back_times": 0, "succ": true, "time": 0.7137336730957031}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a.", "exists a, 0%N."], "tactic": "reflexivity.", "exn": "In environment a : ad Unable to unify \"iad_conv a 0%N\" with \"a\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros a. exists a, 0%N. reflexivity.", "succ": false}]

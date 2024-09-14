@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q. destruct p as [px py]. destruct q as [qx qy]. destruct (Req_dec px qx). - destruct (Req_dec py qy). -- left. split; auto. -- right. intro H. destruct H. apply n0. auto. - right. intro H. destruct H. apply n. auto.", "back_times": 0, "succ": false, "time": 120.53776049613953}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H. apply S_star with (y := y). - auto. - apply star_refl.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x y H. apply S_star with (y := y). - auto. - apply star_refl.", "back_times": 0, "succ": true, "time": 1.4363672733306885}]

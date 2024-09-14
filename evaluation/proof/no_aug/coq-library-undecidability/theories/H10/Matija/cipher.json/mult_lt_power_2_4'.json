@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Nat.lt_trans with (power k 2). auto. apply Nat.lt_trans with (power (2 * k) 2). apply mult_lt_power_2 with (k:=k). auto. auto. apply sum_power_lt. auto. auto.", "succ": false}]

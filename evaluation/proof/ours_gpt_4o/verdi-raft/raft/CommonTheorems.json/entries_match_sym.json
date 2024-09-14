@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ys H. apply entries_match_entries_match' in H. destruct H as [H1 H2]. auto.", "back_times": 0, "succ": false, "time": 139.44832944869995}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this s2 s1 l H. unfold network_rely, find, dstate. intros [n Hrely]. destruct Hrely as [z [s3 [Hneq Hstep]]]. apply H in Hstep. rewrite -> Hstep.", "succ": false}]

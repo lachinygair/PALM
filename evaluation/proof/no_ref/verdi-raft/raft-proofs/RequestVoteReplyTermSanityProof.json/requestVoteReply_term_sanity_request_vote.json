@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply requestVoteReply_term_sanity_invariant with (net:= net); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n."], "tactic": "apply PRnil.", "exn": "In environment n : nat Unable to unify \"PrimRecs ?M1412 0\" with \"{p : PrimRec 0 | extEqual 0 (evalPrimRec 0 p) n}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros n. apply PRnil.", "succ": false}]

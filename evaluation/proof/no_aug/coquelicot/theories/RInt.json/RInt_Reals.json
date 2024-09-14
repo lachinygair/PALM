@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros pr. unfold RiemannInt. unfold RInt. unfold Riemann_integrable in pr. destruct pr as [eps [phi [psi [H1 H2]]]]. symmetry in H2. apply (proj2 (delta2_delta H2)).", "succ": false}]

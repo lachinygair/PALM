@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f l z H. unfold C_lim in H. apply filterlim_switch with (f0 := fun x z => fst (f (x, snd z))) (g := locally (fst z)) (h := l). - apply H. - intros x. apply continuity_pt_filterlim'.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply is_lim_seq_unique. apply is_lim_seq_INR.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "apply is_lim_seq_unique. apply is_lim_seq_INR.", "back_times": 0, "succ": true, "time": 0.5726053714752197}]

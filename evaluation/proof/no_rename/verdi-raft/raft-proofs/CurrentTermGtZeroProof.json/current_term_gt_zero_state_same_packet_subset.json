@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net net' H1 H2 H3 H4 H5. unfold raft_net_invariant_state_same_packet_subset in *. intros. apply H with (net:=net) (net':=net'); auto.", "succ": false}]

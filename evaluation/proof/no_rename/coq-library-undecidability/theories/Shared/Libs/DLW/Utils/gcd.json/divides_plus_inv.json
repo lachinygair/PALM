@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: divides_minus, plus_minus.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros q2 q1 p H1 H2. apply divides_plus with (q1:=q1); auto.", "succ": true}]

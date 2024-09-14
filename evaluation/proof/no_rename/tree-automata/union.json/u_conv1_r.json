@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p a t Hrec. srun best use: u_conv1_5r unfold: u_conv_rec_1_r.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p a t Hrec. induction Hrec. - intros ladj Hmap Hst. apply rec_dta with (ladj := ladj); auto. - intros l Hmap Hl. apply rec_dta with (ladj := l); auto.", "succ": true}]

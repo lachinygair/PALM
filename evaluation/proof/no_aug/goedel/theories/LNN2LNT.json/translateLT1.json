@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a a0 b0. unfold translateLT, subAllFormula. rewrite LNN2LNT_term. rewrite LNN2LNT_term. reflexivity.", "succ": false}]

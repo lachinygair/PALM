@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h h' t es r st' ms t' Hhandle Hrefined Hcand Hcand'. apply (handleAppendEntriesReply_preserves_candidateEntriesTerm net h t h' t es r st' ms t' Hhandle Hrefined). auto. auto.", "succ": false}]

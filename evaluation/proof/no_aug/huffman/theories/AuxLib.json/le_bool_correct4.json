@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. apply le_bool_correct3. qauto depth: 4 l: on use: Nat.le_0_l, le_S, Nat.le_ngt, le_bool_correct1, lt_S_n unfold: lt, le_bool.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. apply le_bool_correct3. unfold le_bool. rewrite H. simpl. reflexivity.", "succ": true}]

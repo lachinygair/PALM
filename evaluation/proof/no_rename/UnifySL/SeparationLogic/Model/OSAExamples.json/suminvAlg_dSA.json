@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply nat_dSA.", "exn": "The reference nat_dSA was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply nat_dSA.", "succ": false}]

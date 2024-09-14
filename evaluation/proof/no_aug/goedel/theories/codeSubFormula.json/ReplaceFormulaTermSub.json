@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f v w s2. unfold ReplaceFormulaTerm. unfold codeFormula. rewrite (checkTraceCorrect (substituteFormula L f v (var w)) (codeTerm s2) _ _ _ _). rewrite (checkTraceCorrect f _ _ _ _). reflexivity.", "succ": false}]

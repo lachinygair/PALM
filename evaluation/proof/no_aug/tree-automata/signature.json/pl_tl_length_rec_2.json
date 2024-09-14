@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a la ls hd tl Hrecognition Hlist_recognizes Hpl_length. hauto lq: on unfold: pl_tl_length_rec_def_1, pl_tl_length_rec_def_0, lst_length inv: pl_tl_length.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl Hrecognition Hlist_recognizes Hpl_length. apply rec_consi; auto.", "succ": true}]

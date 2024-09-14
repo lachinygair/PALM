@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z H. unfold reflexive, Term, eqTerm in *. unfold OrderStructure, zero_mon, CoefStructure, mon, mult_mon, nat, ssrbool.is_left, ssrbool.is_inleft in *. unfold ltM, ltM_dec, os in *. apply eqA_ref with x.", "succ": false}]

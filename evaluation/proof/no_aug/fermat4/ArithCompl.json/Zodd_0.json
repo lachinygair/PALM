@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H_odd H_eq. contradict H_eq. unfold not. intros H_eq'. sfirstorder depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n H_odd H_eq. contradict H_eq. unfold not. intros H_eq'. apply H_odd. rewrite H_eq'. simpl. left. reflexivity.", "succ": true}]

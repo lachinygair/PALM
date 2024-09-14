@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intro H."], "tactic": "apply sign_le.", "exn": "The reference sign_le was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intro H. apply sign_le. auto.", "back_times": 0, "succ": false, "time": 64.38408350944519}]

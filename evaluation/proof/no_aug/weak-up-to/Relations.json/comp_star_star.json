@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply eeq_sym. apply eeq_trans with (trans (comp R S)). - apply eeq_sym. apply comp_assoc. - apply eeq_trans with (comp (trans S) (trans R)). + apply eeq_sym. apply inv_comp. + apply eeq_sym. apply inv_trans.", "succ": false}]

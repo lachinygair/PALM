@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1. unfold Rbar_le. destruct x. - destruct y. + destruct (Rle_total r0 r). * apply Rle_refl. * contradiction. + apply I. + contradiction. - destruct y. + apply Rle_refl. + apply I. + apply I.", "succ": false}]

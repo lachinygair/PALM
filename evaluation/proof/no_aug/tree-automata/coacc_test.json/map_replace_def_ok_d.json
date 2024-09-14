@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d m a x H. srun best use: domain_equal_symmetric, domain_equal_transitive, map_replace_def_ok unfold: preDTA, ensemble_base inv: bool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d m a x H. apply H.", "succ": true}]

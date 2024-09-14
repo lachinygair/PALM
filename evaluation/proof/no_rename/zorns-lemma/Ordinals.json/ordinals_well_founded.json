@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply well_founded.", "exn": "Unable to unify \"Prop\" with \"well_founded ord_lt\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply well_founded.", "succ": false}]

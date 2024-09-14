@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite list_an_length in H. rewrite list_an_plus. rewrite app_eq_unit in H. inversion H. split. - rewrite H2. rewrite list_an_length. reflexivity. - rewrite H3. rewrite list_an_length. rewrite Nat.add_comm. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold ex_derive_n. induction n. - intros. apply I. - intros. apply ex_derive. apply is_derive_n_PSeries with (n := n) (a := a) (x := x). apply H.", "succ": false}]

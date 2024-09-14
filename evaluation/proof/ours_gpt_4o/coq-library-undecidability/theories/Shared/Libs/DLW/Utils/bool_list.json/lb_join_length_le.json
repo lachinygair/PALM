@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros HlenL HlenM. apply lb_pointwise_length; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros HlenL HlenM. apply lb_pointwise_length; auto.", "back_times": 0, "succ": true, "time": 0.10624003410339355}]

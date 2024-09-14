@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_SeparationAlgebra with (A * B). - intros m1 m2 m H. inversion H. apply Join_B0. - intros mx my mz mxy mxyz H1 H2. destruct H1 as [myz [H3 H4]]. exists (mz, myz). split. + apply Join_B0. + apply H4.", "succ": false}]

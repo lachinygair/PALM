@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold SR, MPCP, SR_MPCP_cor, rewt in *. specialize (MPCP_SR _ _ _ _ _ _ H H H H). intros [A [H1 H2]]. exists A. split; auto.", "succ": false}]

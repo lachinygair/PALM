@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold allEntries_leader_sublog_interface. intros net leader e h H1 H2 H3. apply (allEntries_leader_sublog leader e h). - apply H1. - apply H2. - apply H3.", "succ": false}]

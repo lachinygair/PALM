@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: @ball_center unfold: snd, fst, UniformSpace.sort, prod_ball.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros V U x eps. unfold prod_ball. unfold ball. destruct x as [x1 x2]. split. - apply (UniformSpace.ax1 U x1 eps). - apply (UniformSpace.ax1 V x2 eps).", "succ": true}]

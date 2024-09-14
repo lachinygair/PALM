@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d l. induction l as [| hd tl IHtl]. - simpl. apply le_n. - simpl. case prec_empty; apply le_n.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d l. induction l as [| hd tl IHtl]. - simpl. apply le_n. - simpl. case prec_empty; apply le_n.", "back_times": 0, "succ": true, "time": 0.5901854038238525}]

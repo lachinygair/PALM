@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m u n f i Hlt Hneq. apply (msum_only_one X m u). - apply Hneq. - apply Hlt. - intros j Hlt' Hneqj. apply Hneq. auto.", "succ": false}]

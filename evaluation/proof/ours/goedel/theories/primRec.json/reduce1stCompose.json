@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c n m v g. unfold extEqual. unfold evalComposeFunc. reflexivity.", "succ": false}]

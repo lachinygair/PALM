@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros failed net tr k Hstep HIn. apply (iboi one_node_params). - auto. - apply (ogi: ogii raft_params); auto. - apply (oiai one_node_params); auto. - apply (copi one_node_params); auto. - apply (oci one_node_params); auto.", "succ": false}]

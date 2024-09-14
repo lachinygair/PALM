@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Build_partial_WO_ord.", "exn": "In environment T : Type Unable to unify \"partial_WO_ord ?M1673 ?M1674\" with \"preorder partial_WO_ord\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply Build_partial_WO_ord. - auto. - auto. - auto.", "succ": false}]

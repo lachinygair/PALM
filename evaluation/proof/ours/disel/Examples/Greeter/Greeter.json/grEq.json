@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold getProtocol. rewrite <- prEq. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold getProtocol. rewrite <- prEq. apply: prEq.", "succ": true}]

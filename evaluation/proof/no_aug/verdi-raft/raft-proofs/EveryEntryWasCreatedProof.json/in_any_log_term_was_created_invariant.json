@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hrefined. unfold in_any_log_term_was_created. intros e Hin. apply (every_entry_was_created net). apply Hrefined. auto. auto.", "succ": false}]

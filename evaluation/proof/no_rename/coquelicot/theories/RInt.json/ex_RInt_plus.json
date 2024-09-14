@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g a b Hexf Hexg. destruct Hexf as [If Hf]. destruct Hexg as [Ig Hg]. exists (plus If Ig). apply is_RInt_plus; auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f g a b Hexf Hexg. destruct Hexf as [If Hf]. destruct Hexg as [Ig Hg]. exists (plus If Ig). apply is_RInt_plus; auto.", "succ": true}]

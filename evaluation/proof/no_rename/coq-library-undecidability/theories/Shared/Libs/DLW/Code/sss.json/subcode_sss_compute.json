@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. strivial use: subcode_sss_steps unfold: sss_compute.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. intros H3 H4. intros H5. apply subcode_sss_progress with (st1:=st1) (st2:=st2); auto.", "succ": true}]

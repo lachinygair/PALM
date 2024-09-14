@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["apply map_ext_in_iff.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "apply map_ext_in_iff. intros a H. apply in_frequency_map. apply in_frequency_map_inv in H. apply H.", "succ": false}]

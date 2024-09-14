@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. intros handle. unfold nextIndex_preserved in handle. specialize (handle st st' h). apply handle. apply handleClientRequest_type.", "succ": false}]

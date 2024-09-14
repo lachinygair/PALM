@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f Hf f' Hf' g Hg x. apply compose1_1IsPR with (g := g), Hf, Hf'.", "succ": false}]

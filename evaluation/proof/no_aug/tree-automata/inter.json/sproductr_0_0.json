@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold sproductr_0_def, M0 in *. simpl. intros. apply H.", "succ": true}]

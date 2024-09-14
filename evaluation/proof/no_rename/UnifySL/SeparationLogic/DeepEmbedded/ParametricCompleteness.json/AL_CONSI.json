@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold at_least, consistent. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold at_least, consistent. intros L Gamma Phi H. unfold consistent in H. destruct H as [x H]. exists x. intros Phi' H'. apply H. auto.", "succ": true}]

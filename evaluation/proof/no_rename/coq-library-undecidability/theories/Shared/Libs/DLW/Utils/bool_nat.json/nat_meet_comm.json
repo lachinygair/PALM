@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold \"\u21e3\". scongruence use: lb_meet_comm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold \"\u21e3\". intros m n. rewrite Nat.mul_comm. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x y H1 H2 H3 H4. hfcrush use: expo_symm, expo_eq_exds_orb, expo_refl unfold: impls.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x y H1 H2 H3 H4. apply expo_expo1 in H4. apply expo_exo in H4. apply expo_symm in H4. apply expo_trans with x. apply expo_refl. apply expo_symm. apply H4. done.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold r_step_coh_t. unfold receive_stepI. intros d C. simpl. unfold msg_wf. simpl. intros from this m pf HIfind HIdom HImsgwf HItag HIfindLocal. apply (HItag (t_rcv rt)). apply (HIfind d from this m C pf). apply HIdom. apply HImsgwf. apply HIfindLocal.", "succ": false}]

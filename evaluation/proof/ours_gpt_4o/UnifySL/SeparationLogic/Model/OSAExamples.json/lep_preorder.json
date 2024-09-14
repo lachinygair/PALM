@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Nat.le_preorder.", "exn": "Unable to unify \"PreOrder le\" with \"PreOrder lep\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Nat.le_preorder.", "back_times": 0, "succ": false, "time": 25.53443455696106}]

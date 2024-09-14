@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. destruct (adjacent_to_dec x y). - left. auto. - right. auto.", "succ": false, "time": 4.196100665000017}]

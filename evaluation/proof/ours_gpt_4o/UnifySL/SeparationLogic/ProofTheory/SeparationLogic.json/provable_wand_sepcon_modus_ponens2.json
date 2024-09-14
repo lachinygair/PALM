@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. pose proof (wandX _ _ (sepconL L) (wandL L) Gamma). pose proof (H x (x -* y) y). apply H0.", "back_times": 0, "succ": false, "time": 64.16788339614868}]

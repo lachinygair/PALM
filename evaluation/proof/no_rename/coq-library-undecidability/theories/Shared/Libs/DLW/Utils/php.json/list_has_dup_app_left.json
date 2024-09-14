@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m l H. induction H. - apply in_list_hd0. apply in_or_app. left. apply H. - apply in_list_hd1. apply IHlist_has_dup.", "succ": false}]

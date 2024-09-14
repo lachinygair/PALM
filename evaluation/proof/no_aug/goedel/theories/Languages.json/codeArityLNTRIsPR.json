@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: const1_NIsPR, switchPR, switchIsPR, idIsPR, compose1_2IsPR, nat.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (compose1_2IsPR (fun r : nat => r) idIsPR (fun _ : nat => 0) (const1_NIsPR 0) (fun _ : nat => 3) (const1_NIsPR 3) switchPR switchIsPR).", "succ": true}]

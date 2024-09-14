@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold prime. split. - unfold not. intros contra. discriminate. - intros q Hq. sauto l: on dep: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold prime. split. - unfold not. intros contra. discriminate. - intros q Hq. lia.", "succ": true}]

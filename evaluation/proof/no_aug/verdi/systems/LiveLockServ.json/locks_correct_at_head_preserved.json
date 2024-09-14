@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros sigma st' Hlocks Hqueue. unfold locks_correct in *. intros c HatHead. destruct (name_eq_dec (Client c) Server) as [Heq | Hneq]. + rewrite Heq. apply Hlocks. apply HatHead. + apply locks_correct_update_true; auto.", "succ": false, "time": 8.171226530000013}]

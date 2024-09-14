@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x a b H. destruct x. - inversion H. - unfold map_mini in H. destruct (map_mini_mini A x) as [H1 _]. apply H1 in H. destruct H as [c H2]. apply in_dom_DMerge_3 with (m0:=x) in H2; auto. discriminate H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params Hnet Hnet' gd d h d' Hreboot HP Hreachable Hstate Hequiv Hpckts. specialize (Hnet orig_base_params one_node_params raft_params net net' gd d h d' Hreboot HP Hreachable Hstate Hequiv Hpckts). apply Hnet.", "succ": false}]

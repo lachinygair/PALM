@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Proper, respectful. intros H1 H2 H3 x1 x2 H4 y1 y2 H5. split; intro H6. - apply wand_sepcon_adjoint. apply H6. - apply wand_sepcon_adjoint. apply H6.", "succ": false}]

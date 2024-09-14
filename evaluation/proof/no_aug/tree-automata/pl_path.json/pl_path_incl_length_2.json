@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros plp a la ls H1 H2 H3. qauto unfold: pl_path_incl_length_def inv: pl_tl_length, pl_path_incl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros plp a la ls H1 H2 H3. apply pl_path_incl_length_def. - apply pl_path_incl_cons. apply H1. - apply H2. - apply H3.", "succ": true}]

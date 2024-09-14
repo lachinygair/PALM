@@ -1,0 +1,1 @@
+[{"history": {"proof": "assert (H:=prime_above n). destruct H as [p [H1 [H2 H3]]]. unfold nxtprime. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "assert (H:=prime_above n). destruct H as [p [H1 [H2 H3]]]. unfold nxtprime. rewrite H1. apply H2.", "succ": true}]

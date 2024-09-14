@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a Ca. unfold eqP. apply canonical in Ca. destruct Ca as [Ca1 Ca2]. unfold spolyf. rewrite Ca1. rewrite Ca1. reflexivity.", "succ": false}]

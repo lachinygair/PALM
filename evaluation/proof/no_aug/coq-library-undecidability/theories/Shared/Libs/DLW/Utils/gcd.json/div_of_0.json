@@ -1,0 +1,1 @@
+[{"history": {"proof": "symmetry. sfirstorder use: neq_0_lt, div_eq_0.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. symmetry. apply div_eq_0. apply Nat.lt_neq, Hp.", "succ": true}]

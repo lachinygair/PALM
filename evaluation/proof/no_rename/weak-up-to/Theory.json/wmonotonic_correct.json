@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold simulation. intros x y H. pose (U := mkctrl _ _ _ TX TY R); destruct U as [U _]. apply U; clear U. - intros z Hz. apply H. - apply HRa. - intros n. induction n. + apply silent. + apply visible.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite sum_Sn.", "exn": "The LHS of sum_Sn (sum_n _ (S _)) does not match any subterm of the goal", "type": "no_match_term", "handled": true}]}, "chat": [], "original": "rewrite sum_Sn. unfold nat_to_ring. simpl. auto.", "back_times": 0, "succ": false, "time": 56.98470115661621}]

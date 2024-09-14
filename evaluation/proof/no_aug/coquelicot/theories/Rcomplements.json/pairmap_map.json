@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction s as [| h t IHs]. - simpl. reflexivity. - simpl. sauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction s as [| h t IHs]. - simpl. reflexivity. - simpl. rewrite -> pairmap_cat. rewrite IHs. reflexivity.", "succ": true}]

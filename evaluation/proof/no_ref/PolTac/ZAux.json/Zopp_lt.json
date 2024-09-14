@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. strivial use: Z.opp_lt_mono.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. lia.", "succ": true}]

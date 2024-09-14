@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b Q H. hauto depth: 2 lq: on exh: on use: Cb_incl unfold: In.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros a b Q H."], "tactic": "apply (H bs).", "exn": "The reference bs was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros a b Q H. apply (H bs).", "succ": true}]

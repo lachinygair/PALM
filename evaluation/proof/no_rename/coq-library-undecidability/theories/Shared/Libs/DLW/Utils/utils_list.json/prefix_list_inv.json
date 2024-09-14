@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: app_assoc_reverse, app_inv_head unfold: prefix.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X rr r l H. rewrite <- H. apply prefix_app_lft.", "succ": true}]

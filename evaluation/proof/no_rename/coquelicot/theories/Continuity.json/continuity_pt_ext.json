@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: cond_pos, continuity_pt_locally', continuity_pt_locally_ext.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f g x H1 H2. apply continuity_pt_ext_loc with (f := f) (x := x). intros x0. apply H1. apply H2.", "succ": true}]

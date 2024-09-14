@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x Hmap Hsucc HnotA. hauto lq: on use: not_exd_A_nil, not_pred_bottom, not_exd_nil, A_1_A unfold: succ, pred.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x Hmap Hsucc HnotA. intros H. unfold not. intros Heq. rewrite H in Heq. apply HnotA. rewrite Heq. apply A_cA; auto.", "succ": true}]

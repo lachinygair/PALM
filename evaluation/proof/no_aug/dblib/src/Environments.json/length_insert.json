@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x k km1 o e H1 H2 H3. unfold raw_insert. rewrite length_insert_general. rewrite <- plus_n_Sm. rewrite <- plus_n_Sm. apply length_monotonic. - apply H1. - apply H2.", "succ": false}]

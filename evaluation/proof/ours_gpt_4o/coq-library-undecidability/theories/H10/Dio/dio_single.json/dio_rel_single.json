@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro H. destruct (H _ _ ds_H4) as [E H0]. exists E. intro \u03bd. apply H0.", "back_times": 0, "succ": false, "time": 59.65981721878052}]

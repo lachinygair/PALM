@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y d Hx Hgcd. pose proof (gcd_lincomb_nat x y d Hx Hgcd) as [a Ha]. exists a. rewrite <- Ha. reflexivity.", "back_times": 0, "succ": false, "time": 60.75648307800293}]

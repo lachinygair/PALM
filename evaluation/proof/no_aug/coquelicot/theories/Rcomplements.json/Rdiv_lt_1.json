@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r1 r2 H. hauto use: Rlt_div_l, Rmult_1_l unfold: Rgt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros r1 r2 H. split. - intros H0. apply Rmult_lt_reg_r with (r := r2). + apply H. +", "succ": true}]

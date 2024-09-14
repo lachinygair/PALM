@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold prod_plus, prod_opp, prod_zero. destruct x as [u v]. unfold plus, zero. sauto q: on depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold prod_plus, prod_opp, prod_zero. destruct x as [u v]. unfold plus, zero.", "succ": true}]

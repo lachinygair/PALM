@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H."], "tactic": "destruct H as [l Hl].", "exn": "l is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros H. destruct H as [l Hl]. exists l. apply is_derive_Reals. ++ apply Derive_correct. exists l. apply Hl.", "back_times": 0, "succ": false, "time": 127.01093363761902}]

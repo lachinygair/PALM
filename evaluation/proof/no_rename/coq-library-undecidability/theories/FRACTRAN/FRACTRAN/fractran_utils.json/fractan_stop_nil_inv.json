@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x. split. - intros H. apply I. - intros _. apply (fractran_stop nil x).", "succ": true}]

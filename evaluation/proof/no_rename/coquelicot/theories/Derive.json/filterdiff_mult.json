@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K F PF x filt_lim mult_comm. unfold filterdiff. split. - intros x' filt_lim_x'.", "succ": false}]

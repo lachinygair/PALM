@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: sqrt_plus_sqr unfold: C, fst, snd, Cmod.", "repairs": [], "exceptions": []}, "chat": [], "original": "decide equality.", "back_times": 0, "succ": true, "time": 23.734270572662354}]

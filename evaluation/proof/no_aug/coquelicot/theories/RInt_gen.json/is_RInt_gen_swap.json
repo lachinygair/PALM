@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_RInt_gen in *. intros. apply ex_RInt_gen_ext in H as [l' Heq]. apply ex_RInt_gen_ext. intros. symmetry. apply is_RInt_opp. unfold ex_RInt_gen. exists l'. apply IH. auto.", "succ": false}]

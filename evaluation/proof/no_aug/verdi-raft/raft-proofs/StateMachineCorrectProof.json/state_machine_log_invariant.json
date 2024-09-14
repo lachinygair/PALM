@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_reachable. unfold state_machine_log. intros h. specialize (state_machine_correct_invariant orig_base_params one_node_params raft_params si misi smsi lmi net H_reachable). intros H_correct. apply H_correct.", "succ": false}]

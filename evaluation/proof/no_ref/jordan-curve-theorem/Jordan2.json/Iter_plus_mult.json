@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z n p i Hmap Hexd Hiter. unfold Iter. replace (i + n * p) with (n * p + i) by lia. apply Iter_plus with (z:=z). - auto. - auto. - apply Iter_mult; auto.", "succ": false}]

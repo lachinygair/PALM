@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l l' e H_sorted H_gt_max H_in H_max. apply (sorted_app_in_1 l l' e). auto. apply H_gt_max. auto. auto.", "succ": false}]

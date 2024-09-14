@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h h' st t lli llt st' t' H. symmetry in H. apply handleRequestVote_reply_true in H. destruct H as [H1 H2]. split. - apply H2. - apply H1.", "succ": false}]

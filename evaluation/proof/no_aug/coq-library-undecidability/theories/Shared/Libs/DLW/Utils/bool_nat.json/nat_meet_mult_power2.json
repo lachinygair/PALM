@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold power. rewrite <- mult_2_eq_plus. rewrite power_plus. rewrite power_S. rewrite mult_2_eq_plus. rewrite mult_2_eq_plus. reflexivity.", "succ": false}]

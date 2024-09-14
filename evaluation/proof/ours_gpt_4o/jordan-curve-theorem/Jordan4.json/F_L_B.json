@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x z Hm Hsucc. unfold F. rewrite A_1_L_B. rewrite A_1_L_B. reflexivity. all: auto.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m k x z Hm Hsucc. unfold F. rewrite A_1_L_B. rewrite A_1_L_B. reflexivity. all: auto.", "back_times": 0, "succ": true, "time": 1.0194385051727295}]

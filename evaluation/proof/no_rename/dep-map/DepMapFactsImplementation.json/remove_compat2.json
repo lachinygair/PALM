@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Proper. unfold remove. unfold eq. unfold eq in *. unfold Proper in *. intros x0 x1 H1 m1 m2 H2. apply remove_compat; auto.", "succ": false}]

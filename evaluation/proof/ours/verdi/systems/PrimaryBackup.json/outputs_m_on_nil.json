@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold outputs_m. reflexivity.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "unfold outputs_m. simpl. reflexivity.", "hammer_times": 0, "succ": true, "time": 0.21889090538024902}]

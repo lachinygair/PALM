@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi z H. unfold context_sepcon in H. rewrite sepcon_elim2 in H. exists z, emp. split. - rewrite GC_Ext_Classical_collapse. apply (prove_derivable_closed_context Phi). - split. + apply derivable_assum. + apply emp_sepcon_elim1.", "succ": false}]

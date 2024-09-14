@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: locally_open unfold: open.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros T D E HDE HDEx HOxD x HxD. apply locally_open with (D := D); auto. intros y HyD. apply HDE, HxD. apply HDEx. apply HyD.", "succ": true}]

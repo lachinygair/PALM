@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s contra. hauto lq: on depth: 3use: state_in_dta.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros s contra. unfold not in contra. apply contra. unfold state_in_dta. intros a0. exists a0. reflexivity.", "succ": true}]

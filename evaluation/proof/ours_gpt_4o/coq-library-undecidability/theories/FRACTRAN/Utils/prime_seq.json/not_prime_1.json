@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold prime. intros [H1 H2]. apply H1. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold prime. intros [H1 H2]. apply H1. reflexivity.", "back_times": 0, "succ": true, "time": 0.09813213348388672}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply r.", "exn": "In environment m, n : nat r : pos_map m n Unable to unify \"pos_map m n\" with \"pos_map (S m) (S n)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply r.", "back_times": 0, "succ": true, "time": 0.05689597129821777}]

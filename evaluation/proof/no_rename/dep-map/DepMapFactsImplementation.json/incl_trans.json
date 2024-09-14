@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A dom\u2081 dom\u2082 dom\u2083 m\u2081 m\u2082 m\u2083 H1 H2 x v H3. apply H2, H1, H3.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros A dom\u2081 dom\u2082 dom\u2083 m\u2081 m\u2082 m\u2083 H1 H2 x v H3. apply H2, H1, H3.", "succ": true}]

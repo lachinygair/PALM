@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p H. unfold ack_in_flight_to_primary. simpl. rewrite H. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros p H. unfold ack_in_flight_to_primary. simpl. rewrite H. auto.", "succ": true, "time": 0.3133672590001879}]

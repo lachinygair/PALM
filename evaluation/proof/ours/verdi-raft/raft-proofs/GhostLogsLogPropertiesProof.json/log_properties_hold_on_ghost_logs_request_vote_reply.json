@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold msg_refined_raft_net_invariant_request_vote_reply, msg_refined_raft_net_invariant, msg_refined_raft_net_invariant_request_vote_reply in *. intros. apply H6 with xs p ys net st' ps' gd d t v; auto.", "succ": false}]

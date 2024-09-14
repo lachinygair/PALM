@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction c; intros. - unfold distinct_pbleaves. intros. inversion H0. - unfold distinct_pbleaves. intros. destruct t0, t1, t2. intros. apply (IHc H0 _ _ _ H1 H2 H3).", "succ": false}]

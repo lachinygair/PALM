@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros b Hb a. exists (Zdiv_eucl b Hb a). split. - apply Z.div_mod. - reflexivity.", "succ": false}]

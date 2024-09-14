@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X q p HdecP HdecQ. unfold decidable in HdecP, HdecQ. destruct HdecP as [fP HP], HdecQ as [fQ HQ]. exists (fun x : X => orb (fP x) (fQ x)). intros x. specialize (HP x). specialize (HQ x). destruct (fP x), (fQ x); firstorder.", "succ": false}]

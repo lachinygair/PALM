@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "constructor. intros net H_inter. apply ghost_log_correct_invariant; auto.", "succ": false}]

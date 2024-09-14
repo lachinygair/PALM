@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold LockCoh, soup_coh, consume_msg, dsoup in *. intros Hlockcoh. apply soup_coh_post_msg. - unfold LockCoh in Hlockcoh. apply Hlockcoh. - unfold coh_msg. intros m0 Hm0. exists e. apply Hm0.", "succ": false}]

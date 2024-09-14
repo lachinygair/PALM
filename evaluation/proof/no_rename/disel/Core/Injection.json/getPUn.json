@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros W U l H1 H2. unfold valid in H1. unfold getProtocol. rewrite findUnL in H2. - rewrite H2 in H1. symmetry. apply H1. - apply H2.", "succ": false}]

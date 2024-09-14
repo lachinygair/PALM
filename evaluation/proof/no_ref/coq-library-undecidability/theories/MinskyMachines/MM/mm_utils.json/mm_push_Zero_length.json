@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold mm_push_Zero. sfirstorder depth: 3use: app_length.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold mm_push_Zero. rewrite mm_push_Zero_eq. rewrite app_length. simpl. reflexivity.", "succ": true}]

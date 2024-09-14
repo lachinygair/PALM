@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3. rewrite ex_Rbar_minus in H3. apply ex_lim_seq_plus with (v := (fun n : nat => - v n)). -- apply H1. -- apply ex_lim_seq_opp. apply H2. -- rewrite Lim_seq_opp. apply H3.", "back_times": 0, "succ": false, "time": 93.22929906845093}]

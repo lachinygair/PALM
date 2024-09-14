@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x Hin. unfold inf. rewrite -> supP. apply sub_trans with (sup [Pred x0 | forall y : T, y \\In s -> x0 <== y]). apply supM. intros y Hy. apply relaxP with (sup s). apply supP. apply Hy. apply (supP s y). auto. apply supP. apply poset_refl. apply Hin.", "succ": false}]

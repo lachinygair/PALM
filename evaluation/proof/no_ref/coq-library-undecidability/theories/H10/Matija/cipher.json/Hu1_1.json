@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["exists (S m).", "split.", "-", "lia.", "-"], "tactic": "rewrite Huu.", "exn": "Found no subterm matching \"u * u\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros. exists (S m). split. - lia. - rewrite Huu. rewrite msum_sum_dist. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a b H1 H2. unfold divides in *. destruct H1 as [q1 H1]. destruct H2 as [q2 H2]. rewrite H1, H2. rewrite Nat.mul_sub_distr_l. exists (q2 - q1). reflexivity.", "succ": false}]

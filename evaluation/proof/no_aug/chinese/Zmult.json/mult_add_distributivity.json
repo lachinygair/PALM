@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold distributivity. intros S add mul. unfold add, mul. induction x. - simpl. reflexivity. - simpl. rewrite IHx. rewrite (add_Z (mul a y) (mul b y) y). reflexivity.", "succ": false}]

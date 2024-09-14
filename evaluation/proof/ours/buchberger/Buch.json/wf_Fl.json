@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": "apply OrderStructure_wf.", "exn": "The reference OrderStructure_wf was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros x. apply OrderStructure_wf.", "succ": false}]

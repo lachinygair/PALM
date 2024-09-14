@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z. rewrite <- sepcon_assoc1. rewrite <- sepcon_assoc1. rewrite sepcon_orp_distr_l. rewrite sepcon_orp_distr_r. reflexivity.", "succ": false}]

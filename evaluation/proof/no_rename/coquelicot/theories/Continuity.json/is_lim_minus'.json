@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros g f x lg lf Hlimf Hlimg. apply is_lim_minus with (f := f) (g := g) (x := x) (lf := lf) (lg := lg). - apply Hlimf. - apply Hlimg. - unfold is_Rbar_minus. simpl. ring.", "succ": false}]

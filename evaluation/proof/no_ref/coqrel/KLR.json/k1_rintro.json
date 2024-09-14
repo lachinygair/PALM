@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H1. apply H1.", "repairs": ["", ""], "exceptions": [{"ctx": [], "tactic": "unfold RIntro, k1, RR, R1.", "exn": "Cannot coerce RR to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold RIntro, k1, RR, R1. simpl. intros H1. apply H1.", "succ": true}]

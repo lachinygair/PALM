@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (rel_curry_set_le_transport R sA sB a1 a2 a3).", "succ": false}]

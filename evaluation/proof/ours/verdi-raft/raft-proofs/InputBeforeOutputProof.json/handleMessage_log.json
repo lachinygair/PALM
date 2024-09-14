@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h h' h'' e m st' ms H_reachable H_In_packets H_handleMessage H_In_entry. unfold applied_implies_input_state. exists e. split. - unfold correct_entry. destruct e. simpl. auto. - left. auto.", "succ": false}]

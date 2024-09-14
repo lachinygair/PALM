@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on dep: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net net' H1 H2 H3 H4 H5 H6 H7 H8. unfold refined_raft_net_invariant_state_same_packet_subset in *. intros H9 H10 H11 H12 H13. apply H9; auto.", "succ": true}]

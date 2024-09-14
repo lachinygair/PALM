@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d s c b tl l e l0 H. hauto l: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d s c b tl l e l0 H. apply rec_nonco_kill_def_1 with (rec_co_st d s c b tl l e l0). apply rec_co_st. apply e. apply l0. apply H.", "back_times": 0, "succ": true, "time": 1.2800803184509277}]

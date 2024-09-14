@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries. intros. specialize (H one_node_params raft_params net t h h'). simpl in H. repeat match goal with [H : _ /\\ _ |- _] => destruct H end. exists x. split; auto.", "succ": false}]

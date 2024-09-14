@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: multZ_associativity, Z_group, mult_add_distributivity, addZ_commutativity unfold: intern, is_ring, IdZ.", "repairs": [], "exceptions": []}, "chat": [], "original": "apply is_ring.", "succ": true}]

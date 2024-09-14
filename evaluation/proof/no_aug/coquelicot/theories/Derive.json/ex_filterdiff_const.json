@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold ex_filterdiff. exists (fun _ : U => a). apply filterdiff_const.", "succ": false}]

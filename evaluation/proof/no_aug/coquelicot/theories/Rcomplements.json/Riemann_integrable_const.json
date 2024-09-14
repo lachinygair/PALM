@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c a b. unfold Riemann_integrable. intros eps. exists (StepFun_P4 a b c). exists (StepFun_P4 a b c). split. - intros t. intro H. unfold Rabs. destruct (Rle_dec a b). + lra. + apply False_ind. apply n. auto. - lra.", "succ": false}]

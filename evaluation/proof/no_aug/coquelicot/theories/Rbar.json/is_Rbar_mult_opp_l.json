@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. hauto use: Ropp_0, Rbar_mult_opp_l, is_Rbar_mult_sym, Rbar_mult'_opp_r, Rbar_opp_real, is_Rbar_mult_unique unfold: Rbar_opp, Rbar_mult', Rbar_mult, real, is_Rbar_mult inv: option.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold is_Rbar_mult, Rbar_mult' in H.", "succ": true}]

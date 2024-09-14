@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros choice."], "tactic": "apply choice.", "exn": "In environment choice : SerTop.choice Unable to unify \"SerTop.choice\" with \"collection\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros choice. apply choice.", "back_times": 0, "succ": false, "time": 53.800374031066895}]

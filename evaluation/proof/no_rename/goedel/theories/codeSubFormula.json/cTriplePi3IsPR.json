@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold cTriplePi3."], "tactic": "unfold codeTriple.", "exn": "The reference codeTriple was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "unfold cTriplePi3. unfold codeTriple. simpl. unfold isPR. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi. unfold Lindenbaum_constructable. intros. apply Lindenbaum_constructable_suffice with (P := context_sepcon_included_l Phi (proj1_sig Psi)) (cP := cP); auto.", "succ": false}]

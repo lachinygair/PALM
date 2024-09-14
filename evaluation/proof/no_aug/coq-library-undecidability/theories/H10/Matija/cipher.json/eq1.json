@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. rewrite Hb. rewrite Hc. rewrite (sum_power_binary_lt q) at 1. rewrite (sum_sum_regroup r). - apply eq_refl. - intros p H1 H2. apply Hu2_0. - intros p H1 H2. apply h.", "succ": false}]

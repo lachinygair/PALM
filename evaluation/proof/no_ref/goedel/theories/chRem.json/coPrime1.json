@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. unfold CoPrime. unfold gcd. hfcrush use: div_le1, Nat.mul_1_l, Nat.add_0_l, abs_inj unfold: common_div, Divides.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. intros. unfold CoPrime. unfold gcd. unfold Z.of_nat. unfold Z.gcd. simpl. lia.", "succ": true}]

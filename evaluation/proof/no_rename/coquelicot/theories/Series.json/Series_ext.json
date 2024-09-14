@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a H. rewrite -> Series_correct, Series_correct. apply f_equal, functional_extensionality. intros n. apply H.", "succ": false}]

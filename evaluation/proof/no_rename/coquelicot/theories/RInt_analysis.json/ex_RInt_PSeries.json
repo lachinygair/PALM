@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: is_RInt_PSeries.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a x H. apply is_RInt_PSeries. apply H.", "succ": true}]

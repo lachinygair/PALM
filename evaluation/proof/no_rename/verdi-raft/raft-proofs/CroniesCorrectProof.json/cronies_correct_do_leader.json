@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_do_leader, cronies_correct in *. intros. specialize (H one_node_params raft_params vci cvfsi). repeat match goal with | H: _ /\\ _ |- _ => destruct H end. apply H; auto.", "succ": false}]

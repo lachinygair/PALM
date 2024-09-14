@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold pl_path_incl_length_def. intros n H H0. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold pl_path_incl_length_def. intros n H H0. induction H. - simpl. inversion H0. reflexivity. - inversion H0.", "back_times": 1, "succ": true, "time": 67.6580274105072}]

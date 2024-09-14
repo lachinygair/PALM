@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F FF f g c Hex Hfg. unfold is_equiv in Hfg. unfold is_domin in Hfg. intros eps. apply Hfg with (eps * norm (f 0)). auto.", "succ": false}]

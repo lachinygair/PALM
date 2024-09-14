@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: pts_in unfold: HCn.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros cn others pts Hcn_to_in_pts. unfold nodes. rewrite in_app_iff. right. apply Hcn_to_in_pts.", "succ": true}]

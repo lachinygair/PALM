@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T f v t H. apply forallE with (t := t) in H. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros T f v t H. apply forallE with (t := t) in H. apply H.", "back_times": 0, "succ": true, "time": 0.5373353958129883}]

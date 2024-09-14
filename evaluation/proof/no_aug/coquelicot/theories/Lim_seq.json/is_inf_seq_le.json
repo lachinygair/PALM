@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3. unfold is_inf_seq, is_inf_seq in H2, H3. destruct H2 as [H2a H2b]. destruct H3 as [H3a H3b]. apply H2a. intros n. apply Rbar_le_trans with (u n). apply H1. apply H3b.", "succ": false}]

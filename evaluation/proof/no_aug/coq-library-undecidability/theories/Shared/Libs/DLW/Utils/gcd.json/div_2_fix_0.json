@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply div_of_0. intro. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply div_of_0. intro. injection H. intro. apply H0.", "succ": true}]

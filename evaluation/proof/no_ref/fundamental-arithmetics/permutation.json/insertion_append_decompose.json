@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x l l' H. inversion H as [l1 l2 H1 H2|A' a l1 l2 H3 H4 H5 H6]. exists l1, (a :: l2). split; [apply H1|apply H2].", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros new current prev e H_sorted H_unique H_eq H_cont_curr H_cont_new H_in_curr H_eq_index_e. apply in_app_iff. left. apply removeAfterIndex_in. apply H_in_curr.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite Hf1_2.", "exn": "Found no subterm matching \"\u2211 (S (S m)) (fun i : nat => power (f1 i) r)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite Hf1_2. reflexivity.", "back_times": 0, "succ": false, "time": 33.83551812171936}]

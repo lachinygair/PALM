@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "rewrite /unzip2.", "exn": "The reference unzip2 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "rewrite /unzip2. reflexivity.", "back_times": 0, "succ": true, "time": 13.774147510528564}]

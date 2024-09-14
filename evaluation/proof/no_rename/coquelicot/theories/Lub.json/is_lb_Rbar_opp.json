@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E l. split. - intros H x Ex. apply H. exists (- x). unfold Rbar_le. simpl. unfold Rbar_opp. destruct l; auto. - intros H x Ex. apply H. exists (- x). unfold Rbar_le. simpl. unfold Rbar_opp. destruct l; auto.", "succ": false}]

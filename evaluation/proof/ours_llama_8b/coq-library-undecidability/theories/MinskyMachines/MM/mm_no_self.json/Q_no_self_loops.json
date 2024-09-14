@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Nat.add_le_mono_l, Nat.add_comm, Nat.lt_0_succ, mm_no_self_loops_app unfold: lt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

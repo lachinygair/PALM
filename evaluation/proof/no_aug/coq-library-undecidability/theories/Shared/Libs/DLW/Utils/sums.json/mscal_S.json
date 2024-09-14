@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold mscal. simpl. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold mscal. simpl. rewrite mscal_0. symmetry. apply monoid_unit_r. apply Hmonoid.", "succ": true}]

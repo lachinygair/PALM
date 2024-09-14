@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply DelegatingCalculatorServer.delegating_body_obligation_5 with (sd := sv). apply Hs1.", "succ": true}]

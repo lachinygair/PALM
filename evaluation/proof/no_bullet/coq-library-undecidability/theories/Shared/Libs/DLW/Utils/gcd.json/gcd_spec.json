@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold gcd. unfold is_gcd. apply (proj2_sig (gcd_full p q)).", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "unfold gcd. unfold is_gcd. simpl. apply (proj2_sig (gcd_full p q)).", "succ": true}]

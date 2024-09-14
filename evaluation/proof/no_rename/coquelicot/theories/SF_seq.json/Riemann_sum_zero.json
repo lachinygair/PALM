@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V f ptd Hsorted Hlast. unfold Riemann_sum. rewrite Hlast. rewrite foldr_rcons. rewrite Riemann_sum_rcons. rewrite scal_zero_r. reflexivity.", "succ": false}]

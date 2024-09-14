@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold sum_n. srun best use: sum_n_n.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["unfold sum_n."], "tactic": "reflexivity.", "exn": "In environment G : AbelianGroup a : nat -> G Unable to unify \"a 0%nat\" with \"sum_n_m a 0 0\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "unfold sum_n. reflexivity.", "succ": true}]

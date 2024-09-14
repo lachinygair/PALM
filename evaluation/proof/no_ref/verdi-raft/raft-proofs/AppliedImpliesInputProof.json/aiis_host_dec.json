@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold aiis_host.", "right.", "intro."], "tactic": "destruct H as [h [e [H1 [H2 H3]]]].", "exn": "Not an inductive product.", "type": "not_inductive_product", "handled": true}]}, "chat": [], "original": "unfold aiis_host. right. intro. destruct H as [h [e [H1 [H2 H3]]]]. exists e. auto.", "succ": false}]

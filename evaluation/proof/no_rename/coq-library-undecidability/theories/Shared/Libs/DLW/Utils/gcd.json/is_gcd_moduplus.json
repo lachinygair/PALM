@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p k Hdiv Hgcd. destruct Hgcd as [Hdivp [Hdivq Hdivr]]. unfold is_gcd in *. split. - apply divides_mult; auto. - split. + apply divides_plus; auto. + intros x Hdivp' Hdivq'. apply Hdivr; auto.", "succ": false}]

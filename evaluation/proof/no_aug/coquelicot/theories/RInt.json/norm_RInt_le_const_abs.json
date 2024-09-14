@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b lf M Hnorm Hint. apply (norm_RInt_le_const f a b lf M). - apply Rminus_le_0. - auto. - auto.", "succ": false}]

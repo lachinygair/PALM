@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: rev_involutive, rev_app_distr, app_nil_end.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X A H. destruct A. - reflexivity. - discriminate H.", "succ": true}]

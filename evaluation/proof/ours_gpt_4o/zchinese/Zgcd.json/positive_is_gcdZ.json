@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b d H. induction H using is_gcdZ_ind. -- apply Z.abs_nonneg. -- apply IHis_gcdZ.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a b d H. induction H using is_gcdZ_ind. -- apply Z.abs_nonneg. -- apply IHis_gcdZ.", "back_times": 0, "succ": true, "time": 0.4705376625061035}]

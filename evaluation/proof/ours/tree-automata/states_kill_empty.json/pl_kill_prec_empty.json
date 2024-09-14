@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p m H1. hauto lq: on use: pl_kill_1, pl_path_incl_nil inv: pl_path_incl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p m H1. discriminate H1.", "succ": true}]

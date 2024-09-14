@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m."], "tactic": "apply mpl_compat_8_def.", "exn": "In environment m : state Unable to unify \"Prop\" with \"mpl_compat_8_def m\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros m. apply mpl_compat_8_def.", "succ": false}]

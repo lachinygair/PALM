@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. unfold Cmod. rewrite <- Rsqr_plus. rewrite <- Rsqr_plus. rewrite Rmult_plus_distr_r. rewrite Rmult_plus_distr_l. rewrite Rmult_plus_distr_l. rewrite Rsqr_sqrt. rewrite Rsqr_sqrt.", "succ": false}]

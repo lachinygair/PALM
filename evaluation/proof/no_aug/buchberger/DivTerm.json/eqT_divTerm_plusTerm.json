@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c nZc eqAB eqA_mult_div_a_c eqB_mult_div_b_c. unfold eqTerm, divTerm, plusTerm, multTerm. rewrite eqAB. rewrite eqAB in eqA_mult_div_a_c. rewrite eqAB in eqB_mult_div_b_c. rewrite eqA_mult_div_a_c. rewrite eqB_mult_div_b_c. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs ys H. apply subseq_filterMap. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros xs ys H. apply subseq_filterMap. apply H.", "back_times": 0, "succ": true, "time": 0.4182395935058594}]

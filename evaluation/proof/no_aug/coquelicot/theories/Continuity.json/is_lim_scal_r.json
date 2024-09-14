@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hlim. apply is_lim_scal_l with (a:=a) in Hlim. apply Hlim.", "succ": false}]

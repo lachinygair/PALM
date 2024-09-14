@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply/eqP; apply/subset_eqP; intros x. split. - move=> Hx. apply/enumP. rewrite -W.2.1 in Hx. by exists (W.1.2 x). - by case/enumP=> y Hy; rewrite -W.2.1; apply: W.1.2.", "succ": false}]

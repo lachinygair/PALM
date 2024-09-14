@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p t n pli plt es ci h ple Hlm Hfa Hlsn Hlsnw Huii Hin Hp Hfaia Hex Hne He. apply entries_match_append. - apply Hlsnw. - apply Hlsn. - apply Huii. - auto. - auto. - apply findAtIndex_uniq_equal with (e' := ple). + auto. + auto. + apply Huii. - apply Hin.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold swap. destruct (Nat.eq_dec i i). - reflexivity. - contradiction.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "unfold swap. destruct (Nat.eq_dec i i). - reflexivity. - contradiction.", "back_times": 0, "succ": true, "time": 0.1639552116394043}]

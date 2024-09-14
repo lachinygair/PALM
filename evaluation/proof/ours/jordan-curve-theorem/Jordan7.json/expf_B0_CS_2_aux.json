@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: expf_B0_CS_2_a_III, expf_B0_CS_2_b, expf_B0_CS_2_a_IV, expf_B0_CS_2_a_I, expf_B0_CS_2_a_II.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m x z t Hmap Hsucc x0 x1 xb0 xh0 xh0_1 Hexpf [[Hexpf1 Hexpf2]|[Hexpf3 Hexpf4]]. apply expf_B0_CS_1; auto.", "succ": true}]

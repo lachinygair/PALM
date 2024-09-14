@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply (VectorDef.splitat n m v).", "exn": "In environment X : Type n, m : nat v : vec X (n + m) The term \"m\" has type \"nat\" while it is expected to have type \"vec ?A (n + ?r)\".", "type": "wrong_type", "handled": true}]}, "chat": [], "original": "apply (VectorDef.splitat n m v).", "succ": false}]

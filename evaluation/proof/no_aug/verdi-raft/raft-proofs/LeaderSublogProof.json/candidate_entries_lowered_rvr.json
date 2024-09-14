@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hreach p h e HInLog. unfold CandidateEntriesLowered_rvr. intros HinPackets HPBody HCurrentTerm HWonElection HType. split. - auto. - split. + auto. + split. * auto. * auto.", "succ": false}]

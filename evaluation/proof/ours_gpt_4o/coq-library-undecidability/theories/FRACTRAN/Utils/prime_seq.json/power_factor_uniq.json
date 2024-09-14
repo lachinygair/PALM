@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hpz Hnx Hny Heq. assert (H: Nat.pow p i * x <> Nat.pow p j * y) by (apply power_factor_lt_neq with (x := x) (y := y); auto). exfalso. apply H. rewrite Heq. auto.", "back_times": 0, "succ": false, "time": 99.87881898880005}]

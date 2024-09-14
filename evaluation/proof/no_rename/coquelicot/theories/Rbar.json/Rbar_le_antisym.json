@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y Hxy Hyx. destruct x, y. - reflexivity. - exfalso. apply (Rbar_le_not_lt _ _ Hxy). apply Rbar_lt_le. constructor. - exfalso. apply (Rbar_le_not_lt _ _ Hyx). apply Rbar_lt_le. constructor. - f_equal. apply (N.compare_eq _ _ _ (Hxy Hyx)).", "succ": false}]

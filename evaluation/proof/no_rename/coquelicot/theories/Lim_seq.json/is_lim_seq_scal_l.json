@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u a lu H. apply is_lim_seq_ext_loc with (u := fun n : nat => a * Real u n) (l := Rbar_mult a lu). - intros n. unfold Real. ring. - apply is_lim_seq_mult'; auto.", "succ": false}]

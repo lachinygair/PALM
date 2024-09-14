@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A P c. refine (depprod_rect A P (fun d => P (PI1 A P d)) _ c). intros x p. apply p.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A P c. refine (depprod_rect A P (fun d => P (PI1 A P d)) _ c). intros x p. apply p.", "back_times": 0, "succ": true, "time": 1.0157053470611572}]

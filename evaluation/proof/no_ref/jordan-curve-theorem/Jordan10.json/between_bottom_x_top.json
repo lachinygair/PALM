@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: betweene_bottom_x_top.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m x H1 H2. apply betweene_bottom_x_top_bot; auto.", "succ": true}]

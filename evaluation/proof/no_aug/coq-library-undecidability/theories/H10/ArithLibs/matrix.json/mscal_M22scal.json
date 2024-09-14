@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. induction n. - unfold mscal, PL22, ZE_22. simpl. rewrite M22scal_zero. reflexivity. - simpl. rewrite IHn. reflexivity.", "succ": false}]

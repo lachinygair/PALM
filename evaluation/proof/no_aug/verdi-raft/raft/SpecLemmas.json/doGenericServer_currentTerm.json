@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st os st' ms H. unfold doGenericServer in H. inversion H as [H']. apply doGenericServer_commitIndex in H'. rewrite H'. reflexivity.", "succ": false}]

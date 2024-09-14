@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n m. unfold posOZ, multZ. rewrite tech_mult_pos_posZ. rewrite tech_mult_pos_posZ. simpl. rewrite Nat.mul_succ_l. rewrite Nat.mul_succ_l. rewrite tech_add_pos_posZ. rewrite tech_add_pos_posZ. simpl. rewrite tech_mult_pos_posZ. rewrite Nat.add_succ_r. reflexivity.", "succ": false}]

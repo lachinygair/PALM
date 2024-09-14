@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr h c i H0 H1. intros H2. apply trace_mutual_exclusion'. - apply H1. - apply H2.", "succ": false, "time": 8.563138028999902}]

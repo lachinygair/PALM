@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply no_entries_past_current_term_unaffected with (d:=d) (ms:=ms) in H; auto. apply H.", "succ": false}]

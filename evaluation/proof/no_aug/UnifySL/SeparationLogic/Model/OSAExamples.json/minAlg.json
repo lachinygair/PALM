@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply fun_SA with (A := nat) (B := nat). apply sum_SA; apply prod_SA; apply option_SA; auto.", "succ": false}]

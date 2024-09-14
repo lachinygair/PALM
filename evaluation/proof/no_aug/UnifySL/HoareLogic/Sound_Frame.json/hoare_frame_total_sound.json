@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c P0 Q F H s_post ms_post H1 H2. specialize (H P0 c Q H1 H2). intros s_pre KRIPKE_pre. apply H in KRIPKE_pre. destruct ms_post. - simpl in H. apply H. apply KRIPKE_pre. - contradiction.", "succ": false}]

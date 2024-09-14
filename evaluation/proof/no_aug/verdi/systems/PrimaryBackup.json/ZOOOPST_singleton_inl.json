@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B C h i. hauto use: ZOOOPST_nil unfold: snd, fst, In, zero_or_one_outputs_per_step_trace, zero_or_one_outputs_per_step inv: prod.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "- intros A B C h i. - apply ZOOOPST_singleton_singleton.", "succ": true, "time": 1.7716532430004008}]

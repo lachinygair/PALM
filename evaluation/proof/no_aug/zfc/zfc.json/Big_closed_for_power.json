@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E H. unfold IN. unfold Power. simpl. unfold IN. apply (EXType Ax (fun y : Ax => EQ E (sup Ax (fun P : Ax -> Prop => sup (depprod Ax (fun a : Ax => P a)) (fun c : depprod Ax (fun a : Ax => P a) => match c with | dep_i _ a _ => Power' (inj a) end))))). apply Big_is_big.", "succ": false}]

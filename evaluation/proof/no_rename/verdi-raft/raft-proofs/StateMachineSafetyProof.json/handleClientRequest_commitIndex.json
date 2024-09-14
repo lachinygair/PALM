@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st client id c out st' ms H. apply handleClientRequest_commitIndex in H. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros h st client id c out st' ms H. apply handleClientRequest_commitIndex in H. apply H.", "succ": true}]

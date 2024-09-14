@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros env log. induction log as [| e log' IH]. - reflexivity. - simpl. hauto lq: on depth: 3use: get_IR_output_keys_defn.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros env log. induction log as [| e log' IH]. - reflexivity. - simpl. rewrite get_IR_output_keys_defn.", "succ": true}]

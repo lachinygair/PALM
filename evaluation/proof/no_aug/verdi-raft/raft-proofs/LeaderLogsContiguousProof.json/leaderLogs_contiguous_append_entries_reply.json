@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries_reply. intros. unfold leaderLogs_contiguous. intros. unfold leaderLogs_contiguous in leaderLogs_contiguous_invariant. intros. apply leaderLogs_contiguous_invariant; auto.", "succ": false}]

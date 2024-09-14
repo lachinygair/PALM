@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. unfold Times, Zero. apply eqTrans with (Times a Zero) Zero. - apply eqTimes with a Zero Zero. + apply eqRefl. + apply eqRefl. - apply nn3.", "succ": false}]

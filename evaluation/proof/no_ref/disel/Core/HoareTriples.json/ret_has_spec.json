@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply ret_prog.", "exn": "In environment this : nid W : world A : Type x : A Unable to unify \"prog W A this\" with \"ret_prog \\\\In has_spec this W ret_s\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply ret_prog.", "succ": false}]

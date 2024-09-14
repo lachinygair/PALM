@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros u v w H1 H2. srun best use: permute, colineaire_modulo_pi, transitive unfold: colineaire, double.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros u v w H1 H2. apply orthogonal_colineaire with (v:=v). - apply colineaire_sym. auto. - auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x y H1 H2. srun best use: eqc_cA_eqc, eqc_exd_exd, cA_cA_1, eqc_eqc_cA_1 unfold: cF.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x y H1 H2. induction H2. * auto. * right. split; auto.", "succ": true}]

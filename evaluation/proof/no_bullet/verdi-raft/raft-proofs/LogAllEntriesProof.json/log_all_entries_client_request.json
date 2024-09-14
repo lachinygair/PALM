@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_client_request. intros. unfold refined_raft_net_invariant_client_request in *. intros. unfold handleClientRequest in H. break_let. break_let. break_let. repeat find_inversion. eapply H0; eauto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: mult_lt_power_2_4 unfold: is_cipher_of.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. rewrite <- Hu1_0. rewrite <- Hu2_0. apply sum_power_binary_lt_inv with (p:=q) (f:=fun i => 2 * f i). - lia. - auto. - auto.", "succ": true}]

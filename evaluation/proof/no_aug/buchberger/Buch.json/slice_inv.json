@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b P c Hin_c. unfold getRes, slice, cpRes. destruct Hin_c as [-> | Hin_c]. - right. apply divp_ppc. - left. apply in_cons; auto.", "succ": false}]

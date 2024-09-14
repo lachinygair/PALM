@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st st' st'' trace t H1 H2 H3. unfold trace_correct' in H2. intros H4. apply TC'App. - apply H2. - apply H3.", "succ": false, "time": 4.916111631000149}]

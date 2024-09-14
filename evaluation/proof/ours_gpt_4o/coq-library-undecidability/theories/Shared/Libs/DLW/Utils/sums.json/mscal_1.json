@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite mscal_S. rewrite mscal_0. apply monoid_unit_r. apply Hmonoid.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "rewrite mscal_S. rewrite mscal_0. apply monoid_unit_r. apply Hmonoid.", "back_times": 0, "succ": true, "time": 0.27547264099121094}]

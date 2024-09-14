@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f ts. unfold freeVarTerm, freeVarTerms. simpl. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f ts. unfold freeVarTerm, freeVarTerms. simpl. reflexivity.", "succ": true}]

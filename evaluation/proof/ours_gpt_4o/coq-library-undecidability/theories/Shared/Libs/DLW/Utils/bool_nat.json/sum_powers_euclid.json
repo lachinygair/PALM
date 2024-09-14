@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold sum_powers. simpl. rewrite power_decomp_factor with (a := f)(f := e) (n := n). - f_equal. apply sum_0n_ext. intros. f_equal. rewrite Nat.add_1_r. f_equal. - lia. - intros. apply H. lia.", "back_times": 0, "succ": false, "time": 107.5118157863617}]

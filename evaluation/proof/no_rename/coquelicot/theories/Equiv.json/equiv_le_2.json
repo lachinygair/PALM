@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_equiv, is_domin in H. intros eps. apply H with (eps / 2). - apply filter_and; auto. - intros x. unfold minus, scal, opp.", "succ": false}]

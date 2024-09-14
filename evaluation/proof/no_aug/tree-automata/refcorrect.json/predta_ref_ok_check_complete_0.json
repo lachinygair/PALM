@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d d' H. unfold preDTA_ref_ok_distinct. intros a s H0. apply H. unfold predta_ref_ok_check_0 in H. unfold preDTA_ref_ok_distinct in H. apply predta_ref_ok_check_correct_0 in H. rewrite <- H. apply H0.", "succ": false}]

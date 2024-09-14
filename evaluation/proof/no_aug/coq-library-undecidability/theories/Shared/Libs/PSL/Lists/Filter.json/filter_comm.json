@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply filter_ext_in. intros x H. apply and_comm. rewrite filter_fst'. intro Hp. rewrite filter_fst. - reflexivity. - auto.", "succ": false}]

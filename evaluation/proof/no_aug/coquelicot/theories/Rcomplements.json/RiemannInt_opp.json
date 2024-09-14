@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b pr_f pr. pose (pr_neg := Riemann_integrable_opp f a b pr). rewrite (RiemannInt_minus f (fun x => - f x) a b pr_f pr_neg pr). rewrite RiemannInt_const. rewrite RiemannInt_const. rewrite RiemannInt_const. ring.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: is_sup_seq_lub unfold: Rbar_is_upper_bound, Rbar_is_lub.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros u l n H. unfold is_sup_seq in H. destruct l. - intros H2. apply H with (eps:=mkposreal _ H2). - intros M. apply H with (M:=M).", "succ": true}]

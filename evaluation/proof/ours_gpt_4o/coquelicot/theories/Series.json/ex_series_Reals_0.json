@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intro H. unfold is_series. apply GP_infinite. auto.", "back_times": 0, "succ": false, "time": 53.23920273780823}]

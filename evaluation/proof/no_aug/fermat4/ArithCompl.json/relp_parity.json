@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H. specialize (rel_prime_sym x y H) as H'. destruct H'. - left. split; apply H. - right. split; apply H'.", "succ": false}]

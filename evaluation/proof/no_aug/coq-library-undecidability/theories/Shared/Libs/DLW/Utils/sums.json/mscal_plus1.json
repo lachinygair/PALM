@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold mscal. hauto use: msum_plus1.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold mscal. rewrite mscal_S. rewrite <- mscal_plus. rewrite Nat.add_comm. reflexivity.", "succ": true}]

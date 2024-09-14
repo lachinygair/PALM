@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l e Hsorted HeIndex Hin. hauto lq: on use: inj_ge, gt_Sn_n, maxIndex_is_max, inj_lt unfold: Z.lt, eIndex, logIndex, gt, Z.ge.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros l e Hsorted HeIndex Hin. intros Hin. intro H. apply Hin. apply H.", "succ": true}]

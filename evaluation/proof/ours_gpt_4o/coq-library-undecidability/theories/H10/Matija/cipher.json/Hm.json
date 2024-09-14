@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "destruct mk_full as [m' [k' [H1 [H2 _]]]]. apply H2.", "back_times": 0, "succ": true, "time": 0.6724812984466553}]

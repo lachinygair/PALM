@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_KripkeIntuitionisticSemantics. intros x. apply denote_closed.", "back_times": 0, "succ": false, "time": 90.26637434959412}]

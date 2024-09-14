@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b lt_ab. strivial use: PeanoNat.Nat.le_gt_cases unfold: leq.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b lt_ab. unfold leq. apply lt_ab.", "succ": true}]

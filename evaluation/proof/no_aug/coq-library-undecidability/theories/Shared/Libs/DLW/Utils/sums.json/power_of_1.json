@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: mscal_of_unit, Nat_mult_monoid.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite power_1. reflexivity.", "succ": true}]

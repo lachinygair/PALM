@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros j1 i1 Hj1i1. intros j2 i2 Hj2i2. intros Heq. split. * apply (sum_2_power_2_injective i1 j1 i2 j2). -- lia. -- lia. -- apply Heq. * apply (sum_2_power_2_injective j1 i1 j2 i2). -- lia. -- lia. -- apply Heq.", "succ": false}]

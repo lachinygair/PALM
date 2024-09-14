@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m o. unfold cTriple. unfold cTriplePi3. scongruence use: cPairProjections2.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m o. unfold cTriple. unfold cTriplePi3. auto.", "back_times": 0, "succ": true, "time": 20.697143077850342}]

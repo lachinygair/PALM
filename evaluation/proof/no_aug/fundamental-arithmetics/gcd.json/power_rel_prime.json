@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a n Hn. qauto use: gt_le_S, divides_antisym, one_min_div, mult_rel_prime unfold: power inv: le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a n Hn. apply gcd_rel_prime with (b := power d n) in Hn. apply gcd_sym in Hn. apply rel_prime_power in Hn. apply Hn.", "succ": true}]

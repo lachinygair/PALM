@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n f m. split. - intros H i H0. apply (binary_le_trans _ _ _ H). apply and_comm. apply (binary_le_ind _ _ _ (binary_le 0) ); auto. - intros H. apply (binary_le_ind _ _ _ (binary_le 0) ); auto. intros n0 m0 H0 H1 H2. apply (proj1 (H _ H0) n0). apply H1. apply H2.", "succ": false}]

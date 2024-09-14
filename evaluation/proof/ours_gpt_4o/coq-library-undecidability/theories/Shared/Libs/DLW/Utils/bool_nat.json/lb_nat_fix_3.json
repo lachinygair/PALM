@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct x. - rewrite lb_nat_fix_2. simpl. auto. - rewrite lb_nat_fix_1. simpl. auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "destruct x. - rewrite lb_nat_fix_2. simpl. auto. - rewrite lb_nat_fix_1. simpl. auto.", "back_times": 0, "succ": true, "time": 0.12079429626464844}]

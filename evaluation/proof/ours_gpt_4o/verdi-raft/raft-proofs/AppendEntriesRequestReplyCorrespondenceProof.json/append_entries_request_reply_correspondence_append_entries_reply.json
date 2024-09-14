@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_init. intros net H. unfold append_entries_request_reply_correspondence. intros p t es Hin Hbody. inversion H.", "back_times": 0, "succ": false, "time": 164.9131543636322}]

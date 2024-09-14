@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T1 T2 H1 H2 x y z Hx Hy Hz Hxy Hyz. destruct Hxy as [x' [Hxy1 Hxy2]]. destruct Hyz as [y' [Hyz1 Hyz2]]. inversion Hxy2; inversion Hyz2; subst. - left. apply H1 with y'; auto. - right. apply H2 with y'; auto.", "succ": false}]

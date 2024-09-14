@@ -1,0 +1,1 @@
+[{"history": {"proof": "move=> Hxy Hyz. apply: poset_trans. - exact: Hxy. - exact: Hyz.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "move=> Hxy Hyz. apply: poset_trans. - exact: Hxy. - exact: Hyz.", "back_times": 0, "succ": true, "time": 0.5704007148742676}]

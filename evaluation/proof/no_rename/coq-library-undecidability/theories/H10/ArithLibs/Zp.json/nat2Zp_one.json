@@ -1,0 +1,1 @@
+[{"history": {"proof": "reflexivity.", "repairs": [""], "exceptions": [{"ctx": [], "tactic": "rewrite Zp_one.", "exn": "Cannot find a relation to rewrite.", "type": "no_rewrite_relation", "handled": true}]}, "chat": [], "original": "rewrite Zp_one. reflexivity.", "succ": true}]

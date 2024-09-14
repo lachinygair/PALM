@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a k H1 H2 H3. apply ex_series_Rabs. apply ex_series_lim_0 in H3. apply ex_series_Reals_1. exists k. apply Alembert_C1. + intros n. apply H2. + apply H3.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d sigma H. unfold predta_compat_check, predta_correct_wrt_sign in *. intros a s H1. apply H. apply H1.", "succ": false}]

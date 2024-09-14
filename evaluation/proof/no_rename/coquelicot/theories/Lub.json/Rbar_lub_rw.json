@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Rbar_lub_subset, Rbar_le_antisym.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros E H. apply Rbar_is_lub_unique. apply Rbar_is_lub_eq. - intros x. apply H. - apply Rbar_ex_lub.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: symetrique, transitive, abba, angle_nul, non_zero_pi.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A B C M P Q T H1 H2 H3 H4 H5 H6. apply abba.", "succ": true}]

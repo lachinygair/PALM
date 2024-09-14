@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k H. unfold bij_dart. split. - apply inj_cA. apply H. - apply surj_cA. apply H.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m k H. unfold bij_dart. split. - apply inj_cA. apply H. - apply surj_cA. apply H.", "back_times": 0, "succ": true, "time": 0.38723278045654297}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- sigma_gamma1. unfold gamma2. rewrite map_map. simpl. reflexivity.", "succ": false}]

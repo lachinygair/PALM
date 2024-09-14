@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h d client id c os d' ms H1 m H2. apply (doGenericServer_spec h d os d' ms H1) in H2. apply H2.", "succ": false}]

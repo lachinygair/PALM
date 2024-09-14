@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st t h' lli llt st' m HhandleRequestVote. unfold handleRequestVote in HhandleRequestVote. break_match; [|break_match]. - inversion HhandleRequestVote; reflexivity. - break_let. inversion H1. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros k H. unfold iter_nat. generalize dependent n. induction m. - intros. simpl. destruct H as [[_ H]|[H1 H2]]. + rewrite H. apply H2. + inversion H1. - intros. simpl. apply neutral_r. apply IHm. intros k' H'. apply H. split. + apply le_S_n. apply H'. + apply le_S. apply H'.", "succ": false}]

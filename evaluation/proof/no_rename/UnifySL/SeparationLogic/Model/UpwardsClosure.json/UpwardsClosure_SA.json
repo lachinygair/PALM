@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold SeparationAlgebra.", "exn": "Cannot coerce SeparationAlgebra to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold SeparationAlgebra. pose proof (SeparationAlgebra worlds J) as SA_prop. apply SA_prop.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m k z H1 H2.", "unfold top."], "tactic": "rewrite not_exd_cA; auto.", "exn": "Found no subterm matching \"cA ?M2265 ?M2266 ?M2267\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros m k z H1 H2. unfold top. rewrite not_exd_cA; auto.", "succ": false}]

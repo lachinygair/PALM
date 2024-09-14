@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z a b t. unfold diff_int_aux. destruct (excluded_middle_informative (exists i : nat, (a <= i <= b)%nat /\\ Iter (f m) i z = t)) as [H1 | H1]. - left. intros H. apply H1. exists i. apply H. - right. intros H. apply H1. intros i [H2 H3]. apply H. exists i. easy.", "succ": false}]

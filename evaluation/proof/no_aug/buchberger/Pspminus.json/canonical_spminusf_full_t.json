@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nZb p q Hcan1 Hcan2 Hdiv. unfold spminusf. apply canonical_spminusf; auto.", "succ": false}]

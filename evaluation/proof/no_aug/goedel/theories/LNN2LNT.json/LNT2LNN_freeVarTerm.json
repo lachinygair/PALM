@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t. scongruence use: LNT2LNT_term, LNN2LNT_freeVarTerm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros t. induction t using Term_Terms_ind. - simpl. reflexivity. - simpl. rewrite <- IHt. reflexivity.", "succ": true}]

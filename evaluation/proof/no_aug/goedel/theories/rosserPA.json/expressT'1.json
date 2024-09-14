@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f HinT. apply translatePrf in HinT. apply HinT.", "succ": false}]

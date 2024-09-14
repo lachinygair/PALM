@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros doL. inversion doL as [H1 H2 H3]. split. - apply (doLeader_same_log _ _ _ _ _ H2). - split. + apply (doLeader_type _ _ _ _ _ _ _ _ H2). + apply (doLeader_same_log _ _ _ _ _ H2).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply union_str_def.", "exn": "Unable to unify \"Prop\" with \"union_str_def (M0 prec_list)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply union_str_def.", "succ": false}]

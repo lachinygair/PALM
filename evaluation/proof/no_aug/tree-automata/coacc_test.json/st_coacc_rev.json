@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d s a H. apply predta_coacc_contain_coacc_ads_1 in H as H1. exists a, p. split. - reflexivity. - apply H1.", "succ": false}]

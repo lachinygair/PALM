@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold getStatelet. unfold toSt. rewrite-> getsE. auto.", "succ": false}]

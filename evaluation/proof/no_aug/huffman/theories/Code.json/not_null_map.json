@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros l b.", "intro H."], "tactic": "intros a Hnull.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros l b. intro H. unfold not_null. intros a Hnull. apply H. intro Hin. apply Hnull. left. auto.", "succ": false}]

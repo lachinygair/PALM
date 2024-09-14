@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_every_entry_was_created_interface. intros net H_reachable. apply (every_entry_was_created_in_any_log_invariant _ e H_reachable).", "succ": false}]

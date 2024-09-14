@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H."], "tactic": "rewrite <- Rmult_0_l with x.", "exn": "Found no subterm matching \"0\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros H. rewrite <- Rmult_0_l with x. rewrite Rmult_comm.", "succ": false}]

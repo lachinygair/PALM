@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold isPR."], "tactic": "apply tt.", "exn": "Unable to unify \"unit\" with \"{p : PrimRec 1 | extEqual 1 (evalPrimRec 1 p) S}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "unfold isPR. unfold naryFunc. apply tt.", "succ": false}]

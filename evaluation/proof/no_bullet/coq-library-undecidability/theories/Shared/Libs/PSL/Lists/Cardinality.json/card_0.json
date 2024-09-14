@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. destruct A. - reflexivity. - hfcrush use: card_cons_rem unfold: Init.Nat.add.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. destruct A. - reflexivity. - discriminate.", "succ": true}]

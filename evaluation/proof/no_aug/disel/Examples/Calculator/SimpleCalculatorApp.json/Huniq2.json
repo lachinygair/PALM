@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold uniq. simpl. unfold is_true. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold uniq. simpl. unfold nodes2. unfold is_true. unfold cs2. unfold cls2. rewrite Protocols.rcv_uniq. rewrite Protocols.snd_uniq. simpl.", "succ": true}]

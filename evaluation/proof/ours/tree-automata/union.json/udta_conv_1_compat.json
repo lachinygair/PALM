@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros d H."], "tactic": "apply H.", "exn": "In environment d : preDTA H : dta_correct d Unable to unify \"dta_correct d\" with \"dta_correct (udta_conv_1 d)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros d H. apply H.", "succ": false}]

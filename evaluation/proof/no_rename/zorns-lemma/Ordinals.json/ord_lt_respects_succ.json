@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros alpha beta H. unfold \"<\" in H. unfold \"<\". sauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros alpha beta H. unfold \"<\" in H. unfold \"<\". intros H'. apply ord_lt_respects_succ. apply H.", "succ": true}]

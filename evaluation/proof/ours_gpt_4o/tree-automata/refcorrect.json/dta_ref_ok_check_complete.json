@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. destruct d as [p a]. simpl in H. apply predta_ref_ok_check_complete in H. apply H.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d H. destruct d as [p a]. simpl in H. apply predta_ref_ok_check_complete in H. apply H.", "back_times": 0, "succ": true, "time": 0.5318114757537842}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: lb_mask_binary_le, lb_nat_lb, lb_mask_eq_binary_le.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y. split. - intros H. apply binary_le_lb_mask. auto. - intros H. apply binary_le_lb_mask. auto.", "succ": true}]

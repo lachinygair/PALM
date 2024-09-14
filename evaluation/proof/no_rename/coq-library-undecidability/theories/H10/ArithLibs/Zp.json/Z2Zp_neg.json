@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["simpl.", "intros."], "tactic": "rewrite Zp_opp_zero.", "exn": "Found no subterm matching \"\u2238 Zp\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "simpl. intros. rewrite Zp_opp_zero. intros H. apply Z.abs_neq. apply H.", "succ": false}]

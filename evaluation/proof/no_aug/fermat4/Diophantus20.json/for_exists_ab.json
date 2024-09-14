@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u v m n Huv Hmul_gcd Hmul_vv Hgt1u Hgt1v Hoddv Hoddu Hrel_uv. apply multiple4_2; auto. - apply Hrel_uv. - auto. - auto. - auto. - auto. - auto. - auto.", "succ": false}]

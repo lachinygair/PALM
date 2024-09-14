@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. unfold \"\u2aaf\" in H. intros P Q. intros H1. intros H2. apply H2. apply dec_compl. apply H1. apply SemiDecidabilityFacts.decidable_complement_semi_decidable. apply H2. apply H1.", "succ": false}]

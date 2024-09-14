@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold incl. intros. unfold genPcPf. hauto use: genPcP_incl unfold: incl inv: sig.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros. unfold incl. intros. unfold genPcPf. destruct (genPcPf0 a aL Q) as [x _]. apply H.", "succ": true}]

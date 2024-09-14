@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply is_RInt_gen_ext. intros x Hx. unfold at_point. unfold filterlimi. apply filterlim_norm_zero. apply filterdiff_const.", "succ": false}]

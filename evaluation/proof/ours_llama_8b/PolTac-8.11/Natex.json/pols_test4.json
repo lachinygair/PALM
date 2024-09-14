@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: PeanoNat.Nat.mul_1_l, PeanoNat.Nat.add_assoc, PeanoNat.Nat.mul_succ_l.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 24.73131824005395}]

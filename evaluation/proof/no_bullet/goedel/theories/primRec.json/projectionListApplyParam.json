@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m n c p1 p2. unfold evalOneParamList, projectionList. rewrite (projectionListPR (S n) m p2). apply extEqualVectorRefl.", "succ": false}]

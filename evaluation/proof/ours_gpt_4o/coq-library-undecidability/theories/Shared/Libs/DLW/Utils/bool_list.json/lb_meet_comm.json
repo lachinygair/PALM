@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply lb_pointwise_sym. intros x y. repeat destruct x, y; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "apply lb_pointwise_sym. intros x y. repeat destruct x, y; auto.", "back_times": 0, "succ": true, "time": 0.07896256446838379}]

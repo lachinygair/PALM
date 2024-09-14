@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a nZa p q Hp Hq. unfold Dmult. induction p. -- simpl. auto. -- simpl. specialize IHp with Hq. unfold canonical in *. apply canonical_spminusf_full. ++ auto. ++ auto.", "back_times": 0, "succ": false, "time": 172.84111714363098}]

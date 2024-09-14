@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (f_equal (@length _)). rewrite tile. rewrite half_tile_length. rewrite rev_length. rewrite app_length. reflexivity.", "succ": false}]

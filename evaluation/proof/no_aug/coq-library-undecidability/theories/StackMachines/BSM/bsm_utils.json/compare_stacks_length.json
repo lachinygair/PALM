@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold compare_stacks. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold compare_stacks. rewrite copy_stack_length. rewrite length_move_rev_stack. rewrite length_copy_rev_stack. unfold move_rev_stack. repeat rewrite app_length. repeat rewrite repeat_length. simpl. reflexivity.", "succ": true}]

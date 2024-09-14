@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i j H_neq_ij H_pow2_neq. unfold power. intros H_eq. apply nat_meet_power2_neq. apply H_neq_ij. rewrite H_eq. apply power_2_inj_1. auto.", "succ": false}]

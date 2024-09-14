@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: eqTerm_multTerm_imp_eqTerm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a b c H1 H2 H3. unfold not in *. intros H4 H5. unfold eqTerm, zeroP in *. intros H6. apply H6. rewrite (divP_multTerm_r _ _ _ H4 H5 H3).", "succ": true}]

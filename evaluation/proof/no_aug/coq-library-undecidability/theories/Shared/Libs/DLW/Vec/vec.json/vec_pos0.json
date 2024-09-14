@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on dep: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite (VectorSpec.nth_map2 vec_head v pos0 pos0 pos0). rewrite (VectorDef.Forall2_nil vec_head_tail_prop). reflexivity.", "succ": true}]

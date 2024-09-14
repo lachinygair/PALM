@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply nat_sorted_injective. apply (list_injective_rect eill_vars (fun ll => nat_sorted ll -> list_injective ll)). - apply in_list_injective_0. - intros x ll H1 H2. apply list_injective_inv in H2. destruct H2 as [H2 _]. apply H2.", "succ": false}]

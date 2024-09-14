@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply HR1. intros Q st2 H0 H1.", "repairs": ["", ""], "exceptions": [{"ctx": ["intros H.", "apply HR1.", "intros Q st2 H0 H1."], "tactic": ["apply H.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros H. apply HR1. intros Q st2 H0 H1. apply H.", "succ": false}]

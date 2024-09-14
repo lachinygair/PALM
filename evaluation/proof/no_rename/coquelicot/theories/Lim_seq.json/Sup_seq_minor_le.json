@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto l: on depth: 3use: is_sup_seq_lub, Sup_seq_le, Sup_seq_correct, Rbar_le_trans.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros u M n H. apply Rbar_le_trans with (u n). apply H. apply Sup_seq_le. intros n. apply is_sup_seq_lub. apply Sup_seq_correct.", "succ": true}]

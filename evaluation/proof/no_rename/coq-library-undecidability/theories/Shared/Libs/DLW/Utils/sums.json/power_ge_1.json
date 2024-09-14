@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p k H. unfold power. induction k. - simpl. lia. - simpl. apply Nat.mul_le_mono_nonneg_r. + apply gcd.div_ge_1. * apply H. * apply Nat.le_trans with (n := p). ++ apply gcd.div_rem_spec2. apply H. ++ apply Nat.le_1_r. + apply IHk.", "succ": false}]

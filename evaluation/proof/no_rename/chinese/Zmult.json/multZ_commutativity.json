@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Z_sind. - apply add_OZ. - intros. simpl. rewrite tech_mult_posZ. rewrite <- H. rewrite tech_mult_posZ. rewrite H. rewrite add_add. reflexivity. - intros. simpl. rewrite tech_mult_negZ. rewrite <- H. rewrite tech_mult_negZ. rewrite H. rewrite add_add. reflexivity.", "succ": false}]

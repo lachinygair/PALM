@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p l Hprime Hwf Hdivides. unfold divides in Hdivides. unfold is_prime in Hprime. inversion Hwf as [| p0 n tail Hprime0 Hn Hwf0 Hrelprime].", "succ": false}]

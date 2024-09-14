@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c. scongruence use: cPairProjections1, cPairProjections2 unfold: cTriplePi2, cTriple.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c. reflexivity.", "succ": true}]

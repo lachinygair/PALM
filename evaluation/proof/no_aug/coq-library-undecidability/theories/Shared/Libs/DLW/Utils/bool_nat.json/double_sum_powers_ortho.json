@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. rewrite dsmpo_1. symmetry. apply sum_powers_ortho. intros. apply Hf. apply He. auto.", "succ": false}]

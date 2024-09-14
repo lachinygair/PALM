@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. split. - apply Rmin_l. - srun best use: Rmax_l.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. split. - apply Rmin_l. - apply Rmax_r.", "succ": true}]

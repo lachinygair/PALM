@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: N.le_0_l, N.add_nonneg_nonneg, NAux.Nge_0_eq_0, N.add_0_r, N.add_le_mono_l, N.add_comm, N.le_ge.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 10.195261775050312}]

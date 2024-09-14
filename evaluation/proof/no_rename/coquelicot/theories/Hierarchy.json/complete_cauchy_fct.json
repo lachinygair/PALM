@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T U F ProperFilter_F eps. destruct (H1 eps) as [f H2]. apply H2.", "succ": false}]

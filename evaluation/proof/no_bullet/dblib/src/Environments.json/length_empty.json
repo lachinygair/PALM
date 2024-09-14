@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A k. unfold empty. simpl. apply Nat.le_0_l.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A k. unfold empty. simpl. apply Nat.le_0_l.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l H. induction H. - constructor. - hauto use: get_op_input_keys_sound, NoDup_cons, get_op_input_keys_defn inv: op.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l H. induction H. - simpl. constructor. - simpl. constructor. apply IHNoDup.", "succ": true}]

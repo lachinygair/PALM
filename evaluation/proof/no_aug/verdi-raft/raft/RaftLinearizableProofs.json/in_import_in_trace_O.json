@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr k H. unfold import in H. destruct H as [h [H1 H2]]. destruct H1 as [os [H3 H4]]. exists os, h. split. auto. apply get_op_output_keys_complete with (xs := import tr). rewrite H2. apply in_map_iff. exists (h, inr os). auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_UnitalSeparationAlgebra. intros u. exists u. split. - apply residue_extensible. apply unital_is_residual. - apply increasing_is_monotonic. apply increasing_is_extendable.", "succ": false}]

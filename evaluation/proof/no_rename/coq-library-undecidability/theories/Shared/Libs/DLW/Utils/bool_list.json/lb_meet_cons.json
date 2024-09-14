@@ -1,0 +1,1 @@
+[{"history": {"proof": "reflexivity.", "repairs": [""], "exceptions": [{"ctx": [], "tactic": "rewrite lb_pointwise_cons.", "exn": "Found no subterm matching \"lb_pointwise ?M1434 (?M1435 :: ?M1436) (?M1437 :: ?M1438)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros. rewrite lb_pointwise_cons. reflexivity.", "succ": true}]

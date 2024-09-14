@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: is_lim_seq_le_loc unfold: eventually.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros v u l2 l1 Hle Hulim Hvlim. apply is_lim_seq_le_loc with (v := v) (l2:=l2); auto. intros n. apply Hle.", "succ": true}]

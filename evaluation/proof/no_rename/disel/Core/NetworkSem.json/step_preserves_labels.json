@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this s2 s1 H. inversion H. + move=> [H1 H2] H3. by rewrite H2. + move=> l st H1 to msg b H2 H3 H4 S H5 H6 H7. by apply send_step. + done.", "succ": false}]

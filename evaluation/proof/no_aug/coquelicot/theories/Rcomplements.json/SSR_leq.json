@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["split.", "-"], "tactic": "-", "exn": "Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "split. - apply ssrnat.leq_of_leqif. - intros H. unfold ssrnat.leq. apply Nat.le_equiv. apply Nat.le_alt. exists 0%nat. lia.", "succ": false}]

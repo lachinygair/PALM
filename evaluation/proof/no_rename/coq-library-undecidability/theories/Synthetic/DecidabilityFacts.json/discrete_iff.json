@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X. split. - intros H. apply (decidable_iff _ (fun '(x,y) => x = y)). intros x. apply H. - intros [f Hf]. intros [x y]. apply (Dec_reflect (decidable_iff _ (fun '(x, y) => x = y)) _). apply Hf.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. rewrite <- Rabs_Rinv. rewrite H. intros contra. apply Rabs_no_R0 in contra. contradiction.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net ce vc cc h h' e HInCe HInVc HInCc. unfold CandidateEntriesLowered. intros HCurrent HWon. apply not_eq_sym. intro Heq. contradiction.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x e. unfold lookup. sauto lq: on depth: 3use: raw_insert_zero, hd_error_cons, raw_insert_successor.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A x e. unfold lookup. rewrite raw_insert_successor. rewrite raw_insert_zero. rewrite hd_error_cons. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: AbelianGroup.zero, AbelianGroup.plus, AbelianGroup.sort, plus, zero, AbelianGroup.opp.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros G x. unfold plus, zero. destruct G as [mixin ax1 ax2 ax3 ax4]. rewrite ax3. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: power_smono_l, le_n, power_0 unfold: lt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (power_ge_n 2). rewrite Hr. apply power2_gt_0.", "succ": true}]

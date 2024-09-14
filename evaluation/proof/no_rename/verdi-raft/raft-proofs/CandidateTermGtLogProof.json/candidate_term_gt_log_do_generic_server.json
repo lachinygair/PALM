@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params tsi net st' ps' d os d' ms h Hdo P Hreachable HnwState Hst' Hps'. unfold raft_net_invariant_do_generic_server in *. intros HdoGen. apply HdoGen; auto.", "succ": false}]

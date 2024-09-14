@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c eq_c_a eq_c_b eq_ab. unfold eqTerm. hauto qb: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c eq_c_a eq_c_b eq_ab. unfold eqTerm. rewrite eq_c_a, eq_c_b. reflexivity.", "succ": true}]

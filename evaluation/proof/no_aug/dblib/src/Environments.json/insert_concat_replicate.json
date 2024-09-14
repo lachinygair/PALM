@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A n x nx a b e1 H. sfirstorder depth: 3use: length_replicate, insert_concat.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A n x nx a b e1 H. rewrite H. apply insert_concat. apply length_replicate.", "succ": true}]

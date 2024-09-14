@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t1 t2 v s. unfold substituteFormula. unfold substituteTerm. hauto lq: on depth: 3use: subTermFunction.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros t1 t2 v s. unfold substituteFormula. unfold substituteTerm. rewrite subTermFunction. rewrite subTermFunction. reflexivity.", "succ": true}]

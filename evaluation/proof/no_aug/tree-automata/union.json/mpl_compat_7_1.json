@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a a0. unfold mpl_compat_7_def. intros c pl l H. hauto q: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a a0. unfold mpl_compat_7_def. intros c pl l H. rewrite <- H. apply MapGet_semantics_1.", "succ": true}]

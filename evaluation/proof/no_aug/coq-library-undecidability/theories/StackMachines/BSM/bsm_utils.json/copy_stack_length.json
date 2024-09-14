@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite <- app_length. rewrite length_move_rev_stack. rewrite length_copy_rev_stack. simpl. reflexivity.", "succ": true}]

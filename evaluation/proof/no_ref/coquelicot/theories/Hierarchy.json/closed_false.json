@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold closed. intros x H. apply H. exists (mkposreal 1 Rlt_0_1). intros y Hy. sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold closed. intros x H. apply H. exists (mkposreal 1 Rlt_0_1). intros y Hy. contradiction.", "succ": true}]

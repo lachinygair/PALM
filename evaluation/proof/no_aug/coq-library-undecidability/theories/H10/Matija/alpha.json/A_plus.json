@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- alpha_2. rewrite <- A_is_sum. unfold MU22. rewrite Z.mul_1_r. rewrite Z.mul_1_r. rewrite Z.add_sub. rewrite Z2Zp_minus. rewrite Z2Zp_plus. rewrite Z2Zp_plus. auto.", "succ": false}]

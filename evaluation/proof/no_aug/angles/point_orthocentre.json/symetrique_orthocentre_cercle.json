@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H' H'_R1 H'_R2. unfold sont_cocycliques. intros. exists H. split. - exists A. split; [apply H_orthocentre|]. exists C. split; [apply H_orthocentre|]. apply H'o. - exists B. split; [apply H_orthocentre|]. exists C. split; [apply H_orthocentre|]. apply H'o0.", "succ": false}]

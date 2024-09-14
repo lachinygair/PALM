@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /unzip2 /rcons. rewrite map_rcons pairmap_rcons. rewrite unzip2_rcons. reflexivity.", "succ": false}]

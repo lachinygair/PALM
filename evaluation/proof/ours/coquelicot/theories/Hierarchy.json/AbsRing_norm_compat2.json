@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y eps H. unfold ball in H. simpl in H. unfold abs. unfold minus. unfold plus. unfold opp. rewrite AbsRing.ax4. apply Rle_lt_trans with (r2 := abs x + abs (opp y)). - apply Rabs_triang. - simpl. rewrite Rplus_comm. apply Rlt_eps2_eps. apply cond_pos.", "succ": false}]

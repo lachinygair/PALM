@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Nat.add_comm, pow_n_plus.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros K x n m. rewrite (pow_n_plus x n m). rewrite (pow_n_plus x m n). rewrite (mult_assoc). reflexivity.", "succ": true}]

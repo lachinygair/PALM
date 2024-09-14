@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder use: RtoC_mult, RtoC_inv unfold: Cdiv, Rdiv.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. unfold Rdiv. rewrite Rdiv_plus. - reflexivity. - apply H. - apply H.", "succ": true}]

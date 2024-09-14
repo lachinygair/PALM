@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l e Hin ks HasKeyBnd HasKeyBnd'Func. exists e; repeat split; auto. apply HasKeyBnd; auto. intros id' BeforeFuncBnd. apply HasKeyBnd'; auto. apply removeAfterIndex_le_In with (xs := l) (i := id'); auto.", "succ": false}]

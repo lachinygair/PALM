@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n st src t es b st' l H. unfold handleAppendEntriesReply in H. destruct (currentTerm st =? t) eqn:Heq; auto. destruct b; auto. destruct (maxIndex es <=? commitIndex st) eqn:Heq2; auto. simpl in H. inversion H. subst. auto.", "back_times": 0, "succ": false, "time": 145.98700404167175}]

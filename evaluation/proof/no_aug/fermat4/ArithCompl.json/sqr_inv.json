@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. unfold not. intros H1. apply Rinv_mult_simpl in H1. apply Rmult_integral_contrapositive_currified in H. apply H. apply H1.", "succ": false}]

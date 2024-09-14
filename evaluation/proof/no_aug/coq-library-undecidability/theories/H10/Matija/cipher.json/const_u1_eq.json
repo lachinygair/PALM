@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: const_u1_meet.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite Hu1_2w. rewrite <- Hu1_u2_1. rewrite Hu2. rewrite Hu1_u2. rewrite <- Hu1_w. auto.", "succ": true}]

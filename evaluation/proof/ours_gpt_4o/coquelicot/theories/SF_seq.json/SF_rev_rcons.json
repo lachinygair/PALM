@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment T : Type s : SF_seq t : R * T Unable to unify \"SF_cons t (SF_rev s)\" with \"SF_rev (SF_rcons s t)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. reflexivity.", "back_times": 0, "succ": false, "time": 26.03624129295349}]

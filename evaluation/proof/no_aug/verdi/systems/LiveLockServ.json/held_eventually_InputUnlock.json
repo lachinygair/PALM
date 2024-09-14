@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c s exec fair. unfold eventually. intros. apply E_next. apply Unlock_in_network_eventually_MsgUnlock with (c:=c) in exec. apply exec. apply fair. apply H.", "succ": false, "time": 5.260569101999863}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply eeq_sym. sfirstorder depth: 3use: eeq_refl, comp_assoc, comp_star_star.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "apply eeq_sym. apply comp_eeq. apply comp_assoc. apply comp_star_star. apply eeq_refl.", "succ": true}]

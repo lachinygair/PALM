@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: CPO.sort, CPO.poset, fun_leq, CPO.mx_bot, fun_bot, CPO.bot.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply fun_refl.", "exn": "In environment A : Type B : cpo x : A -> B Unable to unify \"x\" with \"fun_bot\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply fun_refl.", "succ": true}]

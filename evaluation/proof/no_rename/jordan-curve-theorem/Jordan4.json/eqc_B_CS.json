@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x z t H1 H2 H3 H4 H5 [H6|[[H7 H8]| [H9 H10]]]. + apply H6. + apply H3 in H6. destruct H6 as [H11 | [H12 H13]]. * apply H7. * apply H4 in H12. apply H4 in H13. apply (eqc_trans m t z x); auto. + apply H4 in H9. apply H4 in H10. apply (eqc_trans m z xk t); auto.", "succ": false}]

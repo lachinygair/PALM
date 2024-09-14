@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T H Lift0 LiftLift0 LiftLiftFuse0 k t closed_k_t j j_ge_k w. unfold closed in closed_k_t. apply closed_k_t. auto.", "succ": false}]

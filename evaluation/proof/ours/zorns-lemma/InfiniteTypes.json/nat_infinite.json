@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H_contra."], "tactic": "apply H_contra.", "exn": "In environment H_contra : FiniteT nat Unable to unify \"FiniteT nat\" with \"False\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros H_contra. apply H_contra.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold serialize_deserialize_id_spec. unfold serialize_deserialize_id. unfold serialize_output, deserialize_output. intros o. destruct o as [key vo1 vo2]. simpl. rewrite <- IHn. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros F f H1 H2."], "tactic": ["destruct H2 as [x [H3 H4]].", ""], "exn": "Expects a disjunctive pattern with 2 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros F f H1 H2. destruct H2 as [x [H3 H4]]. apply (H1 x H3 H4).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: StepIndex_Increasing, monHeap_increasing unfold: monSIheap_R, SIheap_Join, heap_jn.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (prod_incrSA nat heap monSIheap_R monHeap_increasing).", "succ": true}]

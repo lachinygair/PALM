@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a t H1 n H2. unfold reconnaissance in H1. unfold reconnaissance. intros. specialize (H1 d a t ladj). specialize (H1 H H0). unfold term_high in H2. simpl in H2. specialize (H2 H1). reflexivity.", "succ": false}]

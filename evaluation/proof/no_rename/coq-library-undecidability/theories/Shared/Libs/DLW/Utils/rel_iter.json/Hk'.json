@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. apply Hk1 in H2. apply Nat.le_trans with (m := k * x) in H2. - simpl. apply Nat.le_trans with (m := k * x). apply H2. apply Nat.mul_le_mono_l. apply Nat.le_succ_diag_r. - apply H2.", "succ": true}]

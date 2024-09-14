@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @close_refl, R_complete_ax2 unfold: R_UniformSpace, UniformSpace.sort.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F1 F2 H1 H2. unfold close, R_complete_lim. intros eps. unfold real, Lub_Rbar. apply R_complete_ax2. - apply H1. - apply H2.", "succ": true}]

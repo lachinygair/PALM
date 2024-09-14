@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply bisim_sym. apply bisimulation_bisim.", "succ": false}]

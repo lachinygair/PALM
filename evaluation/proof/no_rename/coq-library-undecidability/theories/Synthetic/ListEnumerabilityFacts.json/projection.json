@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Y p H1 x. intros [f Hf]. exists (fun x => exists y, p (x, y)). intros x0. split. - intros [y Hp]. specialize (Hf (x0, y)). destruct Hf as [n Hn]. exists n. apply Hp. - intros [n Hp]. specialize (Hf x0). destruct Hf as [n Hn]. exists n, Hp.", "succ": false}]

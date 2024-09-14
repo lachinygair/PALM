@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b. rewrite Nat.sub_succ_r. hauto lq: on use: Nat.sub_succ_r, minus_plus_simpl_l_reverse, Nat.add_1_l.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b. rewrite Nat.sub_succ_r. rewrite Nat.sub_succ_r. simpl. reflexivity.", "succ": true}]

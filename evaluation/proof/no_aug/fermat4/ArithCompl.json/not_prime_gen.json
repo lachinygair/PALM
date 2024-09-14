@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H1 H2 H3 H4 H5. destruct (prime_dec_gen a b H2 H3 H5) as [Hprime | Hnotprime]. - destruct (not_prime_divide a H1 Hprime) as [q [Hq1 Hq2]].", "succ": false}]

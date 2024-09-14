@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Hab. apply lb_ortho_plus in Hab. destruct Hab as [x Hab]. exists x. split. - apply lb_ortho_plus_id; apply lb_ortho_sym; auto. - apply lb_ortho_anti; auto.", "succ": false}]

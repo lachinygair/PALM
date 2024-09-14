@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. inversion H as [a' b' nz H0 H1]. apply divTerm_def in H1 as [_ _ H2]. rewrite H2. apply H0.", "succ": false}]

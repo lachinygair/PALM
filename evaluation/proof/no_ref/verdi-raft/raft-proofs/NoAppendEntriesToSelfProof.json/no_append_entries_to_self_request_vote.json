@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_request_vote. intros xs p ys net st' ps' d m t cid lli llt HhandleRequestVote HpBody Hnet Hreachable Hpackets Hst' Hps'. apply (no_append_entries_to_self_invariant orig_base_params one_node_params raft_params net Hprech).", "succ": false}]

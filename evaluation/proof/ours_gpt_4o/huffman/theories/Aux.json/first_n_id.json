@@ -1,0 +1,1 @@
+[{"history": {"proof": "hecrush use: Nat.sub_0_r, Nat.le_ge_cases, first_n_app1, app_nil_r, Nat.sub_diag unfold: first_n.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

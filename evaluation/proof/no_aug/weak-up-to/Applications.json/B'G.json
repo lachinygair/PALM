@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Union_mon TX TX (fun i => chaining_l (star (B' : relation X)))). intros x y H. apply G_reverse in H. apply H.", "succ": false}]

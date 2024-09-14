@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold disjoint. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold disjoint. intros x Hcontra. destruct Hcontra as [y [H1 H2]].", "succ": true}]

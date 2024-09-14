@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: rem_2_is_0_or_1, Nat.lt_0_2, Nat.lt_1_2.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply Nat.lt_1_2.", "exn": "In environment n : nat Unable to unify \"1 < 2\" with \"rem n 2 < 2\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply Nat.lt_1_2.", "succ": true}]

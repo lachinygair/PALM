@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros TH ord J n c H. destruct (H (S n) short1) as [c' [H1 H2]]. exists c'. split. - apply H1. - apply ht_ord_refl.", "succ": false}]

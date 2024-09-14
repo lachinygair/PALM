@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A f x n H. srun best use: iteres_ult_const_3 unfold: iteres_ult_const_def_0.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A f x n H. unfold non_dist_chain in H. inversion H as [H1]. exists 0. split. - lia. - rewrite iteres_eq_0. apply lazy_power_eg_power_0.", "succ": true}]

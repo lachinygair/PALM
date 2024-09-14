@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold causal_order_preserved_interface. intros client id client' id' failed net tr H_step H_order. apply entries_ordered; auto.", "succ": false}]

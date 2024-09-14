@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X H. intros Ndec Hdec. unfold not. intros Xtrue. apply Xtrue. apply (Dec_auto _ d _ Xtrue).", "succ": true}]

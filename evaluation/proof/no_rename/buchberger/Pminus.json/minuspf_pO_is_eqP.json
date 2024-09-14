@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: minusP_pO_is_eqP, minuspf_is_minusP.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros p q H. apply H.", "succ": true}]

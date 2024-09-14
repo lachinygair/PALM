@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 d1 H0 H1. unfold DTA_main_state_correct in *. unfold inter. destruct d0 as [p0 a0], d1 as [p1 a1]. simpl. apply addr_in_preDTA_produit; auto.", "succ": false}]

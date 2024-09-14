@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p0 p1 a t H_rec. apply u_conv0_r. srun best use: u_merge_4_5 unfold: u_merge_invr_0_dta.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros p0 p1 a t H_rec. apply u_conv0_r. apply H_rec. apply u_conv1_r. apply u_conv1. apply u_merge_2. apply H_rec.", "succ": true}]

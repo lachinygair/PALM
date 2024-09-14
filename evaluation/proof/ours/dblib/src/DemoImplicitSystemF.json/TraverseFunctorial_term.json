@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Build_TraverseFunctorial. intros. rewrite -> traverse_functorial. rewrite -> traverse_functorial. rewrite -> traverse_extensional. reflexivity.", "succ": false}]

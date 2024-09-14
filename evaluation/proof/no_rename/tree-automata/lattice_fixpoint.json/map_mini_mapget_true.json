@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x a H. pose proof map_mini_mapget_false as P. specialize (P A x a true) as Q. apply Q in H. inversion H.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A x a H. pose proof map_mini_mapget_false as P. specialize (P A x a true) as Q. apply Q in H. inversion H.", "succ": true}]

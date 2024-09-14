@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply arrow_relim with (RA0:=RA) (RB0:=RB). apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply arrow_relim with (RA0:=RA) (RB0:=RB). apply H.", "back_times": 0, "succ": true, "time": 0.6134281158447266}]

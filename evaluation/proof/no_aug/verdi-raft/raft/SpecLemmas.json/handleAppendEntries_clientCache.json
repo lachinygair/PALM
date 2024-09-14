@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st d m t n pli plt es ci H_handleAppendEntries. unfold handleAppendEntries in H_handleAppendEntries. inversion H_handleAppendEntries; subst. reflexivity.", "succ": false}]

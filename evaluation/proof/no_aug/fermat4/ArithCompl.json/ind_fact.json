@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros P H x."], "tactic": "apply Z.int_ind.", "exn": "The reference Z.int_ind was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros P H x. apply Z.int_ind. - intros H0. apply H. - intros n H0. apply H0.", "succ": false}]

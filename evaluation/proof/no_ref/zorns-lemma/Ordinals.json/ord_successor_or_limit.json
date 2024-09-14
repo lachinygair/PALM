@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros alpha. destruct alpha. - left. apply intro_succ_ord. - right. apply intro_limit_ord with (I0:=I) (alpha0:=alpha).", "succ": false}]

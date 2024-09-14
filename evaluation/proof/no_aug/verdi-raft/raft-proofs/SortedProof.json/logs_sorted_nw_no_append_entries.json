@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net ps' l st' H_logs_sorted H_ps_in_p_nw_or_l H_no_append_entries. apply H_logs_sorted. intros p t n prevT prevI entries c H_in_ps H_pBody. apply H_no_append_entries. apply H_ps_in_p_nw_or_l. apply H_in_ps.", "succ": false}]

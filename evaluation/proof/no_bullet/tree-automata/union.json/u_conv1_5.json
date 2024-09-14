@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros p a t r."], "tactic": "apply u_conv_rec_1.", "exn": "In environment p : preDTA a : ad t : term r : reconnaissance p a t Unable to unify \"Prop\" with \"u_conv_rec_1 p a t r\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros p a t r. apply u_conv_rec_1. auto.", "succ": false}]

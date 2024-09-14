@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply list_bool_choose_sym in s. destruct s as [[k [tl H]] | [k H]]. - exists (length tl). rewrite H. reflexivity. - exists k. apply H.", "succ": false}]

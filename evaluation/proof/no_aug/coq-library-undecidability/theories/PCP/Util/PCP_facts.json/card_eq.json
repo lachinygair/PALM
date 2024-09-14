@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. destruct (Byte.byte_eq_dec x y); [left | right]; auto.", "succ": false}]

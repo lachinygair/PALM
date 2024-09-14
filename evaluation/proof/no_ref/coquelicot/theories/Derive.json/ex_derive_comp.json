@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g x Hf Hg. destruct Hf as [l_f Hf]. destruct Hg as [l_g Hg]. exists (scal l_g l_f). apply is_derive_comp; auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f g x Hf Hg. destruct Hf as [l_f Hf]. destruct Hg as [l_g Hg]. exists (scal l_g l_f). apply is_derive_comp; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold naryRel. sfirstorder depth: 3use: bool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold naryRel. intros n0. induction n0. - apply bool. - intros. apply S. apply IHn0.", "succ": true}]

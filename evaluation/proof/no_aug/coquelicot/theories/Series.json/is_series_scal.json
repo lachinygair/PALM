@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_series. intros. unfold scal. rewrite sum_Sn. replace (sum_n (fun n0 => scal c (a n0)) n) with (scal c (sum_n a n)). - apply filterlim_scal_r. - induction n. + simpl. reflexivity. + simpl. rewrite IHn. reflexivity.", "succ": false}]

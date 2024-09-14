@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i m P i1 v1 i2 v2 k H1 H2 H3. unfold encode_mm_instr, encode_state. intros H4 H5. apply one_step_forward with (i:=i)(v:=v1). - apply mm_no_self_loops_app with (Q:=nil). + auto. + constructor. - apply H2. - apply H3.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' l Hinv Hplanar Hdl Hpr0 Hpr1 Hexpf. unfold pre_ring1. simpl. split. - apply Hpr1. - apply Hpr1.", "succ": false}]

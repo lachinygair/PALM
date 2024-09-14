@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 x y lx ly H1 H2 H3 eps. apply locally_2d_and; apply locally_2d_impl with (fun u v => Rabs (f1 u v - f2 u v) <= Rabs (f1 x y - f2 x y)). - intros u v H4. rewrite <- H2. apply H1. - apply H3.", "succ": false}]

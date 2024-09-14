@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. srun best use: mult_le_compat, le_n, Nat.mul_comm unfold: ge.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply Nat.mul_le_mono_nonneg_r. - apply H. - apply Nat.le_refl.", "succ": true}]

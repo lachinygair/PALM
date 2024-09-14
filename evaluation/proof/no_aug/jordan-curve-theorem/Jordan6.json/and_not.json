@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B decA decB. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B decA decB. apply or_and_dec. - destruct decA as [HA | NA]. + destruct decB as [HB | NB]. * left. split. ++ apply HA. ++ apply NB. * right. right. left. intros [HA _].", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. assert (Hcoh : Coh C d) by apply coh_s. assert (H1: valid d) by apply Hcoh. assert (H2: valid (dstate d)) by apply tpc_coh. symmetry in H. apply cohStC in H; auto. unfold dyn_tp. rewrite H. reflexivity.", "succ": false}]

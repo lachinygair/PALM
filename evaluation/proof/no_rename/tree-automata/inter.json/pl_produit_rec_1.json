@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 d1 tl pl0 pl1 H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11. apply rec_consi with (hd := app a tl). - apply H6. - apply H7. - apply H4. - apply H5.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction l as [|x l IH]. - intros _. sfirstorder depth: 3. - hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction l as [|x l IH]. - intros _.", "back_times": 2, "succ": true, "time": 0.6561553478240967}]

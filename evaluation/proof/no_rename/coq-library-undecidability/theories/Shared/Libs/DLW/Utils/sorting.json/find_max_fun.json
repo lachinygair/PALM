@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n f. pose proof (split_interval (S n) 0 (Nat.le_0_l (S n))) as H. destruct H as [g [h [H1 [H2 [H3 [H4 H5]]]]]]. exists (h O). split. - apply H2. apply Nat.le_0_l. - intros j Hj. apply H2. apply Nat.le_0_l.", "succ": false}]

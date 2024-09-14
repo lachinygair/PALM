@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a x H1 H2. unfold ex_pseries in *. intros [la Hla] [lb Hlb]. split. - apply is_pseries_plus; auto. - apply PSeries_correct. apply is_pseries_plus; auto.", "succ": false}]

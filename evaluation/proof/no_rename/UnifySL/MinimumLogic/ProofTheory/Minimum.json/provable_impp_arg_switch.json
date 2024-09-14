@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z. intros H1 H2 H3. apply aux_minimun_theorem00. apply aux_minimun_theorem02. apply aux_minimun_theorem03. apply aux_minimun_theorem04. auto. auto. auto. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment T1, T2 : poset y : T2 s : chain T1 Unable to unify \"const_chain\" with \"[fun=> y^^sbyconst_mono]\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros v x s H. unfold substituteTerm. destruct (Nat.eq_dec v x) as [eq | neq]. - contradiction. - hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros v x s H. unfold substituteTerm. destruct (Nat.eq_dec v x) as [eq | neq]. - contradiction. - reflexivity.", "succ": true}]

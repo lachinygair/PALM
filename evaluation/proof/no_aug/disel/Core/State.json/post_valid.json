@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. srun best use: valid_fresh unfold: soup, is_true, mid.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold post_msg. simpl. rewrite validPtUn. rewrite V. simpl. rewrite is_true_true. reflexivity.", "succ": true}]

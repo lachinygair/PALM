@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros C H. destruct H as [H1 H2 H3]. apply (Build_partial_WO C H1 H2 H3).", "succ": false}]

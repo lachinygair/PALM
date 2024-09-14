@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m x y H. rewrite !nocc_eq2. destruct (egal_nat n m). - simpl. f_equal. apply H. - apply H.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n m x y H. rewrite !nocc_eq2. destruct (egal_nat n m). - simpl. f_equal. apply H. - apply H.", "back_times": 0, "succ": true, "time": 1.4262726306915283}]

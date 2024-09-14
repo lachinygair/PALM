@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Ha nZb. pose (divTerm_nZ a (b:=b) Ha nZb) as HnZ. apply nzeroP_multTerm in HnZ. - destruct HnZ as [HnZa HnZb]. exfalso. apply HnZa. apply Ha. - apply nZb.", "back_times": 0, "succ": false, "time": 64.09992623329163}]

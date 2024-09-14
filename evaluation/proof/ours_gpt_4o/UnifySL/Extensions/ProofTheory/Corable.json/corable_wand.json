@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b Ha Hb. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b Ha Hb. apply wand_stable. - apply sepcon_stable; auto. - auto.", "back_times": 0, "succ": true, "time": 1.557494878768921}]

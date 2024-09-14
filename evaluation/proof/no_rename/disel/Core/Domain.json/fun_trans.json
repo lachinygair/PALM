@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: poset_trans unfold: fun_leq.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. unfold fun_leq in *. intros. apply poset_trans with (y := y x). - apply H1. - apply H2.", "succ": true}]

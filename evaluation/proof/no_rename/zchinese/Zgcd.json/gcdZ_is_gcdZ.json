@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b d H. sfirstorder depth: 3use: unicity_is_gcdZ, gcdZ_correct.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b d H. inversion H as [b|b a d q r H1 H2 H3 H4 H5]. apply unicity_is_gcdZ in H5. rewrite H5. apply gcdZ_correct.", "succ": true}]

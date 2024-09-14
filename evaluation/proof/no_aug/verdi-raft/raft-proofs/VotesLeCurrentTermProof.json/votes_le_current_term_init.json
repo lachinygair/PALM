@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3use: raft_refined_base_params.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. apply (refined_raft_net_invariant votes_le_currentTerm). apply (raft_refined_base_params one_node_params raft_params). apply H.", "succ": true}]

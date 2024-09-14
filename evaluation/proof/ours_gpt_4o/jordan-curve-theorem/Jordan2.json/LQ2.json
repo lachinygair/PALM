@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z s. pose (sr := Iter_rem_aux m z s).", "back_times": 0, "succ": false, "time": 106.19347620010376}]

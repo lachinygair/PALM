@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net failed tr H. induction H; eauto.", "hammer_times": 3, "succ": false, "time": 118.75201845169067}]

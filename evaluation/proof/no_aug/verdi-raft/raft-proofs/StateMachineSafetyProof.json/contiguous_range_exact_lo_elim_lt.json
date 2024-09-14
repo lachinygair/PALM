@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros es lo e H1 H2. unfold contiguous_range_exact_lo in H1. apply H1. apply H2.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros es lo e H1 H2. unfold contiguous_range_exact_lo in H1. apply H1. apply H2.", "succ": true}]

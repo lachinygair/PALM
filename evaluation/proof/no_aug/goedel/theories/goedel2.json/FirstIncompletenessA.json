@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply contradiction with (f := G) (g := notH G). - apply nnE. apply sysExtend with (U := T) (f := G). auto. - auto.", "succ": false}]

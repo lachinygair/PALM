@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P Punb Pdec next f f_sinc f_select n. split. - intros H. destruct (Punb n) as [k [Hle Hk]]. exists k. split. + apply Hk. + apply H. - intros [k H]. apply H.", "succ": false}]

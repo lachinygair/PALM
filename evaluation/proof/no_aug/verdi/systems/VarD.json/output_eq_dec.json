@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y."], "tactic": "destruct (output_eq_dec x y); auto.", "exn": "The reference output_eq_dec was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros x y. destruct (output_eq_dec x y); auto.", "succ": false, "time": 4.282956374999685}]

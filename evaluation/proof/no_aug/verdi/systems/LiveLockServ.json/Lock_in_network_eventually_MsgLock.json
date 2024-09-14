@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c s H1 H2 H3. apply eventually_trans with (P:=now (occurred (MsgLock c))); auto. apply H3; auto.", "succ": false, "time": 5.088348054999869}]

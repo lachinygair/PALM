@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x Hmap. srun best use: inv_hmap_B, not_succ_B, A_B unfold: succ inv: dim.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x Hmap. unfold B. simpl. rewrite B_nil; auto.", "succ": true}]

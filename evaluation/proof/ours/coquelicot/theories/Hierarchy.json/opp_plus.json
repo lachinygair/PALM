@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. unfold opp, plus, AbelianGroup.opp, AbelianGroup.plus, AbelianGroup.ax4.", "succ": false}]

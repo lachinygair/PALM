@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u Hu. intros Hu'. destruct (list_upper_bound vars u) as [m Hm]. apply Hm in Hu'. exists (exist _ u Hu'). reflexivity.", "succ": false}]

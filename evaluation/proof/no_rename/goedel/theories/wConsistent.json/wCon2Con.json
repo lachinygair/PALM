@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T wC. unfold Consistent. intros T' f v H1 H2. apply wConsistent with f v. auto. apply Axm. apply sysWeaken. apply Axm. apply existSys; auto.", "succ": false}]

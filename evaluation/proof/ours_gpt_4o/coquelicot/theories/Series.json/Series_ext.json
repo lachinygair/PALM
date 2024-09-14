@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros [l H]. exists (scal c l). apply is_series_scal. apply H.", "back_times": 0, "succ": false, "time": 32.111974477767944}]

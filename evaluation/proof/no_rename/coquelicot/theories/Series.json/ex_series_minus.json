@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a H1 H2. destruct H1 as [l1 H1]. destruct H2 as [l2 H2]. exists (plus l1 (opp l2)). apply is_series_plus. - apply H1. - apply is_series_opp in H2. apply (is_series_decr_1 b). apply H2.", "succ": false}]

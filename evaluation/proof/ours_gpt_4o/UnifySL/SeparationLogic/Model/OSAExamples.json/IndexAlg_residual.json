@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply (Build_ResidualSeparationAlgebra nat _ _). intros n. hauto l: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply (Build_ResidualSeparationAlgebra nat _ _). intros n. apply residue_exists.", "back_times": 0, "succ": true, "time": 1.2616899013519287}]

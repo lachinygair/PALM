@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold serialize_deserialize_id_spec. unfold serialize_serverType. unfold deserialize_serverType. simpl. reflexivity.", "succ": false}]

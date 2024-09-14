@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l a b H_canonical. unfold canonical in H_canonical. strivial use: olist_pX_order.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l a b H_canonical. unfold canonical in H_canonical. intros H1. apply H1.", "succ": true}]

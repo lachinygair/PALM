@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold upwards_closed_Kdenote. intros n m Hle Hemp. contradiction.", "back_times": 0, "succ": false, "time": 102.48521518707275}]

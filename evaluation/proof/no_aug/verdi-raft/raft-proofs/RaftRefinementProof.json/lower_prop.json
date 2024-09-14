@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P Hp net Hr. apply Hp. apply RaftRefinementInterface.lift_prop with (net := net); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a Hprime Hdiv. destruct Hprime as [Hnot1 Hdivides]. unfold divides in Hdiv. unfold divides in Hdiv. destruct Hdiv as [q Hdiv]. exists q. apply Hdiv.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold iad_conv_aux_2, iad_conv_inv_0, cpla. rewrite -> iad_conv_inv. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st h h' t lli llt st' m H. apply handleRequestVote_type in H. destruct H as [[H1 H2] | [H1 H2]]. - left. split; auto. - right. split; try auto. apply handleRequestVote_currentTerm in H. auto.", "back_times": 0, "succ": false, "time": 101.76865196228027}]

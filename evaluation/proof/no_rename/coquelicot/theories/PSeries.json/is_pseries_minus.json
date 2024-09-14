@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a x lb la H1 H2. unfold is_pseries in *. unfold PS_minus. unfold plus. unfold opp. apply is_series_minus; auto.", "succ": false}]

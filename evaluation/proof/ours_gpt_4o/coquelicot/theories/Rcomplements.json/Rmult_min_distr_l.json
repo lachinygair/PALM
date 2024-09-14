@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on use: Ropp_0, Rmult_le_compat_l, Rmult_le_reg_l, Rmult_comm, Rmult_0_r, sqrt_0, Rmult_0_l unfold: Rmin, Rle.", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite -[RHS]map_id. apply: map_pairmap.", "back_times": 0, "succ": true, "time": 26.547598838806152}]

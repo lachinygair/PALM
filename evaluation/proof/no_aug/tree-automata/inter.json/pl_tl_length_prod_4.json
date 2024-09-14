@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a la ls p H0 H1. unfold pl_tl_length_prod_def_1 in *. intros n m H2 H3 H4. split. - intros H5 H6. apply pl_product_0_3. apply H0. apply H5. apply H1, H6. apply H4. - intros H7. apply pl_product_0_4. apply H0. apply H7. apply H1, H3. apply H4.", "succ": false}]

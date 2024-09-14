@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. intros lim_x filterdiff_loc lim_F. split. - apply filter_filter. - intros y lim_y. apply filterdiff_loc in lim_y as diff_y. unfold is_domin in diff_y. simpl in diff_y. intros P H. destruct (filter_ex F P H) as [z Hz]. apply diff_y. apply lim_F. auto.", "succ": false}]

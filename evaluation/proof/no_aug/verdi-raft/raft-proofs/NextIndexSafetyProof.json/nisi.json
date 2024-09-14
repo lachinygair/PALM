@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold nextIndex_safety_interface. intros. constructor. intros. apply nextIndex_safety_invariant.", "succ": false}]

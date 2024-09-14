@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros failed net tr HC Hstep. inversion HC as [client id i i' h h' Hin1 Hin2]. subst. apply (raft_linearizable failed net tr); auto.", "succ": false}]

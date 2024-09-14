@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xbar. destruct (quotient_projection_surjective A R xbar) as [x Hx]. exists (f x). exists x. split. - apply quotient_projection_minimally_collapses_R with (R := R); auto. - apply well_defined.", "succ": false}]

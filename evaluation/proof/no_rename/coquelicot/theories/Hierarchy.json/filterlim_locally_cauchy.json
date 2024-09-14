@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T U F PF f. split. - intros H eps. destruct (H eps) as [P [FP H']]. exists (lim F P). apply filterlim_comp. + apply filterlim_id. + apply H'. - intros [y H]. exists y. intros eps. apply H.", "succ": false}]

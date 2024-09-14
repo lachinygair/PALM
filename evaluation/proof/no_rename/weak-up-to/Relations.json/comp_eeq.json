@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold eeq, comp. sfirstorder depth: 3use: comp.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold eeq, comp. intros H1 H2. unfold comp. intros x z [y H3 H4]. exists y. - apply H1. apply H3. - apply H2. apply H4.", "succ": true}]

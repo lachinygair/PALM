@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a la pl l n H1 H2. sauto qb: on dep: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a la pl l n H1 H2. intros H3 H4. symmetry in H4. apply (pl_product_0 la pl a n l). apply H1.", "succ": true}]

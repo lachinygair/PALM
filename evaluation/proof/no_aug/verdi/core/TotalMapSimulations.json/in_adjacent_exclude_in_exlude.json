@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros ns failed n h H. unfold tot_map_name_inv in H. rewrite filter_rel in H. rewrite remove_all in H. rewrite in_map_pair_adjacent_to in H. split. - apply H. - apply H.", "succ": false, "time": 7.767853240000022}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g z1 z2 H1 z3 z4 H2 q. unfold substituteFormulaImp. rewrite H1, H2. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros f g z1 z2 H1 z3 z4 H2 q. unfold substituteFormulaImp. rewrite H1, H2. reflexivity.", "succ": true}]

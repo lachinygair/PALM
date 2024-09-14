@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold leaderLogs_contiguous. intros h t ll H_in. apply (leaderLogs_contiguous_invariant orig_base_params one_node_params raft_params net H_refined h t ll). apply H_in.", "succ": false}]

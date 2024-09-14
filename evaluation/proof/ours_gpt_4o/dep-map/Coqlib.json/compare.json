@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. destruct (O.compare_spec x y) as [E | L | G]. - apply OrderedType.EQ. auto. - apply OrderedType.LT. auto. - apply OrderedType.GT. auto.", "back_times": 0, "succ": false, "time": 54.48922157287598}]

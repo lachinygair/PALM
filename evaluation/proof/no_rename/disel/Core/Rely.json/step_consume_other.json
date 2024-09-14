@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "proof intros w this s s' m tm from z Hneq Hstep Hfind.", "exn": "The reference proof was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "proof intros w this s s' m tm from z Hneq Hstep Hfind. auto.", "succ": false}]

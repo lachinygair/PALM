@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold r_step_coh_t, rc_step. intros. unfold receive_step_t in rc_step. intros d Hcoh this pt m pf Hin. destruct (this == cn) eqn:Heq. - simpl. rewrite (eqP Heq). unfold getStC, getStL, mkLocal. auto. - apply Hin.", "succ": false}]

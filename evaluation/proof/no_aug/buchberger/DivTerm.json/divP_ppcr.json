@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b nZa nZb. hauto lq: on use: ppc_is_ppcm inv: ppcm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b nZa nZb. apply divP_ppcl; auto.", "succ": true}]

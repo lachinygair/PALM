@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs1 xs2 y. intros H. apply provable_multi_imp_weaken with (x := multi_imp xs2 y). apply H.", "succ": false}]

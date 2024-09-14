@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply vec_pos_ext. intro p. simpl. destruct p. - unfold vec_split. simpl. apply vec_eq_refl. - unfold vec_split; simpl. apply vec_eq_refl.", "succ": false}]

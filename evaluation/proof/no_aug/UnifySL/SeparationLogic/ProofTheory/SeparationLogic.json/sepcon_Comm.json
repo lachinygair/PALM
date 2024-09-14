@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Commutativity, SepconAxiomatization.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold Commutativity. intros. unfold SepconAxiomatization in sepconAX. apply (sepconAX L minL sepconL Gamma minAX diff_refl provable_diff).", "succ": true}]

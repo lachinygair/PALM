@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros ak2 Hnotak2. intro Hcontra. pose (Hak2eq0 := eq_sym Hak). contradict Hnotak2. apply Hak2eq0.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /size /unzip2. induction s as [| [x y] s' IHs]. - reflexivity. - simpl. rewrite IHs. reflexivity.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "rewrite /size /unzip2. induction s as [| [x y] s' IHs]. - reflexivity. - simpl. rewrite IHs. reflexivity.", "succ": true}]

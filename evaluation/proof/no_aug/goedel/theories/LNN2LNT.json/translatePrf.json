@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f axm Hprf Hmem. pose proof (AxiomsOK f axm Hprf Hmem) as H. destruct H as [Axm [Hprf' HmemAxm]]. exists Axm. split. - exists. apply Hprf'. - split. + apply HmemAxm. + intros v Hv. apply HmemAxm. apply Hv.", "succ": false}]

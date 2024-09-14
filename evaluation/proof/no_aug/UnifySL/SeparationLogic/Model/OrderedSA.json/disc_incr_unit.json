@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H e. unfold IdentityKripkeIntuitionisticModel, unit_element, increasing, unit_element, increasing', join, increasing in *. intros H1. split. - intros H2 n n' H3. apply (proj2 (H e) H2). - intros H2 n H3. apply (proj1 (H e) H2). apply H3.", "succ": false}]

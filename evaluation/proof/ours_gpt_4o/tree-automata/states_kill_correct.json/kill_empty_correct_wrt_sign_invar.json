@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d sigma H. apply DTA_kill_correct_wrt_sign_invar with (m := dta_states_non_empty d). apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros d sigma H. apply DTA_kill_correct_wrt_sign_invar with (m := dta_states_non_empty d). apply H.", "back_times": 0, "succ": true, "time": 0.9657847881317139}]

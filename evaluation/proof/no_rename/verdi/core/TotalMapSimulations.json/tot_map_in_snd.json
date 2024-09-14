@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros h m ns nm H. unfold tot_map_msg. unfold map2snd in H. rewrite in_map2snd_snd in H. - inversion H. reflexivity.", "succ": false, "time": 6.143803515000002}]

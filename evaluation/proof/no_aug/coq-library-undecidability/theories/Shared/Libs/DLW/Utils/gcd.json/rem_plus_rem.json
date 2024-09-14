@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: rem b p = b). { apply rem_idem. apply div_rem_spec2. apply Hp. } rewrite H. rewrite Nat.add_mod_idemp_r. - reflexivity. - apply Hp.", "succ": false}]

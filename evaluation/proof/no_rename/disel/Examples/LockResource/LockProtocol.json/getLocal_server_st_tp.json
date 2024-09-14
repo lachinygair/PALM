@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "unfold find, getLocal, server_state, dyn_tp.", "exn": "Cannot coerce server_state to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold find, getLocal, server_state, dyn_tp. simpl. intros H1. inversion H1.", "succ": false}]

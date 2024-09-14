@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. exists (fun i Hi => proj1_sig (H i Hi)). intros i Hi. apply (proj2_sig (H i Hi)).", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. exists (fun i Hi => proj1_sig (H i Hi)). intros i Hi. apply (proj2_sig (H i Hi)).", "back_times": 0, "succ": true, "time": 0.14722204208374023}]

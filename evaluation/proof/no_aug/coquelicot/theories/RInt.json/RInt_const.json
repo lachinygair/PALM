@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite -> scal_one. unfold RInt. apply iota_unique. intros f_a_b. apply is_RInt_unique. apply is_RInt_ext. intros. reflexivity. apply is_RInt_point.", "succ": false}]

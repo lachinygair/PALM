@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x m. qauto use: @sat_falsep, @sat_impp unfold: falsep.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x m. intros H. unfold satisfies. intros m' Hm'. unfold satisfies in H. apply H in Hm'. apply sat_impp. intros Hf. contradiction.", "succ": true}]

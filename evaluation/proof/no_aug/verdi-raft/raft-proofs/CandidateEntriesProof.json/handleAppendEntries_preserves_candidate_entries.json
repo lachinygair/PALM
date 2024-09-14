@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h t n pli plt es ci d m e HhandleApp Hrefined Hcand. apply (handleRequestVoteReply_preserves_candidate_entries net h (fst (nwState net h)) h t m d e). apply HhandleApp. apply Hrefined. apply Hcand.", "succ": false}]

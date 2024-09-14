@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x v\u2081 v\u2082 dom m. unfold add. rewrite <- add_cancel with (x:=x) (v:=v\u2081) (m:=add A dom x v\u2082 m) at 2. apply eq_trans with (m\u2082:=add A dom x v\u2082 m); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H1 H2. strivial use: Z.mul_lt_mono_neg_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply Zmult_lt_compat_l_rev with (p := p) in H2. apply Zmult_lt_reg_r in H2. auto. auto.", "succ": true}]

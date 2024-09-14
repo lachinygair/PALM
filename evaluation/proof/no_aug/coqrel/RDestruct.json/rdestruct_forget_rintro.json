@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (flip_rdestruct Q (RExists Q x y) _); [|auto]. intro H; destruct H; auto.", "succ": true}]

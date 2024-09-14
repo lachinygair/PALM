@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. unfold is_digit in H, H0. destruct H, H0. congruence.", "succ": false}]

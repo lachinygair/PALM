@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply and4. split; [apply Protocols.snd_uniq | apply Protocols.rcv_uniq].", "succ": true}]

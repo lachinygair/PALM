@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rename b_nat into k. pose proof (alpha_Pell n) as H. destruct H as [u [v Huv]]. exists u, v. apply Huv.", "succ": false}]

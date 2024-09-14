@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros D f C x H. rewrite <- H. apply tarski_lfp_least. rewrite <- kleene_lfp_fixed. apply contE. apply C.", "succ": false}]

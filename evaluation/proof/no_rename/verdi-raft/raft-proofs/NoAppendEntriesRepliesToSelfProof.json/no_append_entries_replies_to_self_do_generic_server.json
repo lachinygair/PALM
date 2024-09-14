@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_do_generic_server. intros orig_base_params one_node_params raft_params P net st' ps' d os d' ms h HdoGenericServer HP Hintermediate Hnet Hst' Hps'. unfold no_append_entries_replies_to_self in Hintermediate. apply Hintermediate in Hnet. contradiction.", "succ": false}]

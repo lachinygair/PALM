@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: NormedModule.ax5 unfold: NormedModule.AbelianGroup, NormedModuleAux.class, NormedModuleAux.AbelianGroup, NormedModule.sort, NormedModuleAux.sort, AbelianGroup.sort, norm, NormedModule.base.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x H. pose proof (NormedModule.ax5 K V H) as H'. apply H'.", "succ": true}]

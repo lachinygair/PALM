@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x z t Hmap Hsucc x0 x_1 xb0 xh0 xh0_1 Hexpfx0xb0 Hexpfxh0_1z Hexpfxh0_1t. unfold expf in *. unfold x0, x_1, xb0, xh0, xh0_1 in *. apply expf_B0_CS_2_a_IV; auto.", "succ": false}]

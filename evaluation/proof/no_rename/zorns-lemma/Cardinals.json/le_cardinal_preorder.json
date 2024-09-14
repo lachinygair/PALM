@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c1 c2 c3 Hle_cardinal. unfold preorder, le_cardinal in *. apply Build_preorder. - apply preord_refl. - apply preord_trans.", "succ": false}]

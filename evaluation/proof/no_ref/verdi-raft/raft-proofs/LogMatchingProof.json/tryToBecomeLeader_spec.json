@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h d out d' l HtryToBecomeLeader. split. - unfold tryToBecomeLeader in HtryToBecomeLeader. inversion HtryToBecomeLeader; simpl; reflexivity. - intros m Hin. unfold tryToBecomeLeader in HtryToBecomeLeader. inversion HtryToBecomeLeader; simpl in Hin. contradiction.", "succ": false}]

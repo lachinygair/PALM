@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l H1 s H2 H3 H4. apply (lb_step_ordered_failure_weak_fairness_always_enabled_pt_map_onet_continuously base_map name_map msg_map label_map name_map_bijective multi_map_congr multi_map_lb_congr label_eq_dec l H1 s H2 H3 H4).", "succ": false, "time": 4.062350358999993}]

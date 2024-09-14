@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. apply mgv_ghost_invariant_lift with (net := net) (net' := net') (failed := failed) (failed' := failed') (out := out). - apply H. - auto. - auto.", "succ": false, "time": 3.7997851140000023}]

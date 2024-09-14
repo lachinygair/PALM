@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: Z.divide_add_cancel_r.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply divide_trans with (b := b); auto.", "succ": true}]

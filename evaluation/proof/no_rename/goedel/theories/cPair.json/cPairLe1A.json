@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. hauto lq: on drew: off use: Nat.add_comm, Nat.le_gt_cases, Nat.le_add_r, cPairProjections, Nat.le_ge_cases, Nat.le_refl unfold: cPairPi2, cPair, in_int inv: le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. unfold cPairPi1. rewrite <- Nat.le_pred_l with (n := a) at 1. apply Nat.le_decidable.", "succ": true}]

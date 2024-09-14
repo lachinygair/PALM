@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. hfcrush use: C_n_n, pascal_step1, Nat.le_0_l, minus_n_O unfold: C.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. unfold C. rewrite Nat.sub_diag. simpl. rewrite Rinv_r. - ring. - apply INR_fact_neq_0.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: family_union_intro unfold: Included, In inv: FamilyUnion.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros T F G H x H0. unfold Included in H. unfold Included. intros x0 H1. apply H in H1. apply family_union_intro with x. apply H1. auto.", "succ": true}]

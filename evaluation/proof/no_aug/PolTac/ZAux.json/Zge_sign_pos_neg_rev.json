@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H1 H2. hauto use: Z.gt_lt, Znot_ge_lt, Z.mul_pos_cancel_l unfold: Z.ge, Z.lt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. apply Zge_sign_neg_pos. apply Z.mul_nonpos_nonneg; auto. apply Zge_sign_pos_neg; auto.", "succ": true}]

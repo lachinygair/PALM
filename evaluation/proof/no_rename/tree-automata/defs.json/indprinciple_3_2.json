@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros indprinciple t high. induction high. - intros. apply indprinciple_3_aux with (S n). intros. apply H. apply to_st. apply tlo_head. apply H0. - intros. apply indprinciple with a tl. intros. apply H. apply to_st. apply tlo_tail. apply H0.", "succ": false}]

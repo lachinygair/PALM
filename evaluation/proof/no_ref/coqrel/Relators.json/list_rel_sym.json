@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Symmetric. intros. induction H0. - apply nil_rel_def. - apply cons_rel_def. apply HR. auto. apply IHlist_rel.", "succ": false}]

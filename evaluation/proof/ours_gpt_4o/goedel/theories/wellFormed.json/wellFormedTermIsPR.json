@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Term_ind. - apply varIsPR. - intros f ts. apply compose1_1IsPR with (g := codeArityF). + apply codeArityFIsPR. + apply tsIsPR.", "back_times": 0, "succ": false, "time": 31.425363302230835}]

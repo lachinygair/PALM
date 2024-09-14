@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u. unfold LimSup_seq, LimInf_seq, Rbar_opp. rewrite LimInf_SupInf_seq. rewrite Sup_opp_inf. rewrite Inf_opp_sup. apply is_LimSup_opp_LimInf_seq.", "succ": false}]

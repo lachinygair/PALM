@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Rplus_comm unfold: fst, snd, C, Cplus.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite RtoC_plus. unfold Cplus. rewrite RtoC_plus. rewrite Rplus_comm. rewrite RtoC_plus. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: N.mul_0_l, N.le_0_l, N.log2_nonpos, N.sqrt_up_eqn0, N.sqrt_up_succ_square unfold: BinNatDef.N.log2, BinNatDef.N.succ.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

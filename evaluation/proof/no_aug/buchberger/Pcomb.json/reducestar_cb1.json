@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Q Hred. induction Hred. - constructor. - apply CombLinear_1; auto.", "succ": false}]

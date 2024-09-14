@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply dfun_refl.", "exn": "In environment A : Type B : A -> cpo x : dfunPoset (fun x : A => B x) Unable to unify \"x\" with \"dfun_bot\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply dfun_refl.", "succ": false}]

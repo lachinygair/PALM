@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T F FF f g x l filterlim_f filterlim_g F_fx. apply (filterlim_comp _ _ _ _ _ (filterlocally_finite_filter x) _ _ _ filterlim_f). - intros y H. simpl. apply H. - intros y H. simpl. apply H. - apply filterlim_id.", "succ": false}]

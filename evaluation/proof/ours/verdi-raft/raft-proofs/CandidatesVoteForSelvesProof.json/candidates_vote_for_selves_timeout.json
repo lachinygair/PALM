@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply candidates_vote_for_selves_invariant with (net:=net) ; auto.", "exn": "The reference net was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply candidates_vote_for_selves_invariant with (net:=net) ; auto.", "succ": false}]

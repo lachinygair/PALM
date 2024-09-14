@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros env_i env_o ir tr i k o Hexp Henvi Henvo. induction ir as [|x xs IH] using exported_sind. - simpl. apply exported_IO; auto. - simpl. apply exported_ind; auto.", "succ": false}]

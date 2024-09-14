@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply msum_fold_map.", "repairs": [""], "exceptions": [{"ctx": ["apply msum_fold_map."], "tactic": "simpl.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "apply msum_fold_map. simpl. auto.", "back_times": 0, "succ": true, "time": 0.06952810287475586}]

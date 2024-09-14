@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri lsi lltsi eewci llcei cci vci net leader t ll e h Htype HinLL HinE HeTerm Hlog; apply leaderLogs_sublog_invariant with (h:=h) (t:=t) (ll:=ll); auto.", "succ": false}]

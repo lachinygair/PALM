@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Nat.le_trans with (m:= 2). - apply Znumtheory.prime_ge_2 in Hb_nat. apply Hb_nat. - apply Z.le_0_2.", "succ": false}]

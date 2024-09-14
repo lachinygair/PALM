@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A e k x a H. srun best use: lookup_insert_bingo, defined_implies_below_length.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A e k x a H. intros H0. apply Nat.lt_le_incl. apply H.", "succ": true}]

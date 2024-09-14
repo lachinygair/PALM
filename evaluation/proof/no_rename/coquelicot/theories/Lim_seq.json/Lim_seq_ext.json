@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: Lim_seq_ext_loc.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros u v Huv. apply Lim_seq_ext_loc. intros n. apply Huv.", "succ": true}]

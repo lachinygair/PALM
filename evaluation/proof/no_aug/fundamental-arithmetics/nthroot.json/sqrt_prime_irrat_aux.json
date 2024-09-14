@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p k a b H1 H2 H3. intros contra. unfold square in contra. apply contra. apply (square_mult_lemma (p * k) (square b)).", "succ": false}]

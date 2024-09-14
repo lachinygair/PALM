@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T f H. unfold monotone in H. unfold tarski_gfp. rewrite H. reflexivity.", "succ": false}]

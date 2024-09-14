@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u_n_leq_n. unfold ex_lim_seq. exists (Lim_seq u). apply Lim_seq_correct. apply u_n_leq_n.", "succ": false}]

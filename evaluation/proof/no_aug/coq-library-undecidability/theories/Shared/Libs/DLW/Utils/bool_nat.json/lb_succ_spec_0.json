@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction l; intros. - simpl. reflexivity. - simpl. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction l; intros. - simpl. reflexivity. - simpl. rewrite IHl. destruct (bin_add \u27d8 a). reflexivity.", "succ": true}]

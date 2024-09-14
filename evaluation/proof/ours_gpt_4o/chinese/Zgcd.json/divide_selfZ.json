@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold divide. exists IZ. split. - unfold IdZ. apply I. - destruct x as [|n|n]. + reflexivity. + simpl. rewrite mult_IZ. reflexivity. + simpl. rewrite mult_IZ. reflexivity.", "back_times": 0, "succ": false, "time": 15.916242361068726}]

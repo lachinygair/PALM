@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold multA, plusA. rewrite multA_dist_l, multA_com. rewrite multA_dist_l. rewrite multA_com with (a:=b) (b:=c). rewrite multA_dist_l. rewrite plusA_assoc. rewrite plusA_com with (a:=multA a c) (b:=multA b c). reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x y x' y' m1 Hinv_hmap. unfold m1. hauto lq: on depth: 3use: B0_L0_L0.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 Hinv_hmap. unfold m1. intros Hinv_hmap1. apply B0_L0_L0 in Hinv_hmap1. apply Hinv_hmap1.", "succ": true}]

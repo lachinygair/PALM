@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d sigma H. unfold DTA_kill_empty_states. destruct d. hauto lq: on depth: 3use: DTA_kill_correct_wrt_sign_invar.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d sigma H. unfold DTA_kill_empty_states. destruct d. simpl. apply DTA_kill_correct_wrt_sign_invar. apply H.", "succ": true}]

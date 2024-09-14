@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Neq_z Step Find. exists b. split. - apply Find. - intro b'. intro H. apply (Step). apply H.", "succ": false}]

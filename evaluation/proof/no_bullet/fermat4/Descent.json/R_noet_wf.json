@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (well_founded_inv_rel_inv_lt_rel (A:=nat*nat) (F:=fun x => fst x + snd x)). apply lt_wf.", "succ": false}]

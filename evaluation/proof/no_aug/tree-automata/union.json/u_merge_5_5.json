@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a t r. apply u_merge_invr_1_dta. auto.", "succ": false}]

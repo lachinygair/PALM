@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros V H H0 H1. constructor. intro f. intro l. intro x. hauto lq: on depth: 3use: traverse_identifies_var.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros V H H0 H1. constructor. intro f. intro l. intro x. apply (traverse_identifies_var V H H0 H1 f l x).", "succ": true}]

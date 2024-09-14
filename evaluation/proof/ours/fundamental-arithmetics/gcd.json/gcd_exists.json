@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b."], "tactic": "apply gcd_exists_prod.", "exn": "In environment a, b : nat Unable to unify \"{d : nat | is_gcd d (fst ?M1398) (snd ?M1398)}\" with \"{d : nat | is_gcd d a b}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros a b. apply gcd_exists_prod.", "succ": false}]

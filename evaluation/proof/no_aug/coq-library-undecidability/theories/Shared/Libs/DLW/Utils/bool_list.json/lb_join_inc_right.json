@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: lb_join_inc_left, lb_join_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply lb_join_mono. apply lb_join_inc_left.", "succ": true}]

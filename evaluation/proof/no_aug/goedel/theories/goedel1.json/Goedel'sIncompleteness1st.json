@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold wConsistent in H. specialize (H (existH v0 (notH repT)) v0). apply H. intros x H1 H2. apply expressT2. intros H3. apply H1. apply freeVarRepT. auto.", "succ": false}]

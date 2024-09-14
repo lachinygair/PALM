@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f. induction f using dio_formula_rect; simpl. - reflexivity. - reflexivity. - rewrite IHf1, IHf2. reflexivity. - rewrite IHf. reflexivity. - rewrite IHf. reflexivity.", "succ": false}]

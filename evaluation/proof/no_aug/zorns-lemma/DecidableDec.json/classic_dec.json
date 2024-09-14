@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P. apply (decidable_dec P (ChoiceFacts.constructive_definite_descr_excluded_middle ChoiceFacts.ConstructiveDefiniteDescription_on)).", "succ": false}]

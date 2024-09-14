@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P EM_dec_reflect. destruct EM_dec_reflect as [P_true | P_false]. - left. apply P_true. - right. intro p. apply P_false. intro p_false. apply p. apply p_false.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries_reply. intros. apply leaders_have_leaderLogs_invariant. - eapply H4. - auto.", "back_times": 0, "succ": false, "time": 141.05296778678894}]

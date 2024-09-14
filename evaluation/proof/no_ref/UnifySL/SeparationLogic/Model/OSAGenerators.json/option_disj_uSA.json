@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold UpwardsClosedSeparationAlgebra. intro. apply H. apply option_Join. auto.", "succ": false}]

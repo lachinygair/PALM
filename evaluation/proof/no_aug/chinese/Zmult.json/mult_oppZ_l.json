@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y. scongruence use: mult_oppZ_r, multZ_commutativity unfold: commutativity.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y. unfold multZ, oppZ. destruct x as [|n|n]; destruct y as [|m|m]; simpl; reflexivity.", "succ": true}]

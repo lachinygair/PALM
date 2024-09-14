@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros st st' i os H. inversion H. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros st st' i os H. inversion H. reflexivity.", "succ": true, "time": 0.19551178200026698}]

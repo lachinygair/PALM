@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 d1 H0 H1. unfold DTA_ref_ok in *. unfold union. destruct d0 as [p0 a0]. destruct d1 as [p1 a1]. unfold union_1. simpl. apply union_semantics; auto.", "succ": false}]

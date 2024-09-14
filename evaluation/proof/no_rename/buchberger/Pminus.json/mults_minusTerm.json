@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a b H1 H2 H3. intro H4. intro H5. intro H6. unfold canonical in H3. unfold canonical. apply H3 in H4. apply H3 in H5. apply H3. - apply H5. - apply H4. - unfold eqP. apply mults_dist_minuspf. + apply H4. + apply H5. + apply H6.", "succ": false}]

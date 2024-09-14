@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A f x n. induction n. - simpl. reflexivity. - simpl. hauto lq: on depth: 3use: plus_n_Sm, iteres_eq_0.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A f x n. induction n. - simpl. reflexivity. - simpl. rewrite iteres_eq_0. rewrite <- plus_n_Sm. rewrite IHn. reflexivity.", "succ": true}]

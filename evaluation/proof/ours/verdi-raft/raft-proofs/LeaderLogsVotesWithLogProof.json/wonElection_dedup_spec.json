@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l HwonElection. apply CommonTheorems.wonElection_dedup_spec in HwonElection. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros l HwonElection. apply CommonTheorems.wonElection_dedup_spec in HwonElection. auto.", "succ": true}]

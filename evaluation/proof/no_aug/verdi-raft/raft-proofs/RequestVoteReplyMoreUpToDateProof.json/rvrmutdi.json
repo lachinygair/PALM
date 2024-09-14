@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold requestVoteReply_moreUpToDate_interface. constructor. intros net H_reachable. apply (requestVoteReply_moreUpToDate_invariant orig_base_params one_node_params raft_params net H_reachable).", "succ": false}]

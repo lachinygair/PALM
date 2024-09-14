@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros HR1 HR2. unfold Reflexive. intros x. split. - apply HR1. - apply HR2.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros HR1 HR2. unfold Reflexive. intros x. split. - apply HR1. - apply HR2.", "back_times": 0, "succ": true, "time": 0.6995968818664551}]

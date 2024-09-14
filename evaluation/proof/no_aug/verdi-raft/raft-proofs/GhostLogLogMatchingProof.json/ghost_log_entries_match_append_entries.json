@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold msg_refined_raft_net_invariant_append_entries'. intros xs p ys net st' ps' gd d m t n pli plt es ci H. apply msg_refined_raft_net_invariant_append_entries in H as H'. apply H'; auto.", "succ": false}]

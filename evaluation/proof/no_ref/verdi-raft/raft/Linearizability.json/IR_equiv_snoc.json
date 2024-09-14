@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros xs ys x H."], "tactic": "induction H; constructor; auto.", "exn": "Unable to find an instance for the variable l2.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros xs ys x H. induction H; constructor; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Inf_seq_correct, is_inf_seq_le.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u v H. unfold Inf_seq. unfold is_inf_seq.", "succ": true}]

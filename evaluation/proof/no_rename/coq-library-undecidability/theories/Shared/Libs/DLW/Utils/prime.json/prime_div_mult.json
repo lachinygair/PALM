@@ -1,0 +1,1 @@
+[{"history": {"proof": "hcrush use: prime_gcd, is_rel_prime_div.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros y x p Hprime Hlt. destruct Hprime as [Hnot_one Hdiv]. destruct (Hdiv p Hprime) as [H1 | Hp]. - left. apply H1. - apply divides_le in Hlt. apply Hdiv in Hlt. right. apply Hlt.", "succ": true}]

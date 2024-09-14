@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (is_ub_Rbar_dec E p_infty) as [[M H1] | H2]. - left. exists M. intros x Hx. apply H1 in Hx. apply Rbar_lb_p_infty in Hx. rewrite Hx. apply Rle_refl. - right. intros M H. contradict H2. exists M. intros x Hx. exfalso. apply H with x.", "succ": false}]

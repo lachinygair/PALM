@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros k x H1 H2. sauto depth: 3use: lt_irrefl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros k x H1 H2. intro H3. destruct H3 as [T H H4]. apply (H _ _ _ H1) in H4. elim (Nat.lt_irrefl _ H2).", "succ": true}]

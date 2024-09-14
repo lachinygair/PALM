@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (classic (exists l : R, is_ub_Rbar E l)) as [H | H]. - left. apply H. - right. intros l contra. apply H. exists l. apply contra.", "succ": false}]

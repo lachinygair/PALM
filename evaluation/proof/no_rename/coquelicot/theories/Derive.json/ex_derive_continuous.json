@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3use: filterdiff_continuous, ex_derive_filterdiff.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros K V f x H. apply ex_derive_filterdiff in H. apply filterdiff_continuous in H. apply H.", "succ": true}]

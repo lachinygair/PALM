@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b p q H1 H2. unfold pX. qauto use: pluspf_is_plusP, plusP_inv3b unfold: pX.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b p q H1 H2. unfold pX. rewrite H1. rewrite H2. reflexivity.", "succ": true}]

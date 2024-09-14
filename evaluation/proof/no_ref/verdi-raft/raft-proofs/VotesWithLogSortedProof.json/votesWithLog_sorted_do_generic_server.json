@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_do_generic_server, refined_raft_net_invariant_do_generic_server in *. intros. apply H13. - auto. - apply H11. - auto. - intros. destruct H14. + left. auto. + right. apply H12. auto.", "succ": false}]

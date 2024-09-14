@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T P Q H. unfold close. intros x eps. apply (iota_correct_weak P). intros x y HPx HPy. apply (H x). split. - intros Hx. apply HPy. apply Hx. apply HPx. - intros Hx. apply HPx. apply Hx. apply HPy. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold minus, plus, opp. qauto use: AbelianGroup.ax4, AbelianGroup.ax1, AbelianGroup.ax2, AbelianGroup.ax3 unfold: AbelianGroup.sort.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold minus, plus, opp.", "succ": true}]

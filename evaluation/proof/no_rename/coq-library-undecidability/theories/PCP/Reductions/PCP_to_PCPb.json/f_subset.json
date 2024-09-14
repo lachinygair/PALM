@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: incl_map unfold: card, string, f.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A B H. intros x H'. induction H' as [|x' B' IH]. - apply nil. - apply cons_incl. apply incl_tl. apply IH. apply H.", "succ": true}]

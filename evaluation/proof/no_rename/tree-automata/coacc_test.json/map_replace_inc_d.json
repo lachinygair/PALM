@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d m0 m1 a b H. unfold lemd in *. strivial use: map_replace_def_ok_d, map_replace_inc.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d m0 m1 a b H. unfold lemd in *. intros H0. destruct H as [H1 [H2 H3]]. split. + apply H1. + split. - apply H2. - apply H in H0. apply H0.", "succ": true}]

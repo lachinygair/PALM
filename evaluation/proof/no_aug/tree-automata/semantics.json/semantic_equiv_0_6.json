@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n t t0 Hrec_term Hrec_list_terms d p Hrec_list_terms_cons. apply Hrec_list_terms_cons.", "succ": false}]

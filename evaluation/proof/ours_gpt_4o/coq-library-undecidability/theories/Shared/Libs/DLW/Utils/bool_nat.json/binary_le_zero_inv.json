@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. sfirstorder use: binary_le_le inv: le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. induction n using binary_le_ind. - reflexivity. - destruct (le_lt_dec (rem n 2) (rem 0 2)). + inversion l. + apply (H0 _ _ l H1).", "back_times": 0, "succ": true, "time": 18.25088882446289}]

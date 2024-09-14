@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x H1 H2. intros contra. hauto use: succ_bottom, cA_B inv: sumbool.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x H1 H2. intros contra. unfold not in contra. apply contra. apply H2. apply H1.", "succ": true}]

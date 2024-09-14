@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t k H. scongruence use: lift_TAbs unfold: closed.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros t k H. apply closed_increment. apply H.", "succ": true}]

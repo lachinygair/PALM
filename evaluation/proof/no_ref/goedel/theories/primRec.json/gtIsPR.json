@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPRrel. intros. unfold ltBool. destruct (le_lt_dec b a). - simpl. reflexivity. - simpl. reflexivity.", "succ": false}]

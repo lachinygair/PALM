@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y Hinv H. intros x_1 x0 Hx1 Hx0 Hnotexpf. unfold not in Hnotexpf. intros Hexpf. apply Hnotexpf. apply not_expf_expf_L0_CN with m x y. - apply Hinv. - apply Hx1. - apply Hexpf.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold Cmod. strivial use: sqrt_plus_sqr unfold: fst, C, snd.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold Cmod. rewrite sqrt_Rsqr_abs. apply Rsqr_incr_0_var. simpl. apply Rle_abs. apply Rabs_pos.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold well_founded. intros a. induction a. - apply Acc_intro. intros y Hy. inversion Hy.", "back_times": 0, "succ": false, "time": 200.05855464935303}]

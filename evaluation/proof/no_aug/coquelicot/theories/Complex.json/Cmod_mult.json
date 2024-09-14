@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. unfold Cmod. rewrite sqrt_mult_alt. rewrite sqrt_def. rewrite sqrt_mult_alt. rewrite sqrt_def. rewrite sqrt_mult. rewrite sqrt_mult. rewrite Rsqr_mult. rewrite sqrt_sqrt. rewrite sqrt_sqrt. rewrite Rsqr_mult. rewrite Rsqr_mult. repeat apply f_equal_R. fourier.", "succ": false}]

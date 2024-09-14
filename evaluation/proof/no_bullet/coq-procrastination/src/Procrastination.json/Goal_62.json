@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B P1 P2 H1 H2. strivial unfold: Marker.end_defer.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B P1 P2 H1 H2. destruct H2 as [a [b H3]]. apply (Unnamed_thm1 _ _ (fun a b => P1 a b -> P2 a b)). - intros a0 b0 H4. apply H1 with a0 b0. auto. - exists a, b. auto.", "succ": true}]

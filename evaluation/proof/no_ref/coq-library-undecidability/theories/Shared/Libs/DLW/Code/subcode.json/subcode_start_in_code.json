@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P Q H1 H2. sfirstorder depth: 3use: proj1, proj2, subcode_length.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros P Q H1 H2. apply in_code_def. split. - apply (proj1 (subcode_length P Q H2)). - apply (proj2 (subcode_length P Q H2)).", "succ": true}]

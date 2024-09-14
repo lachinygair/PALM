@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. unfold eqTerm, multTerm, invTerm. rewrite multA_com with (a:=invTerm a) (b:=b). rewrite multA_com with (a:=a) (b:=b). reflexivity.", "succ": false}]

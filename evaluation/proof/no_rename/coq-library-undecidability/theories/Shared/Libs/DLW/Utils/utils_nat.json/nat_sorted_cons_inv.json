@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x ll H. unfold nat_sorted in H. intros l a m b r H0. apply H with (l:=a :: l)(a:=b)(m:=m)(b:=a)(r:=r). simpl in H0. injection H0 as H1 H2. rewrite <- H1, <- H2. apply Nat.lt_succ_diag_r.", "succ": false}]

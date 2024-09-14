@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros."], "tactic": "apply Cb_in1; auto.", "exn": "Unable to find an instance for the variables A1, invA, minusA, divA.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "simpl. intros. apply Cb_in1; auto.", "succ": false}]

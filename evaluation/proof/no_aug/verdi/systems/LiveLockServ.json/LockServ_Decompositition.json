@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold Decomposition, LockServ_BaseParams, LockServ_MultiParams. split; auto.", "succ": false, "time": 2.028653924999844}]

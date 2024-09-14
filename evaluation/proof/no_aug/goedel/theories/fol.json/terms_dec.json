@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n x y. pose proof (consTerms n x) as [p Hp]. pose proof (consTerms n y) as [q Hq]. destruct (term_dec (fst p) (fst q)). - left. rewrite <- Hp, <- Hq. rewrite e. reflexivity. - right. intro Contra. apply n0. inversion Contra. reflexivity.", "succ": false}]

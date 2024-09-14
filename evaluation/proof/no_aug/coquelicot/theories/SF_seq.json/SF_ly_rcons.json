@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /SF_ly /SF_rcons /unzip2 /=. srun best use: @unzip2_rcons, @unzip2_snd unfold: SF_t.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite /SF_ly /SF_rcons /unzip2 /=. rewrite unzip2_rcons. reflexivity.", "succ": true}]

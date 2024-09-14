@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_do_leader, allEntries_leader_sublog. intros until net. intros leader e h Htype Hin He. apply H with (leader := leader) (e := e) (h := h) in Htype. apply Htype.", "succ": false}]

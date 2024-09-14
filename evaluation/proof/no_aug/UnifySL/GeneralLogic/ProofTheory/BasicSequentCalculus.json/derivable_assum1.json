@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Phi x. sauto l: on depth: 3use: BasicSequentCalculus.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros Phi x. unfold BasicSequentCalculus in bSC. apply (bSC Phi x).", "succ": true}]

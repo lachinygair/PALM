@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d s c b tl l e l0 H. intros Hrec_co_def_2. sfirstorder depth: 3use: rec_co_st.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d s c b tl l e l0 H. intros Hrec_co_def_2. unfold rec_co_def_1. apply rec_co_st with (l := l). - apply e. - apply l0. - apply H.", "succ": true}]

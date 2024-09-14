@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold pluspf. intros. rewrite pluspf_inv1_eqa with (a:=a) (p:=p) (q:=q). rewrite pluspf_inv1_eqa with (a:=pX (A:=A) (n:=n) a p) (p:=q) (q:=q). rewrite pluspf_inv1_eqa with (a:=a) (p:=p) (q:=q). rewrite <- pluspf_inv1_eqa with (a:=a) (p:=p) (q:=q). auto.", "succ": false}]

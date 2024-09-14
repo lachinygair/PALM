@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m ns failed n h H1 H2 H3. apply in_map2snd_filter_rel_remove_all; auto.", "succ": false, "time": 10.205035371000008}]

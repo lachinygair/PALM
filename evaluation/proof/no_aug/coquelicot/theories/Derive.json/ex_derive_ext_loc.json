@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g x Hloc Hf. destruct Hf as [lf Hf]. exists lf. srun best use: is_derive_ext_loc unfold: locally.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros f g x Hloc Hf. destruct Hf as [lf Hf]. exists lf. apply (filterdiff_ext_loc f g x lf Hloc Hf).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n x. exists (x, Vector.nth_up_to (snd x) n). simpl. reflexivity.", "succ": false}]

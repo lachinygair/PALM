@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold valid, consume_msg. intros Hvalid. rewrite /consume_msg. case_eq (find m s') => [msg|]. - apply find_consume with (m:=msg); auto. - auto.", "succ": false}]

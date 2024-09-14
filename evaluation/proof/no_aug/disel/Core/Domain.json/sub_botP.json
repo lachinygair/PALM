@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite svalE. unfold chain_closed in C. destruct C as [C_bot C_lim]. hauto l: on depth: 3use: svalE.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite svalE. unfold sub_bot. simpl. unfold chain_closed in C. destruct C as [C_bot C_lim]. rewrite svalE. apply C_bot. apply C_lim.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nzA nZb. left. unfold eqTerm. simpl. unfold multTerm, divTerm. unfold zeroP, not in nzA. apply eq_term_mul; auto.", "succ": false}]

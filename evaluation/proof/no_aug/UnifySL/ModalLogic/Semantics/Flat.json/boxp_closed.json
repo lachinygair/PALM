@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @KM_relation_up unfold: boxp, upwards_closed_Kdenote.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X H n m H1 H2. intros. apply H. intros. apply H0. apply H2.", "succ": true}]

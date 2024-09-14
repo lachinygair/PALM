@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro H. induction l. - contradiction H; constructor. - apply IHl. hauto use: lmax_prop, Nat.lt_irrefl, le_lt_n_Sm unfold: nat_new.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intro H. induction l. - contradiction H; constructor. - simpl. apply IHl. intro. apply H. right. auto.", "succ": true}]

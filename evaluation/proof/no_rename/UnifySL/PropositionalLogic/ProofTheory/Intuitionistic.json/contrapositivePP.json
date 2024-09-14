@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y. srun best use: @provable_impp_trans unfold: falsep, negp.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y. intros H1 H2. apply (deduction_double_negp_intros _ _ _ H1). apply (deduction_double_negp_intros _ _ _ H2).", "succ": true}]

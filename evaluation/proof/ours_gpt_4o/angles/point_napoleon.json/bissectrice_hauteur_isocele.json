@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: symetrique, transitive, abba, angle_nul, non_zero_pi.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros I A B C H1 H2. apply isocele_bissectrice_hauteur with I. - auto. - apply isocele_sym. apply isocele_bissectrice_hauteur with I. -- auto. -- auto.", "back_times": 0, "succ": true, "time": 47.952529191970825}]

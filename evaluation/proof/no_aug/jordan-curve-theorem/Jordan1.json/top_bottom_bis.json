@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k z H1 H2. unfold top. unfold bottom. case_eq (exd m z). - intros. apply top_nil. + apply H1. + apply H. - intros. apply not_exd_top. + apply H1. + apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri cci cti cei lltsi. unfold refined_raft_net_invariant_append_entries_reply. intros xs p ys net st' ps' gd d m t es res Hhandle Hgd Hbody HP. apply (refined_raft_net_invariant_append_entries_reply' net); auto.", "succ": false}]

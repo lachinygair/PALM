@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t1 t2 H. unfold distinct_leaves in *. intros t0 t H0 H1 H2. sfirstorder depth: 3use: innodeR, innodeL.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros t1 t2 H. unfold distinct_leaves in *. intros t0 t H0 H1 H2. apply H. apply innodeL. apply H0. apply H1. apply innodeR. apply H0. apply H2.", "succ": true}]

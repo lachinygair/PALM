@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_IncreasingSeparationAlgebra. intros m. intros n n' H. unfold increasing. intros. apply incr_split_smaller in H. apply H0.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: opp_unicity.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros [intern_cond [assoc [neut [opp_prop]]]] x xG. apply opp_unicity; auto.", "succ": true}]

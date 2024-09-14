@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sauto lq: on depth: 3use: sub_supM.", "repairs": ["no_product", "hammer"], "exceptions": [{"ctx": [], "tactic": "intros H y H0.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros H y H0. apply sub_supM. intros y0 H1. apply H, H1.", "succ": true}]

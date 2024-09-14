@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "pose proof (ex_glb_Rbar (fun l => exists n, l = u n)) as [glb_l Hglb]. exists glb_l. apply is_inf_seq_glb. apply Hglb.", "succ": false}]

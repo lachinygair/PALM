@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold r_step_coh_t. intros nodes coh recv_fun rcv_step. apply: (ReceiveTrans _ _ _ recv_fun). apply: server_recv_wf.", "back_times": 0, "succ": false, "time": 100.7973861694336}]

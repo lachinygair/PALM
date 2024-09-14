@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q r Hcanon_p Hcanon_q. apply multpf_comp. - destruct Hcanon_p as [_ Hcanon_p]. apply Hcanon_p. - destruct Hcanon_q as [_ Hcanon_q]. apply Hcanon_q.", "succ": false}]

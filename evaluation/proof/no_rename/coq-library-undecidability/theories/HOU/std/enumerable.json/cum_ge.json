@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X L m n cumul_ge. intros Hmn. unfold cumulative in cumul_ge. specialize (cumul_ge m) as [A H]. exists A. apply H. apply Hmn.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b n H. induction n as [| n' IHn]. - simpl. auto. - simpl. split. + apply Rminus_le_0. + apply IHn.", "succ": false}]

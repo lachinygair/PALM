@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F H. unfold wmonotonic, monotonic, increasing in *. intros R S H0 H1 H2 H3. apply mkwmon. - apply (wmon_a A X Y TX TY F H). apply H0. - apply (mon_m A X Y TX TY F H). apply H1. - apply (UExp_mon A X Y TX TY F H). apply H2.", "succ": false}]

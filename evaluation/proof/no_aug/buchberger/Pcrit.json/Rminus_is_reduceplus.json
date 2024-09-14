@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Q a q nZa Hcan1 HinPoly Hcan2 HdivPp r Hcan3 HdivPp2 Hincl. apply reduceplus_mults_invf0 in HdivPp2. apply HdivPp2; auto.", "succ": false}]

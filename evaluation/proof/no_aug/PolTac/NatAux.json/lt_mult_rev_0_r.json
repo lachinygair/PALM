@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. strivial use: Nat.lt_0_mul'.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. apply lt_mult_rev_0_l with (a:=a) (b:=b). apply H.", "succ": true}]

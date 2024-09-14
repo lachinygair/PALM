@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a l H. induction l as [|x xs IH] eqn:EqL. - simpl in H. contradiction. - simpl in H. destruct H as [EqAx|InAx]. + left. rewrite EqAx. apply in_eq. + right. apply IH in InAx. apply in_cons. apply InAx.", "succ": false}]

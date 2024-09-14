@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_RInt_gen in *. intros. apply is_RInt_gen_ext with (f0:=fun y : R => scal k (f y)); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros lb_step step init H1 s H2 H3. unfold event_step_star. intros H4 H5. apply (Always _ _ s). - apply H5. - apply (always_tl _ s _ H3).", "succ": false, "time": 10.232994724999969}]

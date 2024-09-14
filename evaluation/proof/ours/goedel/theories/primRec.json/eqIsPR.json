@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply neqIsPR.", "exn": "Unable to unify \"isPRrel 2 (fun a b : nat => negb (a =? b))\" with \"isPRrel 2 Nat.eqb\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply neqIsPR.", "succ": false}]

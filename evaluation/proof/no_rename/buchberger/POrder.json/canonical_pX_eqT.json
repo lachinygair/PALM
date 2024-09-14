@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a b p Hcan Heq Hnz Hz. unfold canonical in Hcan. intros Hoff. destruct Hcan as [Holist Hnzero]. apply Hoff. split. - unfold olist in Holist; auto. - apply nzeroP_comp_eqTerm with (a:=a); auto. apply NzTisEq; auto.", "succ": true}]

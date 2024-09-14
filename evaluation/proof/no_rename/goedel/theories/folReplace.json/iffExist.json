@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 v T H1 H2. intros pf_T_imp. apply existE with (v:=v) (f:=f1) (g:=f2) in H1. apply H1. - auto. - intro H3. apply pf_T_imp. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a t r. apply u_merge_2_0 with (ladj := hd) (s := ladj) (e := e). apply u_merge_2 with (p0 := d) (p1 := d) (a := a) (t := hd). apply rec_dta with (ladj := ladj). auto. auto.", "succ": false}]

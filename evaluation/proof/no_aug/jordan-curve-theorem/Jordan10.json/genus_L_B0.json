@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x H1 H2. unfold genus. hauto lq: on use: ndZ_L_B, nv_L_B, nf_L_B0, ne_L_B, nc_L_B unfold: ec.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x H1 H2. unfold genus. rewrite nf_L_B0; auto.", "succ": true}]

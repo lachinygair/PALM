@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply diagram_reverse with (R := star R) (RY := star S). apply diagram_comp with (R1 := R) (R2 := R) (S1 := R) (S2 := S). apply diagram_union with (X := X) (Y := X) (I := X) (RX := RX) (RY := RX). intros x. apply incl_refl. apply comp_plus_star.", "succ": false}]

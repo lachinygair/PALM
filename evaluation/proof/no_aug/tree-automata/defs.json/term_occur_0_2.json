@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t H1 t0 H2. hauto lq: on use: high_aux_4, high_aux_3, Nat.le_trans unfold: term_occur_def_1, term_occur_def_0 inv: term_list_occur.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros t H1 t0 H2. unfold term_occur_def_1 in H2. apply H2. apply H1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' xs xs' xf xf' l H1 H2 H3 H4 H5 H6. unfold distinct_face_list. simpl. split. - apply H3. - apply distinct_faces_Br1; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold sigma in H. rewrite <- app_assoc in H. apply list_prefix_inv in H as [-> ->]. - intro. apply notInZero in H0. discriminate. - intro. apply notInZero in H1. discriminate.", "succ": false}]

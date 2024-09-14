@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /SF_lx /unif_part /SF_sup_seq /SF_seq_f2. rewrite SF_lx_f2. rewrite SF_size_f2. simpl. rewrite unif_part_bound. rewrite revK. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. rewrite /rtsI. apply: Mem_map_inv. rewrite /rts -(proj2_sig (II _ _ _ _ _ _)) in H. exact: H.", "back_times": 0, "succ": false, "time": 76.72709512710571}]

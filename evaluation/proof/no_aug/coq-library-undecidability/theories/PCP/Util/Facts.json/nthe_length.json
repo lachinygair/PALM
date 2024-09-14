@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. exists (nth n A). unfold nth_error, nthe. rewrite <- nth_error_nth'. intro H. apply H. rewrite <- nth_error_Some. auto.", "succ": false}]

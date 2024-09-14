@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold applied_entries_monotonic_interface. intros failed net failed' net' os Hreachable Hstep. apply (applied_entries_monotonic' _ _ _ _ _ _ Hreachable Hstep).", "succ": false}]

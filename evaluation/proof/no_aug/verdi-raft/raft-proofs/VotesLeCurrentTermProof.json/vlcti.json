@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: votes_le_current_term_invariant.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply votes_le_current_term_invariant.", "succ": true}]

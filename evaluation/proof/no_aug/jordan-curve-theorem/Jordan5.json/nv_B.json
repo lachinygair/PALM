@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x H1 H2. unfold nv. unfold B. unfold nv in H2. simpl in H2. rewrite <- H2. destruct (eq_dim_dec k one) as [H|H]; auto.", "succ": false}]

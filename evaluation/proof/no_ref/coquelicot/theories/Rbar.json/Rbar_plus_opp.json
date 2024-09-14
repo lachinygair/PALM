@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_plus, Rbar_opp. destruct x, y; simpl; auto. - scongruence use: Ropp_plus_minus_distr unfold: Rminus. - scongruence use: Ropp_0. - scongruence use: Ropp_0.", "repairs": ["", "", "", "hammer", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_plus, Rbar_opp. destruct x, y; simpl; auto.", "succ": true}]

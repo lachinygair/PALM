@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros L codeF Functions arity inr Terms apply. unfold naryFunc. intros n. unfold codeSubTermTerms. unfold Terms. intros n. induction n. - unfold codeSubTerm. auto. - unfold codeSubTerm. rewrite IHn. unfold idPR. auto.", "succ": false}]

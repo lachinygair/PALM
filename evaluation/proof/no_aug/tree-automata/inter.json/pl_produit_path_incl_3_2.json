@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. hfcrush use: pl_compatible_empt_l, pl_produit_path_incl_3_1 unfold: pl_produit_path_incl_def_3, pl_compatible.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p. apply pl_produit_path_incl_3_1.", "succ": true}]

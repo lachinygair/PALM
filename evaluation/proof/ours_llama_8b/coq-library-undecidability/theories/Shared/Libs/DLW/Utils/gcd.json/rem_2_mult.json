@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on use: rem_erase, Nat.mul_0_r, div_rem_spec1, Nat.mul_comm, rem_mult_rem, Nat.mul_1_l, rem_2_is_0_or_1.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

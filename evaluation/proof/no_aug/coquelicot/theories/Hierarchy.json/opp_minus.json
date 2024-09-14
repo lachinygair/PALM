@@ -1,0 +1,1 @@
+[{"history": {"proof": "pose proof (AbelianGroup.ax4 G) as H1. scongruence use: plus_comm, opp_plus, opp_opp unfold: minus.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "pose proof (AbelianGroup.ax4 G) as H1. rewrite <- H1. pose proof (AbelianGroup.ax3 G) as H2. rewrite H2. reflexivity.", "succ": true}]

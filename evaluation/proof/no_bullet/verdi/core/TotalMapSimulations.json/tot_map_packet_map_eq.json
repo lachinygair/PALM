@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l h. induction l as [| [n1 m1] l' IHl]. - reflexivity. - simpl. rewrite <- IHl. reflexivity.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros l h. induction l as [| [n1 m1] l' IHl]. - reflexivity. - simpl. rewrite <- IHl. reflexivity.", "hammer_times": 0, "succ": true, "time": 0.5934011936187744}]

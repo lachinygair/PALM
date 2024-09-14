@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b nZa H."], "tactic": "rewrite <- H.", "exn": "Found no subterm matching \"multTerm multA (n:=n) (divTerm b (b:=a) nZa) a\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros a b nZa H. rewrite <- H. reflexivity.", "succ": false}]

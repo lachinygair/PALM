@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros k l a H1 H2. intro H3. apply nodup_inv in H1. apply (in_inv _ _ _ _ H3) in H2 as [H2a | H2b]. - subst. contradict H2. apply in_eq. - apply (no_dup1 _ _ H2b) in H1. contradiction.", "succ": false}]

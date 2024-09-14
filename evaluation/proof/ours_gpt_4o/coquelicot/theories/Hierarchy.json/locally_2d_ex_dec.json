@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite plus_opp_r.", "exn": "The LHS of plus_opp_r (plus _ (opp _)) does not match any subterm of the goal", "type": "no_match_term", "handled": true}]}, "chat": [], "original": "unfold minus. rewrite plus_opp_r. auto.", "back_times": 0, "succ": false, "time": 62.116464138031006}]

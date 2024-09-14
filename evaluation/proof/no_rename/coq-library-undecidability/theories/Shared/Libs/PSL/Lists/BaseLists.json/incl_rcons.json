@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: in_inv unfold: incl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X x B A H1 H2. intros H3 H4. intros y H5. apply incl_cons_inv in H3. destruct H3 as [H6 H7]. apply incl_tl in H6. apply incl_sing in H6 as [H8 H9]. contradiction.", "succ": true}]

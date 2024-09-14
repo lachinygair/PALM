@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x y z H1 H2. induction H1. - inversion H2. apply nil_rel_def. - inversion H2. apply cons_rel_def. + apply IHlist_rel.", "succ": false}]

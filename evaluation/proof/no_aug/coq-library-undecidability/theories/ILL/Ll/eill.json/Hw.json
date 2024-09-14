@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite <- (proj1_sig (list_vec_full w)). rewrite nat_sort_eq. apply incl_tran with (l:=nat_sort vars); auto.", "succ": true}]

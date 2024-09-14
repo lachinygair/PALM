@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply sum_SA with (Join_A := lt) (Join_B := gt).", "succ": true}]

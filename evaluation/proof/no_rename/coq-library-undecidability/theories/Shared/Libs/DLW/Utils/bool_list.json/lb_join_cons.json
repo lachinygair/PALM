@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. reflexivity.", "repairs": ["", ""], "exceptions": [{"ctx": ["simpl."], "tactic": "rewrite lb_meet_cons.", "exn": "Found no subterm matching \"(?M1434 :: ?M1436) \u2193 (?M1435 :: ?M1437)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "simpl. rewrite lb_meet_cons. reflexivity.", "succ": true}]

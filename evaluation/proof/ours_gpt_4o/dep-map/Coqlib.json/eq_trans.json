@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z Hxy Hyz. rewrite <- Hyz. apply Hxy.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros x y z Hxy Hyz. rewrite <- Hyz. apply Hxy.", "back_times": 0, "succ": true, "time": 1.1800787448883057}]

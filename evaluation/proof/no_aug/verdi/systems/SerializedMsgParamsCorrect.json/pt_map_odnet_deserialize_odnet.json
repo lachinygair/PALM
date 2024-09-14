@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net. unfold deserialize_odnet, pt_map_odnet. rewrite serialize_odnet_tot_map_odnet. reflexivity.", "succ": false, "time": 6.458704849000242}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros k k' tr Hbefore. unfold before, output_before_input. intros. apply Hbefore. auto. unfold import. apply trace_I_in_import. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. simpl. reflexivity.", "repairs": ["", "", ""], "exceptions": [{"ctx": ["intros n.", "simpl."], "tactic": "rewrite -> bubble_eq1.", "exn": "Found no subterm matching \"bubble (Nil nat)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros n. simpl. rewrite -> bubble_eq1. reflexivity.", "succ": true}]

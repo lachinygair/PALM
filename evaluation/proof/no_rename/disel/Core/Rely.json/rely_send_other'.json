@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this l s' s m tm to b H_rely H_find. destruct H_rely as [n H_rely']. destruct H_find as [H_find_content H_find_active]. apply (rely_send_other l s s' m tm to b H_rely' H_find_content).", "succ": false}]

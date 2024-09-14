@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P H net msg_rf net_mgv. unfold mgv_deghost. apply H. auto. apply simulation_1. auto.", "succ": false}]

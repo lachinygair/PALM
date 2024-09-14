@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m l H1 H2 H3 H4 H5. unfold pre_ring1. unfold Br1. unfold first. unfold cA. unfold cA_1. unfold tail. intros. rewrite -> double_link_list_Br1 with (l := l). - apply H4. - apply H2. - apply H3. - apply H1. - apply H5.", "succ": false}]

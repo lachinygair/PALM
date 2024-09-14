@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. apply (poset_trans T _ _ _ H). apply tarski_lfp_fixed.", "succ": false}]

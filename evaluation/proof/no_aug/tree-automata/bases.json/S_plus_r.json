@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m. rewrite plus_tail_plus. scongruence use: plus_tail_plus, Nat.add_succ_r.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m. rewrite plus_tail_plus. rewrite plus_max_distr_r. rewrite Nat.add_succ_l. rewrite plus_tail_plus. rewrite Nat.add_max_distr_r. rewrite plus_tail_plus. auto.", "succ": true}]

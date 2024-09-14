@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Rbar_mult, Rbar_opp. destruct x, y; simpl; auto.", "succ": false}]

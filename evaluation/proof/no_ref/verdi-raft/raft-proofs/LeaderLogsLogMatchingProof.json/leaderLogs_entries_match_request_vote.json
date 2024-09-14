@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_request_vote in *. intros xs p ys net st' ps' gd d m t cid lli llt HR hd. apply H5 with (xs:=xs) (p:=p) (ys:=ys) (net:=net) (st':=st') (ps':=ps') (gd:=gd) (d:=d) (m:=m) (t:=t) (cid:=cid) (lli:=lli) (llt:=llt); auto.", "succ": false}]

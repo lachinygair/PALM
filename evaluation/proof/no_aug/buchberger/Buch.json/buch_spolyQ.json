@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: reds_SpolyQ1, buch_reds.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply Grobner_imp_SpolyQ. - auto. - auto.", "succ": true}]

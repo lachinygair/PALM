@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Data nodes serialize deserialize ds_inverse n d C s H. unfold find, getLocal. intros Hfind. unfold dyn_tp, qstate in H. inversion H.", "succ": false}]

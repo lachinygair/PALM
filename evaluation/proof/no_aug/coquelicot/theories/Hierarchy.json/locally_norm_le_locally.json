@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. hauto use: norm_compat1 unfold: pos, locally, NormedModule.UniformSpace, ball_norm, filter_le, locally_norm, UniformSpace.sort.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. apply locally_le_locally_norm.", "succ": true}]

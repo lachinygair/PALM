@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "pose proof (bounded_search (S 0) (fun n => {k : nat | n = f k}) (fun n _ => f_select (f n))) as [[m [Hm1 Hm2]] | Hfalse]. - exists (f m); split. + apply f_select. + intros x Hx. apply f_sinc. - contradiction Hfalse.", "succ": true}]

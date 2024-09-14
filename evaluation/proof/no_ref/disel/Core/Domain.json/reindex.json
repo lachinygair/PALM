@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- pow_chainbycont_mono. rewrite <- dhom. rewrite <- comp. rewrite <- pow_chain. reflexivity.", "succ": false}]

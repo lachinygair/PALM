@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m. apply lattice_lemd_bounded_1_def. apply lattice_bounded_1. apply lattice_bounded_def_1. apply lattice_bounded_3. apply lattice_bounded_0. apply lattice_bounded_def_0. apply lattice_lemd_bounded_0. apply single.", "succ": false}]

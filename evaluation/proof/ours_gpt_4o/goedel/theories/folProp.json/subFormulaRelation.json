@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r ts v s. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros r ts v s. simpl. f_equal.", "back_times": 0, "succ": true, "time": 0.869279146194458}]

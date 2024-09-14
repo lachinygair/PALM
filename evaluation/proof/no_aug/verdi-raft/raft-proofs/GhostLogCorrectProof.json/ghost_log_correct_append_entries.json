@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold msg_refined_raft_net_invariant_append_entries. intros xs p ys net st' ps' gd d m t n pli plt es ci Hhandler. apply RaftRefinementInterface.lift_prop with (P := ghost_log_correct) in gd; auto. apply_entries_correct_invariant net p ys gd Hhandler.", "succ": false}]

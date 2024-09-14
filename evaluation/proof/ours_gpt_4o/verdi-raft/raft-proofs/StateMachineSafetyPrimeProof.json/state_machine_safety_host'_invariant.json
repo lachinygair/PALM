@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. apply state_machine_safety'_invariant in H. destruct H as [H _]. auto.", "back_times": 0, "succ": false, "time": 89.03418302536011}]

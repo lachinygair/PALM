@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Build_UnitalSeparationAlgebra unit unit_Join unit_SA). intros n. exists tt. split. - exists tt. split. reflexivity. reflexivity.", "succ": false}]

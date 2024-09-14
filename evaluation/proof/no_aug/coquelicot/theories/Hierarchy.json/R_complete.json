@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F HProperFilter Heps eps. specialize (Heps eps) as H. destruct H as [x Hball]. apply filterlim_locally. intros P Hlocally. apply (filter_ex _ HProperFilter P). apply Hlocally. exists x. apply Hball.", "succ": false}]

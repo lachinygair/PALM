@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R H. induction l. - apply H. - apply consGRBar. apply IHl.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A R H. induction l. - apply H. - apply consGRBar. apply IHl.", "back_times": 0, "succ": true, "time": 0.6821868419647217}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u l H. unfold is_sup_seq. intros l0 eps. split. + intros n. destruct (H (Finite l0) eps) as [H1 _]. apply H1. + intros [n H1]. exists n. destruct (H (Finite l0) eps) as [_ H2]. apply H2.", "succ": false}]

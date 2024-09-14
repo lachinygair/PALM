@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t1 t2. sfirstorder depth: 3use: mult_mon.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros t1 t2. apply (mult_mon n t1 t2).", "succ": true}]

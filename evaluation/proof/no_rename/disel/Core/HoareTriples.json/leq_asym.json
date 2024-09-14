@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros H1 H2. apply leq_trans with (e2 := e1) (e1 := e2). apply H1. apply H2. apply leq_trans with (e2 := e2) (e1 := e1). apply H2. apply H1. apply leq_refl.", "succ": false}]

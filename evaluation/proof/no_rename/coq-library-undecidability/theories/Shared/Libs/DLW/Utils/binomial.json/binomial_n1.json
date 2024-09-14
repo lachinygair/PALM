@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros fact_neq_0 n H. unfold binomial. intros Hn. induction H as [| n' IHn']. - simpl. reflexivity. - simpl. rewrite binomial_n0. rewrite binomial_n0. rewrite IHn'. rewrite IHn'. reflexivity.", "succ": false}]

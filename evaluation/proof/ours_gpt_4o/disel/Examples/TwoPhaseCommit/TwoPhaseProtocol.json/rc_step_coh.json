@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros nodes coh rc_tag rc_step.", "exn": "rc_tag is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros nodes coh rc_tag rc_step. apply: r_step_coh_t. - intros d H d2 d3 t. apply rc_wf; auto.", "back_times": 0, "succ": false, "time": 68.00608658790588}]

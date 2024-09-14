@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: lb_mask_refl.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply lb_mask_refl.", "exn": "In environment l : lb Unable to unify \"?M1406 \u2aaf ?M1406\" with \"l \u2aaf l /\\\\ l \u2aaf l\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply lb_mask_refl.", "succ": true}]

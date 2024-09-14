@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_UnitalSeparationAlgebra'. intros THeap_Join THeap_order THeap_R THvalid Krelation join monHeap_unital THvalid THvalid THvalid. apply unital_is_residual. apply UpwardsClosure_USA.", "succ": false}]

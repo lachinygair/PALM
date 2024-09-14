@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply: supP. rewrite /sub_sup. hauto l: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. apply: supP. rewrite /sub_sup. apply: sub_supX.", "back_times": 0, "succ": true, "time": 1.0252189636230469}]

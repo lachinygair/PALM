@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E H. unfold Lub_Rbar. rewrite (is_lub_Rbar_unique (fun x : R => E1 x) (proj1_sig (ex_lub_Rbar (fun x : R => E1 x)))). apply is_lub_Rbar_eqset. - intros x. apply H. - apply proj2_sig.", "succ": false}]

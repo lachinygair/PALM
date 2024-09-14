@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros y x. srun best use: Nat.add_sub.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros y x. rewrite Nat.add_sub_eq_nz. - reflexivity. - intros contra. discriminate.", "succ": true}]

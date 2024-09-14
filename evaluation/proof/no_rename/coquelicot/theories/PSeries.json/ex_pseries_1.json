@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. unfold ex_pseries, ex_series. split. - intros H. destruct H as [l Hl]. exists l. rewrite <- Hl. apply Series_correct. - intros [l H]. exists l. apply Series_correct in H. apply H.", "succ": false}]

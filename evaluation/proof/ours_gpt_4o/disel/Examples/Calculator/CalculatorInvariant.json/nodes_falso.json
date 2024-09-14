@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite -cat_uniq in Huniq. move/andP: Huniq => [H1uniq H2uniq]. move/negP: H1uniq => H1. apply: H1. rewrite mem_cat. by apply/orP; left.", "back_times": 0, "succ": false, "time": 42.833975076675415}]

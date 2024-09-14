@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto unfold: quo.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. destruct H as [q Hq]. rewrite Hq. reflexivity.", "succ": true}]

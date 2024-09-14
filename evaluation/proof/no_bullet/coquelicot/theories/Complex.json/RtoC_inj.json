@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H. qsimpl.", "repairs": ["", "cannot_unify"], "exceptions": [{"ctx": ["intros x y H."], "tactic": "apply H.", "exn": "In environment x, y : R H : x = y Unable to unify \"@eq C (RtoC x) (RtoC y)\" with \"@eq R x y\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros x y H. apply H.", "succ": true}]

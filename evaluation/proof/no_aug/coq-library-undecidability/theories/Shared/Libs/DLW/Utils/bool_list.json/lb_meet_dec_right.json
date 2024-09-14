@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: lb_meet_dec_left, lb_meet_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply lb_ortho_meet_nil. apply H.", "succ": true}]

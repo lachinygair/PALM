@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros alpha beta gamma H1 H2. transitivity beta. - auto. - auto.", "succ": false}]

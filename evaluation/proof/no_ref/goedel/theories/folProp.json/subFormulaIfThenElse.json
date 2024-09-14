@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 f3 v s. unfold substituteFormula. rewrite subFormulaIfThenElse. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A R l H xs bs cs H0. apply subRelGRBar with (f := (fun x : A => x)). apply (fun a b _ => eq_refl). apply (fun _ => exist (fun a => xs ++ cs = a) (xs ++ cs) eq_refl). apply H.", "succ": false}]

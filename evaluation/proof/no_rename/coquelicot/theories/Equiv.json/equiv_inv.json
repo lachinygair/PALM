@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T F Hfilter f g Hfg HF domin_is_equiv. unfold is_equiv in *. intros x. unfold Rdiv. rewrite Rinv_mult_distr. apply HF. apply domin_mult. apply domin_is_equiv. apply HF. apply domin_mult_l. apply domin_is_equiv. apply HF.", "succ": false}]

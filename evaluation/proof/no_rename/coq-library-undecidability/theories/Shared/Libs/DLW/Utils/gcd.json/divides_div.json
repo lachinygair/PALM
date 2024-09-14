@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto depth: 3use: div_prop, divides_le, le_refl, plus_n_O.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p q H. intros [m Hm]. rewrite Hm. apply div_prop in Hm. rewrite Hm. apply plus_n_O. apply divides_le in H. apply H. rewrite Hm. apply le_refl.", "succ": true}]

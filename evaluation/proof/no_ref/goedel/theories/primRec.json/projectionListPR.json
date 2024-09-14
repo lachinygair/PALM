@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction p. - apply PRnil. - apply PRcons. + apply projFunc. * apply le_lt_trans with (m := S n); auto. + apply IHp.", "succ": false}]

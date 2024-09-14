@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr tr' l H1 H2. rewrite <- imported_filterMap_trace_non_empty_out with (tr:=tr) (tr':=tr') (l:=l) by auto. rewrite H2. apply exported_filterMap_trace_non_empty_out; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: EQ_tran, EQ_sym, Paire_sound_left, Paire_sound_right unfold: Sing.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A A' eqAA'. unfold EQ in eqAA'. unfold Sing. rewrite -> eqAA'. apply Paire_sound_left. apply IN_Sing.", "succ": true}]

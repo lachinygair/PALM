@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros sigma h os st' ms H. unfold applied_entries. destruct (argmax (fun h : name => lastApplied (sigma h)) (all_fin (N raft_params))); simpl. - reflexivity. - eapply applied_entries_safe_update; eauto.", "succ": false}]

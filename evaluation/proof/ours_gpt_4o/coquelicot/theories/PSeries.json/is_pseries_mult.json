@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply is_derive_PSeries.", "exn": "The reference is_derive_PSeries was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply is_derive_PSeries.", "back_times": 0, "succ": false, "time": 31.980403661727905}]

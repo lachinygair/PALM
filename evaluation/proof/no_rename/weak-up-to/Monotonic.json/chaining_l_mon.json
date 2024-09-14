@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A X Y TX TY R E. intros H1 H2. apply (mkmon A X Y TX TY (chaining_l E) _ _). - intros. apply mkctrl. + intros. apply weak_strong_t. apply H1. + intros. apply mon_a with R R0; auto. - intros. apply wmon_t with R; auto. - intros. apply wmon_a with R R0; auto.", "succ": false}]

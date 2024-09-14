@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- prep_app. rewrite <- iprep_eval. rewrite <- app_assoc. rewrite eval_comp. rewrite eval_ext. rewrite <- app_assoc. rewrite <- eval_ext. rewrite <- app_nil_l. rewrite <- app_assoc. rewrite <- eval_comp. apply (sat_subst _ _ _ _ _ _ _ _ iprep_eval eq_refl).", "succ": false}]

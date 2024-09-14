@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial unfold: Marker.end_defer.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A P1 P2 H1 [a Ha]. exists a. apply H1. apply Ha.", "succ": true}]

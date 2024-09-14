@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros L p Hin.", "unfold Red in Hin."], "tactic": ["rewrite Hin.", ""], "exn": "Cannot find an homogeneous relation to rewrite.", "type": "no_rewrite_homo", "handled": false}]}, "chat": [], "original": "intros L p Hin. unfold Red in Hin. rewrite Hin. apply Cb_in.", "succ": false}]

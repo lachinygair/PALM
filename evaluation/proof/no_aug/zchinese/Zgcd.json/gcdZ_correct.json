@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b."], "tactic": ["induction b as [| b IHb].", ""], "exn": "Expects a disjunctive pattern with 3 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros a b. induction b as [| b IHb]. - simpl. apply gcd_OZ. - simpl. rewrite <- IHb. apply gcd_mod.", "succ": false}]

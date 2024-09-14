@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m H1 H2. unfold planar. apply eq_sym. apply Euler_Poincare; auto.", "succ": false}]

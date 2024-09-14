@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros D_open fn_cvu fn_cont x Dx. unfold continuity_pt. intros eps eps_pos. destruct (fn_cvu eps) as [N HN]. intros n y Dy. specialize (fn_cont n y Dy). unfold continue_in, no_cond in fn_cont.", "succ": false}]

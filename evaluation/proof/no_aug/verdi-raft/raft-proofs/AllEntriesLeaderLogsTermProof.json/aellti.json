@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold allEntries_leaderLogs_term_interface. intros. apply allEntries_leaderLogs_term_invariant. apply aerlli. apply rri. auto.", "succ": false}]

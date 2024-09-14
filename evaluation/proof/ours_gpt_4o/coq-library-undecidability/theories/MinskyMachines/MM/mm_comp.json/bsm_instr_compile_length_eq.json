@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct ii as [| p [| ]]. - simpl. reflexivity. - simpl. reflexivity. - simpl. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "destruct ii as [| p [| ]]. - simpl. reflexivity. - simpl. reflexivity. - simpl. reflexivity.", "back_times": 0, "succ": true, "time": 0.23849725723266602}]

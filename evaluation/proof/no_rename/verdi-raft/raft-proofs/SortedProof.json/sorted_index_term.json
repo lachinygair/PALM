@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l e e' H1 H2 H3 H4 H5 H6. intros H7 H8. apply sorted_append in H7. destruct H7 as [H7 _]. apply H7 in H3 as [H9 H10]. apply H10 in H4 as H11. apply H11. apply H8.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_request_vote'. intros net p ps' d m t cid lli llt HhandleRequestVote HpBody HPs Hreachable Hreachable'. rewrite HpBody in HhandleRequestVote. apply HhandleRequestVote in Hreachable; auto.", "succ": false}]

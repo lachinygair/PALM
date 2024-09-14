@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_request_vote_reply'; intros net h. unfold client_cache_keys_correct in *. intros. rewrite H; auto.", "succ": false}]

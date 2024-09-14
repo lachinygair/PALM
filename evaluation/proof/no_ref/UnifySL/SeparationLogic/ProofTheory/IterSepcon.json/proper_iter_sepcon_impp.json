@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Proper. intros H. unfold Basics.flip in H. unfold Basics.impl in H. unfold Basics.pointwise_relation in H. unfold respectful in H. unfold Basics.flip. intros x y Hxy z w Hzw. apply H with x y. auto. auto.", "succ": false}]

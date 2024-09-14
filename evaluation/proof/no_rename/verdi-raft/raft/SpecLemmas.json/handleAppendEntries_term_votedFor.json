@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. intros. intros. intros. intros. intros. intros. intros Hap Hvf. apply handleAppendEntries_same_term_votedFor_preserved in Hap as [Hct Hvf']. auto.", "succ": false}]

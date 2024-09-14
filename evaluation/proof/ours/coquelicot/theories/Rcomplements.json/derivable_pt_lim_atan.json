@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. apply derivable_pt_lim_atan.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros x. apply derivable_pt_lim_atan.", "succ": true}]

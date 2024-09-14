@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri. unfold requestVote_term_sanity_interface. apply Build_requestVote_term_sanity_interface. intros net t h mi mt p Hin HpBody. apply le_trans with (n := t). apply requestVote_term_sanity; auto.", "succ": false}]

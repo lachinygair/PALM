@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs ys. unfold ack_in_flight_to_primary. rewrite filterMap_app. rewrite app_length. reflexivity.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros xs ys. unfold ack_in_flight_to_primary. rewrite filterMap_app. rewrite app_length. reflexivity.", "succ": true, "time": 0.25587965500005794}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_ResidualSeparationAlgebra. intros n. sfirstorder use: discHeap_unital, @incr_exists.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply Build_ResidualSeparationAlgebra. intros n. apply residue_exists.", "back_times": 0, "succ": true, "time": 9.178963899612427}]

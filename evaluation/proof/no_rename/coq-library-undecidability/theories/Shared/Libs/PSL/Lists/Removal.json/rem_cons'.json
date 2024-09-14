@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: incl_cons, incl_Add_inv, incl_shift.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x y B A H1 H2. apply incl_Add_inv in H2. apply incl_cons in H2. apply incl_shift in H2. apply H2.", "succ": true}]

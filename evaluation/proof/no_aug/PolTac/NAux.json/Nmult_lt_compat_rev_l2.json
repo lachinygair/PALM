@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. hauto use: Nmult_lt_compat_rev_l1, N.mul_lt_mono_pos_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply (N.lt_le_trans (N.mul p n) (N.mul p m) n). apply Nmult_lt_compat_l. - apply H. - apply (N.lt_1_l' n m p). + apply H. + apply N.lt_transitive with (m := N.mul p m); auto.", "succ": true}]

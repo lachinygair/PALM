@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Znot_gt_le, Z.gt_lt, Z.lt_eq_cases, Z.mul_nonneg_nonneg unfold: Z.le, Z.gt.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 10.631818330148235}]

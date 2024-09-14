@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> Hcoh HcomW1 HcomW2. exists (projectS W1 s), (projectS W2 s). split. - apply: projectS_cohL; eauto. - apply: projectS_cohR; eauto. - rewrite projectSE //.", "back_times": 0, "succ": false, "time": 126.52981758117676}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold reflexive. unfold expand. unfold reduction_t in TX. apply bisimulation_bisim. apply bisim_refl.", "succ": false}]

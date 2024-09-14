@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X p. split. - intros [f H]. constructor. intros x. destruct (f x) eqn: Hfx. + reflexivity. + exfalso. apply H. discriminate. - intros [H]. exists (fun x => if H x is left _ then true else false). intros x. destruct (H x). + reflexivity. + destruct (H x); congruence.", "succ": false}]

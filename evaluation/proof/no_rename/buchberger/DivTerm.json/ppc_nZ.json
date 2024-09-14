@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: divTerm_ppc.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a b c nZa nZb nZppab H1 H2. apply divTerm_ppc; auto.", "succ": true}]

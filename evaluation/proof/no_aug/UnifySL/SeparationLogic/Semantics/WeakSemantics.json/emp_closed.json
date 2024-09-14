@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold upwards_closed_Kdenote. intros n m Hle Hn. apply Hn.", "succ": false}]

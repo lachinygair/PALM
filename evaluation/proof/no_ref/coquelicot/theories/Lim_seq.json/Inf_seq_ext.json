@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite (is_inf_seq_unique u (proj1_sig (ex_inf_seq u)) (Inf_seq_correct u)). rewrite (is_inf_seq_unique v (proj1_sig (ex_inf_seq v)) (Inf_seq_correct v)). intros. apply (Rbar_is_glb_inf_seq v l). apply (Sup_seq_ext u v). intros. apply H.", "succ": false}]

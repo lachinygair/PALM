@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l h. induction l as [|m l IHl]. - reflexivity. - simpl. rewrite IHl. unfold pt_map_packet. simpl. rewrite tot_map_name_msgs. reflexivity.", "hammer_times": 5, "succ": false, "time": 228.6466772556305}]

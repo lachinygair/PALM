@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. exists (fun _ : nat -> nat => True). split. + intros. apply I. + intros. split. * apply I. * apply I.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. hauto use: nat_ind, dt_kill_empty_r_0, dt_kill_empty_r_2.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. apply dt_kill_empty_r_2. apply Nat.le_add_r.", "succ": true}]

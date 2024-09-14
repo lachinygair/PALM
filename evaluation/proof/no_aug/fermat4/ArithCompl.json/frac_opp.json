@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H. unfold frac. apply frac_eq. - apply Z.opp_neq_0. apply H. - apply Z.opp_neq_0. apply H. - apply frac_simp. apply Z.opp_neq_0. apply H. apply Z.opp_neq_0. apply H.", "succ": false}]

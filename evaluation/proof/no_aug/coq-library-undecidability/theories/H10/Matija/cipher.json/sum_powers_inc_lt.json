@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply sum_power_binary_lt_inv with (q:=2) (p:=p) (n:=n) (f:=f) (m:=power p 2). - lia. - auto. - auto.", "succ": false}]

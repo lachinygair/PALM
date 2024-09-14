@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. intros p. apply impp2orp. apply deduction_orp_elim with (x := \u25c7 x) (y := \u25c7 y) (z := p) in p. apply p.", "succ": false}]

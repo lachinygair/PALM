@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros plp a la ls H1 H2. unfold pl_path_rec_equiv_1_def. intros H3 H4. sauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros plp a la ls H1 H2. unfold pl_path_rec_equiv_1_def. intros H3 H4. split. - apply pl_path_incl_cons; auto. - apply pl_path_rec_equiv_1_0; auto.", "succ": true}]

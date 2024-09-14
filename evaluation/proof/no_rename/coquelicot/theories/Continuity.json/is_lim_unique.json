@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f l x H. unfold Lim, is_lim in *. apply is_lim_Reals. apply is_lim_Reals_0 in H. apply is_lim_spec. apply is_lim_comp' with (x0 := x) (l0 := l). - apply H. - intros eps. apply Rbar_locally'_filter.", "succ": false}]

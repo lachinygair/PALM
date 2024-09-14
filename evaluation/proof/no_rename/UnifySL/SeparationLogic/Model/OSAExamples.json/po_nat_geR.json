@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: po_nat_leR.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply po_nat_leR.", "exn": "Unable to unify \"@PreOrder nat (@Krelation nat nat_leR)\" with \"@PreOrder nat (@Krelation nat nat_geR)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply po_nat_leR.", "succ": true}]

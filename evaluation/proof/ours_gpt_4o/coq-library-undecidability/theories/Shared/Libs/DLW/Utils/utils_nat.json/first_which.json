@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hex. apply minimize. - intros x. apply HP. - apply Hex.", "back_times": 0, "succ": false, "time": 121.56364750862122}]

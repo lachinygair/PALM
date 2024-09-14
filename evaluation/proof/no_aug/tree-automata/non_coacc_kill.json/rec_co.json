@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a t Hrefok Hreconnaissance. inversion Hreconnaissance. apply rec_co_dta with ladj; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros A B.", "unfold lt_depth.", "simpl."], "tactic": "apply depthImp1.", "exn": "In environment L : Language A, B : Formula Unable to unify \"A\" with \"B\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros A B. unfold lt_depth. simpl. apply depthImp1.", "succ": false}]

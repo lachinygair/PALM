@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: angle_inscrit, transitive unfold: double, orthogonal.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A B M O H1 H2 H3. apply (triangle_rectangle A B M O H1 H2).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n E t T H x U E' H0 H1. induction H. - apply JVar. rewrite <- H0. apply H. - apply JAbs; eauto. - apply JApp with (T1 := T1); eauto. - apply JTyAbs. rewrite map_insert_eq with (f := shift 0). apply JTyAbs. eauto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Nat.mul_0_l unfold: divides.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Nat.divide_0_l.", "succ": true}]

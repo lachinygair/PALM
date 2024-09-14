@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: Nat.mul_cancel_l.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros qneq0 q x y qneq0xy. assert (divides q (q * x)) as H1. exists x. lia. assert (divides q (q * y)) as H2. exists y. lia. apply prime_seq.power_factor_uniq in qneq0xy as [_ qeq]. rewrite qeq. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. rstep (R m n) (Related m n R). rintro_rstep A B (R m n) m n. reflexivity_rstep (R m n) m.", "succ": true}]

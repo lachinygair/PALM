@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold equivalent, acknowledge_all_ops. intros. split. - auto. - exists ir. split. + intros. apply IR_equivalent_acknowledge_all_ops_func; auto. + auto.", "succ": false}]

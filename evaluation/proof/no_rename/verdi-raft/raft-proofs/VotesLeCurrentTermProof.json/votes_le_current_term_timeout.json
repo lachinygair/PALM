@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri net h t n Hin. unfold votes_le_currentTerm in Hin. apply Hin. auto.", "succ": false}]

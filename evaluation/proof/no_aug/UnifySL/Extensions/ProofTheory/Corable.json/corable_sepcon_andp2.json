@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z H. split. - apply provable_sepcon_andp_right. - apply provable_sepcon_andp_left.", "succ": false}]

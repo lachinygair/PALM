@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold count. rewrite filter_app. rewrite countMap. rewrite countMap. rewrite filter_app. reflexivity.", "succ": false}]

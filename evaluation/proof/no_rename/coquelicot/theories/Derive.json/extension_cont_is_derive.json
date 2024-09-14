@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V g f a l Hf Hg Hfa. unfold is_derive, extension_cont. apply is_derive_ext_locally. - intros x Hx. unfold extension_cont. destruct (Rle_dec x a). + rewrite Hfa. reflexivity. + reflexivity. - apply is_derive_plus; auto. - apply is_derive_plus; auto.", "succ": false}]

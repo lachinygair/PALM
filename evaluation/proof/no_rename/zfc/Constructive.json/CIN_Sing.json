@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E. induction E as [A e IH]. unfold CIN, Sing in *. intros x H. apply (Paire_CIN (Sup A e) (Sup A e) x). apply IH.", "succ": false}]

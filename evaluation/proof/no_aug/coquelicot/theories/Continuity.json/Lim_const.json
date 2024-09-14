@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Lim. srun best use: Lim_seq_ext, Lim_seq_const.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Lim. unfold Lim_seq. rewrite Lim_seq_const. reflexivity.", "succ": true}]

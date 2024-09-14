@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: nat_join_0n, nat_join_comm, Nat.max_0_l.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite nat_join_0n. symmetry. apply nat_join_comm.", "succ": true}]

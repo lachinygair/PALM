@@ -1,0 +1,1 @@
+[{"history": {"proof": "assert (H : alpha_nat 1 = 1); [simpl; reflexivity | apply H].", "repairs": [""], "exceptions": []}, "chat": [], "original": "assert (H : alpha_nat 1 = 1); [simpl; reflexivity | apply H].", "succ": true}]

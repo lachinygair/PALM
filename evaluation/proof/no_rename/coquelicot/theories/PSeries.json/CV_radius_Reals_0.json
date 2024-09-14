@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a r H. unfold CVN_r. intros x Hx. destruct H as [An [l [Hcv Hbound]]]. exists An, l. split. - apply Hcv. - intros n y Hy. apply Hbound in Hy. apply Hy.", "succ": false}]

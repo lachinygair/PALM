@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold votedFor_term_sanity_interface. constructor. intros net Hrefined. apply (votedFor_term_sanity net). - apply Hrefined.", "succ": false}]

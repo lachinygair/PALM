@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: subcode_sss_compute, sss_compute_trans.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply subcode_sss_compute with (P := P) (Q := Q) (st1 := st1) (st2 := st2); auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Related, rel_impl, subrel. sfirstorder depth: 3use: rel_impl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold Related, rel_impl, subrel. unfold rel_impl at 1. intros x y H. apply H.", "succ": true}]

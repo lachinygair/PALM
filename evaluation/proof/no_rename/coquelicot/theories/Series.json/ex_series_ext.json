@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: is_series_ext unfold: ex_series.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros K V b a Hab Hsera. destruct Hsera as [la Hla]. exists la. intros n. apply Hab.", "succ": true}]

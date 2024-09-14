@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: provable_impp_refl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros e prodp H x. split. - intros H1. pose proof (H (prodp e x)) as H2. apply provable_impp_refl in H1. specialize (H2 H1). apply H2. - intros H1. specialize (H x). apply H1 in H. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q r s HltP HcanonP HcanonQ Heqp HeqQ. unfold ltP, canonical in *. inversion HltP; subst. - auto. - discriminate.", "succ": false}]

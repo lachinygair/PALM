@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros S H. destruct H as [x Hx]. exists x. split. - apply Hx. - intros y Hy. right. apply wo_total_strict_order.", "succ": false}]

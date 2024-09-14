@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment a : nat -> R Unable to unify \"CV_radius a\" with \"CV_radius (PS_derive a)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "reflexivity.", "back_times": 0, "succ": false, "time": 30.740971088409424}]

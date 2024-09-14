@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f b a df H1 H2 x y Ha Hx Hy. apply incr_function with (a := a) (b := b) (df := df). - intros x0 H3 H4. apply H1; auto. - intros x0 H3 H4. apply H2; auto. - auto. - auto. - auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply filterdiff_ext_locally with (f:=fun u => minus (fst u) (snd u)); auto.", "succ": false}]

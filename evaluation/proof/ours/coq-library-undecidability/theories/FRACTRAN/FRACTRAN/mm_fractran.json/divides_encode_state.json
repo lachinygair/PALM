@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold divides, encode_state, ps in H. destruct H as [p H]. unfold ps, encode_state in H. rewrite <- H. destruct k. - intro. reflexivity. - intro. discriminate.", "succ": false}]

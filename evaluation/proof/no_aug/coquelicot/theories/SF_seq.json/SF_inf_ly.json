@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @SF_ly_f2 unfold: SF_inf_seq.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite /SF_ly /SF_inf_seq /behead /pairmap. reflexivity.", "succ": true}]

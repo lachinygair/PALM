@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": "apply addZ_opposite.", "exn": "In environment x : Z Unable to unify \"opposite Z IdZ addZ OZ oppZ\" with \"divide Z IdZ multZ OZ x x\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros x. apply addZ_opposite.", "succ": false}]

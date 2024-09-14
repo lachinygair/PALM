@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto brefl: on unfold: logIndex, term, log_matching_hosts, eIndex.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' H1 H2 h H3 H4. split. - intros h1 h2. destruct H1 as [H1 _]. apply H1. - intros h1 i H5. destruct H1 as [_ [H1 _]]. apply H1. apply H5. - intros h e H6. destruct H1 as [H1 _]. apply H1. apply H6.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b H1 H2.", "unfold eqTerm, plusTerm."], "tactic": "rewrite H1.", "exn": "Found no subterm matching \"T2M a\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros a b H1 H2. unfold eqTerm, plusTerm. rewrite H1. rewrite H2. reflexivity.", "succ": false}]

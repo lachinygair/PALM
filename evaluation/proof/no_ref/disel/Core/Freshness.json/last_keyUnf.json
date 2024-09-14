@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold valid, dom, last_key, pcm.valid, last, ordType, union_map, dom, pcm.valid in *. intros H. apply last_key_max. apply H.", "succ": false}]

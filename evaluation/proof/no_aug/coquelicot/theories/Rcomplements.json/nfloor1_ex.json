@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x Hx. pose (nfloor_ex x Hx) as H. destruct H as [n Hn]. exists n. split. - apply Hn. - apply Rlt_le, proj2 in Hn. apply Hn.", "succ": false}]

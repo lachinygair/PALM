@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: app_assoc unfold: prefix.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X r2 r1 l H. unfold prefix. unfold prefix in H. intros H1. destruct H as [X1 H2 | X2 H3]. - left. rewrite <- H1. apply H2. - right. rewrite <- H1. apply H3.", "succ": true}]

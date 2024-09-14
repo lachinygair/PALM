@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g p q x y H. unfold partial_derive. unfold Derive_n. unfold Derive_n at 1. unfold Derive. apply Derive_ext_loc. intros t. apply Derive_n_ext_loc. apply H.", "succ": false}]

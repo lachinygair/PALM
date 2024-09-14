@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A egalite f x n H z. intros H0. split. - intros H1. split. + apply H0. auto. + apply H. auto. - intros H1. apply H0. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "pose proof (list_exists_not_incl x (elem X) (elem X)) as [y [H1 H2]]. apply H1.", "succ": false}]

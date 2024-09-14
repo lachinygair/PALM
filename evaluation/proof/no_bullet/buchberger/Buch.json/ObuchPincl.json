@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP R Q H. induction H. - intros x Hcontra. contradiction. - intros x Hin. destruct Hin as [Heq | Hin]. + subst. left. apply Hin. + right. apply IHOBuch. apply Hin.", "succ": false}]

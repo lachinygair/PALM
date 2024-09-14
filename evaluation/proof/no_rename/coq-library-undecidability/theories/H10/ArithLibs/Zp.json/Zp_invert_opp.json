@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hx: x <> Zp) by auto. rewrite (Zp_opp_invertible x Hx). rewrite <- Zp_opp. rewrite <- Zp_invert_eq_not_zero; auto.", "succ": false}]

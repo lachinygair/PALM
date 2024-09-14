@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- app_assoc. unfold bsm_mm. rewrite Q. auto.", "succ": false}]

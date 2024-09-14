@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite /head. hauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite /head. rewrite /head in belast_map. rewrite /head in map_rcons. rewrite belast_map. rewrite map_rcons. reflexivity.", "succ": true}]

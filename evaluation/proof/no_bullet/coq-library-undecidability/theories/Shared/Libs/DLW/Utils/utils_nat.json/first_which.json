@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros.", "destruct min_dec as [m [H1 H2]]."], "tactic": "exists m.", "exn": "The reference m was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros. destruct min_dec as [m [H1 H2]]. exists m. auto.", "succ": false}]

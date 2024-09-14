@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st h' t r. apply handleRequestVoteReply_same_log.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros h st h' t r. apply handleRequestVoteReply_same_log.", "back_times": 0, "succ": true, "time": 0.7634036540985107}]

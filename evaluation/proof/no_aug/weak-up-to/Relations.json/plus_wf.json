@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: trans_incl, Acc_clos_trans, plus_eeq, trans_eeq, plus_incl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Acc_clos_trans. apply trans_eeq with (R' := R). apply plus_eeq. apply trans_incl. apply plus_incl.", "succ": true}]

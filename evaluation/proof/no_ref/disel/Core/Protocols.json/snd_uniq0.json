@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Protocols.snd_tags. simpl. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Protocols.snd_tags. simpl. apply is_true_eq. reflexivity.", "succ": true}]

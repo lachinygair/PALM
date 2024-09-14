@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (1 + lP = 1) by lia. assert (2 + lP = 2) by lia. assert (3 + lP = 3) by lia. rewrite H in *. rewrite H0 in *. rewrite H1 in *. apply sc_Q_2.", "back_times": 0, "succ": false, "time": 31.653451204299927}]

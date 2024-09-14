@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_append_entries, raft_net_invariant_append_entries_reply, nextIndex_safety. intros. congruence.", "succ": false}]

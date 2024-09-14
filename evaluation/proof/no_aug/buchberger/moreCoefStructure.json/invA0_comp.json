@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a eq_a_A0. rewrite <- (plusA_eqA_comp_r A A0 A0 eqA plusA invA minusA multA divA cs a A0 A0 eq_a_A0). rewrite plusA_A0. reflexivity.", "succ": false}]

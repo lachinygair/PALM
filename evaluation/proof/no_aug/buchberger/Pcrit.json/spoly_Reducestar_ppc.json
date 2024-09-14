@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Q a b H p q Cpxb Cpxa HinPolySetb HinPolySeta. apply reducestar with (spolyf A A0 A1 eqA invA minusA multA divA eqA_dec n ltM ltM_dec (pX A n a p) (pX A n b q) Cpxa Cpxb). - rewrite <- H. apply eqTerm_spolyf_red3; auto. - auto. - auto.", "succ": false}]

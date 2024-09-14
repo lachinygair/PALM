@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x H1 H2. symmetry. apply exd_bottom in H2. apply upb_eq_degree in H2. rewrite <- H2. apply L2 with (t:=x) (x:=Iter_orb m x). - trivial. - trivial. - trivial. - apply exds_diff. - apply exd_Iter_orb_upb. + apply H1. + apply H2.", "succ": false}]

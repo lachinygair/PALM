@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: rely_coh'.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros w this s1 s2 Hrely. split. - apply rely_coh' in Hrely. destruct Hrely. auto. - apply rely_coh' in Hrely. destruct Hrely. auto.", "succ": true}]

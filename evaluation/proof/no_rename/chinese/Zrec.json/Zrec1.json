@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P H. apply H. sauto q: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros P H. apply H. intros n m Hlt. apply H. apply Hlt.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H1 H2."], "tactic": "apply binary_le_trans with (y := y); auto.", "exn": "The reference binary_le_trans was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "simpl. intros H1 H2. apply binary_le_trans with (y := y); auto.", "succ": false}]

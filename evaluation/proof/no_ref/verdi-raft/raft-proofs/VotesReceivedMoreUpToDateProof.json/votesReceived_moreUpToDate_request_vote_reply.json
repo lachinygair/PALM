@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_request_vote_reply in *. unfold votesReceived_moreUpToDate in *. intros. unfold handleRequestVoteReply, update_elections_data_requestVoteReply in *. repeat find_rewrite. repeat find_injection. auto.", "succ": false}]

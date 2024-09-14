@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: lim_mono, supE, chainE.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros D s1 s2 H. apply chainE in H. apply supE. apply lim_mono in H. apply H.", "succ": true}]

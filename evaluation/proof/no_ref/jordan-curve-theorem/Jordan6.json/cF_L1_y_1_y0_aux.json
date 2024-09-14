@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y j Hmap Hprec Hm1 Hdy_1 Hnotexpf Hj. unfold m1, y0, y_1, dx, dy_1. rewrite -> degree_y0_y_1; auto.", "succ": false}]

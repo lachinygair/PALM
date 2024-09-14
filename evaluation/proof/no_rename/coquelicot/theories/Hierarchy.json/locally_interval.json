@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P x b a Hltax Hltxb Hforally. unfold locally. apply Rbar_lt_locally with a b x. - apply Hltax. - apply Hltxb. - intros y Hy. apply Hforally. + apply Rbar_lt_le_trans with a; auto. + apply Rbar_lt_le_trans with b; auto.", "succ": false}]

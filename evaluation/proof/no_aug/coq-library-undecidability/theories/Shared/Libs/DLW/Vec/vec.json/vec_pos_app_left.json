@@ -1,0 +1,1 @@
+[{"history": {"proof": "fcrush depth: 3use: vec_app_split, pos_both_left, vec_split_app, pos2nat_left, vec_pos_set, vec_pos0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite vec_app_split. rewrite vec_pos_set. rewrite pos2nat_left. rewrite pos_both_left. rewrite vec_split_app. rewrite vec_pos0. reflexivity.", "succ": true}]

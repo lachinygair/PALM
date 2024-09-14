@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold codeAxmEqHelp. apply wellFormedFormulaCorrect2. - apply codeArityFIsCorrect1. - apply codeArityFIsCorrect2. - apply codeArityRIsCorrect1. - apply codeArityRIsCorrect2. - apply codeFInj. - apply codeRInj.", "back_times": 0, "succ": false, "time": 68.51648736000061}]

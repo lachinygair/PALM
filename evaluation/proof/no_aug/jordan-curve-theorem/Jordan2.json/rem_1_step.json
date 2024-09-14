@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z s Hmap sr nr. unfold sr, nr. rewrite <- plus_n_O. split. - intros H. apply le_S_n. apply H. - intros H. apply le_n_S. apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. srun best use: FRACTRAN_HALTING_zero_num.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros H."], "tactic": ["destruct H as [c Hc].", ""], "exn": "Expects a disjunctive pattern with 2 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros H. destruct H as [c Hc]. contradiction Hc.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply nat_ortho_sum_join. intros i j Hneq Hinj1 Hinj2. apply Hu2_0 in Hu2. rewrite <- Hu2. apply Hu2_0.", "succ": false}]

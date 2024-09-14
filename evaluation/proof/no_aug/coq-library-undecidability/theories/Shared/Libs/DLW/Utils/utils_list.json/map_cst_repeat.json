@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite map_ext_in_iff. intros a Ha. rewrite list_repeat_plus. rewrite map_map. rewrite <- map_list_repeat. rewrite map_id. rewrite app_comm_cons. rewrite firstn_all. rewrite length_list_repeat. rewrite <- minus_n_O. reflexivity.", "succ": false}]

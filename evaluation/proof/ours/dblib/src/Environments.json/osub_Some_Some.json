@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a1 a2 H. hauto unfold: osub.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a1 a2 H. inversion H. apply sub_reflexive.", "succ": true}]

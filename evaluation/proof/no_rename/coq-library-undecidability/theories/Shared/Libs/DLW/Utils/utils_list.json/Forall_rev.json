@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Forall_rev.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X P ll H. induction ll as [|x l IHl]. - intros _. apply Forall_nil. - intros H'. simpl. apply Forall_inv_tail in H'. apply Forall_cons. + apply IHl. apply Forall_inv_tail in H. apply H. + apply H'.", "succ": true}]

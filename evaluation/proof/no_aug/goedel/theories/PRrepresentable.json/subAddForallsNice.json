@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros n m A v s H1 H2.", "destruct H1 as [H1 | H1].", "-"], "tactic": "-", "exn": "Wrong bullet -: Current bullet - is not finished.", "type": "unfinished_bullet", "handled": true}]}, "chat": [], "original": "intros n m A v s H1 H2. destruct H1 as [H1 | H1]. - left. apply H1. - right. apply H1.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H_divP H_ltT. intro H_lt. unfold ltT in H_ltT. unfold divP in H_divP. destruct H_divP as [_ H_divP]. specialize (H_divP a b H_lt) as H_not_div. contradict H_not_div. apply H_ltT.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H : (fun n : nat => u (n + N)%nat) = (fun n : nat => u n)). { extensionality n. f_equal. lia. } rewrite H. apply is_lim_seq_unique. apply Lim_seq_ext. intros n. f_equal. lia.", "succ": false}]

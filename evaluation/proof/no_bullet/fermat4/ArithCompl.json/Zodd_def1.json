@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros z H. srun best use: Zodd_ex.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros z H. unfold Zodd in H. destruct z. - contradiction. - exists 0. auto. - exists (Z.neg p). auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on use: Nat.add_comm, Nat.mul_comm, alpha_nat_Pell.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros. intros H. rewrite alpha_nat_Pell. apply Nat.crossmul_le_addsquare. apply alpha_nat_le. apply H.", "succ": true}]

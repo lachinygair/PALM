@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this l s H. unfold dom in H. rewrite getLocal in H. rewrite getStatelet. simpl. destruct (find l s) as [dstatelet|] eqn:Heq. - intros H0. reflexivity. - intros H0. inversion H0.", "succ": false}]

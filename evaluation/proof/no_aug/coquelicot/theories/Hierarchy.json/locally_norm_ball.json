@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x eps. srun best use: norm_compat1 unfold: ball_norm, locally_norm, pos.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x eps. apply locally_norm_ball_norm.", "succ": true}]

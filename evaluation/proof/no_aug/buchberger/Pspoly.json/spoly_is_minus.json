@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nZa nZb p q Cpxa Cpxb. unfold eqP, spolyf, minuspf, minusA, multA, divA, eqA_dec, ltM, ltM_dec. rewrite <- spminusf_extend. reflexivity.", "succ": false}]

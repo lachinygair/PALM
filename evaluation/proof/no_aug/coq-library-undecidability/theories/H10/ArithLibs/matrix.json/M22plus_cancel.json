@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x a b H. rewrite <- M22plus_comm with (x:=a) (y:=b). rewrite M22plus_comm with (x:=x) (y:=a). rewrite H. reflexivity.", "succ": false}]

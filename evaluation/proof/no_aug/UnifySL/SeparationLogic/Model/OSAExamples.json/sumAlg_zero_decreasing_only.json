@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x inc_x. apply functional_extensionality. intro y. apply inc_x.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B O T T' H1 H2 H3. unfold colineaire. apply (Refl.make_impl_true _ _ _).", "succ": false}]

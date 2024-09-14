@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b HnzeroPa nZb nZppab lst. rewrite <- (divP_comp_ppc0 a b HnzeroPa nZb nZppab lst). reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold codeArityLNTF. apply compose1_2IsPR with (f:= idIsPR) (f':= const1_NIsPR 1).", "succ": false}]

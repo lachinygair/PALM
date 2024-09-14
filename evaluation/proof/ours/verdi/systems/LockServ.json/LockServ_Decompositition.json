@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold Decomposition.", "exn": "Cannot coerce Decomposition to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold Decomposition. exists LockServ_BaseParams, LockServ_MultiParams.", "hammer_times": 1, "succ": false, "time": 38.9539270401001}]

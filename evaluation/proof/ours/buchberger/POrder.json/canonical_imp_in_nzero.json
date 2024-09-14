@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p Hcan a Hin Hz. unfold canonical, olist in Hcan. destruct Hcan as [Hord Hnz]. apply (Hnz a). apply Hord. apply Hin.", "succ": false}]

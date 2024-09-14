@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros c H_unique_prefix H_not_null m1 m2 a H_find_val. sfirstorder depth: 3use: decode_aux_correct.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros c H_unique_prefix H_not_null m1 m2 a H_find_val. apply decode_aux_correct in H_find_val. rewrite H_find_val. reflexivity.", "succ": true}]

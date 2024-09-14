@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply sum_power_binary_lt_inv in H19 as [a [Ha1 Ha2]]; auto. exists a. rewrite Ha1. auto.", "succ": false}]

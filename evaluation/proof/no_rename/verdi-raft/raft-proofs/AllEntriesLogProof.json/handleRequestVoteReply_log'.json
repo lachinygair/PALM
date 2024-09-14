@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st h' t r. rewrite handleRequestVoteReply_same_log. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros h st h' t r. rewrite handleRequestVoteReply_same_log. reflexivity.", "succ": true}]

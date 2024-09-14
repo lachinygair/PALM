@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (pre f) as [Hstep1 Hstep2]. exists (RiemannInt_SF f). intros x Hx. apply Hstep2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros y l x z H1 H2. sauto q: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros y l x z H1 H2. intros. eapply tau_weak. apply H1. apply H.", "succ": true}]

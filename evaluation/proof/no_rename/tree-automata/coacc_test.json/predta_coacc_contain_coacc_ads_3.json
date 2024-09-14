@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a0 a1 H1 H2. intros Hcoacc Href_ok. exists 1. simpl. unfold power, map_mini. rewrite H1. simpl. rewrite Hcoacc. rewrite H2. auto.", "succ": false}]

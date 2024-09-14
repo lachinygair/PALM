@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z H1 H2. unfold F. hauto lq: on drew: off use: not_exd_A_1_nil, A_1_nil.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z H1 H2. unfold F. refine (F_nil m z H1 _). intros H3. apply H2. left. apply H3.", "succ": true}]

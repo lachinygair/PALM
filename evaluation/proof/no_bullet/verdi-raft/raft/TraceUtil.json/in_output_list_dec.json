@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "left; unfold in_output_list; exists o; auto.", "exn": "Not an inductive product.", "type": "not_inductive_product", "handled": true}]}, "chat": [], "original": "simpl. left; unfold in_output_list; exists o; auto.", "succ": false}]

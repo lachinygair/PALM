@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri rvmimti vftsi net t h h' H1 H2 H3 H4 H5. unfold votedFor_moreUpToDate. intros t0 h0 H6. specialize (H6 t h h' H1 H2). destruct H6 as [vl [H7 H8]]. exists vl. auto.", "succ": false}]

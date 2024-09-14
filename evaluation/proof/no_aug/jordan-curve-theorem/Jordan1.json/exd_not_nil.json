@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z Hm Hexd. unfold not; intros H. srun best use: not_exd_nil.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z Hm Hexd. unfold not; intros H. rewrite <- H in Hexd. apply not_exd_nil with (m := m). - apply Hm. - rewrite H; apply Hexd.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros v H. induction H. strivial use: closedNN1 unfold: ClosedSystem.", "repairs": ["", "", "hammer"], "exceptions": [{"ctx": ["intros v H."], "tactic": "intro.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros v H. unfold not. intro. induction H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. unfold rel_prime. strivial use: one_min_div, gcd_one unfold: is_cd, is_gcd.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. unfold rel_prime. intros x H. apply Nat.bezout_1_gcd. apply H.", "succ": true}]

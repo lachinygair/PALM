@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z H. qauto use: Nat.add_sub_swap.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z H. apply Nat.add_sub_eq_r. symmetry. apply plus_minus. unfold Nat.sub. rewrite Nat.add_sub_assoc. rewrite plus_minus. rewrite Nat.add_sub_swap. apply Nat.add_sub_eq_l. reflexivity.", "succ": true}]

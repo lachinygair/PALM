@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold SystemK, MonoPred_L, MonoPred_Gamma.", "exn": "Cannot coerce SystemK to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold SystemK, MonoPred_L, MonoPred_Gamma. intros A R1 po_R1 R2 uR2. apply MonoPred_minAX.", "succ": false}]

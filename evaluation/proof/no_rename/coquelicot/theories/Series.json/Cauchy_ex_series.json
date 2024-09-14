@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V a H_ex_series eps. destruct H_ex_series as [l H_is_series]. unfold Cauchy_series. intros eps'. specialize (H_is_series (eps'/2)). destruct H_is_series as [N H_is_series]. exists N. intros n m Hn Hm. apply (H_is_series n m Hn Hm).", "succ": false}]

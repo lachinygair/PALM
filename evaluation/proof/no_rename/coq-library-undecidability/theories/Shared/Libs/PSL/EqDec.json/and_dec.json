@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros HX. intros HY. destruct HX, HY. - left. split; auto. - right. intros [? _]. contradiction. - right. intros [_ ?]. contradiction. - right. intros [? _]. contradiction. - right. intros [_ ?]. contradiction.", "succ": true}]

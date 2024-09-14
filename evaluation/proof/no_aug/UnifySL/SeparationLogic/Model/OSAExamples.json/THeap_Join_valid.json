@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h1 h2 h3 Hjoin Hvalid1 Hvalid2. unfold THvalid in *. unfold THeap_Join' in Hjoin. intros n. unfold THeap_Join in Hjoin. specialize (Hjoin h1 h2 h3 Hvalid1 Hvalid2 n). destruct Hjoin as [Hjoin1 Hjoin2]. destruct Hjoin1 as [Hjoin1 _]. apply Hjoin1.", "succ": false}]

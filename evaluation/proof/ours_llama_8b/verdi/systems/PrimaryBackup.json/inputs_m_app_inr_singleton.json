@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun eauto use: inputs_m_inr_singleton, inputs_m_app, app_nil_r unfold: output, input inv: name.", "exceptions": []}, "chat": [], "original": "", "succ": true}]

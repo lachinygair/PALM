@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net failed tr H. remember step_ordered_dynamic_failure_init as H_init. induction H; subst; eauto.", "hammer_times": 4, "succ": false, "time": 129.44698572158813}]

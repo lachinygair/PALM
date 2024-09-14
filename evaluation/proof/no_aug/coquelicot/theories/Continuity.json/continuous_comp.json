@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold continuous. intros Cf Cg. apply filterlim_comp with (f := f) (g := g) (F := locally x); auto.", "succ": false}]

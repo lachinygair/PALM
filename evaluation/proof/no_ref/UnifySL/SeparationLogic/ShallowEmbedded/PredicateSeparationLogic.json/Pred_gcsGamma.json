@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply GarbageCollectSeparationLogic with (L := Pred_L A) (J := J) (minL := Pred_minL A) (pL := Pred_pL A) (sepconL := Pred_sepconL A J) (Gamma := Pred_Gamma A); [apply Pred_minAX | apply Pred_cpGamma | apply Pred_strongGammaP | apply sepcon_comm].", "succ": false}]

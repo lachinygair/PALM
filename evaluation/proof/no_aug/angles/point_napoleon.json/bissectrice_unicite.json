@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold bissectrice, colineaire in *. intros. apply H.", "succ": false}]

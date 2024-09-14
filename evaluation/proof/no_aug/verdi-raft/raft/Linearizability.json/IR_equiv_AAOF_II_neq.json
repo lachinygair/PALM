@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ys target k k' neq op_equiv IR_equiv. apply IR_equiv_trans with (acknowledge_all_ops_func (I k :: I k' :: xs) target); auto. apply IR_equiv_AAOF_I; auto.", "succ": false}]

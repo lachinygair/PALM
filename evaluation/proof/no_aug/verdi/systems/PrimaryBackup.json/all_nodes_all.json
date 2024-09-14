@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold all_nodes. simpl. sauto lq: on depth: 3use: in_eq.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold all_nodes. simpl. apply in_eq.", "succ": true, "time": 0.17630992600015816}]

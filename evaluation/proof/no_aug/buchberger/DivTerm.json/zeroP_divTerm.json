@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Hz. specialize (divTerm_nZ a b Hz) as HnZ. apply HnZ.", "succ": false}]

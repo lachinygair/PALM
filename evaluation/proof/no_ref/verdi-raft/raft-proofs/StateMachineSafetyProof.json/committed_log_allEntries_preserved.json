@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. qauto depth: 3.", "repairs": ["no_product", "hammer"], "exceptions": [{"ctx": [], "tactic": "intros net net' e t Hc Hl Hae h e' HIne HIne'.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros net net' e t Hc Hl Hae h e' HIne HIne'.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st t h' pli plt es ci st' m te e H1 H2. intros H3. destruct H3 as [H3 | [H4 | [H5 [H6 [H7 H8]]]]]. - left. apply H3. - right. left. apply H4. - right. right. destruct H5 as [H5 [H5' H5'']]. split. + apply H5. + split. * apply H6. * split. ++ apply H7. ++ apply H8.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m H. unfold inj_dart. intros x x' Hx Hx' Heq. unfold succf, pred, A_1, F in Hx, Hx', Heq. destruct H as [H1 H2]. destruct Hx as [Hx1 Hx2]. destruct Hx' as [Hx'1 Hx'2]. rewrite H2 in Hx, Hx', Heq. rewrite H1 in Hx, Hx', Heq. rewrite Hx, Hx', Heq. reflexivity.", "succ": false}]

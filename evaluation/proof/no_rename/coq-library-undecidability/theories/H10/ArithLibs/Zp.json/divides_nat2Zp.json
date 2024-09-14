@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: divides_rem_eq, nat2Zp_p, nat2Zp_inj, rem_diag.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hp u. split. - intros [k Hk]. destruct k as [ | k'] eqn:Hk'. + simpl. reflexivity. + rewrite <- nat2Zp_mult, Hk. reflexivity. - intros H. exists (nat2Zp u). rewrite H. auto.", "succ": true}]

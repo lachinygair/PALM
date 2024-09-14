@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: exd_cA, cA_1_cA, cA_1_exd, succ_pred_clos unfold: surj_dart.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m k H1. apply surj_cA. apply H1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros p."], "tactic": "apply lattice_bounded_def_0.", "exn": "In environment p : prechain bool Unable to unify \"Prop\" with \"lattice_bounded_def_0 p\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros p. apply lattice_bounded_def_0.", "succ": false}]

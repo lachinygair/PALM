@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_BranchJoinKripkeIntuitionisticModel with (option A) (option01_relation R). intros m1 m2 n H1 H2. destruct H2. - exists None. split; auto. - exists (Some n0). split; auto.", "succ": false}]

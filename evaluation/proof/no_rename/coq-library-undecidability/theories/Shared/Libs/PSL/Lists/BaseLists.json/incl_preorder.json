@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X. unfold PreOrder. constructor. - unfold Reflexive. intros. apply incl_nil. - unfold Transitive. intros. apply incl_app; auto.", "succ": true}]

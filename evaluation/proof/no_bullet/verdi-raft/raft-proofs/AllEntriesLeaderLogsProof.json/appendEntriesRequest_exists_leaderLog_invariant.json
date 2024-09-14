@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net H1 H2. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net H1 H2. unfold appendEntriesRequest_exists_leaderLog. specialize (aerlli append_entries_leaderLogs_invariant H2 net). apply aerlli.", "succ": true}]

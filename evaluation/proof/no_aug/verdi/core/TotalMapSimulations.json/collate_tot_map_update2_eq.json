@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: map_msg_update2, collate_tot_map_eq.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. rewrite <- collate_tot_map_eq. rewrite map_msg_update2. reflexivity.", "succ": true, "time": 0.17575171500004672}]

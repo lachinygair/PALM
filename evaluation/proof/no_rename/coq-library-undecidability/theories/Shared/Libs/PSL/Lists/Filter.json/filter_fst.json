@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intro H. unfold filter. destruct H. - simpl. destruct (p x). + reflexivity. + contradiction. - simpl. destruct (p x). + reflexivity. + apply filter_id. intros. apply H. right. apply H0.", "succ": true}]

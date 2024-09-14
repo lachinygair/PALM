@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a_ex b_ex. destruct a_ex as [La Ha]. destruct b_ex as [Lb Hb]. apply is_series_unique in Ha. apply is_series_unique in Hb. rewrite -> Ha. rewrite -> Hb. rewrite Series_ext. - reflexivity. - intros n. unfold plus. reflexivity.", "succ": false}]

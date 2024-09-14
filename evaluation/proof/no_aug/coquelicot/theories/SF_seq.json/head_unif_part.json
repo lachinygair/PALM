@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold head, unif_part. rewrite <- nth0. rewrite nth_mkseq. simpl.", "succ": false}]

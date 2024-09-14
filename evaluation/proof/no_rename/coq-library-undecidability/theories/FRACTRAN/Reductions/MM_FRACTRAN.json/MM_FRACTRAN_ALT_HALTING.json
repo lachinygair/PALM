@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P. unfold MM_HALTING, FRACTRAN_ALT_HALTING. intros. exists (fun x => exists s : MM_PROBLEM, f x = f s /\\ P s). intros x. split. - intros [s [H1 H2]]. exists s. rewrite H1. apply H2. - intros [s H]. exists s. split. reflexivity. apply H.", "succ": false}]

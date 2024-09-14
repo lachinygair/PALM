@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros e l H. apply deduplicate_log'_In_if in H. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros e l H. apply deduplicate_log'_In_if in H. auto.", "back_times": 0, "succ": true, "time": 0.7313117980957031}]

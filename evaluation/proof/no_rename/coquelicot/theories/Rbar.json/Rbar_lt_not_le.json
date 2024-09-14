@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros y x H1 H2. intro H3. apply Rbar_le in H3. apply Rbar_lt_not_eq in H1. apply Rbar_not_le_lt in H3. apply H1. apply Rbar_lt in H3. contradiction.", "succ": false}]

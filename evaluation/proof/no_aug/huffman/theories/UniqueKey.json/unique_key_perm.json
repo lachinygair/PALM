@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l1 l2 Hperm Huniq. unfold unique_key in Huniq. induction Huniq. - intros. apply unique_key_nil. - intros. apply unique_key_cons. + intros. unfold not. intros. assert (In (a, b0) ((a, b) :: l)). { simpl. left. reflexivity. } apply (H b0 H2). apply H0. + apply IHHuniq.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold core_state_to_data in *. intros H1 H2. unfold core_state_to_data in H1, H2. destruct (n == cn) eqn:E1, (n == cn) eqn:E2. - apply Bool.eq_true_iff_eq in E1. apply Bool.eq_true_iff_eq in E2.", "succ": false}]

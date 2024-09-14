@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x Hmap Hsucc m0. unfold m0. rewrite nc_B. - rewrite <- Hsucc. + unfold m0. rewrite ndZ_B. * rewrite ndZ_L_B. auto. * auto. + auto. - auto.", "succ": false}]

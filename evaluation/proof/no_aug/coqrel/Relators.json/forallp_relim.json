@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold RElim in *. intros. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold RElim in *. intros. apply (arrow_relim _ _ f g v1 v2 P Q). apply H.", "succ": true}]

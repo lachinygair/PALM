@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y Hx Hy. apply Z.mul_nonneg_nonneg; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros x y Hx Hy. apply Z.mul_nonneg_nonneg; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite -> seq2Rlist_bij. apply RList_P1. intros x H. inversion H.", "succ": false}]

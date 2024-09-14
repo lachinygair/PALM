@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3use: Dec, Dec_true, Dec_false, dec2bool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros HX HY. apply dec2bool in HX. apply dec2bool in HY. rewrite HX, HY. destruct (Dec (X <-> Y)). * apply Dec_true in e. apply e. * apply Dec_false in e. apply e.", "succ": true}]

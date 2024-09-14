@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros ptd H_pointed_subdiv. unfold SF_sorted. induction ptd as [| h s IH]. - simpl. auto. - apply SF_cons_ind. + apply ptd_cons in H_pointed_subdiv. apply IH. auto. + intros. apply IH. apply ptd_cons with (h:=h) in H_pointed_subdiv. auto.", "succ": false}]

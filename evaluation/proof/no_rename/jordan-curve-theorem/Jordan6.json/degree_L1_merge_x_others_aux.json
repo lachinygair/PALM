@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y z n m1 y0 dz Hmap Hx0 HxY0 HxZ HyZ HnDz Inv1 Exd Nz Nex Exy0 Exyz Ey0z Hlt. unfold m1, y0, dz. rewrite degree_L1_merge_y0, degree_L1_merge_x. 4: apply Inv1. all: auto.", "succ": false}]

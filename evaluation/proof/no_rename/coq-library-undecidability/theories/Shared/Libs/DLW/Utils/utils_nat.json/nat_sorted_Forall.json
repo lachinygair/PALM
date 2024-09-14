@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x ll H. inversion H. - apply Forall_cons_inv in H2. apply H2. - apply nat_sorted_cons_inv in H0. apply in_nat_sorted_3 in H2. apply H2. + apply H1. + apply H0.", "succ": false}]

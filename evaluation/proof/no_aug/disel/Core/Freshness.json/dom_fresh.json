@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct f as [s Hs]. unfold fresh, dom, last_key. unfold is_true. unfold notin. simpl. apply seq_last_in. intros Hcontra. inversion Hcontra.", "succ": false}]

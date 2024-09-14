@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hu Hv. unfold Z.mul, Z_Zp_op. rewrite (Z2Zp_pos u Hu). rewrite (Z2Zp_pos v Hv). rewrite Z2Zp_of_nat. rewrite Z2Zp_of_nat. reflexivity.", "succ": false}]

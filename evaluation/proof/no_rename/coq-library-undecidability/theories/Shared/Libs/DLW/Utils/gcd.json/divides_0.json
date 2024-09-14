@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Nat.divide_0_l.", "exn": "In environment p : nat Unable to unify \"?M1408 = 0\" with \"exists p0 : nat, 0 = p0 * p\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Nat.divide_0_l.", "succ": false}]

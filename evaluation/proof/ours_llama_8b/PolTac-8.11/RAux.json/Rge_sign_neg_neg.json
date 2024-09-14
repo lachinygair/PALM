@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Rlt_pos_neg, Rlt_sign_neg_neg, Rmult_eq_0_compat, Ropp_0_gt_lt_contravar unfold: Rgt, Rge.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 7.157898542936891}]

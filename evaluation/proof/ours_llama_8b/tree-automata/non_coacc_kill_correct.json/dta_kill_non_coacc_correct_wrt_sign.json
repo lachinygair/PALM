@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: predta_compat_check_complete, predta_compat_check_correct, predta_kill_non_coacc_correct_wrt_sign unfold: dta_correct_wrt_sign, dta_kill_non_coacc, DTA_main_state_correct_check, DTA_ref_ok inv: DTA.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

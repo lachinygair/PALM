@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold isPR, plusIndIsPR.", "exn": "Cannot coerce plusIndIsPR to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold isPR, plusIndIsPR. intros. eauto.", "succ": false}]

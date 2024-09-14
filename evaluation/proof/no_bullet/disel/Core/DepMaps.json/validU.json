@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment V : Type labF : V -> [ordType of nat] Unable to unify \"true\" with \"valid unit\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. reflexivity.", "succ": false}]

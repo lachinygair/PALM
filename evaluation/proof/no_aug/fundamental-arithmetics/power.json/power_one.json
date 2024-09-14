@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold sign, Rmax, Rmin. repeat destruct (total_order_T 0 (b - a)). - simpl.", "succ": false}]

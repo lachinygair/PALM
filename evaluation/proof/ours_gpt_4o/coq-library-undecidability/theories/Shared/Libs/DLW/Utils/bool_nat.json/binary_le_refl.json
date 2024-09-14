@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction x using binary_le_ind. - apply in_ble_0. - apply in_ble_1. + apply Nat.le_refl. + auto.", "back_times": 0, "succ": false, "time": 25.1304771900177}]

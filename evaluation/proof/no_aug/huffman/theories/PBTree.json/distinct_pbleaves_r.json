@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros t1 t2 H. unfold distinct_pbleaves in H. intros t3 t4 H'. sfirstorder depth: 3use: inpb_right, inpb_node_r.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros t1 t2 H. unfold distinct_pbleaves in H. intros t3 t4 H'. apply H. apply inpb_node_r. apply inpb_right. apply H'.", "succ": true}]

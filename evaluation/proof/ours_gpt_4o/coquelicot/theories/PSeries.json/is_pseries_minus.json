@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H."], "tactic": "apply CV_disk_scal with (c := c).", "exn": "The reference c was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros H. apply CV_disk_scal with (c := c). auto.", "back_times": 0, "succ": false, "time": 62.22486639022827}]

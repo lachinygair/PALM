@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d m0 m1 H0 H1. apply lem_antisymmetric. apply H0. apply H1.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d m0 m1 H0 H1. apply lem_antisymmetric. apply H0. apply H1.", "back_times": 0, "succ": true, "time": 0.5773451328277588}]

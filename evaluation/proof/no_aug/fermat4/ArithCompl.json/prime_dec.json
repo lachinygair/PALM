@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. apply prime_dec_gen. - lia. - intros. right. intros contra. apply H0. apply rel_prime_1.", "succ": false}]

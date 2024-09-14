@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. destruct (eq_nat_dec n server) as [Hserver|Hserver]. - subst. split. + apply H. + exists ss. reflexivity. - split. + apply client_nodes. rewrite <- Hserver. apply H. + split. * apply client_nodes. apply H. * reflexivity.", "succ": false}]

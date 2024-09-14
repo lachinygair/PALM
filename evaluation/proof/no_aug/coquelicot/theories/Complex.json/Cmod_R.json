@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Rplus_comm, Rplus_0_l, Rmult_1_r, Ropp_0, Rmult_assoc, Rmult_0_l, sqrt_Rsqr_abs unfold: Copp, Rsqr, C, Cmod, RtoC, pow, snd, fst.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold Cmod, Rabs, norm. rewrite Cmod_norm. apply sqrt_Rsqr_abs.", "succ": true}]

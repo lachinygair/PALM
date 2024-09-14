@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y j H1 H2 m1 y0 y_1 dx dy_1 H3 H4 H5 H6. unfold not. intros H7 H8. apply H7. rewrite <- cF_L1_y_1_y0_aux with (m:=m) (x:=x) (y:=y) (j:=j); auto.", "succ": false}]

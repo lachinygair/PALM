@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A B f e k H. scongruence use: length_map_general.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A B f e k H. apply le_S_n in H. apply H.", "succ": true}]

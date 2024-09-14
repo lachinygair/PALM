@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply indprinciple_3_aux.", "exn": "Unable to unify \"Prop\" with \"indprinciple_3_aux 0\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply indprinciple_3_aux.", "succ": false}]

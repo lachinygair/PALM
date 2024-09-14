@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m. apply (fun p : mon n * bool => fst p). sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m. apply (fun p : mon n * bool => fst p).", "succ": true}]

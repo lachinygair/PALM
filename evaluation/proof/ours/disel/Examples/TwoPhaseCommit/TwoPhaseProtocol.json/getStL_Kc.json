@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /getLocal. rewrite hcancel2V. intros H. move: (proj2 (andP H)) => H'. apply: (proj1 (andP H')).", "succ": false}]

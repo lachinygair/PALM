@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x i j Hmap Hsucc x0 xb0 xh0 xh0_1 p z Hx0 Hexp Hij. unfold expf. unfold expf in Hx0. split. * apply Hmap. * apply expf_B0_CS_1_a_prel1 with (i:=i) (j:=j) in Hx0; auto.", "succ": false}]

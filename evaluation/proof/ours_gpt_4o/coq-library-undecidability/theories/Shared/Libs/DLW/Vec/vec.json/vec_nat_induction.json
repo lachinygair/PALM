@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction v using Vector.t_ind. -- apply HP0. -- intros h n' t' IHt'. destruct (pos_eq_dec h (F1 _)). ++ subst. apply HP1. ++ apply HP2. auto. apply HP0.", "back_times": 0, "succ": false, "time": 25.994219064712524}]

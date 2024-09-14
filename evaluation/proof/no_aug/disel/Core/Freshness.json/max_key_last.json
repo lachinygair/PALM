@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. rewrite /dom in H1. rewrite /last_key. move=> H3 H4. rewrite (dom_last_key f) //. have H5: x <= x by apply leqnn. apply: last_key_max. - by apply H3. - move=> y H6. apply: H4. by apply H6.", "succ": false}]

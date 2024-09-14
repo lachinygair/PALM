@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c d H1 H2. unfold Rmax. destruct (Rle_dec a c); destruct (Rle_dec b d); destruct (Rle_dec c d); lra.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros a b c d H1 H2. unfold Rmax. destruct (Rle_dec a c); destruct (Rle_dec b d); destruct (Rle_dec c d); lra.", "succ": true}]

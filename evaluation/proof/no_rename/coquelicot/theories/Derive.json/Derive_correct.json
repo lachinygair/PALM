@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. hauto use: is_derive_unique unfold: ex_derive.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold is_derive, Derive. intros [l Hd]. apply filterdiff_continuous in Hd. apply is_derive_unique. auto.", "succ": true}]

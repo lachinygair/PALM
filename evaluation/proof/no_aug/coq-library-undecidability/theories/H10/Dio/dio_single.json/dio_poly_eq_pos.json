@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. exists O, (dp_var (pos O)), (dp_var (pos O)). intros; split; intros. - split; intros. + inversion H; subst. * admit. * inversion H0. + inversion H; subst. * admit. * inversion H0. - intros. split; intros. + admit. + admit. Admitted.", "succ": false}]

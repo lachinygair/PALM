@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y j m1 y0 dx H1 H2 H3 H4 H5. unfold m1, y0, dx. intros H6 H7 H8 H9. assert (H10: j + 1 < dx) by lia. pose proof (degree_L1_split_x_aux m x y j 1) as H11. specialize (H11 H1 H2 H7 H6 H4). rewrite Nat.sub_1_r in H11. rewrite <- H11; auto.", "succ": false}]

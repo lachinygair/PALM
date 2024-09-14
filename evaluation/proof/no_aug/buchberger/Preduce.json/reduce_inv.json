@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Q a b p q Hreduce Heq Hcanonical. inversion_clear Hreduce. subst. apply H0.", "succ": false}]

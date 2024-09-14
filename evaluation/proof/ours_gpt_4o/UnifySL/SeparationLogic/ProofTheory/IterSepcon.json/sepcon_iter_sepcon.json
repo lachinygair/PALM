@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ys. rewrite !iter_sepcon_def. apply assoc_prodp_fold_left_equiv.", "back_times": 0, "succ": false, "time": 102.59799981117249}]

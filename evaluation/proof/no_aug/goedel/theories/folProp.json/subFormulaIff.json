@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 v s. unfold iffH. rewrite subFormulaAnd. rewrite subFormulaAnd. rewrite subFormulaImp. rewrite subFormulaImp. rewrite subFormulaImp. rewrite subFormulaImp. rewrite subFormulaNot. rewrite subFormulaNot. simpl. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d. hauto l: on depth: 3use: rec_empty, rec_consi, mstrec_ind.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d. induction d using mstrec_ind; intros. - apply rec_empty. - apply rec_consi. + apply IHd. + apply H0. + apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. hauto use: app_length, le_plus_l unfold: prefix.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. apply prod_length.", "succ": true}]

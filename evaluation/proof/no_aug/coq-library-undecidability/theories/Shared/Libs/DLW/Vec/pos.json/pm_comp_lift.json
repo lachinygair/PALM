@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold pm_comp, pm_lift, pm_ext_eq. intros. hauto dep: on depth: 3use: pm_comp, pm_lift_ext.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold pm_comp, pm_lift, pm_ext_eq. intros. apply pm_lift_ext. rewrite <- pm_comp. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: app_comm_cons, in_split unfold: app.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X a x H. exists nil, x. rewrite <- app_nil_l. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y m H1 H2."], "tactic": ["apply sat_impp with (m:=m) in H1.", ""], "exn": "No such bound variable m (possible names are: m0, x0 and y0).", "type": "no_such_bound", "handled": false}]}, "chat": [], "original": "intros x y m H1 H2. apply sat_impp with (m:=m) in H1. apply H1. apply H2.", "succ": false}]

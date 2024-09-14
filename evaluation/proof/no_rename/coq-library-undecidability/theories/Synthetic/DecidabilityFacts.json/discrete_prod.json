@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros HX HY HXdiscrete HYdiscrete. unfold discrete in *. intros [x y] [x' y'] Heq. rewrite Heq. apply (conj (HXdiscrete x x' Heq) (HYdiscrete y y' Heq)).", "succ": false}]

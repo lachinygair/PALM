@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros e cond p1 p2 e' Heval Hexec. apply exec_Iif. rewrite Heval. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros e cond p1 p2 e' Heval Hexec. apply exec_Iif. rewrite Heval. auto.", "back_times": 0, "succ": true, "time": 1.7509710788726807}]

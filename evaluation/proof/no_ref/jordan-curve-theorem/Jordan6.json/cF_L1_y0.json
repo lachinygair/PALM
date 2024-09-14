@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y Hmap Hprec. unfold m1, y0, dy0. intros Hexpf. unfold m1, y0, dy0. rewrite <- cF_L0_2 with (x:=m) (y:=zero) (z:=x); auto. unfold y0, y_1. rewrite cA_L; auto. unfold dy0. repeat rewrite <- degree_y0_y_1; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros X P x y b Htrue Hfalse. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros X P x y b Htrue Hfalse. rewrite <- (Sumbool.bool_eq_ind b (fun b => P (si X b x y))). - apply Htrue. - apply Hfalse.", "back_times": 0, "succ": true, "time": 2.47922420501709}]

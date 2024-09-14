@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros [l1 limf] [l2 limg] Hneq [l eq_div]. unfold ex_Rbar_div, ex_Rbar_mult in eq_div. unfold Lim in limf, limg. unfold Rbar_div, Rbar_mult, Rbar_inv in eq_div. rewrite <- limf, <- limg. rewrite eq_div. reflexivity.", "succ": false}]

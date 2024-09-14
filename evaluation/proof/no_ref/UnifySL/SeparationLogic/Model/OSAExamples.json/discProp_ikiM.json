@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_IdentityKripkeIntuitionisticModel. intros m n H. apply Korder_identity. apply H.", "succ": false}]

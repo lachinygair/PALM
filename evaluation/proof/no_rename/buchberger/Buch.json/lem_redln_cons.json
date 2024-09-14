@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP R Q a b H1 H2 H3 c Q1 H4 H5 H6 H7. unfold redIn in H3. destruct H3. - apply redIn0 with (Q:=Q). apply H2. - apply redIn1 with (Q:=Q). apply H1. - injection H5 as H8 H9. rewrite <- H8 in H6. apply H9.", "succ": false}]

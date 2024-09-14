@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_append_entries_reply. intros xs p ys net st' ps' d m t es res Hhandle Hbody HP Hreach Hpckts Hst' Hp'. apply H; auto.", "succ": false}]

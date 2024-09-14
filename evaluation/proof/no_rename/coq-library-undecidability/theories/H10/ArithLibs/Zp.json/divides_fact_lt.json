@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: divides_le, divides_fact.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros n q H. destruct H as [H1 H2]. apply divides_le in H2. apply divides_fact in H2. apply H2.", "succ": true}]

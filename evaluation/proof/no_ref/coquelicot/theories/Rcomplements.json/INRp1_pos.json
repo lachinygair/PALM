@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. srun best use: pos_INR, Rle_lt_0_plus_1.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. pose proof (Rlt_zero_pos_plus1 (INR n)). lia.", "succ": true}]

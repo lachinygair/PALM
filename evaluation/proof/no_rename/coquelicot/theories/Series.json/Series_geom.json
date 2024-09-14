@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3use: is_series_unique, is_series_geom.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros q q_lt_1. apply is_series_unique. apply (is_series_geom q). apply q_lt_1.", "succ": true}]

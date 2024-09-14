@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n_pts_Hnl st_m_l. have [Hvalid | [s [l0 Hloc]]] := locCn _ _ C pf. - by rewrite Hvalid in st_m_l. - move: Hloc; rewrite st_m_l => [<- <-]. by rewrite (cohStP _ _ C n_pts_Hnl pf st_m_l).", "back_times": 0, "succ": false, "time": 75.62821698188782}]

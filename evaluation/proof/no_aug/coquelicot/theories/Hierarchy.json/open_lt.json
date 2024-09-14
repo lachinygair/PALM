@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros y. unfold open. intros x Hx. exists (mkposreal (y - x) (Rlt_gt _ Hx)). intros z Hz. apply Rlt_gt in Hx. apply Rabs_lt_between' in Hz. lia.", "succ": false}]

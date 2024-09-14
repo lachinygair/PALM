@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a H. sfirstorder depth: 3use: T1, T1_nz, not.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a H. intro contra. unfold not in contra. apply contra. destruct os. apply (H0 a (T1 A1 n) (eqT_refl a)). apply (T1_nz A A0 A1 eqA plusA invA minusA multA divA cs n).", "succ": true}]

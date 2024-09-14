@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply prod_uSA. apply option_ord_uSA. apply option_disj_uSA. apply fun_uSA. apply trivial_uSA.", "succ": false}]

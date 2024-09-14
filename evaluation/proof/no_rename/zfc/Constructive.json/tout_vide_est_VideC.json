@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros E H."], "tactic": "apply (H Vide).", "exn": "In environment E : Ens H : forall E' : Ens, CIN E' E -> F Unable to unify \"F\" with \"EQC E Vide\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros E H. apply (H Vide).", "succ": false}]

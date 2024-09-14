@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A l l' x H. srun best use: cons_is_permutation, is_permutation_refl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A l l' x H. apply cons_is_permutation with (l' := l'). apply H. apply head_insertion.", "succ": true}]

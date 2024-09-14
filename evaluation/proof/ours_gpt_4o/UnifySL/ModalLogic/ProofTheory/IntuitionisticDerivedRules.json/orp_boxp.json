@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y. pose proof boxp_orp x y as H. apply boxp_proper_iffp in H. apply solve_andp_elim1 in H. apply H.", "back_times": 0, "succ": false, "time": 67.69940543174744}]

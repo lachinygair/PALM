@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite nat_join_comm. rewrite nat_join_right. rewrite nat_join_comm. rewrite <- nat_join_multi. rewrite nat_join_comm, nat_join_left. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite /Equality.axiom. apply/eqP. apply trueI.", "succ": false}]

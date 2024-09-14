@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros [n1 H1] [n2 H2]. intros [m1 H3] [m2 H4]. intros [n3 H5] [n4 H6]. intros [n5 H7] [n6 H8]. intros R1 R2. intros R3 R4. unfold network_rely in *. intros [k1 P1]. intros [k2 P2]. exists (n + m). split. - exists n. apply R1. - exists m. apply R2.", "succ": false}]

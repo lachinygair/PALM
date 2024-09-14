@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a s a0 t Hrec Hnone. srun best use: new_state_insd_5 unfold: new_state_insd_def_dta.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a s a0 t Hrec Hnone. unfold reconnaissance. unfold reconnaissance in Hrec. unfold MapPut. unfold MapGet in Hnone. rewrite Hnone. apply Hrec.", "succ": true}]

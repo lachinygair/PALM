@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply notCon2wNotCon. exists G, v0. split; intros. - apply freeVarRepT in H0. auto. - split. + auto. + apply expressT1. * apply extendsNN. * auto.", "succ": false}]

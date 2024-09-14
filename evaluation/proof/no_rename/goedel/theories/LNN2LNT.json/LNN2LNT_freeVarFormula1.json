@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f v Hin. strivial use: LNN2LNT_freeVarFormula.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros f v Hin. unfold freeVarFormula in *. simpl in Hin. auto.", "succ": true}]

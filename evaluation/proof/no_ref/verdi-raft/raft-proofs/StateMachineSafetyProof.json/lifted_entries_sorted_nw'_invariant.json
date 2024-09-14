@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. unfold lifted_entries_sorted_nw'. intros p Hin Heq. specialize (H p Hin). simpl in Heq. inversion Heq. subst. auto.", "succ": false}]

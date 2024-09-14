@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold sym, Sigma, subset in *. intros s H. apply incl_tran with (sym P). - pose proof sym_mono P _ (incl_app_left _ _ _ _ H) as H1. apply H1. - apply incl_app_left.", "succ": false}]

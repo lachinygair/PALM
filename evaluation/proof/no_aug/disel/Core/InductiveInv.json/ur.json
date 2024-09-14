@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. rewrite <- map_comp. rewrite <- sort_map. apply map_inj_uniq. apply sort_uniq. apply map_inj_in_uniq. intros. apply send_step_coh_t. apply IHn.", "succ": false}]

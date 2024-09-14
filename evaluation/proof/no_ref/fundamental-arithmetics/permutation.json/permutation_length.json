@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A l l' H. induction H. - reflexivity. - simpl. qauto use: insertion_length.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A l l' H. induction H. - reflexivity. - simpl. f_equal. apply IHPermutation.", "succ": true}]

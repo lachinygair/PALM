@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X ll k H. apply list_split_length in H. destruct H as [l [r [Hll Hlen]]]. exists (last ll). exists l. exists r. split. - rewrite Hll. apply (concat_cons X l (removelast(ll))). - rewrite Hlen. apply (Permutation_length ll l).", "succ": false}]

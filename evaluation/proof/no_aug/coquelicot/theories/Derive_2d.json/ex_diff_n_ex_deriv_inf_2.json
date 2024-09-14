@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n p k H f x y H0. apply ex_diff_n_ex_deriv_inf_1 with (f:=fun z => partial_derive p k f z y) (x:=x). apply H0.", "succ": false}]

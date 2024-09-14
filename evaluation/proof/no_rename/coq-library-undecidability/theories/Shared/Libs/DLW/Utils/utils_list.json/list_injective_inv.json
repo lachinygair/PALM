@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold list_injective. intros H. split. - intros H1 H2. apply (in_list_injective_1 x ll). + intro H3. apply H1. apply in_or_app. left. apply H3. + apply H. - intros l1 a m b r H. apply H.", "succ": false}]

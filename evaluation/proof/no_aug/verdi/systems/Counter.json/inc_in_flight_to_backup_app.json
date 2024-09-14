@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ys. unfold inc_in_flight_to_backup. rewrite app_length. rewrite app_length. rewrite app_length. simpl. rewrite count_occ_app. reflexivity.", "succ": false, "time": 8.54580653500011}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite Hv. rewrite Am_iAm_mod. rewrite mult_sub_distr_l. rewrite expoZ_opp1. destruct (expoZ (l - j) (-1)); auto. rewrite Z.mul_1_l. reflexivity.", "succ": false}]

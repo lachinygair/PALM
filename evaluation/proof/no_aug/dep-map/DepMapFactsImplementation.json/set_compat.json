@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x y v dom\u2081 dom\u2082 m\u2081 m\u2082 Hin\u2081 Hin\u2082 Heq H. rewrite H. intros Heq'. unfold set. destruct (X.eq_dec x y) as [Hxy|Hxy]. - subst. apply eq_trans with (m\u2082:=m\u2082); auto. apply eq_sym, H. - reflexivity.", "succ": false}]

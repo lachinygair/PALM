@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. split; intro H. - pose proof sepcon_false_AX as [H1 _]. specialize (H1 x). eapply provable_derivable in H1. apply H1. - pose proof sepcon_false_AX as [_ H2]. specialize (H2 x). eapply provable_derivable in H2. apply H2.", "succ": false}]

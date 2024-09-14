@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a x. unfold ex_pseries, ex_series. split; intros [l Hl]. - exists l. apply (is_series_mult a x l). auto. - exists l. apply (is_series_mult _ x _). auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Nat.divide_antisym, Nat.divide_factor_l unfold: divides.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. destruct H1 as [q1 H1]. destruct H2 as [q2 H2]. rewrite H1 in H2. apply Nat.div_unique_exact; auto.", "succ": true}]

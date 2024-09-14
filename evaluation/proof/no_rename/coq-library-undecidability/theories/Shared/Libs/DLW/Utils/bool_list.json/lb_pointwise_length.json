@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f n m l H1 H2. rewrite -> (firstn_le_length bool (length l) (lb_pointwise l m)) by auto. rewrite -> (firstn_length_le bool (lb_pointwise l m) n) by auto. apply Le.le_trans with (length (firstn (length l) (lb_pointwise l m))). - apply firstn_le_length. - auto.", "succ": false}]

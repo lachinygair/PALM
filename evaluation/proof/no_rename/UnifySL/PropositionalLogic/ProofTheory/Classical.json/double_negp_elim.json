@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold not. intros H. apply deduction_double_negp_intros. apply deduction_modus_ponens with (~~ x). - apply deduction_double_negp_intros. auto. - apply deduction_double_negp_intros. apply H.", "succ": false}]

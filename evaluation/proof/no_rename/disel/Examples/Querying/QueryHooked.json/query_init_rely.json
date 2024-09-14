@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. intros. intros. intros. intros. intros. intros H1 H2. destruct H1 as [H1 H1']. destruct H2 as [n H2]. exists n. unfold network_rely, network_rely' in H2. destruct H2 as [n H2]. constructor.", "succ": false}]

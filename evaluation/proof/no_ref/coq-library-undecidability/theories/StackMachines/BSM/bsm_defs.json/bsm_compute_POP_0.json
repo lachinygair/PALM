@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sauto q: on.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold sc. intros. destruct H1. - inversion H1; subst. unfold vec_update. simpl. rewrite H0. apply in_bsm_sss_pop_0. - inversion H1.", "succ": true}]

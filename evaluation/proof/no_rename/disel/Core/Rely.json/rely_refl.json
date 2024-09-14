@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this s Hcoh. unfold Coh, network_rely in Hcoh. intros [Hv [Hvs [Hhc [Hd Hcoh']]]]. unfold network_rely. exists 0. split. - reflexivity. - split. + auto. + auto.", "succ": false}]

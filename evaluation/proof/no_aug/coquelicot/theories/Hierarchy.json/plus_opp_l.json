@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. scongruence use: plus_comm, plus_opp_r unfold: zero.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. rewrite <- AbelianGroup.ax4. rewrite AbelianGroup.ax3. reflexivity.", "succ": true}]

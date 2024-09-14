@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros M A B O M' H1 H2 H3 H4 H5. apply R_double. apply angle_inscrit with O; auto.", "back_times": 0, "succ": false, "time": 72.84968566894531}]

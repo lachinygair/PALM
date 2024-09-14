@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. induction H. - simpl. induction k. ++ simpl. reflexivity. ++ simpl. rewrite IHk. reflexivity. - simpl. induction k. ++ simpl. reflexivity. ++ simpl. rewrite IHk. reflexivity.", "back_times": 0, "succ": false, "time": 89.36591696739197}]

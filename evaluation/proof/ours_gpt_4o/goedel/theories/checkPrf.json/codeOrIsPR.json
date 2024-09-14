@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply wellFormedFormulaCorrect2. - apply codeArityFIsCorrect1. - apply codeArityFIsCorrect2. - apply codeArityRIsCorrect1. - apply codeArityRIsCorrect2.", "back_times": 0, "succ": false, "time": 35.81903028488159}]

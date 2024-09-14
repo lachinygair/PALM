@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_append_entries'. intros. unfold handleAppendEntries in *. repeat break_let. repeat find_injection. unfold raft_net_invariant_append_entries in *. repeat break_let. repeat find_injection. match goal with | H: _ = _ |- _ => rewrite H end. auto.", "succ": false}]

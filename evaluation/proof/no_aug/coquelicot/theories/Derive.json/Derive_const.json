@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a x. unfold Derive. simpl. apply is_derive_unique. apply is_derive. unfold filterdiff. unfold scal. unfold mult. unfold Rdiv. rewrite Rabs_Rabsolu. apply Zeq_bool_neq. apply Rsqr_0_uniq. reflexivity.", "succ": false}]

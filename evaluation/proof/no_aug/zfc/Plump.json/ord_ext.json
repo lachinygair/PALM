@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E E' E'' p' p'' H1 H2. apply INC_sound_left with (E := E') (E' := E''); try auto. apply INC_sound_right with (E := E) (E' := E'); auto.", "succ": false}]

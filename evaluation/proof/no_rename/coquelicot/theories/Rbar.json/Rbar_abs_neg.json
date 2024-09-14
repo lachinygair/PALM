@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. unfold Rbar_le, Rbar_abs, Rbar_opp in *. destruct x. - intros _. unfold Rbar_opp. simpl.", "succ": false}]

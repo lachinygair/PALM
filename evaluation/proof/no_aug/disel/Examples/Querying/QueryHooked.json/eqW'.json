@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite (joinAC _ (plab pc \\\\-> pc)). rewrite (joinAC _ (plab pq \\\\-> pq)). rewrite -joinA. reflexivity.", "succ": false}]

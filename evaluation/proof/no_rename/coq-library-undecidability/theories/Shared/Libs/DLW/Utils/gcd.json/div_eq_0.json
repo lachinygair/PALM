@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: div_prop, Nat.mul_0_l, Nat.add_0_l.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hp n Hnp. intros H. unfold div. apply div_prop with (n := 0) (r := n). + lia. + apply H.", "succ": true}]

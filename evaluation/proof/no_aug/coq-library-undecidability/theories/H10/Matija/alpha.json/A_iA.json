@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite MZ_det_A. rewrite <- (alpha_2 Hb_nat). rewrite <- A_mult. rewrite iA. rewrite alpha_fix_3. rewrite <- A_plus_mult. reflexivity.", "succ": false}]

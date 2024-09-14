@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction vv using list_injective_rect. - apply in_list_injective_0. - intros x l Hnin Hl_inj. apply in_list_injective_1. + apply Hnin. + apply Hl_inj.", "back_times": 0, "succ": false, "time": 25.894618034362793}]

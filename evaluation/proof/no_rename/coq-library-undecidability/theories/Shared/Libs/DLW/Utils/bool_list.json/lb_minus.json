@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros b a H. specialize lb_complement with a b as Hcomp. destruct Hcomp as [c [Hperp Heq]]. exists c. split. - apply Hperp. - symmetry. apply Heq.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y H. apply rel_prime_sym in H. apply rel_prime_div with (r := Z.opp x) in H. apply rel_prime_mult with (c := -1) in H. apply rel_prime_sym in H. apply H. apply Z.divide_opp_l. apply Z.divide_refl.", "succ": false}]

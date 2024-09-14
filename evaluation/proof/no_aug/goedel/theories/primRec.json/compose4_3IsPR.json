@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 Hf1 f2 Hf2 f3 Hf3 g Hg. unfold isPR in *. apply compose4_2IsPR with (f1 := f1) (f2 := f2) (g := fun w x y : nat => g (f1 w x y) (f2 w x y)). - auto. - apply compose2_2IsPR with (f := f3) (g := g). + auto. + apply compose2_1IsPR; auto.", "succ": false}]

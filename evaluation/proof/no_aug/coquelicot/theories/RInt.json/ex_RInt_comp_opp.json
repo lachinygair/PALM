@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: is_RInt_comp_opp unfold: ex_RInt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f a b H. unfold ex_RInt in H. destruct H as [If H]. apply ex_RInt_ext with (g:= fun y => opp (f (- y))) in H. - apply ex_RInt_comp_opp in H. apply H. - intros x Hx. unfold opp. rewrite Ropp_involutive. reflexivity.", "succ": true}]

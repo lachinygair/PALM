@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: upb_sum_bound, upb_eq_degree.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y H1 H2 H3 H4. intros H5 H6 H7 H8. intros H9. apply (le_trans (degree m x + degree m y) (ndN m) (dir_eq_ndN m x y H1 H2 H3 H4 H5 H6 H7 H8 H9)).", "succ": true}]

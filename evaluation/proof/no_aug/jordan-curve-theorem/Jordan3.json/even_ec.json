@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m H.", "apply Zeven_ex_iff."], "tactic": "rewrite <- Z19 in H.", "exn": "The reference Z19 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros m H. apply Zeven_ex_iff. rewrite <- Z19 in H. unfold Zeven. now rewrite H.", "succ": false}]

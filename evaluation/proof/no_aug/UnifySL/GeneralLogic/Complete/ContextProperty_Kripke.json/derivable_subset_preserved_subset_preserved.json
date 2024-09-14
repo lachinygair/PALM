@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P derivable_subset_preserved Phi Psi incl_Phi_Psi P_Psi. apply (derivable_subset_preserved P derivable_subset_preserved Psi Phi). - intros x derivable_Psi_x. apply (incl_Phi_Psi x derivable_Psi_x). - apply P_Psi.", "succ": false}]

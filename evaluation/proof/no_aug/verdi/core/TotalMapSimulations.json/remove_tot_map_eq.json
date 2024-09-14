@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h failed. rewrite map_ext_in. - apply remove_map_comm. - intros n Hin. apply tot_map_name_bijective.", "succ": false, "time": 5.835677476000001}]

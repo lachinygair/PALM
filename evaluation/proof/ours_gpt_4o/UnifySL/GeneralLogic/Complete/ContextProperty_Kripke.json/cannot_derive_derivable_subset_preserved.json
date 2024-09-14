@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x Phi Psi HIncl HCann. unfold cannot_derive in *. intro D. apply HCann. apply HIncl. apply D.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x Phi Psi HIncl HCann. unfold cannot_derive in *. intro D. apply HCann. apply HIncl. apply D.", "back_times": 0, "succ": true, "time": 0.8577332496643066}]

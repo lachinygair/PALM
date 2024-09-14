@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l. exists (list_repeat Zero 0 ++ One :: l). constructor.", "succ": false}]

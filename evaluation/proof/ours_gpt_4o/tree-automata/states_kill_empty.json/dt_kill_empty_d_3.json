@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction n. - intros d a t H1 H2. sauto lq: on depth: 3. - srun best use: dt_kill_empty_d_2.", "repairs": ["", "", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction n. - intros d a t H1 H2.", "back_times": 2, "succ": true, "time": 11.855041265487671}]

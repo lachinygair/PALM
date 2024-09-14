@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: R_dist_eq, is_lim_seq_Reals unfold: Rgt, Un_cv.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a. apply is_lim_seq_ext with (u:= fun _ : nat => a). intros. reflexivity. apply is_LimSup_seq_const.", "succ": true}]

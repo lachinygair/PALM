@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply: find_some. apply/eqP. by rewrite /= validU.", "succ": false}]

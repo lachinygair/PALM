@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite msum_S. rewrite msum_0. rewrite monoid_unit_r. reflexivity. sfirstorder depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite msum_S. rewrite msum_0. rewrite monoid_unit_r. reflexivity.", "back_times": 0, "succ": true, "time": 0.4474325180053711}]

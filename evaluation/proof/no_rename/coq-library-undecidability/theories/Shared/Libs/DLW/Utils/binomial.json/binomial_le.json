@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold binomial. intros H. rewrite <- (binomial_thm n p H). rewrite Nat.mul_assoc.", "succ": false}]

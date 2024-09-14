@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Sup_seq, Inf_seq, Rbar_opp. rewrite Rbar_opp_glb_lub. apply is_sup_opp_inf_seq.", "succ": false}]

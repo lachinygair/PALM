@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st client id c out st' ps H_handleClientRequest P H_P H_P_entry IH_P_entry. apply H_P. apply H_P_entry. apply IH_P_entry; try auto.", "succ": false}]

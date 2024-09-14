@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro H. inversion H; subst. sauto q: on dep: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intro H. unfold not in H. inversion H; subst. inversion H0. - unfold list_bool_succ in H1. - apply (list_bool_succ_neq _ _ H1) in H2. contradiction.", "succ": true}]

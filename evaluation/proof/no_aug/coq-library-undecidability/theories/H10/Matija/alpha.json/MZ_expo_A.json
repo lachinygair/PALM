@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold mscal, A. repeat (rewrite A_is_sum; rewrite alpha_2; [|auto]). rewrite expo22_scal. rewrite <- Diag22_expo. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net Hrefined. unfold currentTerm_votedFor_votesWithLog. intros h t n Hterms. fcrush depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros net Hrefined. unfold currentTerm_votedFor_votesWithLog. intros h t n Hterms.", "succ": true}]

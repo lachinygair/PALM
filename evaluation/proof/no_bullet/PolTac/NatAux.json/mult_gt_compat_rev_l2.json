@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. srun best use: mult_lt_compat_rev_l2 unfold: gt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply gt_trans with (p * m).", "succ": true}]

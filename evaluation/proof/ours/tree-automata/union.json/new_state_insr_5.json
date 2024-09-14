@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros p a t r.", "unfold new_state_insr_def_dta."], "tactic": ["apply r.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros p a t r. unfold new_state_insr_def_dta. apply r.", "succ": false}]

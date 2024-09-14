@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_client_request in *. unfold leaders_have_leaderLogs_strong in *. intros. apply leaders_have_leaderLogs_strong_invariant; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y Hinv Hprec. pose proof (expf_y0_y_1 m x y Hinv Hprec) as Hexpf. unfold MF.degree. rewrite <- Hexpf. reflexivity.", "back_times": 0, "succ": false, "time": 171.85007190704346}]

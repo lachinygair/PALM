@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y."], "tactic": "apply AbelianGroup.axiom1.", "exn": "The reference AbelianGroup.axiom1 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros x y. apply AbelianGroup.axiom1.", "back_times": 0, "succ": false, "time": 62.91943025588989}]

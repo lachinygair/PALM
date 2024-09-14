@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 d1 H0 H1. unfold preDTA_ref_ok in *. intros a s c pl b H2 H3 H4. unfold MapMerge. apply u_merge_ref_ok; auto.", "succ": false}]

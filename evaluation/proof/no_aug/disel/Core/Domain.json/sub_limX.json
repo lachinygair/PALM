@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "assert (Hlim: lim (ubysval (sval u)) \\In s).", "exn": "The reference ubysval was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "assert (Hlim: lim (ubysval (sval u)) \\In s). { apply: (sval u). } apply: Hlim.", "succ": false}]

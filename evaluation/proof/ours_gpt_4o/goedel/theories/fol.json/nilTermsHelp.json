@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. rewrite H. apply Tnil.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros n H. rewrite H. apply Tnil.", "back_times": 0, "succ": true, "time": 0.6285767555236816}]

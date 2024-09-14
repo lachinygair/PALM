@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. apply nat2Zp_mult. apply nat2Zp_minus. apply Hj.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold refined_raft_net_invariant_init, in_any_log_term_was_created. intros. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_init, in_any_log_term_was_created. intros. apply H. auto.", "succ": true}]

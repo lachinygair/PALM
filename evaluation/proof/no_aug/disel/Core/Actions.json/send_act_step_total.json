@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct S as [Coh_S send_safe_S can_send_S all_hooks_fire_S]. exists s, msg. constructor. repeat split. - apply Coh_S. - apply send_safe_S. - apply can_send_S. - apply all_hooks_fire_S.", "succ": false}]

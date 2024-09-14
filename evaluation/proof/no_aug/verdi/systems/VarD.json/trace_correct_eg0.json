@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply TCApp. apply TCnil. unfold interpret. simpl. repeat rewrite <- app_assoc. rewrite rev_app_distr. simpl. rewrite inputs_with_key_app. simpl. rewrite app_nil_r. reflexivity.", "succ": false, "time": 2.0896856370000023}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold msg_refined_raft_net_invariant_timeout'. unfold msg_refined_raft_net_invariant_timeout in *. intros. specialize (H p). apply H in H1. apply H1 in H0. apply H0 in H2. apply H2 in H3. apply H3 in H5. apply H5 in H4. auto.", "succ": false}]

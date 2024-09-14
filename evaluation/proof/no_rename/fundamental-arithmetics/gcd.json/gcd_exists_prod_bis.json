@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. destruct (gcd_exists_prod x) as [d Hd]. exists d. apply Hd.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x. destruct (gcd_exists_prod x) as [d Hd]. exists d. apply Hd.", "succ": true}]

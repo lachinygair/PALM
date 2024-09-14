@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Zp_mult_zero, Zp_invertible_cancel_l, Zp_mult_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hp y x Hx_inv. intros H. apply Zp_invertible_cancel_l with (x := x); auto.", "succ": true}]

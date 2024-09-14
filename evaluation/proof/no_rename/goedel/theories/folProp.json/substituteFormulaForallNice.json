@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros v a z1 z2 H q. unfold substituteFormulaForall. apply eq_sig_uncurried. intros p. destruct v as [vn | vm]. + simpl. reflexivity. + specialize (H (forallH vm a) p q). simpl in H. injection H as H'. apply H'.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction d using mon_ind. - intros a b c. destruct a. destruct b. destruct c. reflexivity. - intros a b c. destruct a as [da na ma]. destruct b as [db nb mb]. destruct c as [dc nc mc]. simpl. f_equal. ++ rewrite IHd. reflexivity.", "back_times": 0, "succ": false, "time": 33.961830854415894}]

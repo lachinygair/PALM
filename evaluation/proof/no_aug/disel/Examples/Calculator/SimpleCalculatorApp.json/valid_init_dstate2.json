@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct init_dstate2 as [sv sd] eqn:H_init. unfold valid, PCM.valid_op. simpl in H_init. apply validUn.", "succ": false}]

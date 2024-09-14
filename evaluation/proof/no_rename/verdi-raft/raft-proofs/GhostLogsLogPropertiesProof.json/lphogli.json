@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rmri. unfold log_properties_hold_on_ghost_logs_interface. intros net Hmsg. apply Hmsg.", "succ": false}]

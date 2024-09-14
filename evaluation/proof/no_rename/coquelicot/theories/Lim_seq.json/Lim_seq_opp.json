@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u. rewrite Lim_seq_correct'. rewrite Lim_seq_correct'. rewrite LimSup_seq_opp. rewrite LimInf_seq_opp. reflexivity.", "succ": false}]

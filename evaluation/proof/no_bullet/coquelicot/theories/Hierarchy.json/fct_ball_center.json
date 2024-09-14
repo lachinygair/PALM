@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x e t. apply (ball_center (x t) e).", "repairs": ["", ""], "exceptions": [{"ctx": ["intros x e t."], "tactic": "intros t'.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros x e t. unfold fct_ball. intros t'. apply (ball_center (x t) e).", "succ": true}]

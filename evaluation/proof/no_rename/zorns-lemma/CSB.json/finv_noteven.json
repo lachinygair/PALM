@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Y X f g f_inj g_inj y not_Y_even. exists (ginv y). apply (f_inj). unfold not. intros H. apply not_Y_even. rewrite H. apply g_Y_even. apply not_f_img. apply not_Y_even.", "succ": false}]

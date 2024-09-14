@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hvalid Hfind Hneq Hmsgspec. unfold consume_msg. rewrite Hfind. apply Hmsgspec.", "succ": false}]

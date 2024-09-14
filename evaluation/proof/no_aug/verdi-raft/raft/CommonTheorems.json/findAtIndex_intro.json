@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l i e H_sorted H_inl H_eq_e H_unique. apply findAtIndex_elim in H_eq_e. destruct H_eq_e as [H_eq_index H_in_l]. apply H_eq_index. apply H_inl. apply H_inl. apply H_sorted. apply H_inl. apply H_eq_index.", "succ": false}]

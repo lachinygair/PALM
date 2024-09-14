@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros es lo i H1 H2. destruct H1 as [H1 H3]. destruct H2 as [H4 H5]. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros es lo i H1 H2. destruct H1 as [H1 H3]. destruct H2 as [H4 H5]. exists (mkEntry 0 0 0 i 0 0). split. - reflexivity. - apply (H1 i). split. + apply H4. + lia.", "succ": true}]

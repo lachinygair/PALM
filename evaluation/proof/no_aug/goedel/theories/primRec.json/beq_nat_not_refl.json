@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. unfold Nat.eqb. destruct (a =? b) eqn:E. - apply Reflect.Nat_eqb_eq in E. contradiction. - sfirstorder depth: 3.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. unfold Nat.eqb. destruct (a =? b) eqn:E. - apply Reflect.Nat_eqb_eq in E. contradiction. - reflexivity.", "succ": true}]

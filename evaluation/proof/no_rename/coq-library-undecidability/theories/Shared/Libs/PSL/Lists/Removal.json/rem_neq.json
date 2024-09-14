@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: in_rem_iff, rem_in.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X y x A H1 H2. intros H3 H4. apply rem_in. apply in_rem_iff. split. - apply H2. - apply H3.", "succ": true}]

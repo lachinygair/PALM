@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y u. unfold ring_theory in R_is_ring. destruct R_is_ring as [R_eq Rone_eq Rzero_eq Rminus_eq Rmult_eq Rplus_eq Ropp_eq]. rewrite -> Rplus_eq. rewrite -> Rplus_eq. rewrite <- Rmult_eq. rewrite <- Rmult_eq. rewrite <- Rminus_eq. reflexivity.", "succ": false}]

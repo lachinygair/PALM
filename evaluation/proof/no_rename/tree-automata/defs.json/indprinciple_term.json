@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: indprinciple_3_2, term_ind, high_aux_0, high_aux_1.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros P H t. apply indprinciple_3_0.", "succ": true}]

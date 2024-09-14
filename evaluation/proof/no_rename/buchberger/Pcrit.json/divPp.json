@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3use: Term, list.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros."], "tactic": "unfold Term, list.", "exn": "Cannot coerce list to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold Term, list. intros. auto.", "succ": true}]

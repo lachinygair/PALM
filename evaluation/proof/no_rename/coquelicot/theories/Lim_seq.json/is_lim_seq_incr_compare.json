@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u l Hlim Hu. intros n. pose proof (is_lim_seq_le_le _ _ _ _ Hu Hlim) as Hle. apply Rle_trans with (u n). - apply Rle_refl. - apply Hle.", "succ": false}]

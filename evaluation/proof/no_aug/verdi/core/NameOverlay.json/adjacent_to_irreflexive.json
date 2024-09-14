@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Irreflexive, adjacent_to. intros x H. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Irreflexive, adjacent_to. intros x H. destruct H.", "succ": true, "time": 1.6774590340000088}]

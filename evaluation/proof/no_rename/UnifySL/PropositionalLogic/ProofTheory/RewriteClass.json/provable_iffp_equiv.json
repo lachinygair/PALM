@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold Equivalence.", "exn": "Cannot coerce Equivalence to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold Equivalence. split. - intros x y. split. + intros H. apply derivable_provable in H.", "succ": false}]

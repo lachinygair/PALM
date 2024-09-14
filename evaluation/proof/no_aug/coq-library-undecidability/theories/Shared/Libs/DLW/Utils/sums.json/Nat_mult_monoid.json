@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply (mk_monoid nat Init.Nat.mul 1 monoid_unit_l monoid_unit_r monoid_assoc).", "succ": true}]

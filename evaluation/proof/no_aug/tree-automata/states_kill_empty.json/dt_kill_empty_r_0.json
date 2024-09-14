@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold dt_kill_empty_def_1. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold dt_kill_empty_def_1. unfold Nat.sqrt_up_0. rewrite Nat.mul_0_l, Nat.sqrt_up_square, Nat.add_0_l. auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H1 H2. srun best use: Z.mul_le_mono_nonpos_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply Z.mul_le_mono_nonpos. - apply H2. - apply H1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold seq_step. unfold seq_step in *. unfold seq in *. unfold foldr. rewrite pairmap_cat. rewrite foldr_cat. rewrite (head_behead l). simpl. rewrite Rmax_comm. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a la ls p H1 H2 n m plp H3 H4 H5 H6. apply pl_produit_path_incl_def_2. split; [apply H1 | apply H2 | apply pl_produit_path_incl_def_3 with n m; assumption].", "succ": false}]

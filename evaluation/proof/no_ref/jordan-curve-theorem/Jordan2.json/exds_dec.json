@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s z. induction s. - right. intros Hcontra. inversion Hcontra. - destruct (eq_nat_decide x z). + left. left. apply e. + destruct IHs. * left. right. apply o. * right. intros H. inversion H.", "succ": false}]

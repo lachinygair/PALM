@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros b a lb la x H1 H2 H3 H4. unfold is_pseries, PS_mult. apply Series_correct. apply filterlim_plus. apply (is_pseries_Reals _ _ _ _ H1). apply (is_pseries_Reals _ _ _ _ H2).", "succ": false}]

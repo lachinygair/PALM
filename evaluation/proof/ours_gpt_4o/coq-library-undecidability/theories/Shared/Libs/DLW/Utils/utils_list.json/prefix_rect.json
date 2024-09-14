@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction l as [| x l]. - intros H. apply HP0. - intros H. apply prefix_inv in H as [H1 H2]. subst. apply HP1. ++ apply H2. ++ apply IHl. apply H2.", "back_times": 0, "succ": false, "time": 77.11498689651489}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z i H1 H2 p. exists (i mod p). split. - rewrite <- (Nat.add_0_r i) at 1. rewrite <- Nat.mul_1_l at 1. rewrite Nat.mod_add; auto. rewrite Nat.mod_small; auto. apply Nat.lt_succ_diag_r. - apply Nat.mod_upper_bound; auto.", "succ": false}]

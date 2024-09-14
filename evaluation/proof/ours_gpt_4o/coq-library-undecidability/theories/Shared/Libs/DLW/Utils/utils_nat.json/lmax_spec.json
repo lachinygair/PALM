@@ -1,0 +1,1 @@
+[{"history": {"proof": "split. - intros H. apply list_max_le. auto. - intros H. apply list_max_le. auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "split. - intros H. apply list_max_le. auto. - intros H. apply list_max_le. auto.", "back_times": 0, "succ": true, "time": 0.22601008415222168}]

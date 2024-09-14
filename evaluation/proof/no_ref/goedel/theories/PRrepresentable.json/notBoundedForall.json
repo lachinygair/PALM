@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P b dec not_all. assert (exists x : nat, ~ (P x)). { apply Classical_Pred_Type.not_all_ex_not. auto. } destruct H as [n not_P]. exists n. split. - unfold lt. apply PeanoNat.Nat.lt_neq. intro abs. apply not_P. subst. auto. - auto.", "succ": false}]

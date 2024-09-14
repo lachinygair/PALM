@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a H1 H2. hauto use: mult_is_one unfold: divides.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a H1 H2. unfold not, divides. intros [q H3] H4. apply H1. transitivity (1 * q). + rewrite mult_comm. rewrite H3. reflexivity. + exists q. reflexivity.", "succ": true}]

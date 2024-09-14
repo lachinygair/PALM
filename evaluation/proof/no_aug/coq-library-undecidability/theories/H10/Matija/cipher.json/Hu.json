@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite <- Hf1_2, <- Hf1_0. rewrite <- Hf1_0 in Hf1_1. rewrite Hf1_2 in Hf1_1. rewrite Hf1_2. rewrite Hf1_1. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold refined_raft_net_invariant_init, leaders_have_leaderLogs_strong in *. scongruence depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_init, leaders_have_leaderLogs_strong in *. red in rri. red in rri. apply rri.", "succ": true}]

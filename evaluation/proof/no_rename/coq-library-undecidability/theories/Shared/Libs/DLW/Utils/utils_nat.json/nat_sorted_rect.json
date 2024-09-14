@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P0 HP0 HP1 HP2 l H. induction H. - apply HP0. - destruct l. + apply HP1. + apply HP2. * apply nat_sorted_head_inv in H. apply H. * apply IHnat_sorted. apply nat_sorted_cons_inv in H. apply H.", "succ": false}]

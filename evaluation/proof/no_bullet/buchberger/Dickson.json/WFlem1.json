@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply wf_inverse_image; [apply lt_wf | apply wfgt].", "succ": false}]

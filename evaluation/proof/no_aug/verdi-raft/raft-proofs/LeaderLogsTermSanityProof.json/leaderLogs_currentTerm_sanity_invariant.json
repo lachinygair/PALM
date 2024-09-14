@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_ref. unfold leaderLogs_currentTerm_sanity. intros h t log H_in. apply H_in.", "succ": false}]

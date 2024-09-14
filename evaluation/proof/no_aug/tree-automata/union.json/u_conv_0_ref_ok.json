@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d H. unfold udta_conv_0. unfold preDTA_ref_ok in *. intros a s c pl b H1 H2 H3. apply H with (a:=a) (s:=s) (c:=c) (pl:=pl) (b:=b). auto. apply H with (a:=c) (s:=pl) (c:=a) (pl:=b) (b:=s0). apply H2. apply H1. auto. auto. auto.", "succ": false}]

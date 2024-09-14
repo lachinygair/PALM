@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. apply not_superset_preserved_subset_preserved. apply can_derive_superset_preserved.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros x. apply not_superset_preserved_subset_preserved. apply can_derive_superset_preserved.", "back_times": 0, "succ": true, "time": 0.5035932064056396}]

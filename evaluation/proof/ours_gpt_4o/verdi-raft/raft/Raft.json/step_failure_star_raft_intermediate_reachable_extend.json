@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f net f' net' tr H H0. induction H using step_failure_star_raft_intermediate_reachable. - auto. - eapply RIR_step_failure. + apply IHstep_failure_star_raft_intermediate_reachable. apply H0. + apply s.", "back_times": 0, "succ": false, "time": 73.28037714958191}]

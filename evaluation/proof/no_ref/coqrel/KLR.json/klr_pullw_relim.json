@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: apply_candidate_subrel, klr_pullw_rintro, apply_candidate.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply_candidate R m n P Q Q'. apply_candidate_subrel R m n P Rc Rg x0 y0. klr_pullw_rintro f R w0 x0 y0.", "succ": true}]

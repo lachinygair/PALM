@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. destruct H as [Ha | Hb]. - right. apply Ha. - left. apply Hb.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. destruct H as [Ha | Hb]. - right. apply Ha. - left. apply Hb.", "back_times": 0, "succ": true, "time": 1.355090856552124}]

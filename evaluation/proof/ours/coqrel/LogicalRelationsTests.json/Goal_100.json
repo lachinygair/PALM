@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R f H_mono x y H_rel. unfold Monotonic in H_mono. unfold flip. apply H_mono. apply H_rel.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A R f H_mono x y H_rel. unfold Monotonic in H_mono. unfold flip. apply H_mono. apply H_rel.", "succ": true}]

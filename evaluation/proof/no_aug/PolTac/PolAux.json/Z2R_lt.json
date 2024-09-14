@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p q H. hauto use: Z2R_correct, IZR_lt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p q H. apply Rlt_le. apply Z2R_le. apply Z.lt_le_add_lt with (n := p) (m := q) (p := 0) (q := 0). apply H. rewrite Z.add_0_r. rewrite Z.add_0_r. apply Z.le_refl.", "succ": true}]

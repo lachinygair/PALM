@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f pr_f g pr_g. unfold isPR in *. apply compose2_1IsPR with (f := f) (g := g); auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold TraverseFunctorial in *. rewrite <- traverse_functorial with (f:=f) (g:=g) (t:=t) (l:=l). auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a l1 Hin_a_l1. exists (fst (partition (fun x => if in_dec a l1 then false else true) l1)). apply in_permutation_ex. apply in_dec.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply pi1_2IsPR.", "exn": "Unable to unify \"isPR 2 (fun a _ : nat => a)\" with \"isPR 2 codeIn\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply pi1_2IsPR.", "succ": false}]

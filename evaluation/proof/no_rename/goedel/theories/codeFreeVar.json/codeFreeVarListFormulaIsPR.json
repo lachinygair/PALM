@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR, codeFreeVarListFormula. intros L codeF codeR f H. unfold codeFreeVarListFormula. auto.", "succ": false}]

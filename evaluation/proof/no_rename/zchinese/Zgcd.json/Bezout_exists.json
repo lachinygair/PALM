@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b."], "tactic": "unfold verify_BezoutZ.", "exn": "Cannot coerce verify_BezoutZ to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros a b. unfold verify_BezoutZ. intros u v. intros H. exists u, v. apply H.", "succ": false}]

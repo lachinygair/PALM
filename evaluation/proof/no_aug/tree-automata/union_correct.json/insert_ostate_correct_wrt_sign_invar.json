@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a s sigma H1 H2 a0 p H3. specialize (H1 a s H3). specialize (H2 a p H3) as [n [H4 H5]]. unfold insert_ostate. destruct s eqn:E. - simpl. eapply MapPut_state_correct. apply H1. apply H2. - simpl. apply H1.", "succ": false}]

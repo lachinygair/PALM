@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. revert m. induction H. - intros. inversion H0. simpl. reflexivity. - intros. inversion H1; subst. simpl. rewrite H4. apply IHp_incl. auto. - intros. inversion H1; subst. simpl. apply IHp_incl. auto.", "back_times": 0, "succ": false, "time": 62.81175351142883}]

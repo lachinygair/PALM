@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. unfold have_gcdZ. exists 1%Z. apply Znumtheory.Zis_gcd_intro; try apply Znumtheory.Zdivide_1_r. intros x H1 H2. apply Znumtheory.Zdivide_1_l.", "succ": false}]

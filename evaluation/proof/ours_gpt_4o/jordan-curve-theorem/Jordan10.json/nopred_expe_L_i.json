@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m i k x y z Inv Exd NotPred t Lt. unfold t. apply expe_top_ind with m z i. - apply Inv. - apply Exd. - apply exd_f_1. + apply Inv. + apply Exd. - apply Lt.", "back_times": 0, "succ": false, "time": 121.40271711349487}]

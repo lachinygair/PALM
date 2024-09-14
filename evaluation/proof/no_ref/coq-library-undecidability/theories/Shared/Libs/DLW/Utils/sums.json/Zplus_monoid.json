@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "ruby apply mk_monoid; intros x y z; unfold Z.add, Z.mul, Z.sub, Z.opp, Z.eq; rewrite Z.add_0_l, Z.add_comm, Z.add_assoc, Z.mul_1_l, Z.mul_comm, Z.mul_assoc, Z.mul_add_distr_r, Z.sub_diag; auto.", "succ": true}]

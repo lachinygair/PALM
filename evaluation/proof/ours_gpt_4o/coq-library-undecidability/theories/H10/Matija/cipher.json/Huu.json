@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "subst u2. rewrite H21. apply const_u2_meet with (f := f1). - apply Hl''. - intros i Hi. apply Hf1_0. lia. - intros i j Hij. apply Hf1_1. lia. - apply H2w. - apply Hu. - specialize (Hh_0). lia. - intros i Hi. reflexivity.", "back_times": 0, "succ": false, "time": 32.85056257247925}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hsafe. unfold server_send_safe in Hsafe. destruct Hsafe as [Hserv _]. unfold HServ in Hserv.", "back_times": 0, "succ": false, "time": 168.93220162391663}]

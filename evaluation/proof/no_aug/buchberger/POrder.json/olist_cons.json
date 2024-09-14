@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l a b H1 H2. induction H1. - auto. - apply eqT_compat_ltTl with (c:=a) in H. apply ltT_dec in H0 as [H0|H0]; auto. + apply IHpX; auto. + apply ltT_dec in H0 as [H0|H0]; auto. * apply ltT_dec in H0 as [H0|H0]; auto. * contradiction.", "succ": false}]

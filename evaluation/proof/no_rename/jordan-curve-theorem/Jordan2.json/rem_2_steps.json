@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z s Hmap sr nr Hcard. unfold exds. simpl. intros Hcard_sr. apply Nat.lt_le_pred in Hcard_sr. apply Nat.lt_succ_r in Hcard_sr. apply ex_i_aux with (t:=Iter (f m) (ndN m - card s) z) in Hcard_sr; auto. destruct Hcard_sr as [i [Hi1 Hi2]]. exists i. split; auto.", "succ": false}]

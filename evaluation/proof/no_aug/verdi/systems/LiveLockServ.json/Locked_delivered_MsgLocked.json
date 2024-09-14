@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i. induction i. - unfold message_delivered_label. intros. inversion H. rewrite H2. apply Locked_enables_MsgLocked. - unfold message_delivered_label. intros. inversion H. rewrite H2. apply Locked_enables_MsgLocked.", "succ": false, "time": 3.4049420599999394}]

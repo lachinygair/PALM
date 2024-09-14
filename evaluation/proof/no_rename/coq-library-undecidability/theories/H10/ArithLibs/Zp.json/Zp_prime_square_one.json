@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Zp_mult_one, Zp_prime_square_eq_square unfold: Zp_one.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hp x Hprime. intros H. split. - intros Hx. left. apply H. - intros Heq. destruct (Zp_prime_square_eq_square x Op Hprime) as [Hx | Hy]. + auto. + rewrite <- Heq. symmetry. auto.", "succ": true}]

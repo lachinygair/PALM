@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold appendEntries_leader in *. intros. apply H0 with (p:=p) (t:=t) (leaderId:=leaderId) (prevLogIndex:=prevLogIndex) (prevLogTerm:=prevLogTerm) (entries:=entries) (leaderCommit:=leaderCommit) (h:=h) (e:=e) in H. apply H.", "succ": false}]

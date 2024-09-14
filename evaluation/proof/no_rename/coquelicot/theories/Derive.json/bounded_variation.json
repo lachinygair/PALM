@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros dh h y x D H. assert (H1: forall z, x < z < y -> Rabs (z - x) <= Rabs (y - x)). { intros z Hz. apply Rabs_def1. lra. } specialize (MVT_gen h x y dh H1). intros [c [H2 H3]]. apply Rabs_def2 in H2. rewrite H2. destruct (H c) as [H4 _]. split; auto.", "succ": false}]

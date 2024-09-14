@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n H d a t H1 H2. unfold dt_kill_empty_def_1 in *. intros H3 H4. apply H with (d:=d)(a:=a)(t:=t). - apply Nat.le_trans with (m:=term_high t); auto. - apply H3; auto. - apply H4; auto.", "succ": false}]

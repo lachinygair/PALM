@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z H1 H2. apply Nat.le_trans with (m := card (Iter_rem m z)); [apply upb_pos_aux; assumption | apply Nat.le_refl].", "succ": false}]

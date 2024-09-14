@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply filterlim_Ropp_left.", "exn": "The reference filterlim_Ropp_left was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply filterlim_Ropp_left.", "back_times": 0, "succ": false, "time": 32.78926610946655}]

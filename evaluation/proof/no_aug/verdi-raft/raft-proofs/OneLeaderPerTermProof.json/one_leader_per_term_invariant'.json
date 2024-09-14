@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hvotes Hcronies. apply one_leader_per_term_invariant; auto.", "succ": false}]

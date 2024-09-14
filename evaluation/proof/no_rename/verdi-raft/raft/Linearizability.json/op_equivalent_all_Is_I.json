@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l k H x Hx. inv Hx; simpl. - apply op_equiv_cons, H. left. reflexivity. - eapply op_equiv_trans. + eapply op_equiv_cons, H. left. reflexivity. + apply op_equiv_move. apply good_op_move_cases in H0 as [?|[?|(?&?&?)]]; subst; auto. apply H. left. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold Reflexive. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold Reflexive. intros Hrefl1 Hrefl2 x. destruct Hrefl1 as [H1 _]. destruct Hrefl2 as [_ H2]. split. - apply H1. - apply H2.", "succ": true}]

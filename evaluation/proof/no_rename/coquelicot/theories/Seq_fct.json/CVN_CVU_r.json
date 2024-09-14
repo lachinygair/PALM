@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros fn r CVN_r x Hx. intros. destruct (CVN_r fn r) as [An [l [H1 H2]]]. apply (CVU_dom_Reals fn (fun x0 => Series (fun n => fn n x0)) x r). intros eps Heps. destruct (CVU_dom fn (Boule x r) eps Heps) as [N HN]. exists N. intros n y Hn Hb. apply HN. auto.", "succ": false}]

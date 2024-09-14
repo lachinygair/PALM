@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply pos_invert with (P := fun _ => X). simpl. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "apply pos_invert with (P := fun _ => X). simpl. auto.", "back_times": 0, "succ": true, "time": 0.13675212860107422}]

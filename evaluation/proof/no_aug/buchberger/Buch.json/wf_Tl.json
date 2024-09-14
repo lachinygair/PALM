@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold well_founded. intros x. induction x as [|x' IHx]. - constructor. intros y H. inversion H. - constructor. intros y Hy. inversion Hy; subst; apply IHx.", "succ": false}]

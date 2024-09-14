@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite (distr_l k x y y). rewrite (distr_r x (scal k y) y). rewrite (distr_r x y (scal k y)). reflexivity.", "succ": false}]

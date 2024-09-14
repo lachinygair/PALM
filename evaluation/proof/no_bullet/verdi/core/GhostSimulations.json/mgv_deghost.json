@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: network.", "repairs": ["not_evaluable"], "exceptions": [{"ctx": [], "tactic": "unfold network.", "exn": "Cannot coerce network to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold network.", "hammer_times": 0, "succ": true, "time": 1.8141870498657227}]

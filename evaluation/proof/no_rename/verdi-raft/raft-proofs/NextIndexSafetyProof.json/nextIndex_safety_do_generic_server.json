@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_do_generic_server. intros orig_base_params one_node_params raft_params aersi si net h h' Heq. apply nextIndex_safety with (orig_base_params:=orig_base_params) (one_node_params:=one_node_params) (raft_params:=raft_params) (net:=net) in Heq. apply Heq.", "succ": false}]

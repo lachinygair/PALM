@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c H. intros H0. sfirstorder use: N.add_cancel_l.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c H. intros H0. intro H1. apply H0. rewrite N.add_comm. rewrite H1. reflexivity.", "succ": true}]

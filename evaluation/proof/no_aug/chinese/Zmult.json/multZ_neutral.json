@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold neutral, IdZ, multZ, IZ in *. sfirstorder depth: 3use: mult_IZ, neutral_add, add_IZ_succZ.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold neutral, IdZ, multZ, IZ in *. rewrite mult_IZ, add_IZ_succZ. apply neutral_add.", "succ": true}]

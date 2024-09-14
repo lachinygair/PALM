@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A p. destruct (non_dist_chain A p) as [dist | non_dist]. - left. apply dist. - right. apply non_dist.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: leb_refl.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply leb_refl.", "exn": "Unable to unify \"\u27d9\" with \"\u27d8\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply leb_refl.", "back_times": 0, "succ": true, "time": 0.08017826080322266}]

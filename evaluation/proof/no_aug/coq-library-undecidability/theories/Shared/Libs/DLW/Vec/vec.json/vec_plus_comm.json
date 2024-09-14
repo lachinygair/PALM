@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply vec_pos_ext. intros.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros. unfold vec_plus. apply vec_pos_ext. intros. rewrite vec_pos_plus. reflexivity.", "succ": false}]

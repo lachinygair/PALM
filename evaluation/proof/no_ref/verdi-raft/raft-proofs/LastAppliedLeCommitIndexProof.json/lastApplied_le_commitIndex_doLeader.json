@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_do_leader. intros. specialize (H net st' ps' d h os d' ms H0 H1 H2 H3 H4 H5). unfold lastApplied_le_commitIndex in H. apply H.", "succ": false}]

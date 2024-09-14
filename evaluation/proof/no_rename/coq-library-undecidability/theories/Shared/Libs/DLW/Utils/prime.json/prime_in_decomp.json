@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p l Hprime Hforall Hlprod. apply (Forall_forall prime l Hforall) in Hprime. apply Hprime.", "succ": false}]

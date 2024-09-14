@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros z c. unfold coPrimeBeta. srun best use: gt_Sn_O.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros z c. unfold coPrimeBeta. simpl. auto.", "succ": true}]

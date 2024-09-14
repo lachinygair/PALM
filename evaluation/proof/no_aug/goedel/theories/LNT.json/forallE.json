@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T f v t SysPrf_T_forallH_v_f. srun best use: forallE unfold: Term, System, SysPrf, forallH, Formula.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros T f v t SysPrf_T_forallH_v_f. apply (forallE LNT T (forallH v f) v t SysPrf_T_forallH_v_f).", "succ": true}]

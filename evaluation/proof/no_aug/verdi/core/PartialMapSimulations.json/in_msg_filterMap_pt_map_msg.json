@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l m' m0 H1 H2. srun best use: filterMap_In unfold: msg, pt_map_msg.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros l m' m0 H1 H2. apply filterMap_In; auto.", "succ": true, "time": 1.3683621090000315}]

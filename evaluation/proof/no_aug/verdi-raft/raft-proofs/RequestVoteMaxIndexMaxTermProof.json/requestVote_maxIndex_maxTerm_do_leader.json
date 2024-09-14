@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_do_leader in *. intros net st' ps' gd d h os d' ms HdoLeader Hrefinement Hreachable HnwState Hst'H Hps'. apply Hrefinement; auto.", "succ": false}]

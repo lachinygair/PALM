@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros w this l s' s m tm to b z Hneq Hstep Hfind. exists b. split. - apply step_consume_other with (from := this); auto. - intros Hb. apply Hb.", "succ": false}]

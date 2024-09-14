@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold expansion1 in *. intros. apply ctrl_a with (R := R) (S := S); auto. apply mkctrl.", "succ": false}]

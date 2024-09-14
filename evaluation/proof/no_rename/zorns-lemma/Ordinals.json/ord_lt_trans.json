@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros alpha beta gamma H1 H2. apply ord_lt_le_trans with (beta := beta); auto. srun best use: ord_lt_le.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros alpha beta gamma H1 H2. apply ord_lt_le_trans with (beta := beta); auto.", "succ": true}]

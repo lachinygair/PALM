@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold getLocal. simpl. intros. inversion H. symmetry in H1. apply find_mark in H1. destruct H1 as [msg' [H2 H3]]. unfold st in H2. unfold getSt_server. rewrite H2. auto.", "succ": false}]

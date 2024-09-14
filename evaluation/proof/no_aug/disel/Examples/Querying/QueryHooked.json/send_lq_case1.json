@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold all_hooks_fire, send_step, getStatelet, msg_just_sent in *. unfold local_indicator in *. unfold core_state_to_data in *. unfold Coh in *. intuition.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A leZ leZ_refl leZ_antisym leZ_trans. unfold antisym. intros x y H1 H2. generalize (leZ_antisym x y H1 H2). intros H. unfold leZ in *. destruct x, y; simpl in *; try contradiction; auto.", "succ": false}]

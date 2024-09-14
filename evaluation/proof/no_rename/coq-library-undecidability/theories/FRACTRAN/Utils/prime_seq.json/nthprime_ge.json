@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m n H. unfold nthprime. induction H. - simpl. apply lt_plus_trans. + apply Nat.lt_lt_0. auto. + apply Nat.add_nonneg_pos. * apply Nat.lt_le_incl. auto. * apply Nat.lt_add_pos_l. apply Nat.lt_lt_0. auto. - simpl. apply lt_plus_trans. + auto. + apply lt_S_n. apply IHle.", "succ": false}]

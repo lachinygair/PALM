@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hlen Hincl Hincl'. apply lb_mask_sind with (l := l) (l0 := m). - intros. apply in_or_app. right. auto. - intros. apply in_app_or in H. destruct H. + left. auto. + right. apply Hincl. auto. - auto. - auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> /andP [HCneg [existC prec_cond]]. split. - move: (HCneg) => /eqP Hcn_eq. rewrite Hcn_eq mem_cat. apply/orP. left. apply/orP. by left. - move: (HCneg) => /eqP Hcn_eq. rewrite Hcn_eq mem_cat. apply/orP. by right.", "back_times": 0, "succ": false, "time": 34.86531043052673}]

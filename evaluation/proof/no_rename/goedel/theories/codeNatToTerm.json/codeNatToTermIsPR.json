@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold codeNatToTerm."], "tactic": "rewrite codeNatToTermCorrectLNN.", "exn": "Found no subterm matching \"codeNatToTerm ?M1475\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "unfold codeNatToTerm. rewrite codeNatToTermCorrectLNN.", "succ": false}]

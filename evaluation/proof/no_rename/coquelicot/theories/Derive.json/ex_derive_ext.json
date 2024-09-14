@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f g x H1 H2. strivial use: is_derive_ext unfold: ex_derive.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros f g x H1 H2. intros t. intros H3 H4. destruct H2 as [lf H2]. exists lf. apply (is_derive_ext_loc f g x lf). - auto. - auto.", "succ": true}]

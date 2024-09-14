@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold sum_n_m. srun best use: @iter_nat_point, @plus_zero_r unfold: AbelianGroup.plus, plus, iter_nat, AbelianGroup.sort.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold sum_n_m. unfold iter_nat. simpl. rewrite plus_zero_r. rewrite plus_zero_r. reflexivity.", "succ": true}]

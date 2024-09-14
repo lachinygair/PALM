@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros U V H1 H2 f H3. induction H3. - apply H1. apply H2. auto. - apply (impE V) with (LNN2LNT_formula A). + apply IHPrf1; auto. + apply IHPrf2; auto. - apply (forallE V) with v t. + apply IHPrf; auto. + apply H1. apply H2. auto.", "succ": false}]

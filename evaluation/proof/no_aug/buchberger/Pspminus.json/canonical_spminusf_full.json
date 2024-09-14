@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b nZb p q canon_a canon_b div_ab. unfold spminusf. apply spminusf_extend; auto.", "succ": false}]

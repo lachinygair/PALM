@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l i i' H1 H2. rewrite <- removeAfterIndex_subseq. reflexivity.", "succ": false}]

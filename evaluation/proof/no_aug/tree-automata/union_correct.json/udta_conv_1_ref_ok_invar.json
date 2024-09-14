@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. unfold udta_conv_1. unfold preDTA_ref_ok in H. srun best use: u_conv_1_ref_ok unfold: preDTA_ref_ok, udta_conv_1, addr_in_dta_check.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d H. unfold udta_conv_1. unfold preDTA_ref_ok in H. unfold udta_conv_1_aux. apply H.", "succ": true}]

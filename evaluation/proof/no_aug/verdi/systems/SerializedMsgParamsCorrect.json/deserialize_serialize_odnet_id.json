@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net. unfold deserialize_odnet, serialize_odnet. extensionality src. extensionality dst. unfold serialize. simpl. rewrite ByteListReader_stream_to_list_inverse. - apply filterMap_id. - apply serialize_deserialize_id.", "succ": false, "time": 6.7177609779998875}]

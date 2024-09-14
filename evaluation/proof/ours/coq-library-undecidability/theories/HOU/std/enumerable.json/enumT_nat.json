@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "constructor.", "exn": "Unable to find an instance for the variable L_T.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "constructor.", "succ": false}]

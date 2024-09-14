@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. srun best use: incl_l_nil.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. apply incl_nil in H. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros n l n' l' x y H1 H2 H3. intros H4 H5 H6. apply (f_equal snd) in H3. rewrite H1 in H3. rewrite H2 in H3. symmetry. apply (f_equal snd) in H3. apply H3.", "succ": false, "time": 6.837871798000037}]

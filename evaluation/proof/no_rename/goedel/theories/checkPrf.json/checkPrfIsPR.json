@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros f Hf f' Hf' g Hg. exists (fun x y => g (f x) (f' x)). intros x. exists (fun y => (fun x y => g (f x) (f' x)) x y). split. - apply Hg. - split; apply Hf.", "succ": false}]

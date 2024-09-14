@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. hauto use: Nat.le_succ_diag_r, Nat.nle_succ_diag_l.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros n H."], "tactic": "intros H'.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros n H. unfold not. intros H'. inversion H'.", "succ": true}]

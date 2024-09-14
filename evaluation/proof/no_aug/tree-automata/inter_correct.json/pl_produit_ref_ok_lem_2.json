@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. unfold pl_produit_ref_ok_1. intros b n H. sauto lq: on dep: on depth: 3use: pl_produit_ref_ok_lem_1.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros p. unfold pl_produit_ref_ok_1. intros b n H. apply pl_produit_ref_ok_lem_1 in H. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n m p H1 H2. apply Zlt_gt. apply Zlt_gt in H2. apply Zgt_trans with (m:=0). - apply Zmult_gt_compat_r; auto. - apply Zmult_gt_compat_r; [assumption | apply Z.lt_gt].", "succ": false}]

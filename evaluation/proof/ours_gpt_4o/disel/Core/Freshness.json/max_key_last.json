@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hx Hin. apply: last_key_max. - done. - apply: (Hin x). move: Hx. apply: in_dom_valid. done.", "back_times": 0, "succ": false, "time": 49.026965856552124}]

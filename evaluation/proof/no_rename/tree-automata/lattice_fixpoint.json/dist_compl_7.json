@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x y z H1 H2 H3. sauto lq: on depth: 3use: chain_concat_m.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A x y z H1 H2 H3. intros H4 H5. intros H6. apply H5. intros H7. apply H4. apply chain_concat_m. - apply H7. - apply H3. + apply H1. + apply H6. apply H4. * apply H7. * apply H2.", "succ": true}]

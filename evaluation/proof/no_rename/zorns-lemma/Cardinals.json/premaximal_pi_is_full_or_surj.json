@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H1 H2. destruct x as [pi_dom pi_func pi_inj]. intros H. right. intros y. exists (pi_func x y). assert (Hin: In (pi_dom x) (pi_func x y)) by auto. exists (pi_func x y), Hin. reflexivity.", "succ": false}]

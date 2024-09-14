@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on use: not_prime_1, str_prime.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intro H. unfold qs. unfold not. intro contra. inversion contra as [? contra1]; subst. pose proof not_ps_1 as HP. unfold not_ps_1 in HP. specialize HP with n. contradiction HP; auto.", "succ": true}]

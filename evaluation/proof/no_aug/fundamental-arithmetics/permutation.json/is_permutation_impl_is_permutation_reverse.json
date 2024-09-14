@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A l l' H. hauto lq: on depth: 3use: rev_involutive, is_permutation_reverse_impl_is_permutation.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A l l' H. apply is_permutation_reverse_impl_is_permutation in H. rewrite rev_involutive in H. rewrite rev_involutive. apply H.", "succ": true}]

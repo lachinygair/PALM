@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros y z H1 H2 H3 H4 H5 H6. unfold not. intros contra. apply (fast_Zred_factor5 (Z.add (Z.mul z z) (Z.mul y y)) (Z.sub (Z.mul z z) (Z.mul y y)) (is_sqr) contra). apply sqr_spos. intro. apply Z.lt_irrefl in H7. contradiction. exists (Z.add z z). ring.", "succ": false}]

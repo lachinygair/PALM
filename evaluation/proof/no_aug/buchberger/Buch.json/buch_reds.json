@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: pbuchf_Inv unfold: buch.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros P a b H1 H2. apply reds0. - apply spolyp. - unfold In in *. apply H1. - unfold In in *. apply H2.", "succ": true}]

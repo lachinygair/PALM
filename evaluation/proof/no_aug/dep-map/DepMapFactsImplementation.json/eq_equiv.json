@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A dom. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A dom. unfold Equivalence. constructor. - intros x m1 m2 H. apply eq_refl. - intros x m1 m2 H. apply eq_sym. apply H. - intros x y z m1 m2 m3 H1 H2. apply eq_trans with (m2 x) ; auto.", "succ": true}]

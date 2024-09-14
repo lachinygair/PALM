@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. split. - apply (sepcon_false_AX L minL pL sepconL Gamma minAX sepconAX). - apply (sepcon_false_AX L minL pL sepconL Gamma minAX sepconAX).", "succ": false}]

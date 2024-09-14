@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold match_index_leader_interface. intros orig_base_params one_node_params raft_params naertsi net H_reachable. apply (match_index_leader_invariant orig_base_params one_node_params raft_params net H_reachable).", "succ": false}]

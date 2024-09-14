@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": "rewrite Zp_inj.", "exn": "Unable to find an instance for the variable y.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros x. unfold Zplus. rewrite Zp_inj. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z H1 H2. strivial use: exd_Iter_f.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z H1 H2. apply exd_Iter_f with (n := Iter_upb m z). auto. auto.", "back_times": 0, "succ": true, "time": 52.75410318374634}]

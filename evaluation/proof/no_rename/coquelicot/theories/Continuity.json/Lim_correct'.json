@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: ex_finite_lim_correct, Lim_correct unfold: is_finite.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f x H. unfold ex_finite_lim, is_lim. intros [l Hlim]. exists l. apply Hlim.", "succ": true}]

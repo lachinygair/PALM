@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "symmetry. apply lb_join_eq. - apply lb_join_comm. - apply lb_join_idem.", "succ": false}]

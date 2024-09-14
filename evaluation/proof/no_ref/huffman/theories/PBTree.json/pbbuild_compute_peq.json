@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros t H_distinct. unfold pbbuild. unfold compute_pbcode. apply fold_right_eq. intros [a b] c H_in. apply pbadd_eq. apply H_in. apply H_distinct.", "succ": false}]

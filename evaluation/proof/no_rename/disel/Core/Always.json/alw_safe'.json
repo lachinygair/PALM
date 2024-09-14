@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros this W A s p sc scs P H. unfold always_sc in H. inversion H as [x | s' p' sc' scs' Hs Hp H']. - apply Hs. - apply H', H.", "succ": false}]

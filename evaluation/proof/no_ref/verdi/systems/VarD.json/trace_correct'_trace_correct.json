@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros trace H. induction H. - apply TCnil. - apply TCApp with (t := t) (i := i) (v := v) (o := o). apply IHtrace_correct. apply H0. apply H1.", "succ": false, "time": 21.288107253999897}]

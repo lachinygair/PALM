@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l i e' H. unfold findAtIndex in H. destruct l. - discriminate. - simpl in H. destruct (eIndex e =? i) eqn:Heq. + inversion H. subst. apply in_eq. + destruct (eIndex e <? i) eqn:Hlt. * discriminate. * apply in_cons. apply H.", "succ": false}]

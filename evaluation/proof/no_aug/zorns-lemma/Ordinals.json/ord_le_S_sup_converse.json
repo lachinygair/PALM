@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros alpha J beta H. exists (existT (fun j : J => ordS alpha <= beta j) projT1 H). apply projT2. Defined.", "succ": false}]

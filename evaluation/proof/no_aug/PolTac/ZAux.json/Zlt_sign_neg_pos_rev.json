@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y H1 H2. qblast use: Z.lt_mul_0, Z.lt_asymm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y H1 H2. apply Zlt_sign_pos_neg_rev; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply Build_votesWithLog_term_sanity_interface. intros. unfold votesWithLog_term_sanity. intros. apply forall_forall. intros. pose proof H1 t l hs h H2. apply H in H0. apply H0 in H3. apply Nat.leb_le in H3. auto.", "succ": false}]

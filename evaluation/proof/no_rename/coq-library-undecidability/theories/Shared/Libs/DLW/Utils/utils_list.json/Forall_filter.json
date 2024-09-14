@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: incl_Forall, incl_filter.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X P f ll H. induction ll. - simpl. constructor. - simpl. destruct H as [H1 H2]. destruct (f a) eqn:F. + constructor. * apply H1. * apply IHll. apply H2. + apply IHll. apply H2.", "succ": true}]

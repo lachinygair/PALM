@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros s ms. unfold singleton_trace. apply fin_stream_n_stream.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros s ms. unfold singleton_trace. apply fin_stream_n_stream.", "back_times": 0, "succ": true, "time": 0.8269119262695312}]

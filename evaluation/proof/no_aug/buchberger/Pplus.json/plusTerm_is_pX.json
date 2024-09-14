@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a p Hcan. srun best use: pluspf_is_plusP, plusP_decomp, plusP_uniq_eqP.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a p Hcan. unfold eqP, eqPf, pluspf, plusP, plusp in *. simpl in Hcan. intro HeqP. apply HeqP.", "succ": true}]

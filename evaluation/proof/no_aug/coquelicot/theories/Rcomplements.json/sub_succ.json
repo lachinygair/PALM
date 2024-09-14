@@ -1,0 +1,1 @@
+[{"history": {"proof": "rewrite Nat.sub_succ. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "rewrite Nat.sub_succ. apply Nat.sub_succ_l. apply le_n_S.", "succ": true}]

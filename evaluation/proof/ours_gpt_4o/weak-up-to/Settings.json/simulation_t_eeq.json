@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros R S H_eq H_sim. apply simulation_eeq with (R := R). - auto. - auto.", "back_times": 0, "succ": false, "time": 80.25564575195312}]

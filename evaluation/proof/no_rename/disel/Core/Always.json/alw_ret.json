@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. srun best use: alw_ret' unfold: always.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H_coherent H_network_rely. apply alw_ret'. - apply H_coherent. - intros s2 H_rely. apply H_network_rely in H_rely. apply H_rely.", "succ": true}]

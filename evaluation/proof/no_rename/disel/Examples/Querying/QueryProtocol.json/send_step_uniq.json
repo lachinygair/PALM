@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. destruct q as [xs ys]. intros H1 H2. split; unfold send_step_fun; destruct (tag == treq) eqn:E1; destruct (tag == tresp && (to, rid) \\in ys) eqn:E2; simpl; try apply H1; try apply H2.", "succ": false}]

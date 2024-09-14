@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply Dec_false with (P := False). intro not_False. apply not_False. constructor.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p H m H0. unfold lattice_bounded_def_1 in *. intros H1. apply H1. apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n0 b x m H. exists (x, m). rewrite H. apply eq_refl.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n0 b x m H. exists (x, m). rewrite H. apply eq_refl.", "back_times": 0, "succ": true, "time": 1.366633653640747}]

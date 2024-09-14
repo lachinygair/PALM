@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H1 H2. apply H2.", "repairs": ["", ""], "exceptions": [{"ctx": ["intros d H1 H2.", "apply H2."], "tactic": "apply H1.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "intros d H1 H2. apply H2. apply H1.", "succ": true}]

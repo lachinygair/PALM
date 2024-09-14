@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto drew: off use: plus_opp_l, plus_zero_l, plus_zero_r, plus_assoc unfold: minus.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros G x. rewrite <- AbelianGroup.ax4. rewrite AbelianGroup.ax3. reflexivity.", "succ": true}]

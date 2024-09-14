@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros f H."], "tactic": "apply compose2_1IsPR in H as H1.", "exn": "Unable to find an instance for the variable g.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros f H. apply compose2_1IsPR in H as H1. apply H1.", "succ": false}]

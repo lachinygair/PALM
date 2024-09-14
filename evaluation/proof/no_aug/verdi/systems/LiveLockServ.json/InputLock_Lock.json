@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s c H_step H_now_occurred_InputLock. unfold now in H_now_occurred_InputLock. unfold next. simpl. unfold lb_step_execution in H_step.", "succ": false, "time": 11.161391183999967}]

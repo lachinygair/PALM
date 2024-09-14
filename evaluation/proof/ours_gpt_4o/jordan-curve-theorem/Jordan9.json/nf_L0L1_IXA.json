@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y x' y' m1 m2 Hinv x_1 y_0 y'0 x'1 y'0b x_1b H1 H2 H3 H4 Heq. apply nf_L0L1_VB with (m := m) (x := x) (y := y) (x' := x') (y' := y'); auto.", "back_times": 0, "succ": false, "time": 105.79768490791321}]

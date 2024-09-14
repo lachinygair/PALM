@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_RInt_gen. intros Hf Hg. unfold is_RInt_gen in Hf, Hg. unfold is_RInt_gen. apply (is_RInt_minus f Fa Fb lf g lg Hf Hg).", "succ": false}]

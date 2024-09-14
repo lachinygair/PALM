@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. pose proof (eqTrans LNT _ _ _ _ (eqSym LNT _ _ _ (PA7 _ 0)) (eqTimes LNT _ _ _ _ (TAut LNT) PA3)). apply (impE LNT _ _ (PA7 _ 0)). apply (existSimp LNT _ 0). apply eqRefl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite Cmult_comm.", "exn": "The reference Cmult_comm was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "rewrite Cmult_comm.", "back_times": 0, "succ": false, "time": 26.136805534362793}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. intros. unfold candidate_term_gt_log. intros h Htype e Hin. apply (candidate_term_gt_log_interface orig_base_params one_node_params raft_params). apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply (R_prime_wf Z Zltac_ltof R_p4).", "exn": "The reference Zltac_ltof was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply (R_prime_wf Z Zltac_ltof R_p4).", "succ": false}]

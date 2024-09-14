@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. auto.", "repairs": ["", ""], "exceptions": [{"ctx": ["simpl."], "tactic": "rewrite dp_size_fix_comp.", "exn": "Found no subterm matching \"dp_size (dp_comp ?M1543 ?M1544 ?M1545)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "simpl. rewrite dp_size_fix_comp. simpl. auto.", "succ": true}]

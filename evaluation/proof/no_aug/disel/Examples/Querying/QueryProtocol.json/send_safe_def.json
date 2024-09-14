@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold send_safe; unfold send_step; split; intros H; destruct H as [b [pf pf']]; exists b; exists pf; apply pf'.", "succ": true}]

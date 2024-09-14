@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: le_not_lt, Nat.lt_eq_cases, Nat.lt_succ_diag_r, lt_S_n unfold: Init.Nat.pred, lt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros n H. discriminate H.", "succ": true}]

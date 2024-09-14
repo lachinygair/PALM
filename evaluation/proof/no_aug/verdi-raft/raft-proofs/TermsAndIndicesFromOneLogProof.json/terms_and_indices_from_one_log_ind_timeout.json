@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_timeout, terms_and_indices_from_one_log_ind in *. intros. unfold terms_and_indices_from_one_log in H0. unfold terms_and_indices_from_one in *. unfold raft_net_invariant_timeout in *. intros. apply H in H2; auto.", "succ": false}]

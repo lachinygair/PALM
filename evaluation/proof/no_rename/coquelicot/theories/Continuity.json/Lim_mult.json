@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros g f x H1 H2 H3. unfold Lim, ex_lim, ex_Rbar_mult in *. intros H4 H5 H6. apply is_lim_unique. apply is_lim_mult. - apply Lim_correct'. apply ex_lim_mult; auto. - apply Lim_correct'. apply ex_lim_mult; auto. - auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ys k H1 H2. intro H3. apply (NoDup_remove_2 (get_op_input_keys (xs ++ I k :: ys)) (I k) (xs ++ ys)). - apply H1. - apply get_op_input_keys_complete, H2.", "succ": false}]

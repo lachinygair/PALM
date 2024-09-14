@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H_eq H_pos. rewrite <- H_eq. apply H_pos.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros H_eq H_pos. rewrite <- H_eq. apply H_pos.", "back_times": 0, "succ": true, "time": 0.12001156806945801}]

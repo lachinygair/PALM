@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Riemann_sum. unfold SF_map. simpl. rewrite foldr_pairmap.", "succ": false}]

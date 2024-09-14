@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Z.gt_wf.", "exn": "In environment a : Z Unable to unify \"Acc (fun n m : Z => m < n <= ?M1837) a\" with \"Acc R_fact a\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Z.gt_wf.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X H. unfold discrete in *. intros x y. apply decidable_iff in H as [H]. apply H.", "succ": false}]

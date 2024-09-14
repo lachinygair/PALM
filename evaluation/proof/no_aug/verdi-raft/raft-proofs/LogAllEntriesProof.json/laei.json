@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. apply Build_log_all_entries_interface. intros net H. apply H.", "succ": false}]

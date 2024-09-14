@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H_valid H_complete_U H_complete_W H_consistent H_not_hooked. apply Injection.Inject with (E := W). - split; [apply hook_completeL with (K := K) | apply H_complete_W]. apply validAL with U.", "back_times": 0, "succ": false, "time": 102.94471383094788}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: sym_word_l.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply sym_word_l.", "exn": "In environment R : stack u, v : string Unable to unify \"v\" with \"u\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply sym_word_l.", "back_times": 0, "succ": false, "time": 27.43600058555603}]

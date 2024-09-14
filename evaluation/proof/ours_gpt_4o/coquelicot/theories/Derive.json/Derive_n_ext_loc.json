@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x."], "tactic": ["apply Derive_Reals.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros x. apply Derive_Reals. apply derive_pt_id.", "back_times": 0, "succ": false, "time": 75.18020582199097}]

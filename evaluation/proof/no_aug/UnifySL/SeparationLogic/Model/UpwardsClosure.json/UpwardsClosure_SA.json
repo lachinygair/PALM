@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold SeparationAlgebra. pose proof (SeparationAlgebra worlds J) as SA_prop. apply SA_prop.", "succ": false}]

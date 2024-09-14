@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Fin.eq_dec.", "repairs": [""], "exceptions": []}, "chat": [], "original": "apply Fin.eq_dec.", "back_times": 0, "succ": true, "time": 0.05575203895568848}]

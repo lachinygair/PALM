@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X m l H1 H2. destruct H1. - intros. left. apply list_has_dup_app_left. auto. - intros. right. eapply perm_list_has_dup; eauto.", "succ": false}]

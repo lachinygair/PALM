@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros v H. strivial use: closedPA1 unfold: In_freeVarSys, ClosedSystem.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros v H. unfold not. intros H0. apply H0.", "succ": true}]

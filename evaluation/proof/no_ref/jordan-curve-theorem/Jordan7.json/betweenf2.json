@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m u v u' v' H1 H2 H3 H4 H5."], "tactic": "intros H6.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros m u v u' v' H1 H2 H3 H4 H5. intros H6. apply or_comm. apply (or_intror _ (conj H5 H6)).", "succ": false}]

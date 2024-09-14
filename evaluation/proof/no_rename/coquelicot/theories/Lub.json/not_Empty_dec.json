@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E H. unfold Decidable.decidable in H. destruct H as [Htrue | Hfalse]. - left. apply Htrue. - right. intros x. apply Decidable.dec_not_not in Hfalse. apply Hfalse.", "succ": false}]

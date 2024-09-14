@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P p Hin HnotEq. hauto use: not_nil_in_polySet_elm unfold: Term, pO inv: eqP.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros P p Hin HnotEq. unfold eqP in HnotEq. destruct Hin. - intro contra. inversion contra. - contradiction.", "succ": true}]

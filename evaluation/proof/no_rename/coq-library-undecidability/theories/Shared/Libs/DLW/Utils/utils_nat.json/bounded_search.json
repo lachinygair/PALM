@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m P H. destruct (le_lt_eq_dec _ _ H) as [Hlt | Heq]. - left. exists m. split. auto. - right. intros. contradiction.", "succ": false}]

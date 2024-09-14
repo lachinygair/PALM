@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold leq, bot, DTbin_make in *.", "exn": "Cannot coerce DTbin.DTbin_make to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold leq, bot, DTbin_make in *. rewrite <- Heqe. apply leq_refl.", "succ": false}]

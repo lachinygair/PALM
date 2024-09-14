@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold vec_zero."], "tactic": "reflexivity.", "exn": "In environment n : nat Unable to unify \"0\" with \"vec_sum (vec_set_pos (fun _ : pos n => 0))\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. unfold vec_zero. reflexivity.", "succ": false}]

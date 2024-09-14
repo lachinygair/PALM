@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros st st' Hmatch Hassoc h Htype. qauto unfold: matchIndex_preserved.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros st st' Hmatch Hassoc h Htype. apply le_trans with (m := maxIndex (log st)). apply Hassoc. auto.", "succ": true}]

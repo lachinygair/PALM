@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold votedFor_moreUpToDate. intros. specialize (H t h h'). intros. apply H with (t:=t) (h:=h) (h':=h') in H1; clear H. destruct H1 as [vl H1]. exists vl. apply H1.", "succ": false}]

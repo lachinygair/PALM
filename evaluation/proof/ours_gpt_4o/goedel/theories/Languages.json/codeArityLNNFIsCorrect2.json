@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. apply codeArityLNTFIsCorrect2. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros n H. apply codeArityLNTFIsCorrect2. apply H.", "back_times": 0, "succ": true, "time": 0.5326709747314453}]

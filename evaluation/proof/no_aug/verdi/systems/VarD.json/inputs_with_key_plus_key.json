@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l k i o H. unfold inputs_with_key; simpl. rewrite filterMap_app. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l k i o H. unfold inputs_with_key; simpl. rewrite filterMap_app. rewrite H. rewrite key_eq_dec_refl. reflexivity.", "succ": true, "time": 0.204460833000212}]

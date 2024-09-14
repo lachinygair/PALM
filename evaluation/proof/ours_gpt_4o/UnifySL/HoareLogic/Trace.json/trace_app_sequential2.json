@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr1 tr2 Hfin Hseq. apply trace_app_sequential1 in Hseq. destruct (is_fin_stream_spec _ Hfin) as [n Hn]. rewrite <- (stream_app_skipn_stream tr1 tr2 n) in Hseq. apply Hseq.", "back_times": 0, "succ": false, "time": 81.60316205024719}]

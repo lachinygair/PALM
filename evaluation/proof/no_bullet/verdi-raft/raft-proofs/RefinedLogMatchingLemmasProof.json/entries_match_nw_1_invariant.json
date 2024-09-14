@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. unfold entries_match_nw_1. intros p t n pli plt es ci p' t' n' pli' plt' es' ci' e e' e'' HIn1 HIn2 Hp Hp'. apply (H net p t n pli plt es ci p' t' n' pli' plt' es' ci' e e' e''). - auto. - auto.", "succ": false}]

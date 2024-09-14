@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p Hp n x H. unfold Zp_invertible in *. destruct H as [i Hi]. exists (mscal Zp_mult Op n i). rewrite Hi. apply Zp_mult_invertible; auto.", "succ": false}]

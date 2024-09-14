@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply H0.", "exn": "The reference H0 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply H0.", "hammer_times": 2, "succ": true}]

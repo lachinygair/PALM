@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net leader Hreach Htype. unfold assoc_default. rewrite <- Htype. auto.", "succ": false}]

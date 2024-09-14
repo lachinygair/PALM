@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros aP R Q i HgenPcP Hnz_i b Hin_b Hnz_b. specialize (HgenPcP i Hnz_i b Hin_b Hnz_b) as Hex. destruct Hex as [c [Hin_c [Hin_Q | Hred]]]. - exists c. auto. - exists c. auto.", "succ": false}]

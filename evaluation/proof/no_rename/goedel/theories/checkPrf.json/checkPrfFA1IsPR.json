@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros f' g Hf' Hg. unfold isPR in Hf', Hg. destruct Hf' as [k1 Hk1], Hg as [k2 Hk2]. exists (fun x => k1 (f' x) (g x)). intros x. apply Hk2. apply Hk1.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net. unfold true_in_reachable. split. - apply locks_correct_implies_mutex. - intros a a' out Hstep Hreach Ha. apply Ha.", "succ": false, "time": 4.271040301000085}]

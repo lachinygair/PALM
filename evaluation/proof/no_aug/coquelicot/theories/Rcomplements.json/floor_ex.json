@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. exists (Z_of_nat (up (Rabs x))). split. - apply Rle_trans with (Rabs x). + apply Rle_abs. + apply archimed. - apply Rlt_le, archimed.", "succ": false}]

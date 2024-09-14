@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P p0 q0 H1 H2 H3 H4 H5 H6. apply (ltP_ind A n (ltM:=ltM) (P:=ltP A n ltM)); auto.", "succ": false}]

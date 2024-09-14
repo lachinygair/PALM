@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (Classical_Prop.classic (Empty E)) as [empty | non_empty]. - right. apply empty. - left. intros contra. contradiction non_empty.", "succ": false}]

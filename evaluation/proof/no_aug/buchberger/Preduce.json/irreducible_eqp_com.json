@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros Q p q H1 H2 H3. unfold irreducible, canonical, eqP in *. intros H4 H5 H6. intros Hq. apply H4 in Hq. destruct Hq as [Hq1 Hq2]. intros Hq3. apply H5 in Hq3. apply H6. split. - intros Hq4. apply Hq1. apply Hq4. - intros Hq5. apply Hq2. apply Hq5.", "succ": false}]

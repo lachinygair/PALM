@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: @plus_opp_r unfold: snd, prod_zero, AbelianGroup.sort, prod_opp, prod_plus, fst.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

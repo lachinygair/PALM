@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h o. unfold outputs_m. destruct h. - simpl. reflexivity. - sfirstorder depth: 3use: outputs_m_inr_nil.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros h o. unfold outputs_m. destruct h. - simpl. reflexivity. - simpl. apply outputs_m_inr_nil.", "succ": true, "time": 0.25823079600013443}]

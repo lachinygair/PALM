@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p H. apply pl_compatible_sym in H. apply pl_compatible_empt_r. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p H. apply pl_compatible_sym in H. apply pl_compatible_empt_r. apply H.", "back_times": 0, "succ": true, "time": 0.5391113758087158}]

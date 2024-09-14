@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refinement H_leader_completeness. unfold leader_completeness. split. - apply leader_completeness_directly_committed_invariant with net; auto. - apply leader_completeness_committed_invariant with net; auto.", "succ": false}]

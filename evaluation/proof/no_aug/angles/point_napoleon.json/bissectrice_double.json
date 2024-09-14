@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: symetrique, transitive, abba, angle_nul, non_zero_pi.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros I A B C H. unfold bissectrice in H. unfold double. rewrite H. apply abba.", "succ": true}]

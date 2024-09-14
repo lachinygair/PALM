@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: Rmult_le_ge_compat_neg_l, Rabs_pos, Ropp_0_ge_le_contravar, Rle_pos_neg, Rabs_right, Rmult_0_r.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 17.179863046854734}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold unzip2. intros. rewrite -map_snd in H0. apply H0.", "succ": false}]

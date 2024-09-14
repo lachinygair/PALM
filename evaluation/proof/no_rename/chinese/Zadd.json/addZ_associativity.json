@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold associativity."], "tactic": "reflexivity.", "exn": "In environment x, y, z : Z Unable to unify \"addZ (addZ x y) z\" with \"addZ x (addZ y z)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. unfold associativity. simpl. reflexivity.", "succ": false}]

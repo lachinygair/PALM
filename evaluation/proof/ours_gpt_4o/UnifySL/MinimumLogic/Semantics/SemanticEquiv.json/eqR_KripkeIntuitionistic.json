@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Kripke.Build_KripkeIntuitionisticSemantics. intro x. scongruence depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply Kripke.Build_KripkeIntuitionisticSemantics. intro x. apply Kripke.denote_closed.", "back_times": 0, "succ": true, "time": 1.2023346424102783}]

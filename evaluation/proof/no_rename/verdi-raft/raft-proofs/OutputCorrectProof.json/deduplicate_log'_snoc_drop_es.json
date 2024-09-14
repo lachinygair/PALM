@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros es ks e e' Hin Heq Heq' Hle. unfold deduplicate_log'. destruct (assoc clientId_eq_dec ks (eClient e)) as [n|]; simpl. - bdestruct (n <? eId e); auto. - auto.", "succ": false}]

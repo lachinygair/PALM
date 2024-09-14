@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. unfold is_LimInf_seq. intros eps. split. - intros N. exists N. split. + lia. + intros n _. ring_simplify. apply Rlt_epsilon. - exists O. intros n _. simpl. auto.", "succ": false}]

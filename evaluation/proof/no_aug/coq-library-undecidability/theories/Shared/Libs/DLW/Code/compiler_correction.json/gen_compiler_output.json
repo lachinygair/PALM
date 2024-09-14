@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros.", "repairs": [""], "exceptions": []}, "chat": [], "original": "simpl. intros. destruct H. apply step_Y_fun with (I := fst p0). apply H0. apply H1. exists w'. split. apply compiler_complete' with (linker := lnk) (P := P) (Q := (iQ, cQ)). intros. apply Hicomp. apply H1. apply H3. apply H4.", "succ": false}]

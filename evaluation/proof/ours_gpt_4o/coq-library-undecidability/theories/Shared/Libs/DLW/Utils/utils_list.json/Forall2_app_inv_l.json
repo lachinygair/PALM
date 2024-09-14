@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. apply Forall2_app_inv_l in H. destruct H as (m1 & m2 & H1 & H2 & Heq). exists m1, m2. split. - apply H1. - split. + apply H2. + apply Heq.", "back_times": 0, "succ": false, "time": 86.22250628471375}]

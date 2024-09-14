@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl H1 H2 H3. unfold pl_path_rec_equiv_0_def, pl_path_rec_equiv_0_def in H3. intros H4 H5. apply pl_path_rec_equiv_0_def. apply rec_consi. - auto. - auto. - apply H3.", "succ": false}]

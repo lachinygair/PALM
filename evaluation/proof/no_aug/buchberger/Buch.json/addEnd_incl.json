@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a L1 L2 H. unfold incl in *. intros x Hx. destruct Hx as [Hx | Hx]. - rewrite Hx. apply addEnd_head. - apply addEnd_tail. apply H. apply Hx.", "succ": false}]

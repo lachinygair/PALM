@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s p H. unfold prec_in_state, taille_0, taille_1 in H. destruct H as [c H]. rewrite H. apply Nat.max_lub_l.", "succ": false}]

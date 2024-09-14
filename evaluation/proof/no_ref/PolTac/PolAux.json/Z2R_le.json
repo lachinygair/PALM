@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p q H. hauto use: Z2R_correct, IZR_le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p q H. unfold Zle, Z2R. rewrite Z2R_correct. apply Rle_trans with (r2 := Z2R q). - apply IZR_le. auto. - apply IZR_le. auto.", "succ": true}]

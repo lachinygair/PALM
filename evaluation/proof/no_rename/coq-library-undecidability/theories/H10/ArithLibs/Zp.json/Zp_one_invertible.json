@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Zp_invertible. hauto lq: on use: Zp_mult_one.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Zp_invertible. intros x. unfold Op. unfold Zp_invertible_spec. intros Hx. unfold is_gcd. unfold rem. unfold Nat.divide. assert (Hp1 : 1 <> 0) by lia. pose proof (is_gcd_1l p) as Hgcd.", "succ": true}]

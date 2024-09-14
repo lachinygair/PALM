@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k Hinv. unfold bij_dart. split. - apply inj_cA_1. auto. - apply surj_cA_1. auto.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m k Hinv. unfold bij_dart. split. - apply inj_cA_1. auto. - apply surj_cA_1. auto.", "back_times": 0, "succ": true, "time": 0.9750847816467285}]

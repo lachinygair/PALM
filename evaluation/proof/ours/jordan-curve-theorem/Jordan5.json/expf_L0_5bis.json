@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["intros m x y z t H1 H2 H3 [H4 | H4].", ""], "exn": "Expects a disjunctive pattern with 0 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros m x y z t H1 H2 H3 [H4 | H4]. - apply H4. - apply expf_trans with (m:=m) (z:=y) (t:=t) (u:=z). +", "succ": false}]

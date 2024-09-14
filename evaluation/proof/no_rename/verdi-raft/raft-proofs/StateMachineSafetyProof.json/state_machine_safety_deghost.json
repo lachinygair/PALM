@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "{ intros net H1 H2. unfold commit_recorded_committed in *. intros H3 H4. split. - apply H1. auto. - apply H2. auto. }", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_timeout, allEntries_leader_sublog. intros net leader e h Htype Hin Heq Hinlog Hterm. intros; specialize (H leader e h Htype Hin Hterm Hinlog). apply H.", "succ": false}]

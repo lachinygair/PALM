@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Q l Hin. srun best use: not_nil_in_polySet_elm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros Q l Hin. unfold not. intros H. inversion Hin as [a p Hcan P|]; subst. unfold inPolySet in H. apply H. exists a, p. split; auto.", "succ": true}]

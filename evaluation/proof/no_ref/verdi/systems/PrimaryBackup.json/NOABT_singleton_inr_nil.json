@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A h. unfold no_output_at_backup_trace. intros. hauto unfold: snd, In, fst, no_output_at_backup inv: prod, name, list.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A h. unfold no_output_at_backup_trace. intros. apply NOABT_nil.", "succ": true, "time": 6.836590587000046}]

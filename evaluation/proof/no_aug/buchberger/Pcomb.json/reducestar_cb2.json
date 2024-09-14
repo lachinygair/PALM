@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b Q H. inversion H as [H1 H2 H3 H4 H5]. srun best use: reduceplus_cb2.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b Q H. inversion H as [H1 H2 H3 H4 H5]. apply CombLinear_1. - apply H3. - apply H4. - apply H5.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Included. unfold T'. apply Union_introl.", "repairs": ["", "", ""], "exceptions": [{"ctx": ["unfold Included.", "unfold T'.", "apply Union_introl."], "tactic": "apply H.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "intros. unfold Included. unfold T'. apply Union_introl. apply H.", "succ": true}]

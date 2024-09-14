@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros sigma p c H1 H2 H3. hauto unfold: locks_correct_locked, valid_locked, at_head_of_queue.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros sigma p c H1 H2 H3. apply at_head_of_queue_intro. rewrite H1. rewrite H2. apply H3.", "succ": true, "time": 1.5254123130000607}]

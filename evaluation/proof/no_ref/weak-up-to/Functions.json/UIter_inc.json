@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold increasing. intros x y H. unfold UIter. srun best use: union_incl, UExp_inc.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold increasing. intros x y H. unfold UIter. apply incl_tran with (UIter F (UIter F x)) ; auto.", "succ": true}]

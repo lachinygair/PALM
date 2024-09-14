@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u li ls Hlimsup Hliminf. unfold is_LimSup_seq in Hlimsup. unfold is_LimInf_seq in Hliminf. unfold Rbar_le. destruct li, ls. - intros. apply Hlimsup. apply Hliminf. - intros. apply Hlimsup. apply Hliminf. - intros. apply Hlimsup. apply Hliminf. - reflexivity.", "succ": false}]

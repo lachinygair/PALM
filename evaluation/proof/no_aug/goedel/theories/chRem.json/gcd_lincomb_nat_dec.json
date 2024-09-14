@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y d Hx Hgcd. exists (exist _ 0 _). simpl. apply Nat2Z.inj_mul. symmetry. apply inj_eq. reflexivity.", "succ": false}]

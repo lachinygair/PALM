@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Forall_cons, Forall_inv, Forall_inv_tail.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X P x ll. split. - intros H. split. + apply (Forall_inv P x ll H). + apply (Forall_inv_tail X P x ll H). - intros [H1 H2]. apply (Forall_cons X P x ll). + apply H1. + apply H2.", "succ": true}]

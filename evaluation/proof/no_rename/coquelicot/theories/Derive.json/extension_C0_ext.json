@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto unfold: extension_C0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros V f b a x Hleax Hlexb. unfold extension_C0. destruct (Rbar_le_dec a x) as [Hax|Hax]; destruct (Rbar_le_dec x b) as [Hxb|Hxb]. - reflexivity. - contradiction. - contradiction. - reflexivity.", "succ": true}]

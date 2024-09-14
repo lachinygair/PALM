@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: div_ge_1, divides_le.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros q p HqNotZero Hdivides. apply divides_le in Hdivides. split. - apply div_ge_1. apply HqNotZero. apply Hdivides. - apply Hdivides.", "succ": true}]

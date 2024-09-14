@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply replaceCompose2 with (n := 2) (a := ltBool) (b := fun a b : nat => ltBool b a) (a' := fun a b : nat => negb (a =? b)) (b' := fun a b : nat => negb (a =? b)) (c := orRel 2 ltBool (fun a b : nat => ltBool b a)) (c' := eqb); auto.", "succ": false}]

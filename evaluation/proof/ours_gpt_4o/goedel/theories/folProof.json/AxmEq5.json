@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply (fol.equal _ (fol.var _ 0) (fol.var _ 1)).", "repairs": [""], "exceptions": []}, "chat": [], "original": "apply (fol.equal _ (fol.var _ 0) (fol.var _ 1)).", "back_times": 0, "succ": true, "time": 0.7627429962158203}]

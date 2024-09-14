@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_intermediate_reachable in *. intros. destruct p; destruct p; simpl in *. intros. destruct net as [ps st]. simpl in *. specialize (H0 ps st). inversion H0. subst. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x z t Hmap Hexd Hm Hn. unfold expe. rewrite <- expe_L_B_top_bot with (m := m) (x := x) (z := z) (t := t) in Hm; simpl in Hm. unfold expe in Hm. rewrite <- Hm. apply expe_L_B_top_bot; auto.", "succ": false}]

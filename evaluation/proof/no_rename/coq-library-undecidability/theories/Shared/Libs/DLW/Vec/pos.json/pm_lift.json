@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intro."], "tactic": "apply r.", "exn": "In environment m, n : nat r : pos_map m n H : pos (S m) Unable to unify \"pos_map m n\" with \"pos (S n)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intro. apply r.", "succ": true}]

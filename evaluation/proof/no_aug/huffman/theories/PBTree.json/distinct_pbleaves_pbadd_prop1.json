@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a a1 l1. induction l1. - apply distinct_pbleaves_Leaf. - simpl. sauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a a1 l1. induction l1. - apply distinct_pbleaves_Leaf. - simpl. apply IHl1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b n ts v T H. unfold PairwiseEqual in H. unfold subAllFormula. unfold substituteTerms. unfold subAllTerms. unfold PairwiseEqual. intros. rewrite H0. rewrite H0 in H. apply addPairwiseEquals with (n:=n); auto.", "succ": false}]

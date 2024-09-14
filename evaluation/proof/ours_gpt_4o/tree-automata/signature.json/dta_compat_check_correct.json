@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d sigma H. destruct d as [p a]. simpl. apply predta_compat_check_correct. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d sigma H. destruct d as [p a]. simpl. apply predta_compat_check_correct. auto.", "back_times": 0, "succ": true, "time": 0.3474605083465576}]

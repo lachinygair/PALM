@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: gcd_sym, gcd_minus, divides_refl unfold: ge, is_cd, is_gcd.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

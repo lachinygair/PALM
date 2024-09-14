@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V F FF x. intros P Q HP HQ. intros Hlinear Hfilterlim. split. - apply Hlinear. - intros x' Hlimx'. apply Hlinear. apply Hfilterlim. apply Hlimx'.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros v u H. unfold Sup_seq. destruct (ex_sup_seq v) as [lv Hv]. destruct (ex_sup_seq u) as [lu Hu]. apply is_sup_seq_le with (v:=v) (u:=u); auto.", "succ": false}]

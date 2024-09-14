@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold list_bool_next. apply ssrfun.svalP.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "unfold list_bool_next. apply ssrfun.svalP.", "back_times": 0, "succ": true, "time": 0.1515519618988037}]

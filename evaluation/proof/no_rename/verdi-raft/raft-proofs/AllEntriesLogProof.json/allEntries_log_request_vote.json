@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params llli aerlli rlmli aellti llci ollpti llsi tsi rri aetsi. unfold refined_raft_net_invariant_request_vote in *. intros xs p ys net st' ps' gd d m t cid lli llt HhandleRequestVote. apply HhandleRequestVote.", "succ": false}]

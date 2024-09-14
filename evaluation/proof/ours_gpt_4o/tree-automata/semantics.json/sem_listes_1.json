@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d hd tl H. apply sem_listes_0 in H. contradiction.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros d hd tl H. apply sem_listes_0 in H. contradiction.", "back_times": 0, "succ": true, "time": 0.6561262607574463}]

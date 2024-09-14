@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros v InFreeVar. inversion InFreeVar. - simpl in *. subst v. omega. - simpl in *. destruct codeSysPrfNot; simpl in *. -- inversion H; subst v. omega. -- inversion H0; subst.", "back_times": 0, "succ": false, "time": 76.42093300819397}]

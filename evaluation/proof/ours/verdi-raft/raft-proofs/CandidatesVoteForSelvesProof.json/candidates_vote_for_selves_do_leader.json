@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold raft_net_invariant_do_leader. intros. unfold candidates_vote_for_selves in *. specialize (H orig_base_params one_node_params raft_params net). apply H. auto.", "succ": false}]

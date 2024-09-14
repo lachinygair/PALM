@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X f. unfold surjective. intros H. destruct H as [Y [f' Hf]]. unfold injective in Hf. unfold not. intros H' H''. apply Hf in H'. subst. apply (ssrbool.elimF (f x = f x) false) in H''. inversion H''.", "succ": false}]

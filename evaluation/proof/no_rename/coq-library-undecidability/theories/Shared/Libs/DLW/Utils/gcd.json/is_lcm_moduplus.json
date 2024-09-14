@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 H3. apply is_lcm_plus in H2. apply is_lcm_modulus in H3. apply is_lcm_plus. - apply H1. - apply H2. - apply H3.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: lem_redln_cons.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros aP R Q a b c H1 H2 H3 H4 H5. intro H6. apply lem_redln_cons with (c := c); auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply SF_rcons_dec.", "exn": "The reference SF_rcons_dec was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply SF_rcons_dec.", "back_times": 1, "succ": false, "time": 63.090031147003174}]

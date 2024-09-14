@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold match_index_all_entries_interface. constructor. intros net Hreach. apply (match_index_all_entries_invariant net). apply Hreach.", "succ": false}]

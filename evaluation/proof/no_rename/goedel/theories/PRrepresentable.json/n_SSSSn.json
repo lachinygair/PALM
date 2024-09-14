@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. hfcrush use: Nat.le_succ_diag_r, Nat.le_trans, Nat.nle_succ_diag_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros n H. discriminate H.", "succ": true}]

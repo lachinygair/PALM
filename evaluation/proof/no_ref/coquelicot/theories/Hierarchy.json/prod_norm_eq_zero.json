@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. unfold prod_norm, zero. destruct x as [u v]. simpl in H. apply eq_prod. apply sqrt_eq_0.", "succ": false}]

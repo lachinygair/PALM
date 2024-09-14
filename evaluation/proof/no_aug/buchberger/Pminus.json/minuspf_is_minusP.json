@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold minusP. intros l1 l2. destruct l1, l2. - apply mnillu1. - apply mnillu2. - apply mnillu1. - apply mmainu1. + unfold ltT. apply ltM_dec. + apply mnillu1.", "succ": false}]

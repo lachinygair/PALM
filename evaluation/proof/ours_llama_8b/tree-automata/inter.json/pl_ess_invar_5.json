@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: plus_le_compat, pl_card_0, Nat.lt_eq_cases, Nat.log2_up_2, Nat.log2_up_eqn0, Nat.add_1_l, pl_ess_invar_0 unfold: lt, pl_essence.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. rewrite <- scal_one. rewrite <- (scal_distr_l one). rewrite plus_zero_r. reflexivity.", "succ": false}]

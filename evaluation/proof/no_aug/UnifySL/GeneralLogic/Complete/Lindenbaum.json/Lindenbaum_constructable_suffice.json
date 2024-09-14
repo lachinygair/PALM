@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold Lindenbaum_constructable. intros Phi H1. apply Lindenbaum_preserve_n with (init:=Phi). - apply H1. - unfold Proper. split. + intros. apply app_same_set. apply H. + intros. apply app_same_set. symmetry. apply H. - intros n. apply Lindenbaum_chain.", "succ": false}]

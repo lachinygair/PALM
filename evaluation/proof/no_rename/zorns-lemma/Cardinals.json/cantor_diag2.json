@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X f H. unfold not. intros H1. apply H. unfold surjective. intros y. specialize (H1 X (fun x : X => f x = y)). destruct H1 as [x H1]. exists x. apply H1.", "succ": false}]

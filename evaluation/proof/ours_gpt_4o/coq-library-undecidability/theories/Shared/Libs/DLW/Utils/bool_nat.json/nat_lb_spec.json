@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply (ssrfun.svalP (nat_lb_full n)).", "repairs": [""], "exceptions": []}, "chat": [], "original": "apply (ssrfun.svalP (nat_lb_full n)).", "back_times": 0, "succ": true, "time": 0.18332767486572266}]

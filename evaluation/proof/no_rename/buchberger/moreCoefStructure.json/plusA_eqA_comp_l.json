@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c H. sfirstorder depth: 3use: plusA_eqA_comp.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c H. transitivity b. - apply plusA_eqA_comp; auto. - apply eqA_sym. apply plusA_eqA_comp; auto.", "succ": true}]

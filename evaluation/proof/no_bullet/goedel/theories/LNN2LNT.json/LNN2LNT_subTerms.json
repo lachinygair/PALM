@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n ts v s. induction ts using Terms_rect. - simpl. reflexivity. - simpl. rewrite LNN2LNT_subTerm, IHts. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros n ts v s. induction ts using Terms_rect. - simpl. reflexivity. - simpl. rewrite LNN2LNT_subTerm, IHts. reflexivity.", "succ": true}]

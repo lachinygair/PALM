@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hin H_inj. unfold list_injective in *. intros l a m b r H. inversion H. rewrite H0 in Hin. contradict Hin. apply In_cons_tl. apply Hin. apply H_inj with (l:=l0)(a:=a)(m:=m)(b:=b)(r:=r). apply H0.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite prime.expand_app. rewrite lb_nat_fix_2. rewrite lb_nat_fix_0. repeat rewrite lb_meet_cons. unfold power. repeat rewrite Nat.mul_add_distr_r. reflexivity.", "succ": false}]

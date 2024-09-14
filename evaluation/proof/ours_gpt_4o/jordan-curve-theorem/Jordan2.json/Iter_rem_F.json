@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros fmap dart sx. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros fmap dart sx. apply (Acc_ind (Rs (fmap := fmap) (dart := dart)) sx). intros sy H IH f. apply IH. simpl.", "back_times": 0, "succ": true, "time": 1.1852092742919922}]

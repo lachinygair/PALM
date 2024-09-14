@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite nat_join_meet_distr_l. rewrite <- nat_meet_assoc. rewrite nat_meet_assoc. rewrite nat_join_meet_distr_l. rewrite nat_join_meet_distr_l. rewrite <- nat_meet_assoc. rewrite nat_join_meet_distr_l. rewrite nat_meet_assoc. rewrite <- nat_join_meet_distr_l. reflexivity.", "succ": false}]

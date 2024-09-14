@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: abba, Chasles, regulier, transitive, symetrique, plus_sym, zero_plus_a, non_zero_pi unfold: double.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros I A B C H1 H2. apply bissectrice_hauteur_isocele with (vec A I) (vec B C); auto.", "succ": true}]

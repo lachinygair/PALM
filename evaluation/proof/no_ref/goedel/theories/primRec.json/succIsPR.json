@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply Nat.add_1_l.", "exn": "Unable to unify \"1 + ?M1412 = S ?M1412\" with \"{p : PrimRec 1 | extEqual 1 (evalPrimRec 1 p) S}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply Nat.add_1_l.", "succ": false}]

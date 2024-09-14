@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold continuous, filterlim in *. intros eps Heps. destruct H as [l Hl]. apply Hl in Heps. apply Heps.", "succ": false}]

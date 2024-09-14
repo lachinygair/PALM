@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m u v u' v' H1 H2 H3 H4 [H5 H6]. apply NNPP; intro H7. right. split. - apply expf_B0_CS_1_b with m v v'; auto. - apply betweenf_expf with m v' v u; auto.", "succ": false}]

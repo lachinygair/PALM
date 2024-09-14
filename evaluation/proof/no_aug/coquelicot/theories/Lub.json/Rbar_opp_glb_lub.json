@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Rbar_glb, Rbar_lub. destruct (Rbar_ex_glb E) as [glb glb_prop]. destruct (Rbar_ex_lub E) as [lub lub_prop]. rewrite (Rbar_opp_involutive (Rbar_lub E)). apply (Rbar_lb_ub E lub).", "succ": false}]

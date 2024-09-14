@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R H x y z t Hxy Hyz Hzt. destruct H as [Hsym Htrans]. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A R H x y z t Hxy Hyz Hzt. destruct H as [Hsym Htrans]. apply (Htrans t y z). - apply (Hsym Hyz). - apply Hzt. - apply Hxy.", "succ": true}]

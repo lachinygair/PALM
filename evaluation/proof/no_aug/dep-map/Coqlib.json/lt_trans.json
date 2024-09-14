@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z H1 H2. unfold lt in *. apply BinNat.N.lt. apply BinNat.N.compare_nlt_iff. unfold BinNat.N.lt in *. eapply BinNat.N.compare_trans. apply eq_sym in H1. apply BinNat.N.compare_nge_iff in H1. apply eq_sym in H2. apply BinNat.N.compare_nge_iff in H2. auto.", "succ": false}]

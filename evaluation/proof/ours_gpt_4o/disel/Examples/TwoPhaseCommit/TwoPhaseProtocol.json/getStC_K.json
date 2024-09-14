@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> /locCn []. case. - move => /eqP [] [] s l0 E1 E2. by apply: hcancelV; rewrite E1; case. - rewrite inE Hnin; discriminate.", "back_times": 0, "succ": false, "time": 37.361398696899414}]

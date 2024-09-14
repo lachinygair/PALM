@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. rewrite <- gamma_invol. apply incl_map. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. rewrite <- gamma_invol. apply incl_map. auto.", "back_times": 0, "succ": true, "time": 0.09792590141296387}]

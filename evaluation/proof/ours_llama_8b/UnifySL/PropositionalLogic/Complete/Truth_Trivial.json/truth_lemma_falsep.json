@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: @ContextProperty_Trivial.maximal_consistent_spec, @sat_falsep, proj2_sig, @ContextProperty_Trivial.maximal_consistent_derivable_closed, @derivable_closed_element_derivable, @consistent_spec unfold: at_least, proj1_sig, falsep.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a p Q H. induction H. exists b, p. reflexivity. sfirstorder depth: 3.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a p Q H. induction H. exists b, p. reflexivity.", "back_times": 0, "succ": true, "time": 1.1706533432006836}]

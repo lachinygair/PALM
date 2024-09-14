@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold monotone, pow. intros n m x y Hleqxy. induction n. - simpl. apply CPO.axiom. - simpl. apply continuous. apply IHn.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l. induction l. - simpl. auto. - simpl. apply le_trans with (m := S a) (n := fold_right Nat.max 0 l). + apply le_n_S. apply IHl. + apply Nat.le_max_l.", "succ": false}]

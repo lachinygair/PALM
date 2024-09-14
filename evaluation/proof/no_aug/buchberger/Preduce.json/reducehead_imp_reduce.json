@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "simplify.", "exn": "The reference simplify was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "simplify. apply reducetop_sp.", "succ": false}]

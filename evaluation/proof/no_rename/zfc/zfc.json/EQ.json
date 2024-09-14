@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y."], "tactic": "apply and4.", "exn": "The reference and4 was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros x y. apply and4.", "succ": false}]

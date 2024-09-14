@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p. unfold mgv_deghost_packet. simpl. reflexivity.", "back_times": 0, "succ": false, "time": 92.83844590187073}]

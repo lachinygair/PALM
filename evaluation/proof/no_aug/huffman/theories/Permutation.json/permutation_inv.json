@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a l1 l2 H. inversion H. subst. apply permutation_nil_inv in H1. subst. apply permutation_nil. apply permutation_trans with (l2 := a::l1). apply permutation_skip. apply permutation_nil. apply H2.", "succ": false}]

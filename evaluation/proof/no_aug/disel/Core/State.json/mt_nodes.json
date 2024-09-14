@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto depth: 3use: domPt, dom0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite /dom. rewrite /dstate. rewrite /empty_dstatelet. rewrite domPt. by apply dom0.", "succ": true}]

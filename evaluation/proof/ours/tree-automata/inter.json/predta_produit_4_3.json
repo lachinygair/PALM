@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intro m."], "tactic": "apply predta_produit_4_def.", "exn": "In environment m : preDTA Unable to unify \"Prop\" with \"predta_produit_4_def m\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intro m. apply predta_produit_4_def.", "succ": false}]

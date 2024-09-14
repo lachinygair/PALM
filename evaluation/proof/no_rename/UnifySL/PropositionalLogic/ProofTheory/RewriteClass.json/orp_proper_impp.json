@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y z. unfold Proper. intros H1 H2. intros p q r. intros H3 H4. unfold orp. unfold Basics.flip in H1. unfold Basics.flip in H2. unfold Basics.impl. apply provable_impp_refl_instance.", "succ": false}]

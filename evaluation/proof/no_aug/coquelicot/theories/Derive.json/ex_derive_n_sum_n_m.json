@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_derive_n_iter_plus in H. apply is_derive_n_ext_loc with (f := (fun y : R => sum_n_m (fun j : nat => f j y) n m)) in H. - apply H. - intros. apply is_derive_sum_n. + intros. apply ex_derive_n_ext with (f := f l) in H0; auto. + apply ex_derive_n_plus; auto.", "succ": false}]

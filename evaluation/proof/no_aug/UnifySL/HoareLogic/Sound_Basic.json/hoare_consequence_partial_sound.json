@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c P1 P2 Q1 Q2 H1 H2 H3. unfold triple_partial_valid in H3. intros s_pre ms_post H4 H5. apply H3. - apply H1. - apply H2. - apply H4. - apply H5.", "succ": false}]

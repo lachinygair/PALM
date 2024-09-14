@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x u v. unfold scal, plus. rewrite ModuleSpace.ax3. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x u v. unfold scal, plus. rewrite ModuleSpace.ax3. reflexivity.", "succ": true}]

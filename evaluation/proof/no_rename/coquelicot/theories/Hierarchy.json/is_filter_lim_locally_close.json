@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: @is_filter_lim_close, locally_filter unfold: is_filter_lim.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros T y x H. unfold is_filter_lim, close in H. intros eps. specialize (H (ball x eps)). unfold locally. exists eps. intros y0 Hball. apply H. exists eps. apply Hball.", "succ": true}]

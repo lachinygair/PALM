@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p. srun best use: minuspf_is_minusP, minusP_refl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p. unfold minuspf. unfold projsig1. unfold minusP. unfold minuspp. rewrite p0_pluspf_r. rewrite pO_pluspf_inv1. reflexivity.", "succ": true}]

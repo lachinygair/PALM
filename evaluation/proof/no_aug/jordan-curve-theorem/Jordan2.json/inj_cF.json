@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m Hmap. unfold inj_dart. intros x y Hx Hy Eq. rewrite <- (exd_cF m x Hmap). rewrite <- (exd_cF m y Hmap). rewrite Eq. reflexivity.", "succ": false}]

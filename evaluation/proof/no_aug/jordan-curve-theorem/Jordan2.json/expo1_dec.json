@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t Hmap Hexd_z. unfold expo1. split. - apply Hexd_z. - destruct (Iter_upb m z) as [| j] eqn: Hj. + right. intro H. destruct H as [j [H1 _]]. inversion H1. + left. exists j. split. * apply Nat.lt_succ_diag_r. * reflexivity.", "succ": false}]

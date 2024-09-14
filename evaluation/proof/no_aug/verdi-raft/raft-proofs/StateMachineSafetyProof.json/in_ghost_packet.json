@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p Hin. unfold In in Hin. unfold deghost. simpl. apply in_map_iff in Hin. destruct Hin as [p_orig [Heq Hin]]. exists p_orig. split. - apply in_map. auto. - auto.", "succ": false}]

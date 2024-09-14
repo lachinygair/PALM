@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold getProtocol. unfold plab. srun best use: prEq unfold: mkWorld, um_pts, getProtocol, protocol, plab inv: option.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold getProtocol. unfold state. unfold getLocal. unfold plab. unfold getLc'. rewrite mem_seq1. reflexivity.", "succ": true}]

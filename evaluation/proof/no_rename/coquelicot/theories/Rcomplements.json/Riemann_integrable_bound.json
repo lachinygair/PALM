@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b H. specialize (H (mkposreal 1 Rlt_0_1)). destruct H as [phi [psi [H1 H2]]]. exists (RiemannInt_SF psi). intros x H3. apply H1. apply H3.", "succ": false}]

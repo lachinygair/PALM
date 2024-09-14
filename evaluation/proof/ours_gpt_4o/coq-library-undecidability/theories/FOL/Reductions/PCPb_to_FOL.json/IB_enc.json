@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite IB_enc.", "exn": "The reference IB_enc was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "rewrite IB_enc. auto.", "back_times": 2, "succ": false, "time": 40.05801486968994}]

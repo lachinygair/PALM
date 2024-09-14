@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z t Hmap Hexd Hs; remember (Iter_orb m z) as s; remember (Iter_upb m z) as p. destruct (ex_i m z t Hmap Hexd Hs) as [i [Hi1 Hi2]]. exists i; auto.", "succ": false}]

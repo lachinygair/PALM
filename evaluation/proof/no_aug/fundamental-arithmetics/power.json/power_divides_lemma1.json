@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n x H. unfold divides. exists (power x (n - 1)). sauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n x H. unfold divides. exists (power x (n - 1)). rewrite <- Nat.sub_1_r. rewrite Nat.mul_comm. apply power_plus_lemma1.", "succ": true}]

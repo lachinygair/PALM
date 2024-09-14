@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold \"<sc\" in H.", "repairs": [""], "exceptions": []}, "chat": [], "original": "intros. intros. intros. unfold \"<sc\" in H. unfold \"<sc\". intros. inversion H. subst. rewrite <- H3. rewrite <- H4. auto.", "succ": false}]

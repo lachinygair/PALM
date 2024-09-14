@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_ref. unfold state_machine_safety_host'. intros e e' t t' H_comm1 H_comm2 H_idx. apply committed_unique_indices with (e' := e') (t := t) (t' := t'). - apply H_comm1. - apply H_comm2. - apply H_idx.", "succ": false}]

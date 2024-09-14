@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m H1 H2. rewrite <- Euler_Poincare with (m := m); auto. srun best use: plf_planar.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m H1 H2. rewrite <- Euler_Poincare with (m := m); auto. simpl. rewrite Z.mul_comm. apply Z.div_mul; auto. apply Z.lt_le_incl. apply Z.le_ge. apply genus_theorem; auto.", "succ": true}]

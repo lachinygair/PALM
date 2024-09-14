@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: Intersection_spec unfold: Lindenbaum_ensures, Ensemble.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A P cP1 cP2 H1 H2. unfold Lindenbaum_ensures in *. intros CA init Hinit. apply Intersection1_Included. apply H1 with (CA := CA) (init := init); auto. apply H2 with (CA := CA) (init := init); auto.", "succ": true}]

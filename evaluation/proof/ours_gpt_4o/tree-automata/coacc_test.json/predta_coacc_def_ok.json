@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a m. apply map_replace_def_ok_d. apply predta_coacc_0_def_ok.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros d a m. apply map_replace_def_ok_d. apply predta_coacc_0_def_ok.", "back_times": 0, "succ": true, "time": 0.5665643215179443}]

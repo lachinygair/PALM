@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Rbar_ex_lub with (E := fun l' => exists eps : posreal, (forall n : nat, Rbar_lt (u n) (l' + eps)) /\\ (exists n : nat, Rbar_lt (l' - eps) (u n))).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros y. unfold addZ, succZ. simpl. sfirstorder depth: 3use: tech_succ_posOZ.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros y. unfold addZ, succZ. simpl. rewrite tech_succ_posOZ. reflexivity.", "succ": true}]

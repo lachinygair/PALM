@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d H. unfold udta_conv_1. rewrite u_conv_1_invar_2 with (d:=d). - apply H. - apply u_conv1_r. apply u_conv1 with (p:=d). apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. apply sss_progress_compute_trans with (st2 := st2). - apply sss_progress_compute with (st2 := st2). + apply H1. - apply H2.", "succ": false}]

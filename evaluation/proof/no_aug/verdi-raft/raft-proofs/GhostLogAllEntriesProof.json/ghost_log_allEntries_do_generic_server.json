@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold msg_refined_raft_net_invariant_do_generic_server'. intros net st' ps' gd d os d' ms h Hdo P Hreachable Hstate Hst'. apply Hdo in Hdo. - apply (Hdo P); auto. - auto. - auto. - auto. - auto. - intros. apply Hst'. - apply Hst'.", "succ": false}]

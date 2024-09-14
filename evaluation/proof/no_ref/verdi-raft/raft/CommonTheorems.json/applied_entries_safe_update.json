@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros sigma h st H1 H2. unfold update. destruct (name_eq_dec h x) as [e|n]. + subst. rewrite update_eq; auto. + rewrite update_diff; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x o e H. unfold empty in H. symmetry in H. unfold insert in H. sauto lq: on dep: on depth: 3use: raw_insert_zero.", "repairs": ["", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A x o e H. unfold empty in H. symmetry in H. unfold insert in H. rewrite raw_insert_zero in H. inversion H.", "succ": true}]

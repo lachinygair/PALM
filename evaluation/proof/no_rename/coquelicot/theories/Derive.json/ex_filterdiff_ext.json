@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: FF, @filterdiff_ext, @filterdiff_continuous_aux unfold: ex_filterdiff, filterlim.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H H0. intros y. intros Hd. destruct H0 as [l Hl]. exists l. apply Hl.", "succ": true}]

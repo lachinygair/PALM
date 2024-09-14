@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_LiftZero. intros. hauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply Build_LiftZero. intros. rewrite lift_zero. reflexivity.", "succ": true}]

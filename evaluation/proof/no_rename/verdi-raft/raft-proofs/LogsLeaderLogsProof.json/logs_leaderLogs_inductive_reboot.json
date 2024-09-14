@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri llsi rlmli llci lllmi lhllsi nisi si lpholli logs_leaderLogs_inductive net H H0 H1. unfold logs_leaderLogs_inductive in *. destruct H as [H H2]. split. - apply H. - apply H0.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y z i. intros. set (m1 := L m one x y). set (y0 := cA m zero y). set (t := Iter (cF m1) i z). intros. apply expf_impl_expf_L1 with m x y z; auto. apply not_expf_L1_x with y0; auto.", "back_times": 0, "succ": false, "time": 126.58975791931152}]

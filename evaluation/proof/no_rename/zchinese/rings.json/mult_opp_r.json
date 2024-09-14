@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros S A Mult Add I O Opp v H x y Hx Hy. unfold is_ring, intern, associativity, distributivity in H.", "succ": false}]

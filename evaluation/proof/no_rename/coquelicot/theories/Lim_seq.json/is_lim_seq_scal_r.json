@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u a lu H. apply is_lim_seq_scal_l with (a:=a) (lu:=lu). apply H.", "succ": false}]

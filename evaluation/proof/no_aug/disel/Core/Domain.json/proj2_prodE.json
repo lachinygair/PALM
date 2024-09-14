@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold prod_chain. unfold proj2_chain. unfold chain, chain_axiom in s. destruct s as [pred_s s_axiom]. simpl. apply M2.", "succ": false}]

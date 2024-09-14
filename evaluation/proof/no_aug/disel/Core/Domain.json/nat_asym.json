@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. apply anti_leq. hauto lqb: on depth: 3use: leq_subCr.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. intros. apply anti_leq. auto. auto. apply leq_subCr.", "succ": true}]

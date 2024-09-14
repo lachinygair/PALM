@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros P H."], "tactic": "apply H.", "exn": "In environment P : naryRel 2 H : isPRrel 2 P Unable to unify \"isPRrel 2 P\" with \"isPR 1 (fun b : nat => boundedSearch P b)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros P H. apply H.", "succ": false}]

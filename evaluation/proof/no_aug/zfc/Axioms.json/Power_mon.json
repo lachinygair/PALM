@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E' H. unfold INC. intros E0 H0. srun best use: INC_IN_Power, IN_Power_INC, INC_tran.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros E E' H. unfold INC. intros E0 H0. apply H. apply INC_IN_Power. apply H0.", "succ": true}]

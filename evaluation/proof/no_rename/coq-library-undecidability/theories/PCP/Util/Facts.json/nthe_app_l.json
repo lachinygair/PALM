@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: nth_error_app1, nth_error_Some.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X d x n B A H. rewrite <- H. intros Hn. apply Hn.", "succ": true}]

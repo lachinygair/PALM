@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "exists votedFor_term_sanity.", "exn": "Not an inductive goal with 1 constructor.", "type": "not_inductive_goal", "handled": true}]}, "chat": [], "original": "exists votedFor_term_sanity. apply votedFor_term_sanity_invariant.", "back_times": 0, "succ": false, "time": 42.702813148498535}]

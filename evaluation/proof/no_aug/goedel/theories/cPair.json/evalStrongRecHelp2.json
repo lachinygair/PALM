@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a f n m H. unfold extEqual. simpl. rewrite (computeEvalStrongRecHelp _ f m). rewrite (computeEvalStrongRecHelp _ f (minus n 1)). rewrite (reduce2ndCompose (S (S (minus n 1))) _ _ _ _). rewrite (eq_nat_refl (S (minus n 1))). reflexivity.", "succ": false}]

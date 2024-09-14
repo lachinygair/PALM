@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros client id i net p d' ms e H1 H2 H3 H4 H5. unfold applied_implies_input_state in H1. destruct H1 as [e' [H6 H7]]. intuition. subst. apply H6. - auto. - auto.", "succ": false}]

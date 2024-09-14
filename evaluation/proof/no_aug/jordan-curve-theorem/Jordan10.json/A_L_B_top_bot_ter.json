@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x z H1 H2. simpl. hauto lq: on use: A_B_ter unfold: dim_opp inv: dim, sumbool.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x z H1 H2. simpl. rewrite -> A_L_B; try auto. rewrite -> A_B; try auto. rewrite -> A_B; try auto. reflexivity.", "succ": true}]

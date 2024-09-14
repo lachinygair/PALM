@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Equality.axiom. intros x y. sauto lq: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold Equality.axiom. intros x y. split; intros H; apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Riemann_sum. unfold plus. unfold scal. sauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Riemann_sum. unfold plus. unfold scal. unfold Riemann_sum in IHptd. unfold plus in IHptd. unfold scal in IHptd. simpl. rewrite IHptd. reflexivity.", "succ": true}]

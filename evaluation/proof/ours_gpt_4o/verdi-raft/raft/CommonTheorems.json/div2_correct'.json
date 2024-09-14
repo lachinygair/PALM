@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "induction n using div2_ind. - intros. simpl. apply le_n. - intros. simpl. apply le_n. - intros. simpl. apply le_S. apply le_n.", "back_times": 0, "succ": false, "time": 35.92749857902527}]

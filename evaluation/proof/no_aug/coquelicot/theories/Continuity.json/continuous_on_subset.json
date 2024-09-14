@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros D E f H1 H2 x H3. apply H2. intros \u03b5 H4. destruct (H1 x (locally_singleton x E H3) \u03b5 H4) as [P [HP1 HP2]]. exists P. split. - apply HP1. - intros x1 x2 H5 H6. apply HP2. apply H5. apply H6.", "succ": false}]

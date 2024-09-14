@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' failed failed' lb tr H. destruct lb_step_ordered_dynamic_failure_ind as [Hgp Hsind]; apply (Hgp _ _ _ _ _ _ H).", "succ": false, "time": 5.536160742999982}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold codeNoDup."], "tactic": "rewrite codeNoDupCorrect.", "exn": "Found no subterm matching \"codeNoDup (codeList ?M1431)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "unfold codeNoDup. rewrite codeNoDupCorrect.", "succ": false}]

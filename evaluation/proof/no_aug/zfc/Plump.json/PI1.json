@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A P d. apply (depprod_rect A P (fun _ => A)). intros x p. apply x. apply d.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A P d. apply (depprod_rect A P (fun _ => A)). intros x p. apply x. apply d.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z. hauto lq: on use: mult_one_r unfold: AbelianGroup.sort, Ring.mult, Ring.AbelianGroup, Ring.base, mult, Ring.sort.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z. rewrite (Ring.ax5 K (Ring.Mixin K) x y z). reflexivity.", "succ": true}]

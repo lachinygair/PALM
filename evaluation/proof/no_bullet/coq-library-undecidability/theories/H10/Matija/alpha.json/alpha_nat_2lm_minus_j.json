@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold nat2Zp, alpha_nat."], "tactic": "rewrite Hv, Am_iAm_mod.", "exn": "Found no subterm matching \"Z.of_nat v\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "unfold nat2Zp, alpha_nat. rewrite Hv, Am_iAm_mod.", "succ": false}]

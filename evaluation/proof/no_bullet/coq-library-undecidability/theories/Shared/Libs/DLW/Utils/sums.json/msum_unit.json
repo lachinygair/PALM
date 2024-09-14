@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "pose proof (msum_0 (fun _ : nat => u)) as H0. unfold msum in H0. simpl in H0. rewrite H0. apply monoid_unit_r. apply Hmonoid.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. destruct H as [x [y [z [t [H0 [H1 [H2 [H3 [H4 H5]]]]]]]]]. contradict H. exists x, y, z, t. auto.", "succ": false}]

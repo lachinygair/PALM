@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s p H1 H2. intros H3 H4. apply H3. apply alwp_envsq with (A := A) (s1 := s) (p1 := p) (scs := scs) (P := P1) in H2. apply H2. apply H1. auto.", "succ": false}]

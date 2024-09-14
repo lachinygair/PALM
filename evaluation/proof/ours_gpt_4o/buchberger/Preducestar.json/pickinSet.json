@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a H Q. destruct (selectdivf a H Q) as [[p [b [Hp [Hin Hpeq]]]]|Hnot]. - left. exists p. apply pick_inv_eqT_lem with (b:=b) (q:=p); auto. - right. intros b p q HinP HdivP HpX. apply (Hnot b (pX (A:=A) (n:=n) b q)); auto.", "back_times": 0, "succ": false, "time": 69.96544528007507}]

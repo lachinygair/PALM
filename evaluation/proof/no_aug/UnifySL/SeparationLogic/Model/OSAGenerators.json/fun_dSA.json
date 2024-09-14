@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold DownwardsClosedSeparationAlgebra. intros worlds R J. apply (fun po => fun J2 => dSA_B worlds R J R_B J2).", "succ": false}]

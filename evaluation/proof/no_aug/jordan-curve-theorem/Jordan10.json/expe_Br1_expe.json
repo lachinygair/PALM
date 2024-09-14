@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x x' z t Hmap Hexpe. qauto depth: 4 l: on use: expe_L_B_top_bot, expe_B_expe, inv_hmap_L_B_top_bot unfold: Br1.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m x x' z t Hmap Hexpe. unfold expe in Hexpe. apply expe_B_expe in Hexpe; auto.", "succ": true}]

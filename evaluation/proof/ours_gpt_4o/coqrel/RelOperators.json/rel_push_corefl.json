@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hcorefl x y Hrel. destruct Hrel as [a b H]. apply Hcorefl in H. subst. reflexivity.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hcorefl x y Hrel. destruct Hrel as [a b H]. apply Hcorefl in H. subst. reflexivity.", "back_times": 0, "succ": true, "time": 0.5337209701538086}]

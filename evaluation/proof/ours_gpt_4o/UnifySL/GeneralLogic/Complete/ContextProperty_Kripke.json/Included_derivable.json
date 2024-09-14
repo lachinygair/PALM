@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Phi x H. apply derivable_assum. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros Phi x H. apply derivable_assum. auto.", "back_times": 0, "succ": true, "time": 0.6855754852294922}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Rs, fmap, dart.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros fmap dart sx Rs Hsx. apply Hsx.", "succ": true}]

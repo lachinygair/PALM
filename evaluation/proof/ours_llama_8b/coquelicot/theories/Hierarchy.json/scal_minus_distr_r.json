@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: scal_distr_r, scal_opp_l unfold: Ring.AbelianGroup, AbelianGroup.sort, minus.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

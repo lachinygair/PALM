@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply (sound_orp_elim (impp x z) (impp y z) z).", "exn": "The reference z was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply (sound_orp_elim (impp x z) (impp y z) z).", "succ": true}]

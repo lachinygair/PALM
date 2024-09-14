@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros net h H."], "tactic": ["destruct H as [Hri].", ""], "exn": "Expects a disjunctive pattern with 6 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros net h H. destruct H as [Hri]. specialize (Hri net). apply Hri.", "succ": false}]

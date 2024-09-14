@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g n x l H1 H2. destruct n. - simpl in *. rewrite H1 in H2. apply H2. - simpl in *. apply is_derive_ext_loc with (fun t : R => f t = g t) x. intros t. apply H1. apply is_derive_n_ext_loc in H2. apply H2.", "succ": false}]

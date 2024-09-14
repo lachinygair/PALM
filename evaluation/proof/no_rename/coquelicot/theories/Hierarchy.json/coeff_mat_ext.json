@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: @coeff_mat_ext_aux.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros v1 v2. split. - intros H. intros i j. simpl. rewrite H. reflexivity. - intros H. apply matrix_ext_aux. intros i j _ _. apply H.", "succ": true}]

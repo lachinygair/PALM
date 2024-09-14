@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l x y Hxy. induction l as [|a l' IHl]. - simpl. apply Hxy. - simpl. specialize (IHl (Init.Nat.max a y) y). assert (a <= Init.Nat.max a y) by apply Nat.le_max_l. specialize (IHl H). apply IHl.", "succ": false}]

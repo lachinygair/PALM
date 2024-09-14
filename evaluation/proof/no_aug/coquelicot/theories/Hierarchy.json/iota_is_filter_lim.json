@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros H.", "unfold iota."], "tactic": "intros Hlim.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros H. unfold iota. intros Hlim. apply is_filter_lim_unique in Hlim as Hunique. rewrite Hunique. reflexivity.", "succ": false}]

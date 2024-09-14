@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Hinvert Hinverse. unfold Zp_invertible in Hinvert. destruct Hinvert as [i Hi]. intro Hmult. rewrite <- Hmult. rewrite <- Zp_mult_assoc. rewrite Hi. rewrite Zp_mult_one_r. rewrite Zmult_1_l. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c d H1 H2. scongruence use: Rplus_comm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c d H1 H2. rewrite H1, H2. reflexivity.", "succ": true}]

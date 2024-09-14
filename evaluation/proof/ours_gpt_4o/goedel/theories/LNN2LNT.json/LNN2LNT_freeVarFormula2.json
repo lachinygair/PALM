@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f v Hv. apply LNN2LNT_freeVarFormula. tauto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros f v Hv. apply LNN2LNT_freeVarFormula. tauto.", "back_times": 0, "succ": true, "time": 0.5692620277404785}]

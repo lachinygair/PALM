@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on rew: off depth: 3use: Coh0, prod_unitb, unit_coh, Inject, pcmPV.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite finfun.fun_of_fin in w. rewrite Inject in w. rewrite pcmPV in w. rewrite prod_unitb in w. apply unit_coh. apply Coh0. reflexivity.", "succ": true}]

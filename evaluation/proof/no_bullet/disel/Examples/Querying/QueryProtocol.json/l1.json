@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros Hqcoh. unfold qcoh in Hqcoh. destruct Hqcoh as [Hcoh0 Hvalid Hdom HlocalCoh]. apply Hvalid.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros Hqcoh. unfold qcoh in Hqcoh. intros. destruct Hqcoh as [Hcoh0 Hvalid Hdom HlocalCoh]. apply Hvalid.", "succ": true}]

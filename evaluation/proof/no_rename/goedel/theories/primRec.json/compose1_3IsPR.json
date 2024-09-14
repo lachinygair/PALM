@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 Hf1 f2 Hf2 f3 Hf3 g Hg x. apply filter1011IsPR with (g:=g). - apply compose1_1IsPR. apply Hf1. - apply compose1_1IsPR. apply Hf2. - apply compose1_1IsPR. apply Hf3. - apply Hg.", "succ": false}]

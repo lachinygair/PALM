@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Rmult_0_r, Rmult_comm, tech_Rplus, Rplus_0_r, Rplus_comm, Rdiv_lt_0_compat, Rinv_r_simpl_l unfold: Rdiv, Rle.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros r1 r2 H1 H2. apply Rmult_le_compat_r. apply Rinv_0_lt_compat. apply H2. apply Rlt_le. apply H1.", "succ": true}]

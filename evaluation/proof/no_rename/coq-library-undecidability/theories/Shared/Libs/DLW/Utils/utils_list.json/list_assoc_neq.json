@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H. simpl. unfold list_assoc. destruct (eq_X_dec x' x) as [H1|H1]. - rewrite H1. apply list_assoc_eq. reflexivity. - reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h t ll H_reachable H_in_ll. unfold leaderLogs in H_in_ll. simpl in H_in_ll. destruct (nwState net h) as [st__data]. simpl in H_in_ll. inversion H_in_ll as [Heq_lls]. apply Heq_lls.", "succ": false}]

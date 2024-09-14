@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. unfold not in H. intros H0. assert (H1 : 2 * n = n + n) by lia. rewrite H1. symmetry. apply nat_lb_spec.", "succ": false}]

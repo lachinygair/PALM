@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold mm_null. unfold DEC\u2090. unfold DEC\u2090_default. simpl. auto.", "succ": true}]

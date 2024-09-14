@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros b0 b1 b2 b3 H1 H2. unfold leb in *. destruct b0, b1, b2, b3; simpl in *; try contradiction; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros b0 b1 b2 b3 H1 H2. unfold leb in *. destruct b0, b1, b2, b3; simpl in *; try contradiction; auto.", "succ": true}]

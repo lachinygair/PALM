@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_Associativity'. intros x y z. apply prodp_iffp. apply prodp_assoc1. apply prodp_assoc2.", "succ": false}]

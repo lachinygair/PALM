@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: O_S, Nat.mul_comm, plus_n_O, nat_lb_fix_2, nat_lb_fix_0, lb_nat_fix_0 unfold: mul, bool2nat.", "repairs": [], "exceptions": []}, "chat": [], "original": "apply eq_refl.", "succ": true}]

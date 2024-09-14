@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st client id c out st' l H. unfold handleClientRequest in H. hauto lq: on depth: 3use: Leader.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros h st client id c out st' l H. unfold handleClientRequest in H. destruct (type_dec _ Leader). - inversion H; subst. simpl. reflexivity. - inversion H.", "succ": true}]

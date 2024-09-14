@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply semantic_equiv_0_1 with (n := 0) (d := d) (p := p).", "exn": "The reference d was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "apply semantic_equiv_0_1 with (n := 0) (d := d) (p := p). apply rec_empty. apply le_n.", "succ": false}]

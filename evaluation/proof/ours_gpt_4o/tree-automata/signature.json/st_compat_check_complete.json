@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s sigma H. apply st_compat_check_0_complete with pre_ad_empty. apply H.", "back_times": 0, "succ": false, "time": 57.083078145980835}]

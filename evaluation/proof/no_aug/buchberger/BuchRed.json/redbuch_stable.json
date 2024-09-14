@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P. apply (stable A A0 eqA plusA multA eqA_dec n ltM ltM_dec P (redbuch P)).", "succ": false}]

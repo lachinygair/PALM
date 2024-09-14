@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p H. apply upl_conv_1_inj. rewrite H. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p H. apply upl_conv_1_inj. rewrite H. reflexivity.", "back_times": 0, "succ": true, "time": 0.2975132465362549}]

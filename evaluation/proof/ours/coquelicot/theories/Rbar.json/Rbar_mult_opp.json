@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: Rbar_opp_involutive, Rbar_mult_opp_l, Rbar_mult_opp_r.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_mult, Rbar_opp. destruct x, y; simpl; try rewrite Rbar_mult_comm; try rewrite Rbar_mult_opp_l; try rewrite Rbar_mult_opp_r; auto.", "succ": true}]

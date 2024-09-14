@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net h H_refined. unfold contiguous_range_exact_lo. intros i H_range. destruct H_range as [H_lo H_up]. apply H_lo.", "succ": false}]

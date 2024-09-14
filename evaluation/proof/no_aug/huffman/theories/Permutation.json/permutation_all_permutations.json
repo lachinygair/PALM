@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l1 l2 H. srun best use: permutation_all_permutations_aux, permutation_length unfold: all_permutations.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros l1 l2 H. apply all_permutations_permutation. apply H.", "succ": true}]

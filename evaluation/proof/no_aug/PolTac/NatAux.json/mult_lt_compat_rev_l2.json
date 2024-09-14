@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. qauto use: mult_lt_compat_rev_l1, Nat.mul_lt_mono_pos_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply Nat.lt_le_trans with (p * n)(p * m). - apply mult_lt_compat_l; auto. - apply mult_lt_compat_l; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. intros H1 H2. hauto lq: on depth: 3use: sup_clos_min.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. apply sup_clos_min with (t := t). - apply H1. - apply H2.", "succ": true}]

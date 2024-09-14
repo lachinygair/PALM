@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite pos_both_lr.", "exn": "Found no subterm matching \"pos_both ?M1446 ?M1447 (pos_lr ?M1448)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite pos_both_lr.", "succ": false}]

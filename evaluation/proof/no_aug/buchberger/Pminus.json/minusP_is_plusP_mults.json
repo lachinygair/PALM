@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q r H_minusP. unfold minusP in H_minusP. destruct H_minusP. - simpl. apply eqp_pluspf_com_r. - simpl. apply eqp_pluspf_com_l.", "succ": false}]

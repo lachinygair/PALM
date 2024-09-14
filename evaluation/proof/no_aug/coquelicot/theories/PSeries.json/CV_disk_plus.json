@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros CV_disk_ax CV_disk_bx. unfold CV_disk, PS_plus in *. apply CV_disk_le with (Rabs x). - apply Rle_abs. - apply CV_disk_correct in CV_disk_ax. apply CV_disk_correct in CV_disk_bx. apply ex_pseries_plus; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 d1 sigma H1 H2. unfold dta_correct_wrt_sign, union. destruct d0 as [preDTA0 ad0], d1 as [preDTA1 ad1]. intros a sigma0 Ha. apply union_semantics with (t:=a); try assumption; try apply umerge_correct_wrt_sign_invar; try apply H1; try apply H2.", "succ": false}]

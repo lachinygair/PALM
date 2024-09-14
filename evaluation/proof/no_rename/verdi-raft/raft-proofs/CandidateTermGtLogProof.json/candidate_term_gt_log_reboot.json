@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_reboot. intros orig_base_params one_node_params raft_params tsi net net' d h d' Hreboot HP Hreach Hnw Hd Hupd Hpks. apply (HP net).", "succ": false}]

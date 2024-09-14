@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite lb_nat_fix_3. simpl. rewrite lb_nat_fix_0. auto.", "succ": false}]

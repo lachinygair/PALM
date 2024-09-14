@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold enum."], "tactic": "unfold enumT in LX.", "exn": "Cannot turn inductive enumT into an evaluable reference.", "type": "cannot_turn_ind", "handled": true}]}, "chat": [], "original": "intros. unfold enum. intros. unfold enumT in LX.", "succ": false}]

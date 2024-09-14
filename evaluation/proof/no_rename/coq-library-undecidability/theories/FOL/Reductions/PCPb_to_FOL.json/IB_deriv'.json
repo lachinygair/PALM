@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto q: on depth: 3use: IB_drv.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2. split. - intros. apply IB_drv in H1. apply H1. - intros. apply IB_drv in H2. apply H2.", "succ": true}]

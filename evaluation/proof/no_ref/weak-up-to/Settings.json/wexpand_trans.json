@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply transitive.", "exn": "In environment A : Type X : Type TX : reduction_t A X Unable to unify \"Prop\" with \"transitive (wexpand TX TX)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply transitive.", "succ": false}]

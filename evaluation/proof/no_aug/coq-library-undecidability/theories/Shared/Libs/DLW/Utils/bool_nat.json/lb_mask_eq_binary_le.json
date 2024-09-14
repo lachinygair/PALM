@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. split. - intro H. apply lb_mask_binary_le. apply H. - intros H. apply lb_mask_equiv_sym. apply lb_mask_binary_le. apply H.", "succ": false}]

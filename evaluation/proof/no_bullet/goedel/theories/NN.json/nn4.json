@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. apply eqTrans with (Plus (Succ a) (Succ b)) (Succ (Plus a b)). - apply eqSym, eqTrans with (Plus (Succ a) (Succ b)) (Succ (Plus a b)). + apply eqSym, nn3. + apply eqSucc, eqSym, eqRefl. - apply eqSym, eqPlus. + apply eqSucc, eqSym, eqRefl. + apply eqSym, eqRefl.", "succ": false}]

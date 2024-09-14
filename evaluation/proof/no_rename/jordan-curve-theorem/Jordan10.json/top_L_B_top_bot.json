@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros m x z Hmap Hsucc Hexdz Hxz m0. destruct (MA0.expo_dec m x z Hmap) as [Hexpo | Hexpo]. - rewrite Hexpo. reflexivity. - simpl. unfold m0. rewrite bottom_L_B_top_bot. + reflexivity. + apply Hsucc. + apply Hexdz. + apply Hxz.", "succ": false}]

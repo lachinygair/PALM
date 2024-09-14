@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A P x y. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros A P x y."], "tactic": ["apply I.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "intros A P x y. apply I.", "back_times": 0, "succ": true, "time": 1.4667866230010986}]

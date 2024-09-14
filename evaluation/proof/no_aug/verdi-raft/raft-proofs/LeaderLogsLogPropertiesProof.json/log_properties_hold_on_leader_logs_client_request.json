@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (refined_raft_net_invariant_client_request orig_base_params one_node_params raft_params rri). - apply log_properties_hold_on_leader_logs_interface. - apply h. - apply t. - apply ll. - apply log_properties_hold_on_leader_logs_invariant.", "succ": false}]

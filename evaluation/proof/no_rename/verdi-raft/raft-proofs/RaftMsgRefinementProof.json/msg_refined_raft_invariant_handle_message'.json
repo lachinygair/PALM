@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs p ys net st' ps' gd d l HAE HAEr HRV HRVR HMsg HUpdate HP HIR HIR' HIR'' HPacket HState' HSend HIH. apply HIR; auto.", "succ": false}]

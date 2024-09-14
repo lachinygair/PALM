@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r1 r2 H. hfcrush use: Rmult_lt_reg_r, Rgt_not_eq, Rinv_r_sym, Rmult_lt_compat_r, Rinv_0_lt_compat unfold: Rdiv, Rgt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros r1 r2 H. split. - intros H0. apply Rmult_lt_reg_r with (r := r2). + apply H. +", "succ": true}]

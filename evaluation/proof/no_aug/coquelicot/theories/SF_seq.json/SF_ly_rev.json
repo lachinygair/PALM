@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: SF_t (SF_rev s) = rev (SF_ly s)). - rewrite <- SF_seq_bij. rewrite SF_rev. rewrite rev_rcons. rewrite rev_cons. rewrite rev_rcons. rewrite SF_ly_rcons. rewrite SF_ly_surj. reflexivity. rewrite SF_lx_rev. rewrite H. reflexivity.", "succ": false}]

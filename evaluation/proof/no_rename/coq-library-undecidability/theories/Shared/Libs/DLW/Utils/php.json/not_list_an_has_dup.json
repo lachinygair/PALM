@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: not_list_has_dup_an.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2. intros H3. apply H3. apply not_list_has_dup_an.", "succ": true}]

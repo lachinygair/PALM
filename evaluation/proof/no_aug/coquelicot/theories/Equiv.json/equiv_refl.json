@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F FF f. unfold is_equiv. unfold is_domin. intros eps. apply domin_rw_r with (g1 := f) (g2 := f). - apply filter_filter. apply FF. - intros x. unfold minus. rewrite norm_zero. rewrite Rminus_0_r. rewrite Rabs_R0. apply Rle_refl.", "succ": false}]

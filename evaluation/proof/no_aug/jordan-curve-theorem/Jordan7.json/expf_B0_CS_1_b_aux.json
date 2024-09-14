@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x z t Hmap Hsucc Hexd_z Hexd_t x0 xb0 xh0 xh0_1 expf_x0_xb0 [Hbet_z_x0 Hbet_t_x0]. split. - apply expf_B0_CS_1_a. + apply Hmap. + apply Hsucc. + apply x0. + apply xb0. + apply xh0_1. + apply expf_x0_xb0. + split. * apply Hbet_z_x0. * apply Hbet_t_x0.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T f mono. unfold tarski_lfp. rewrite <- (mono _ _ (tarski_lfp f) (tarski_lfp f)). auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment V : Type labF : V -> [ordType of nat] f : depmap labF Unable to unify \"f\" with \"unit \\\\+ f\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. reflexivity.", "succ": false}]

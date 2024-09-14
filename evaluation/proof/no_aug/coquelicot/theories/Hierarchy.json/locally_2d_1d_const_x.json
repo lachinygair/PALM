@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P x y Hloc. apply locally_locally. apply locally_2d_locally in Hloc. apply Hloc.", "succ": false}]

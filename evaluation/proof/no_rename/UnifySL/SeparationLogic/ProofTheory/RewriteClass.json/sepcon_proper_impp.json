@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Proper. intros x y Hxy x' y' Hx'y'. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Proper. intros x y Hxy x' y' Hx'y'. intros z z' Hz. rewrite Hxy, Hx'y'. apply derivable_proper_impp, Hz.", "succ": true}]

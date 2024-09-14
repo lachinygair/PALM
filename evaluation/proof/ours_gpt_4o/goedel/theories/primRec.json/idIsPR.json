@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 1 use: succIsPR.", "repairs": ["cannot_unify"], "exceptions": [{"ctx": [], "tactic": "apply succIsPR.", "exn": "Unable to unify \"isPR 1 S\" with \"isPR 1 (fun x : nat => x)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply succIsPR.", "back_times": 0, "succ": false, "time": 32.946040391922}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros e l n. destruct (D e n) as [a b] eqn:Heq. intros H. apply D_correct in H. unfold is_derive. apply H.", "succ": false}]

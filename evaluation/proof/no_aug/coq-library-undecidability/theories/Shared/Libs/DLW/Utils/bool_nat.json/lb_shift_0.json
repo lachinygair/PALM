@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold lb_shift. unfold lb_bots. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros. unfold lb_shift. unfold lb_bots. reflexivity.", "succ": true}]

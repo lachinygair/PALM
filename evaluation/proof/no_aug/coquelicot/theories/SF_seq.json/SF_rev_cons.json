@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold SF_rev, SF_rcons, SF_cons. rewrite SF_seq_bij. rewrite SF_lx_cons. rewrite SF_ly_cons. rewrite SF_size_cons. reflexivity.", "succ": false}]

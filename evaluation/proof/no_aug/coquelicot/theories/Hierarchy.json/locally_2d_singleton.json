@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P x y H. unfold locally_2d in H. destruct H as [eps H]. hauto use: Rabs_R0, cond_pos, Rplus_opp_r unfold: Rminus.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros P x y H. unfold locally_2d in H. destruct H as [eps H]. apply H with (u:=x) (v:=y). unfold ball. simpl. apply Rlt_gt. apply eps.", "succ": true}]

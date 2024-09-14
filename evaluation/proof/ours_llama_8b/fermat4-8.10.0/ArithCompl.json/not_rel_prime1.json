@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on drew: off use: Zlt_not_le, Z.gcd_nonneg, Z.lt_0_1, Z.opp_pos_neg, Pos2Z.opp_neg, Zgcd_is_gcd, Zgcd_1_rel_prime.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_append_entries_reply. intros. simpl in *. repeat match goal with | H : _ /\\ _ |- _ => destruct H end. repeat split; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l e Hin Hbefore. apply or_intror. apply deduplicate_log'_In with (l := l). apply Hin.", "succ": false}]

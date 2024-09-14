@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply eqType_dec.", "exn": "Unable to find an instance for the variable _.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "apply eqType_dec. apply eqType_CS. apply unit_eq_dec.", "back_times": 0, "succ": false, "time": 29.008009433746338}]

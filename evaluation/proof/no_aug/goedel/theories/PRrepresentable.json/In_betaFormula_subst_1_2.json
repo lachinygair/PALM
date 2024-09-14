@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b v H. apply In_betaFormula_subst_1_2_0 in H. destruct H as [H | [H | H]]. - left. apply H. - right. left. apply H. - right. right. apply H.", "succ": false}]

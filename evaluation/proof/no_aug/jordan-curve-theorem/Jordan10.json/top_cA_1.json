@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k z H1 H2. hauto use: top_top, cA_1_eq, cA_1_top, top_A_1 inv: sumbool.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k z H1 H2. unfold top. destruct H2. - eapply top_A. apply H1. apply H2. - eapply top_top_2. apply H1. apply H2.", "succ": true}]

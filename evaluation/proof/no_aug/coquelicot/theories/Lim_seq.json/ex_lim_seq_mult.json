@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u_ex v_ex prod_ex. destruct u_ex as [lu Hu]. destruct v_ex as [lv Hv]. destruct prod_ex as [prodlim Hprod]. exists (Rbar_mult lu lv). apply is_lim_seq_mult with lu lv. - apply Hu. - apply Hv. - apply Hprod.", "succ": false}]

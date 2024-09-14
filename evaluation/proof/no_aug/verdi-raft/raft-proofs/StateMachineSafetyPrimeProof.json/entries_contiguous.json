@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p t n pli plt es ci H1 H2 H3. unfold append_entries_leaderLogs_interface in aerlli. specialize aerlli with net. unfold append_entries_leaderLogs in aerlli. specialize aerlli with p t n pli plt es ci. apply aerlli in H1 as H4. apply H4.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b x H. destruct H as [H1 H2]. apply desc_tail in H2. apply Relation_Operators.Ltl_sind with (a:=a) in H2; auto.", "succ": false}]

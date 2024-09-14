@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Rbar_le, Rbar_min. destruct x, y; simpl; auto. - srun best use: Rmin_l. - sfirstorder depth: 3.", "repairs": ["", "", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Rbar_le, Rbar_min. destruct x, y; simpl; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply liste_reconnait_ind; intros. - apply rec_empty. - destruct H as [hd [tl Htl]]. apply rec_consi with (a:=a) (la:= H) (ls:= H0); auto.", "succ": true}]

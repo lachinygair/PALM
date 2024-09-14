@@ -1,0 +1,1 @@
+[{"history": {"proof": "reflexivity.", "repairs": [""], "exceptions": [{"ctx": [], "tactic": "rewrite alpha_fix_0.", "exn": "Found no subterm matching \"\u03b1 0\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "rewrite alpha_fix_0. reflexivity.", "succ": true}]

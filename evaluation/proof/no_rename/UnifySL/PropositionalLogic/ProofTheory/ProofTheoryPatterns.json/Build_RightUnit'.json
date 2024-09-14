@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: RightUnit.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros e prodp H x. unfold RightUnit. intros x0. split. - intros H1. rewrite <- H. rewrite H1. apply H. - intros H2. rewrite H. rewrite H2. apply H.", "succ": true}]

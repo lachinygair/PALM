@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros cn others pts d C s Hfind. unfold find, getLocal, CStateT, dyn_tp in Hfind. destruct (dstate d cn) as [st|] eqn:Dcn; intro Hst; inversion Hfind.", "succ": false}]

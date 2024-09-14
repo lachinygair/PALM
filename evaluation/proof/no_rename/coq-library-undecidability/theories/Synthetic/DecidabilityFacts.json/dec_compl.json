@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X p Hdec x. unfold decidable in Hdec. destruct Hdec as [f Hf]. unfold decider in Hf. unfold not. intros H. specialize (Hf x). destruct (f x) eqn:Heq. - apply Hf. reflexivity. - apply H. intros Hp. rewrite Hp in Heq. discriminate Heq.", "succ": false}]

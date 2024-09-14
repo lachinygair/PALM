@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. hecrush use: pred_addZ_r, add_OZ, addZ_eq4.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x. unfold addZ, neg, predZ. destruct x; reflexivity.", "succ": true}]

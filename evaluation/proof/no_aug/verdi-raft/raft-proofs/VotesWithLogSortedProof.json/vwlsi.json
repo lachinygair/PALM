@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold votesWithLog_sorted_interface. constructor. intros net Hrefl. apply votesWithLog_sorted_invariant. apply Hrefl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. apply impH with (equal a b) (equal (Succ a) (Succ b)). - apply eqSucc. apply eqSym. apply eqRefl. - apply eqSym. apply eqRefl.", "succ": false}]

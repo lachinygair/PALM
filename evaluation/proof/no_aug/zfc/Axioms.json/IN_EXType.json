@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E' H. unfold IN in H. destruct E'. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros E E' H. unfold IN in H. destruct E'. - intros. inversion H0. - apply EXTypei. destruct E as [A f]. specialize (H A y). apply H.", "succ": true}]

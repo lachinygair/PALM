@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a n H. induction n. - apply Series_ext. intros k. simpl. rewrite plus_0_r. reflexivity. - apply Series_ext. intros k. simpl. rewrite plus_n_Sm. rewrite <- IHn. apply H. apply lt_n_S. apply lt_0_Sn.", "succ": false}]

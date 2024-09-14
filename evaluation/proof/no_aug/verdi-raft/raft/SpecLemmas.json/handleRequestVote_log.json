@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h st t candidate lli llt st' m H. srun best use: @handleRequestVote_same_log.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros h st t candidate lli llt st' m H. unfold handleRequestVote in H. repeat break_match; try discriminate. - inversion H. reflexivity. - inversion H. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros e. destruct e. - reflexivity. - sfirstorder depth: 3use: trace_inputs_output.", "repairs": ["", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros e. destruct e. - simpl. reflexivity. - simpl. apply trace_inputs_output.", "succ": true, "time": 0.15668841199999406}]

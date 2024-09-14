@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros T a.", "apply Axm."], "tactic": "apply (mem_base T (equal a a)).", "exn": "The reference mem_base was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros T a. apply Axm. apply (mem_base T (equal a a)).", "succ": false}]

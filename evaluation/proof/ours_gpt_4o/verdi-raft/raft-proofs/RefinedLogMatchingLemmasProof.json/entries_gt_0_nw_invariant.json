@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. pose proof entries_match_nw_host_invariant as Hinv. apply Hinv. auto.", "back_times": 0, "succ": false, "time": 90.58737206459045}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros T F1 F2 H1 H2. unfold close. intros eps. specialize (H1 (fun P => forall x, P x -> ball x eps (lim F2))). specialize (H2 (fun P => forall x, P x -> ball x eps (lim F1))). intros x Hx. apply H2. apply H1. apply Hx.", "succ": false}]

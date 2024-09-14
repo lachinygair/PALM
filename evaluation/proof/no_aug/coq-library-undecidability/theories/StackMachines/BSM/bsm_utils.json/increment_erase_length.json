@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold increment_erase. unfold increment. unfold empty_stack. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold increment_erase. unfold increment. unfold empty_stack. unfold PUSH. unfold POP. simpl. rewrite app_length. repeat (rewrite app_length). simpl. omega.", "succ": true}]

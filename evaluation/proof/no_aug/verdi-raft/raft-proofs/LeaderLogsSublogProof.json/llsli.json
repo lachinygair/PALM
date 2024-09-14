@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_leaderLogs_sublog_interface. intros net H. apply H.", "succ": false}]

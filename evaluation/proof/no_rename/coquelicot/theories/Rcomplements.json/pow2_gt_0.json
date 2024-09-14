@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Rsqr_pos_lt, Rsqr_pow2.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x Hx. apply Rmult_integral_contrapositive_currified in Hx. unfold not in Hx. specialize (pow_nonzero x 2 Hx) as Hpow. apply pow_lt with (n:=2) in Hx. auto.", "succ": true}]

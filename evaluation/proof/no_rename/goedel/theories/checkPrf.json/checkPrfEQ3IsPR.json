@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold isPR. intros f g. apply compose1_2IsPR with (f := codeArityF) (f' := codeArityR) (g := checkPrfEQ3). apply codeArityFIsPR. apply codeArityRIsPR. apply compose2_1IsPR. apply Fin.R.", "succ": false}]

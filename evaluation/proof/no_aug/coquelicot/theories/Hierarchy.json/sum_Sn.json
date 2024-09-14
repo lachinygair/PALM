@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold sum_n. srun best use: sum_n_Sm, Nat.le_0_l, le_S.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold sum_n. fold sum_n. rewrite sum_n_m_S. reflexivity.", "succ": true}]

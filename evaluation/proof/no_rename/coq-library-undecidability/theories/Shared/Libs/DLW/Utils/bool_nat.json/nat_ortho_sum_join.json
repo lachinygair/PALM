@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i j Hneq Hlti Hltj Hneqij. specialize (Hneq i j Hneqij). destruct (Nat.eq_dec (f i \u21e3 f j) 0) as [Heq | Hneq']. - auto. - apply (Hneq Hneq' Hlti Hltj).", "succ": false}]

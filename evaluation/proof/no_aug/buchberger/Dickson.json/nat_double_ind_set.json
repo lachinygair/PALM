@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros R H0 H1 H2. apply PeanoNat.Nat.double_induction. - apply H0. - apply H1. - apply H2.", "succ": false}]

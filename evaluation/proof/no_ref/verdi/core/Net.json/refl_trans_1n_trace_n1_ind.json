@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros step P Hbase Hstep x y l Hrt. induction Hrt. - apply Hbase. - eapply Hstep with (x':=x') (x'':=y) (tr1:=cs) (tr2:=cs') in H; eauto. apply IHHrt in H. apply H.", "succ": false, "time": 13.506714236000107}]

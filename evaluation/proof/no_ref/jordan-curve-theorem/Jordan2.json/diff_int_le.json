@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: gt_le_trans, le_not_gt unfold: diff_int, gt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m z a b H i j [H1 H2]. unfold diff_int. intros. red in H. specialize (H i j). assert (a <= i)%nat as Ha. auto with arith. assert (i < j <= b)%nat as H3. auto. apply (H Ha H3).", "succ": true}]

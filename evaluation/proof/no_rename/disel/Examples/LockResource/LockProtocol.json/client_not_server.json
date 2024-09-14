@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros server clients Hnin Huniq n Hin. rewrite in_cons. rewrite in_cons in Hin. rewrite Hnin in Hin. rewrite Huniq in Hin. simpl in Hin. rewrite div.eqn_div. rewrite eqn0Ngt. reflexivity.", "succ": false}]

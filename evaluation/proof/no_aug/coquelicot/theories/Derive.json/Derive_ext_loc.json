@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g x H. apply is_derive_unique. apply Derive_Reals. apply continuity_pt_ext_loc with (f := f) (g := g); auto.", "succ": false}]

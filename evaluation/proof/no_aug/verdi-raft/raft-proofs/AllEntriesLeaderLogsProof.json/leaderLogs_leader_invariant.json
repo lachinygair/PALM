@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros net H. unfold leaderLogs_leader. intros h H'. specialize (H h). destruct (type (snd (nwState net h))) eqn:Htype. - exists []. exists []. split. + apply H. + reflexivity. - inversion H'.", "succ": false}]

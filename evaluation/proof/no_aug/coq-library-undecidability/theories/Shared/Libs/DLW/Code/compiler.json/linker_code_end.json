@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold linker, code_end, lsum. intros. rewrite Hc. symmetry. apply linker_middle with (mm:=nil) (x:=tt). reflexivity.", "succ": false}]

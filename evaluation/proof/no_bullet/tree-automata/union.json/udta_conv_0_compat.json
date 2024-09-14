@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d H. unfold dta_correct, udta_conv_0. intros. apply H with (s0:=s0) (s1:=s1) (a0:=a0) (a1:=a1). auto. auto. auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri rvtsi. unfold refined_raft_net_invariant_timeout, votedFor_term_sanity. intros net t h h' currentTermEq votedForEq. apply votedFor_term_sanity_invariant. auto.", "succ": false}]

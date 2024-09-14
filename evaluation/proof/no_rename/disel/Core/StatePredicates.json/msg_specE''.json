@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H1 H2 H3. unfold msg_spec in *. unfold post_msg in *. simpl in *. unfold valid in *. simpl in *. intros. apply msg_specE' with (to' := to') in H1. apply H1. apply H3. apply H2.", "succ": false}]

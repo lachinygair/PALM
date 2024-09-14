@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c a. destruct (eqA_dec a) as [eq | neq]. - left. exists nil. simpl. left. auto. - right. intros l Hin. destruct Hin as [l1 [l2 [Hin | Hin]]]. + inversion Hin. rewrite <- H0 in neq. apply neq. reflexivity. + apply neq.", "succ": false}]

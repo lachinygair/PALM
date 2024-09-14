@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P0 P1 H0 H1 H2 H3 H4 H5 n p p' Hprof1 Hprof2. apply (indprinciple_0 P0 P1 H0 H1 H2 H3 H4 H5 n p p'). apply Hprof1. apply Hprof2.", "succ": false}]

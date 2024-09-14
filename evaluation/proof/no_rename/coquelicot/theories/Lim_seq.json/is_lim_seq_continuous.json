@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f u l Hcont Hin. unfold is_lim_seq. intros epsilon Heps. destruct (Hcont l Heps) as [delta Hdelta]. destruct (Hin (Rbar_locally l) Hdelta) as [N HN]. exists N. intros n Hn. apply Heps. apply Hdelta. apply HN. apply Hn.", "succ": false}]

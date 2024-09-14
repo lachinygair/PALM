@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p q a b Hcan_a Hcan_b. unfold multpf. simpl.", "back_times": 0, "succ": false, "time": 132.30151319503784}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l e e' H_sorted H_in1 H_in2 H_lt. apply (le_lt_or_eq (eIndex e) (eIndex e')). left. apply H_lt. right. apply Nat.lt_le_incl. apply H_lt.", "succ": false}]

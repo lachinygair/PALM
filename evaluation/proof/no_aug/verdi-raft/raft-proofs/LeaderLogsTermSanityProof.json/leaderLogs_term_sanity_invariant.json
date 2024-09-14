@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H. intros h t log e H1 H2. apply (leaderLogs_currentTerm_sanity orig_base_params one_node_params raft_params net). apply H2. apply H1.", "succ": false}]

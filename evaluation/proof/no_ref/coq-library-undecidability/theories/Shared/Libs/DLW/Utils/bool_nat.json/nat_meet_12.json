@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on use: nat_meet_12n, Nat.mul_1_r.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply nat_meet_12n.", "exn": "Unable to unify \"1 \u21e3 (2 * ?M1530) = 0\" with \"1 \u21e3 2 = 0\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. apply nat_meet_12n.", "succ": true}]

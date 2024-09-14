@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. unfold sum_n_m. unfold iter_nat. apply sum_n_m_ext_loc. intros k Hk. apply H.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. unfold sum_n_m. unfold iter_nat. apply sum_n_m_ext_loc. intros k Hk. apply H.", "succ": true}]

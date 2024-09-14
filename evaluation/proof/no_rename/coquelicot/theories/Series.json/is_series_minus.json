@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a lb la H1 H2. apply is_series_ext with (a := (fun n => plus (a n) (opp (b n)))) (b := (fun n => plus (a n) (opp (b n)))). - intro n. symmetry. apply plus_opp_l. - apply is_series_plus; auto.", "succ": false}]

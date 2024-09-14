@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros f v H. unfold In in H. unfold In. sfirstorder depth: 3use: LNN2LNT_freeVarFormula.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros f v H. unfold In in H. unfold In. rewrite <- LNN2LNT_freeVarFormula. apply H.", "succ": true}]

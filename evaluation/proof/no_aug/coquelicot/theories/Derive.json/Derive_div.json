@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold Derive. unfold ex_derive in H, H0. destruct H as [df H]. destruct H0 as [dg H0]. intros. apply is_derive_div; auto.", "succ": false}]

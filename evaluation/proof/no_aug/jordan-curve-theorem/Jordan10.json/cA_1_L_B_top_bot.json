@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m k x z H1 H2. unfold cA_1, cA. rewrite <- H2. simpl. unfold pred. destruct (eq_dart_dec x z); auto. unfold top, bottom. destruct H1. simpl. destruct (eq_dim_dec k0 k); destruct (eq_dart_dec y z); auto.", "succ": false}]

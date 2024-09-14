@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: subp_asym, sup_clos_sub.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros T s H. apply subp_asym. - apply H. - apply sup_clos_sub.", "succ": true}]

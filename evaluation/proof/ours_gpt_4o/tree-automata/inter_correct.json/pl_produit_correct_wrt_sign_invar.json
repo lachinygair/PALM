@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p0 p1 n H0 H1. apply pl_tl_length_prod. - apply H0. - apply H1.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros p0 p1 n H0 H1. apply pl_tl_length_prod. - apply H0. - apply H1.", "back_times": 0, "succ": true, "time": 0.7177143096923828}]

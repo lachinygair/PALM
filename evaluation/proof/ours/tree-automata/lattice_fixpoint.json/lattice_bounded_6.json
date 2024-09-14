@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros A."], "tactic": "apply lattice_bounded_def_2.", "exn": "In environment A : Set Unable to unify \"Prop\" with \"lattice_bounded_def_2 A (M0 A)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros A. apply lattice_bounded_def_2.", "succ": false}]

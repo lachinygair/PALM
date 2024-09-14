@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_append_entries, allEntries_term_sanity in *. intros. specialize (raft_refinement_interface rri). destruct raft_refinement_interface as [? [? ? ? ? ? ? ? ? ? ? ? ? ?]]. apply H3 with xs p ys net st' ps' gd d m t n pli plt es ci. auto.", "succ": false}]

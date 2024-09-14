@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (Build_GodelDummettPropositionalLogic L minL pL Gamma minAX ipAX). intros x y. apply impp_choice.", "back_times": 0, "succ": false, "time": 106.0980875492096}]

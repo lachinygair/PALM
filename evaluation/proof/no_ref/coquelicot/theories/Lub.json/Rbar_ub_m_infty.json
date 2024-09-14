@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H x Ex. unfold Rbar_is_upper_bound in H. specialize (H x Ex). destruct x; try contradiction. reflexivity.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H x Ex. unfold Rbar_is_upper_bound in H. specialize (H x Ex). destruct x; try contradiction. reflexivity.", "succ": true}]

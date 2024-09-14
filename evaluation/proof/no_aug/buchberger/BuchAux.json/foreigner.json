@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on depth: 3use: reduce_cb.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. apply (fun p q => (reduce_cb _ _ _ _ _ _ _ _ cs eqA_dec n ltM ltM_dec os p q)).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b d H. apply is_gcdZ_ind. - intros. apply gcd_OZ_absZ. - intros. apply gcd_mod in H0. apply H0.", "succ": false}]

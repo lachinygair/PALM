@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. apply list_forall_dec. - apply H. - intros x. apply dec_DM_and. + apply list_in_dec. + apply dec. - apply cfind.", "succ": false}]

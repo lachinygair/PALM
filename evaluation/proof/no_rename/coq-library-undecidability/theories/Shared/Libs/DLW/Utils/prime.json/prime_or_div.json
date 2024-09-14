@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p H. destruct (prime_algo p) as [Hprime2 | Hprime3]; clear prime_algo. - left. exists p. split. + split. apply Hprime2. apply prime_ge_2. apply Hprime2. + apply Hprime2. - right. apply Hprime3.", "succ": false}]

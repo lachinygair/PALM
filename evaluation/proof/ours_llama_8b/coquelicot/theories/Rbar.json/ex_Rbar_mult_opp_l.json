@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: ex_Rbar_mult_sym, Rbar_minus_eq_0, Rbar_opp_eq, is_finite_correct, Ropp_0, Rbar_inv_opp, Rbar_opp_involutive, Rbar_opp_real, Rbar_plus_0_r unfold: Rbar_minus, real, ex_Rbar_mult, is_finite, Rbar_opp, Rbar_inv.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

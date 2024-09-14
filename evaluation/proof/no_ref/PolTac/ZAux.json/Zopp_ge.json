@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. scongruence use: Zcompare_opp unfold: Z.ge.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m H. apply Z.opp_ge_le. auto.", "succ": true}]

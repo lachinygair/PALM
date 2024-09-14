@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hlub: is_sup_seq u (Rbar_glb (fun x : Rbar => exists n : nat, x = u n))). { apply Rbar_is_lub_sup_seq. apply Rbar_is_glb_unique. apply is_inf_seq_unique. apply Inf_seq_correct. } apply is_sup_seq_unique in Hlub. rewrite <- Hlub. symmetry. apply Rbar_sup_eq_lub.", "succ": false}]

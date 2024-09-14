@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: rely_loc unfold: getLocal, getStatelet.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros w this l j i H. unfold network_rely in H. destruct H as [n H]. rewrite H. apply locE.", "succ": true}]

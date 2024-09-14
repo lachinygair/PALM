@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n ts m v H. apply freeVarSubTerm4 in H as [Hnotin Hfreet]. apply freeVarSubTerms1 in Hnotin as Hfreevar. apply freeVarSubTerms3 in Hfreet as [Hin | Hints]. - apply freeVarSubTerm2 in Hin as Hin'. exists a. auto. - apply Hfreevar in Hin. contradiction.", "succ": false}]

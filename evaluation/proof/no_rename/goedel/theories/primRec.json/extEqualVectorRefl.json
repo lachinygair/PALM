@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n m l. unfold extEqualVector. induction l. - reflexivity. - simpl. rewrite IHl. reflexivity.", "succ": false}]

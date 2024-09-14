@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro H. hauto use: binary_le_nat_meet, nat_meet_join_distr_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intro H. apply (binary_le_nat_meet _ _ H).", "back_times": 0, "succ": true, "time": 30.81957459449768}]

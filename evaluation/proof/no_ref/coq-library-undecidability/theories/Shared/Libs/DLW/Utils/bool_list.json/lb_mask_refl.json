@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply in_lb_mask_0.", "exn": "In environment l : lb Unable to unify \"nil \u2aaf ?M1394\" with \"l \u2aaf l\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. apply in_lb_mask_0.", "succ": false}]

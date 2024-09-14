@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. apply arrow_relim. apply H.", "repairs": ["", "", ""], "exceptions": [{"ctx": ["intros.", "apply arrow_relim.", "apply H."], "tactic": "split; auto.", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "intros. apply arrow_relim. apply H. split; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E. hauto lq: on use: IN_Union, IN_Paire_right, IN_Sing unfold: Succ.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros E. apply (IN_Sing E).", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a. sfirstorder depth: 3use: distinct_pbleaves, distinct_pbleaves_Leaf.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a. induction a. - intros. apply distinct_pbleaves_Leaf. - intros. unfold distinct_pbleaves in *. intros. apply IHb.", "succ": true}]

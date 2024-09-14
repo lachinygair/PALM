@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_RInt_ext. - intros y H. unfold scal. now rewrite RInt_comp_lin. - apply is_RInt_comp; auto.", "succ": false}]

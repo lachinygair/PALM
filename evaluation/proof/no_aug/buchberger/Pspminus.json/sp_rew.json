@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b nZ1 nZ2 p q. unfold spminusf. sauto q: on depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b nZ1 nZ2 p q. unfold spminusf. rewrite <- nZ1. rewrite -> nZ2. reflexivity.", "succ": true}]

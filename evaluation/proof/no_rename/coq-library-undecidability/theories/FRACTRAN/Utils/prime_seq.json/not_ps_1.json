@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: str_prime unfold: prime.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H. unfold not. intros contra. unfold ps in contra. subst. simpl in contra. rewrite ps_1 in contra. discriminate.", "succ": true}]

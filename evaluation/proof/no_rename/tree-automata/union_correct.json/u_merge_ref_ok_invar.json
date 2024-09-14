@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d0 d1 Href_ok_d0 Href_ok_d1. apply u_merge_ref_ok; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros d0 d1 Href_ok_d0 Href_ok_d1. apply u_merge_ref_ok; auto.", "succ": true}]

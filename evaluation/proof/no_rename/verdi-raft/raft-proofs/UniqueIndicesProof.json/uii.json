@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_unique_indices_interface. intros net H_reachable. apply UniqueIndices_invariant. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros. apply Build_unique_indices_interface. intros net H_reachable. apply UniqueIndices_invariant. auto.", "succ": true}]

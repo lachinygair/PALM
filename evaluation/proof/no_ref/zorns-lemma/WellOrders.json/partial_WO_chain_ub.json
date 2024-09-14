@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros C H."], "tactic": "destruct H as [H1 H2 H3].", "exn": "Unable to find an instance for the variables x, y.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros C H. destruct H as [H1 H2 H3]. apply (Build_partial_WO C H1 H2 H3).", "succ": false}]

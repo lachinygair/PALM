@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply ex_pseries_ext with (x := zero).", "exn": "Unable to find an instance for the variable a0.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "apply ex_pseries_ext with (x := zero). intro. apply filterdiff_const.", "succ": false}]

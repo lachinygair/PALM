@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B y x H1 H2. unfold fun_leq in H1, H2. unfold \"==>\" in H1, H2. unfold \"==>\" in H1. unfold \"==>\" in H2. intros z. specialize (H1 z). specialize (H2 z). intro. apply contra_neqF with (T1 := A -> B). apply H1. apply H2.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: lb_succ_spec_0, lb_nat_fix_0, Nat.add_1_l, lb_succ_spec_1, nat2bool2nat unfold: bool2nat, add inv: bool.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

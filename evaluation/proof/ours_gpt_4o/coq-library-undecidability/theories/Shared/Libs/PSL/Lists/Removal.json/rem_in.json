@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply in_rem_iff.", "repairs": [""], "exceptions": [{"ctx": ["apply in_rem_iff."], "tactic": "intros [H1 H2].", "exn": "No such goal.", "type": "no_goal", "handled": true}]}, "chat": [], "original": "apply in_rem_iff. intros [H1 H2]. apply H1.", "back_times": 0, "succ": true, "time": 0.14786815643310547}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. apply mult_is_one in H. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros n m H. apply mult_is_one in H. apply H.", "succ": true}]

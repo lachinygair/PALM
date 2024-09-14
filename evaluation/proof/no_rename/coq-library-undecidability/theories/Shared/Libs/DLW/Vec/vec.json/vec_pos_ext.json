@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p H. apply VectorSpec.Vec.eq_nth_iff. intros i Hi. apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: IN_P_Comp, INC_IN_Power, INC_refl, Ord_sound unfold: Succ.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros E H1 H2. unfold IN, Succ in *. rewrite H2. apply H1.", "succ": true}]

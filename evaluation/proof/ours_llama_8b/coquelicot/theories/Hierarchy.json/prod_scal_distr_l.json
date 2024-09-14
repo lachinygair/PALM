@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: @scal_distr_l unfold: AbelianGroup.sort, prod_plus, prod_scal, ModuleSpace.sort, fst, ModuleSpace.AbelianGroup, snd.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

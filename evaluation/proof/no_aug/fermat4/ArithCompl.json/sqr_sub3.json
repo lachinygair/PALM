@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b H1 H2 H3. unfold Z.sub. apply Zlt_0_minus_lt. apply sqr_sub2. - apply Z.opp_neg_pos. apply Z.sub_pos_cases in H3. destruct H3. * apply H. * apply H in H1. omega. - apply H2. - apply H3.", "succ": false}]

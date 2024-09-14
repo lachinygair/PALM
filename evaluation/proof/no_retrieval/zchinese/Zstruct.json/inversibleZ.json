@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Z.gt_lt_iff, Z.lt_le_pred, Zsgn_spec, Z.lt_irrefl, Z.divide_1_r, Z.sgn_spec, Z.lt_le_incl unfold: Z.le, Z.gt, inversible, Z.divide.", "repairs": [], "exceptions": []}, "chat": [], "original": "", "succ": true}]

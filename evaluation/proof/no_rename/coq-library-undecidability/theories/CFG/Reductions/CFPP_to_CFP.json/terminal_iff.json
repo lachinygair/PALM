@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros G x. split. - intros H s y H1 H2. unfold not. intros H3. apply H. exists y. auto. - intros H H1. unfold terminal. intros [y H2]. apply H1 with (s:=head x) (y:=y). apply H2. apply H. exists y. auto.", "succ": false}]

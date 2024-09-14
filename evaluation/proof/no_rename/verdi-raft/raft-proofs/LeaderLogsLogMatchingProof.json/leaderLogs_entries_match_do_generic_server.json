@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_do_generic_server. intros orig_base_params one_node_params raft_params P net st' ps' gd d os d' ms h HdoGenericServer HP Hrefined HnwState Hst' HpacketSubset. apply refined_raft_net_invariant_do_generic_server'. intros. apply H; auto.", "succ": false}]

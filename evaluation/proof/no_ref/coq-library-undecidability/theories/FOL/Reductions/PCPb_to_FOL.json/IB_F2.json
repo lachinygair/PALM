@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply (impl_sat _ _ _ _ _ _ (IB_F1 rho) IH); intro H; specialize (IB_drv _ _ _ rho _ _ H) as H'; simpl in H'; apply H'.", "succ": false}]

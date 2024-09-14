@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E' E'' H1 H2. apply EQC_INC in H1. unfold CINC in H1. apply H1. auto.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros E E' E'' H1 H2. apply EQC_INC in H1. unfold CINC in H1. apply H1. auto.", "back_times": 0, "succ": true, "time": 1.5526123046875}]

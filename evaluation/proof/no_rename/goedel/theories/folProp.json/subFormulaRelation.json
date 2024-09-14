@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r ts v s. unfold substituteFormula, atomic, substituteTerms. simpl. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros r ts v s. unfold substituteFormula, atomic, substituteTerms. simpl. reflexivity.", "succ": true}]

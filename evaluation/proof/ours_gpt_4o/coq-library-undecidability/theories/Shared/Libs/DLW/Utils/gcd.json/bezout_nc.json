@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros is_gcd. apply bezout_rel_prime in is_gcd. destruct is_gcd as [a [b H]]. exists a, b. apply H.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros is_gcd. apply bezout_rel_prime in is_gcd. destruct is_gcd as [a [b H]]. exists a, b. apply H.", "back_times": 0, "succ": true, "time": 0.12946414947509766}]

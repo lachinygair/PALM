@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite Cmult_comm. rewrite <- Cmult_assoc. rewrite (Cmult_comm x y). rewrite (Cmult_comm x z). rewrite (Cmult_comm y x). reflexivity.", "succ": false}]

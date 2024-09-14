@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u l H. unfold LimSup_seq. simpl. destruct (ex_LimSup_seq u) as [ls Hls]. destruct l. - apply Rbar_is_lub_unique. apply Hls. apply H. - apply False_ind. apply Rbar_is_lub_not_infinity. apply Hls. - apply False_ind. apply Rbar_is_lub_not_m_infinity. apply Hls.", "succ": false}]

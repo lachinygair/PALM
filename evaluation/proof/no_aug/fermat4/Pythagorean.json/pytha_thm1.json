@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c H. unfold pytha_set. unfold is_pytha in H. destruct H as [Hpos Heq]. exists (a/2), (a/2), 1. split; [split; [|reflexivity]|split; [left|reflexivity]]; auto.", "succ": false}]

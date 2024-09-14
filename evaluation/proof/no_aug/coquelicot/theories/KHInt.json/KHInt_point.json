@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a. unfold KHInt. unfold iota. apply is_KHInt_unique. apply KHInt_correct. apply ex_KHInt; apply ex_RInt_point. apply is_RInt_point.", "succ": false}]

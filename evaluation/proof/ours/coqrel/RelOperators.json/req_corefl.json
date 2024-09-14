@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply req_intro.", "exn": "In environment A : Type a : A Unable to unify \"req ?M1617 ?M1617 ?M1617\" with \"forall x y : A, req a x y -> x = y\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply req_intro.", "succ": false}]

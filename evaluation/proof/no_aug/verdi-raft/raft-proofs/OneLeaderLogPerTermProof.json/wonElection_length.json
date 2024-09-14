@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros votes HeqWonElection. rewrite <- Nat.ltb_lt. apply Nat.gt_lt in HeqWonElection. apply Nat.lt_div2 in HeqWonElection. apply HeqWonElection.", "succ": false}]

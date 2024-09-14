@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "rewrite (Z2Zp_morph b q Z Znat q).", "exn": "The reference Znat was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "rewrite (Z2Zp_morph b q Z Znat q). rewrite (Z2Zp_morph (Z.of_nat q) Z). rewrite <- Zring. reflexivity.", "succ": false}]

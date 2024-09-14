@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold incl, expand, wexpand. intros x y H. unfold expansion, union_st in H. apply H.", "succ": false}]

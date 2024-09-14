@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net ps' l st' H_sorted H_in_p H_sorted'. constructor. - intros p Hin_p. apply H_in_p in Hin_p. destruct Hin_p as [H_in_net | H_in_l]. + left. apply H_in_net. + right. apply H_in_l. - auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs net p ys H1 H2. unfold nwPackets in H2. rewrite H2. exists nil, (map revertPacket xs ++ revertPacket p :: map revertPacket ys). reflexivity.", "succ": false, "time": 8.130430267000065}]

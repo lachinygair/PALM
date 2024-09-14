@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b P H1 H2 H3."], "tactic": "apply red_spolyp; auto.", "exn": "The reference red_spolyp was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros a b P H1 H2 H3. apply red_spolyp; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold MM_PROBLEM, EILL_SEQUENT. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold MM_PROBLEM, EILL_SEQUENT. simpl. reflexivity.", "succ": true}]

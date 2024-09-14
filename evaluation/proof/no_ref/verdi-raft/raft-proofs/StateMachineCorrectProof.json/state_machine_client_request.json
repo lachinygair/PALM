@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_client_request'. intros. specialize (H h net st' ps' out d1 l0 client id c H0 H1 H2 H3 H4). apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a Ha Hz H1 Q p q H2 H3 r s H4 H5 H6 H7. inversion H2; subst. - auto. - inversion H0; subst. + apply (reduceplus Rstar_0). apply H11. +", "succ": false}]

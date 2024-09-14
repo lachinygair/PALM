@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x y H1 H2 H3 H4. hfcrush use: bottom_top_bis.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x y H1 H2 H3 H4. intros H5 H6 H7 H8. assert (H9: top m k x = top m k y). apply top_top_bottom; auto. apply bottom_bottom_top; auto.", "succ": true}]

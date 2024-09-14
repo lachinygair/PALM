@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (H: b = div b p * p + rem b p). { apply div_rem_spec1. apply Hp. } rewrite H. rewrite Nat.mul_add_distr_l. rewrite rem_plus_rem. rewrite rem_remove. rewrite Nat.mul_mod. rewrite Nat.mul_mod. rewrite Nat.mul_mod. rewrite rem_erase. auto.", "succ": false}]

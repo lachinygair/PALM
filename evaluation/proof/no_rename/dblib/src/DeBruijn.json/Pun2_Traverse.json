@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros V H Tr Tr0 T H1 TF TVI TIVI. unfold Pun2. constructor. intros t k. apply (pun_2 V H T0 Tr0 TIVI).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: finite_php_dup, list_has_dup_eq_duplicates.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X m l H1 H2. apply list_has_dup_equiv in H1. apply list_pick in H2. destruct H1 as [x [aa [bb [cc H1]]]]. destruct H2 as [y [l1 [l2 [H2 H3]]]]. exists x, aa, bb, cc. rewrite H1. rewrite H2. auto.", "succ": true}]

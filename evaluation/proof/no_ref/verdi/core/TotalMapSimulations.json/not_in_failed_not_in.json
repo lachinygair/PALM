@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n failed HnotIn. intros Hcontra. apply HnotIn. rewrite <- tot_map_name_inverse_inv. rewrite Hcontra. apply in_map. apply tot_map_name_inv_inverse.", "succ": false, "time": 25.690674034999972}]

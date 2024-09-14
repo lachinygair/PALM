@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Hb. apply (quo_dec a b). - unfold divides. exists (quo a b Hb). reflexivity. - apply Nat.mod_upper_bound, Hb.", "succ": false}]

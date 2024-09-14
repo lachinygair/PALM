@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a la ls hd tl H1 H2. qauto unfold: liste_rec_length_def inv: pl_tl_length, liste_reconnait.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a la ls hd tl H1 H2. unfold liste_reconnait in H1. unfold liste_rec_length_def. intros n H3 H4. apply H4 in H1. apply H3 in H1. apply H1.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply divA_multA_comp_r in cs as divA_multA. apply divA_multA; auto.", "succ": false}]

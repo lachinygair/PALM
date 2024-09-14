@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A l l' H1 H2 H3. unfold is_permutation. intros x. split. - intros Hin. apply H1.", "succ": false}]

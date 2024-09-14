@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m H. srun best use: surj_cF_1, inj_cF_1 unfold: bij_dart.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros m H. apply bij_cF. apply H.", "succ": true}]

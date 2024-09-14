@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold size_cards, length_main_loop. rewrite Nat.add_assoc, Nat.add_comm with (length_main_loop lt), Nat.add_assoc. rewrite Nat.mul_add_distr_l, length_decoder_size. rewrite Nat.add_assoc, Nat.add_comm with 2, Nat.add_assoc. reflexivity.", "succ": false}]

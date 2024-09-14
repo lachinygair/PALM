@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m. reflexivity.", "repairs": ["", ""], "exceptions": [{"ctx": ["intros n m."], "tactic": "rewrite Nat.add_succ_r.", "exn": "Found no subterm matching \"?M1851 + S ?M1852\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros n m. rewrite Nat.add_succ_r. reflexivity.", "succ": true}]

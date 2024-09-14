@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "assert (Hl: getLocal cn (getStatelet i l) = getLocal cn (getStatelet j l)). { apply (rely_loc' j cn l i); auto. } rewrite (cohStC _ pf _ Hl). rewrite (cohStC _ pf' _ Hl). reflexivity.", "succ": false}]

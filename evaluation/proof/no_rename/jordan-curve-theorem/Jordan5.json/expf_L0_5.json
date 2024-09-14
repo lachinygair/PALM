@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y z t Hmap Hexd Hx1y Hgoal. unfold expf in Hgoal. unfold expf. split; intro Hexpfs; destruct Hexpfs as [Hexfz Hexft|Hexft Hexfz]. - split. + apply Hexfz. + apply Hexft. - split. + apply Hexft. + apply Hexfz.", "succ": false}]

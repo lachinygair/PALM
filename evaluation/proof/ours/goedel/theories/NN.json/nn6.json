@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. apply eqTrans with (Times a (Succ b)) (Plus (Times a b) a). - apply eqSym. apply BinNatDef.N.eq_trans with (NN6 a b). + unfold NN6. reflexivity. + apply folLogic3.eqRefl. - apply nn4.", "succ": false}]

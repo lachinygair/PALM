@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n A X Y TX TY F HF R HR. induction n as [|n' IHn]. - apply HR. - unfold UExp. fold UExp. apply UExp_mon with (n:=n') in HF. apply HF in HR. apply IHn in HR. apply HR.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (classic_pick _ (fun x => x el A /\\ p x)) as [[x [H1 H2]] | H]. - left. exists x. auto. - right. intros x Hx. apply H. auto.", "succ": false}]

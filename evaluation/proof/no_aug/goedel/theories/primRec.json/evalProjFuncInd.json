@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros n m p1 p2 H1 H2.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros n m p1 p2 H1 H2. unfold evalProjFunc. apply extEqualRefl.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "qsimpl time: 2 use: sum_SA. sauto l: on depth: 3.", "repairs": ["cannot_unify", "hammer"], "exceptions": [{"ctx": [], "tactic": "apply sum_SA.", "exn": "Unable to unify \"SeparationAlgebra sum_worlds\" with \"SeparationAlgebra nat\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply sum_SA.", "succ": true}]

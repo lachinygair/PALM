@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply refined_raft_net_invariant.", "exn": "Unable to find an instance for the variable net.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "apply refined_raft_net_invariant.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y m. hauto use: @sat_impp, @sat_andp.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros x y m."], "tactic": "intros H.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros x y m. intros H. unfold denotes. simpl. intros m0 H1. apply H.", "succ": true}]

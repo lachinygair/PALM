@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite <- vec_one_spec_eq with (p:=pos0) (q:=pos0) by auto. reflexivity.", "succ": true}]

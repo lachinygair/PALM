@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs Hmin Hminsafe a Hmina. inversion_clear Hmin as [|? ? Hmin' Hminsafe']; subst. apply Hminsafe'; auto.", "succ": false}]

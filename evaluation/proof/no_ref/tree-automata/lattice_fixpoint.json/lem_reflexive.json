@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold lem, r_reflexive. unfold lem. destruct m0; destruct m1; simpl; auto. - apply I. - destruct (a =? a0)%N eqn:H1. + apply Nat.eqb_eq in H1. subst. auto. + discriminate. - destruct (a ?= a0)%N eqn:H1. + apply BinNatDef.N.leb_le in H1. auto. + discriminate.", "succ": false}]

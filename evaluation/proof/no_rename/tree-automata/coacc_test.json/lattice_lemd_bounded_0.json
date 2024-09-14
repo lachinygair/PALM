@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros m."], "tactic": "apply lattice_lemd_bounded_0_def.", "exn": "In environment m : Map bool Unable to unify \"Prop\" with \"lattice_lemd_bounded_0_def (single bool m)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros m. apply lattice_lemd_bounded_0_def.", "succ": false}]

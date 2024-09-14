@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros H. apply rel_inter_corefl_l. auto.", "back_times": 0, "succ": true, "time": 23.89736294746399}]

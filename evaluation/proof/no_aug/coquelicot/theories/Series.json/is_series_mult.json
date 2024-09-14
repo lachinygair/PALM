@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros b0 lb0 Ha Hb HExA HExB. apply is_series_mult_pos with (a := fun n => Rabs (a n)) (la := la); auto. intros n. unfold Rabs. destruct (Rcase_abs (a n)); lra. apply ex_series_Rabs; auto.", "succ": false}]

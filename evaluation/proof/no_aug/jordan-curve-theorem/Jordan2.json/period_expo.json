@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z t H1 H2. unfold Iter_upb. hauto use: period_uniform unfold: Iter_upb, expo.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z t H1 H2. unfold Iter_upb. reflexivity.", "succ": true}]

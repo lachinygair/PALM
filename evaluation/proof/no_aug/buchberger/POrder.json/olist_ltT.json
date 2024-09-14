@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l a b H. apply ltT_trans with (pX a (pX b pO) : Term A n). - apply H. - apply olistOne.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "unfold monoid_theory.", "exn": "Cannot turn inductive monoid_theory into an evaluable reference.", "type": "cannot_turn_ind", "handled": true}]}, "chat": [], "original": "unfold monoid_theory. intros X m u H. apply msum_1. apply H.", "succ": true}]

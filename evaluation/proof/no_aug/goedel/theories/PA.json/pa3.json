@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. rewrite (eqSym PA (Plus a Zero) a (eqRefl PA a)). apply (eqPlus PA a Zero a Zero (eqRefl PA a) (eqRefl PA Zero)).", "succ": false}]

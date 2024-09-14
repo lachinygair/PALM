@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st h os st' ms m t n pli plt es ci e Hdl Hin Hsnd HinEs. pose proof (doLeader_messages _ _ _ _ _ _ _ _ _ _ _ _ Hdl Hin Hsnd) as [Heq [Hlog _]]. rewrite <- Hlog. auto.", "back_times": 0, "succ": false, "time": 169.66074657440186}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. exists (fun _ => x). apply Tauto.map_simpl. reflexivity.", "succ": false}]

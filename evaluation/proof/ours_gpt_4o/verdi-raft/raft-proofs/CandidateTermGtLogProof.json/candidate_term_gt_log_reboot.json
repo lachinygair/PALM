@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_request_vote. intros. pose proof candidate_term_gt_log_invariant as Hc. eapply Hc. apply H2.", "back_times": 0, "succ": false, "time": 34.063122272491455}]

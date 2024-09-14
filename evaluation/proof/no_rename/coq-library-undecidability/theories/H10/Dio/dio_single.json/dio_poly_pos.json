@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P m p H. exists (dp_var (pos 0)). intros \u03c6 \u03bd. rewrite <- dp_eval_ext. - intros x Hx. apply vec_pos_equiv. intros p v x y Hxy. apply pos_S_inv. - intros i Hi. destruct i. + inversion Hi. + exfalso. apply (H _ Hi).", "succ": false}]

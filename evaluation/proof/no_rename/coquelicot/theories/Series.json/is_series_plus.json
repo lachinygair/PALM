@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K V b a lb la H1 H2. apply is_series_ext with (fun n => plus (a n) (b n)). - intros n. unfold plus. reflexivity. - apply filterlim_plus. + apply is_series_unique in H1. rewrite H1. apply H2. + apply is_series_unique in H2. rewrite H2. apply H1.", "succ": false}]

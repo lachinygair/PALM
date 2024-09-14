@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p Hp x Hpr [Hinv Hneq]. split. - intros [i Hi]. apply Hneq. intros Heq. apply Hinv. exists i. rewrite Heq, Hi. apply Zp_invertible_eq_zero. auto. - intros Hn. unfold Zp_invertible in Hinv. destruct Hinv as [i Hi]. exists i. apply Zp_opp_invertible. auto.", "succ": false}]

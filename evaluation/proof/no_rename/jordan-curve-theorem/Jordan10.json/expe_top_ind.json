@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on drew: off use: expe_bottom_ind, cA0_MA0_Iter, MA0.exd_Iter_f, cA_1_bottom.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m z i H1 H2 H3 H4 H5. unfold top. unfold t. rewrite <- H2. reflexivity.", "succ": true}]

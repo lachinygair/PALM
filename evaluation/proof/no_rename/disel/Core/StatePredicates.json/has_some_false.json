@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs ps x H1 H2. intros H3 H4. apply has_all_true in H3; try auto. apply mapP in H3 as [a Ha ->]. exists a. apply H4. exact: Ha.", "succ": false}]

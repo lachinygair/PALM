@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction n; auto. - srun best use: nat_meet_0n. - scongruence use: nat_meet_comm, nat_meet_0n.", "repairs": ["", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "induction n; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold P_eq in *.", "exn": "Cannot coerce P_eq to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold P_eq in *. subst P. rewrite <- Hilen. reflexivity.", "back_times": 0, "succ": false, "time": 35.727843046188354}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["rewrite /head /rcons."], "tactic": "destruct s.", "exn": "The reference s was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "rewrite /head /rcons. destruct s. - simpl. auto. - simpl. auto.", "back_times": 0, "succ": false, "time": 101.18488836288452}]

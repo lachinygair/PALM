@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m. destruct (Nat.eq_dec (genus m) 0) as [H | H]. - left. apply H. - right. intro Hcontra. apply H. apply Hcontra.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold is_pseries. intros H. unfold is_series in H. unfold is_series. intros k. unfold PS_incr_n. induction n. - simpl. rewrite <- H. auto. - simpl. rewrite IHn. apply is_pseries_incr_1. apply H.", "succ": false}]

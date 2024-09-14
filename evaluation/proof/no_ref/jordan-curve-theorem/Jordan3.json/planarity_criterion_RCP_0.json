@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros m x y H1 H2 H3 H4 H5.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros m x y H1 H2 H3 H4 H5. apply not_or_and in H1. apply H1 in H2. apply H2.", "succ": false}]

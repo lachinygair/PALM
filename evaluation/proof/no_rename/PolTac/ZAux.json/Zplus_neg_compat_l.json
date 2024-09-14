@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c H. intro K. hauto use: Zplus_minus_eq.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c H. intro K. intro. intro E. contradiction K. apply E.", "succ": true}]

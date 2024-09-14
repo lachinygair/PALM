@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x H. unfold sign. destruct (total_order_T 0 x) as [[Hx | Hx] | Hx]. + apply sign_eq_1. lra. + contradicts H Hx. + reflexivity.", "succ": false}]

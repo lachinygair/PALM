@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply (changement_base_cocyclique_2 _ _ _ _ H H0).", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Href. unfold entries_sorted_nw. intros p t n pli plt es ci Hin HpBody. apply (sorted_interface (log_matching_invariant _) Href). apply Hin. apply HpBody.", "succ": false}]

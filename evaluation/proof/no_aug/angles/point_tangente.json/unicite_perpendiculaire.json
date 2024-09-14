@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u v u' v' Hcolineaire Hortho Hortho'. apply (orthogonal_sym u u' Hortho) in Hortho'.", "succ": false}]

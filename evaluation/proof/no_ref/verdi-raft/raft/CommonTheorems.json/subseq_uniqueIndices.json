@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros ys xs Hsubseq Hunique. unfold uniqueIndices. apply NoDup_map. apply NoDup_In_compat. - intros x Hin. apply (subseq_In _ _ _ x); auto. - apply subseq_length in Hsubseq. lia.", "succ": false}]

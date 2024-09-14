@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d0 a a0 s s0 H. exists (iad_conv_inv a a0), a. exists s, s0. split. - apply iad_inv_inv_1. auto. - split. + apply H. + apply H.", "succ": false}]

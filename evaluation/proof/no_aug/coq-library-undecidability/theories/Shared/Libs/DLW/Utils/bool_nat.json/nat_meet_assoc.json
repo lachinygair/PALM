@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite nat_meet_comm. rewrite nat_meet_comm. rewrite nat_meet_euclid_2 with (r1:=n) (d1:=m) (r2:=m). rewrite nat_meet_idem. rewrite nat_meet_n0. reflexivity.", "succ": false}]

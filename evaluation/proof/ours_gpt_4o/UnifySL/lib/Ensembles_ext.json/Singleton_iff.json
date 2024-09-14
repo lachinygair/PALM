@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros U x y. split. - apply Singleton_inv. - apply Singleton_intro.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros U x y. split. - apply Singleton_inv. - apply Singleton_intro.", "back_times": 0, "succ": true, "time": 0.564704418182373}]

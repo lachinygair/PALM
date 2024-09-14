@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A a l H. apply in_rev. apply in_rev in H. strivial use: in_rev.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A a l H. apply in_rev. apply in_rev in H. apply (in_inv A a (rev l) a). apply rev_involutive. apply H.", "succ": true}]

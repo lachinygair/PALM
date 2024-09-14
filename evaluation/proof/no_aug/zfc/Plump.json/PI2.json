@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A P c. sauto lq: on depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros A P c. apply (depprod_rec A P (fun x => P (PI1 A P x))). - intros x p. simpl. reflexivity.", "succ": true}]

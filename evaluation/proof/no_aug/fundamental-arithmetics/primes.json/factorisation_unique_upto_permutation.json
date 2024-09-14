@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n l l' H1 H2. hauto lq: on depth: 3use: proj1, factorisation_unique_upto_perm.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n l l' H1 H2. apply factorisation_unique_upto_perm; apply proj1 in H1; apply proj1 in H2; apply H1.", "succ": true}]

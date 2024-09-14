@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply lastApplied_le_commitIndex_invariant with (net := net) in H. apply H.", "succ": false}]

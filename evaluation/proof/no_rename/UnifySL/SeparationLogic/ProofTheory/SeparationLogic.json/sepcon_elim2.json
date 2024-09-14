@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros L minL sepconL wandL Gamma minAX wandX sepconAX pL ipAX sepcon_orp_AX sepcon_false_AX GC x y H. apply (sepcon_elim1 x y). auto.", "succ": false}]

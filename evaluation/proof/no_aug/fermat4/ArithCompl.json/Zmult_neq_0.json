@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. split. - contradict H. apply Z.eq_mul_0; auto. - contradict H. apply Z.eq_mul_0; auto.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a b H. split. - contradict H. apply Z.eq_mul_0; auto. - contradict H. apply Z.eq_mul_0; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply incr_unital_iff_residual. apply Build_IncreasingSeparationAlgebra. intros m. apply all_increasing. apply residue_exists.", "succ": false}]

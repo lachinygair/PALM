@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros y x z Hxy Hyz. apply plus_star_plus with (y := y). - apply Hxy. - apply plus_star. apply Hyz.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros y x z Hxy Hyz. apply plus_star_plus with (y := y). - apply Hxy. - apply plus_star. apply Hyz.", "back_times": 0, "succ": true, "time": 1.357360601425171}]

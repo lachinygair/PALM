@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b p q H1 H2. unfold eqT in H1. srun best use: pluspf_is_plusP, plusP_inv3a unfold: eqT.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b p q H1 H2. unfold eqT in H1. unfold zeroP in H2. unfold plusTerm. rewrite H1, H2. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold leq. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold leq. apply leq_refl.", "succ": true}]

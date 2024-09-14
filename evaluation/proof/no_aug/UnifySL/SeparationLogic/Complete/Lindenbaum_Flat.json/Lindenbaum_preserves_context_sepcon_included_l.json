@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Lindenbaum_preserves, context_sepcon_included_l. intros Phi2 Psi H. apply subset_preserved_same_set_preserved.", "succ": false}]

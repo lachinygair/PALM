@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": ["intros [a b].", ""], "exn": "Expects a disjunctive pattern with 0 branches.", "type": "num_branch", "handled": false}]}, "chat": [], "original": "intros [a b]. apply (sqrt_plus_sqr a b).", "back_times": 0, "succ": false, "time": 29.36801505088806}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply ex_lub_Rbar.", "exn": "In environment E : R -> Prop Unable to unify \"{l : Rbar | is_lub_Rbar ?M2283 l}\" with \"{l : Rbar | is_glb_Rbar E l}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply ex_lub_Rbar.", "succ": false}]

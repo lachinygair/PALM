@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x y [H1 H2]. destruct H2 as [r [H3 H4]]. exists r. split. - auto. - unfold interCDr in *. destruct H4 as [H4 _]. auto.", "succ": false}]

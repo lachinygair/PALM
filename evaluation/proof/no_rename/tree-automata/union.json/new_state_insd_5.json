@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p a t r. unfold new_state_insd_def_dta. intros d a' t' r'. induction r' using mreconnaissance_ind with (P := fun d a t r' => new_state_insd_def_dta d a t r'). - intros d0 a0 t0 ladj e s s0. auto.", "succ": false}]

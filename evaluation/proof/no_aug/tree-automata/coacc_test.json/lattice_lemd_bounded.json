@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p d Hchain. sfirstorder depth: 3use: lattice_lemd_bounded_3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p d Hchain. apply lattice_lemd_bounded_3 in Hchain. apply Hchain.", "succ": true}]

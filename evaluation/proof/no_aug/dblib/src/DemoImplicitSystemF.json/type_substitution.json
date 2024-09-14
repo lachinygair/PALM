@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n E t T H. intros U x E' T' H1 H2. apply type_weakening with (x:=x) (E':=E') (T':=T'). auto. auto. auto.", "succ": false}]

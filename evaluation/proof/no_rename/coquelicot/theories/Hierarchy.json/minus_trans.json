@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold minus, plus, opp. scongruence use: plus_opp_l, plus_assoc, plus_comm, plus_zero_r unfold: opp, minus, plus.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold minus, plus, opp.", "succ": true}]

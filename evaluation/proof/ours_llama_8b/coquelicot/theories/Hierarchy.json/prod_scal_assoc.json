@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: @scal_assoc unfold: prod_scal, ModuleSpace.sort, fst, snd.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

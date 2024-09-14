@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi H_consistent. unfold Lindenbaum_ensures. intros CA init H_Psi. unfold consistent in H_consistent. destruct H_consistent as [x H_not_Psi]. exists x. intros H_Lindenbaum. apply H_not_Psi. intros H_Psi_x. apply H_Lindenbaum. exists x. split; auto.", "succ": false}]

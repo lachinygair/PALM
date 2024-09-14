@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. intro H0. intro H1. intro H2. intro H3. intro H4. intro H5. intro H6. pose proof (list_One_Zero_inj a b l H0) as H7. destruct H7 as [H8 H9]. rewrite H8. intro H10. inversion H10.", "succ": false}]

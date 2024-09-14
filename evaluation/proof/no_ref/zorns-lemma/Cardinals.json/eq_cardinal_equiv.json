@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold equivalence, eq_cardinal.", "exn": "Cannot coerce equivalence to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros. unfold equivalence, eq_cardinal. split. - intros. destruct H. split. + auto. + intro. apply H0. apply H.", "succ": false}]

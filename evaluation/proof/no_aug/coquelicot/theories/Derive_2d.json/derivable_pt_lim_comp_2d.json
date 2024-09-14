@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f1 f2 f3 x l1x l1y l2 l3 H1 H2 H3. apply differentiable_pt_lim_comp with (f1 := f1) (f2 := f2) (f3 := f3) (x := x); auto.", "succ": false}]

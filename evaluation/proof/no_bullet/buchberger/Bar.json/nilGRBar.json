@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros A R H l."], "tactic": "apply H.", "exn": "In environment A : Set R : Rel A H : GRBar A R nil l : list A Unable to unify \"GRBar A R nil\" with \"GRBar A R l\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros A R H l. apply H.", "succ": false}]

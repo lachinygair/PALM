@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E E' Hin_Inter E'' Hin_E. apply (IN_sound_left (Union E') E E''). apply Union_sound. apply EQ_refl. apply IN_INC_Union. apply Hin_E. apply IN_INC_Union. apply Hin_Inter.", "succ": false}]

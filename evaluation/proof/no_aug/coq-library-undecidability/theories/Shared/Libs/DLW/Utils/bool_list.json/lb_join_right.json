@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: lb_join_comm, lb_join_left.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. rewrite lb_join_left. reflexivity.", "succ": true}]

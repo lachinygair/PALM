@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold is_cipher_of. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold is_cipher_of. intros H1. split. - apply conj. + admit. + admit. - admit.", "succ": true}]

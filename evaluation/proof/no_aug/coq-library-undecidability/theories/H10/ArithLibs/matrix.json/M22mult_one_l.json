@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. unfold ID_22, Rminus, Rzero, Rone, Rmult, Rminus, Rplus. unfold ring_theory in R_is_ring. unfold ring_theory in R_is_ring. rewrite R_is_ring. simpl. reflexivity.", "succ": false}]

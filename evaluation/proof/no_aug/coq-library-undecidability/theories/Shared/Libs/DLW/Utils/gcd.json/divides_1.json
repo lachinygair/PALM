@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Nat.divide_1_l.", "repairs": [""], "exceptions": []}, "chat": [], "original": "apply Nat.divide_1_l.", "succ": true}]

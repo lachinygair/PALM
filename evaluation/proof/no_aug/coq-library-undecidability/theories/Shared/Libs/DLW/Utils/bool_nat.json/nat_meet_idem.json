@@ -1,0 +1,1 @@
+[{"history": {"proof": "symmetry. hauto use: binary_le_nat_meet, binary_le_eq_lb_mask, lb_mask_nat, lb_nat_lb unfold: lb_mask_equiv.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. symmetry. apply nat_meet_0n.", "succ": true}]

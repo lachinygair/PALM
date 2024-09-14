@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: cPairProjections1, cPairProjections2 unfold: cTriplePi2, cTriple.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c. unfold cTriple. unfold cTriplePi2. simpl. auto.", "back_times": 0, "succ": true, "time": 150.71834516525269}]

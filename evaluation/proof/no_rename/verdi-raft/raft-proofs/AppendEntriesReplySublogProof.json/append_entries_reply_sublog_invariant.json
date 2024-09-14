@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_reachable. unfold append_entries_reply_sublog. intros p t es h e Hin Happened Hterm Hleader HinEs. apply (Happened p t es h e). - auto. - auto. - auto. - auto. - auto. - auto.", "succ": false}]

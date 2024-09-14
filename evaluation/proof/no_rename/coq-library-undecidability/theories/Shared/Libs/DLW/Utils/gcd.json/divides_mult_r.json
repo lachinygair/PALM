@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: divides_mult, Nat.mul_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p q k H. apply divides_mult. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a. unfold cPair, cPairPi1, cPairPi2. rewrite Nat.add_sub. rewrite sumToN_unique with (k := searchXY a) at 1. rewrite Nat.sub_add. rewrite Nat.add_comm. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros st st' trace H. induction H. - left. reflexivity. - right. destruct IHstep_1_star as [Hempty | [t [i [o H]]]]. + exists [(i, o)], i, o. reflexivity. + exists (t ++ [(i, o)]), i, o. reflexivity.", "succ": false, "time": 23.480357857999934}]

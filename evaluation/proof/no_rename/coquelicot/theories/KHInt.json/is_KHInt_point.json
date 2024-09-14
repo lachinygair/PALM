@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros f a.", "unfold is_KHInt, filterlim."], "tactic": "apply H.", "exn": "The reference H was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros f a. unfold is_KHInt, filterlim. intros. apply H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. rewrite <- H. split. - rewrite vec_zero_spec. reflexivity. - rewrite vec_zero_spec. reflexivity.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b c. unfold Rmin. hauto use: Rplus_lt_compat_l, Rplus_le_reg_l unfold: Rle inv: sumbool.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b c. unfold Rmin. repeat rewrite Rplus_comm. reflexivity.", "succ": true}]

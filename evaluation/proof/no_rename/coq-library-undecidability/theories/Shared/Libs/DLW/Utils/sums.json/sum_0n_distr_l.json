@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X times sum one zero M_sum sum_comm sum_cancel M_times distr_l distr_r b n f. induction n. - simpl. apply monoid_unit_l with (m:=sum) (u:=zero) in M_sum. rewrite M_sum. reflexivity. - simpl. rewrite distr_l. rewrite IHn. reflexivity.", "succ": false}]

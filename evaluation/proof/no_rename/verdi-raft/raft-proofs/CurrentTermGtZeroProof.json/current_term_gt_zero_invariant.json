@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_reachable h H_not_follower. unfold current_term_gt_zero in *. intros H_h_not_follower. apply (H_h_not_follower h H_not_follower).", "succ": false}]

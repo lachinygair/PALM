@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros state state_R ms1 ms2 H. induction H. - apply forward_Error. - apply forward_NonTerminating. - apply forward_Terminating_NonTerminating. - apply forward_Terminating with x; auto.", "succ": true}]

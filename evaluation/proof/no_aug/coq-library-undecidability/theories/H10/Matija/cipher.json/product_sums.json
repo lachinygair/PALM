@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. rewrite <- sum_0n_distr_in_out. rewrite (sum_0n_scal_r n (\u2211 n f) g). rewrite (sum_0n_scal_r n (\u2211 n f) g). rewrite <- sum_0n_distr_in_out. rewrite <- double_sum_powers_ortho; auto. rewrite <- sum_0n_distr_in_out. reflexivity.", "succ": false}]

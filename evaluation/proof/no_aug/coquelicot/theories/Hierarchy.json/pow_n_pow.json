@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x k. induction k as [| k' IHk]. - simpl. auto. - simpl. rewrite IHk. reflexivity.", "repairs": ["", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x k. induction k as [| k' IHk]. - simpl. auto. - simpl. rewrite IHk. reflexivity.", "succ": true}]

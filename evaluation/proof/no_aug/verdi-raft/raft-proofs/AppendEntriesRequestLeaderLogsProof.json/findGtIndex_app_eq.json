@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l1 l2 e H_sorted H_in H_findGtIndex. apply (maxIndex_removeAfterIndex l1). - apply H_sorted. - apply H_in. - apply H_findGtIndex.", "succ": false}]

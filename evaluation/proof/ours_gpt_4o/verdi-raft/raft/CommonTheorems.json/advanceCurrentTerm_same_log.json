@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros st t. unfold advanceCurrentTerm. destruct (currentTerm st <? t). - reflexivity. - reflexivity.", "repairs": ["", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros st t. unfold advanceCurrentTerm. destruct (currentTerm st <? t). - reflexivity. - reflexivity.", "back_times": 0, "succ": true, "time": 0.4151878356933594}]

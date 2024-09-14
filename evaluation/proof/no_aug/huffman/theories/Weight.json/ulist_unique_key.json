@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A' B l H. apply ulist_unique_key. apply H.", "repairs": ["used_var", "", ""], "exceptions": [{"ctx": [], "tactic": "intros A B l H.", "exn": "A is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros A B l H. apply ulist_unique_key. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply Lim_seq_ext_loc. exists 0%nat. intros n _. apply H.", "repairs": ["", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply Lim_seq_ext_loc. exists 0%nat. intros n _. apply H.", "back_times": 0, "succ": true, "time": 0.3191664218902588}]

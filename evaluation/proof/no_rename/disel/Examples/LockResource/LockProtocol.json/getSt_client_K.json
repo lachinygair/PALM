@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hin HgetLocal. unfold getLocal in HgetLocal. simpl in HgetLocal. rewrite HgetLocal. auto.", "succ": false}]

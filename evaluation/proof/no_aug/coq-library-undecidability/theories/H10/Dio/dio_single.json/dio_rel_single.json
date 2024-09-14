@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros DR. unfold dio_single_pred. split. - intros. exists E. auto. - intros. destruct H as [E H]. auto.", "succ": false}]

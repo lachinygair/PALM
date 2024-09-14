@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n. unfold monotonic. intros A X Y TX TY F HF R S H1 H2. apply mkmon. - apply mon_m. apply HF. - apply mon_t. apply HF. apply H1. - apply mon_a. apply HF. apply H2.", "succ": false}]

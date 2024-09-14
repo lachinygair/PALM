@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold lprod. rewrite fold_right_app. reflexivity.", "succ": false}]

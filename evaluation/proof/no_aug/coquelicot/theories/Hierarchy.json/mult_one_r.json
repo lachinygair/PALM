@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros x. rewrite <- Ring.ax1. rewrite Ring.AbelianGroup. rewrite AbelianGroup.ax1. rewrite Ring.sort. rewrite AbelianGroup.ax3. reflexivity.", "succ": false}]

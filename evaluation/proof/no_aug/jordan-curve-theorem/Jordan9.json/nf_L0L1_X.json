@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto lq: on use: nf_L0L1_XC, nf_L0L1_XB, nf_L0L1_XA.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold m1, m2, inv_hmap, cA, cA_1. intros. apply nf_L0L1_XC with (x:=x)(y:=y)(x':=x')(y':=y'). auto. auto. auto. auto. auto. auto. auto. auto.", "succ": true}]

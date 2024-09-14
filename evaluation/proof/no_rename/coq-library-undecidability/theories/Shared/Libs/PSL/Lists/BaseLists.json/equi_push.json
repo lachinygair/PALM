@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X x A. intros H. unfold \"===\". intros y. intros H1. split. - intros H2. rewrite H2. simpl. right. apply H1. - intros H3. inversion H3. + rewrite <- H4 in H. apply H. + rewrite <- H4 in H. apply H1 in H. destruct H. contradiction.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros r. sauto lq: on depth: 3use: codeLNTRelation.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros r. rewrite codeLNTRelation. unfold codeLNTRelation. rewrite codeLNTRelation. unfold codeLNTRelation.", "succ": true}]

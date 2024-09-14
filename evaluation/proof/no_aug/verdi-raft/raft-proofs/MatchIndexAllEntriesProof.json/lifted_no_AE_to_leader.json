@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net p t n pli plt es ci H_ref H_in H_body H_type H_term. apply (no_append_entries_to_leader net p t n pli plt es ci H_ref H_in H_body H_type H_term).", "succ": false}]

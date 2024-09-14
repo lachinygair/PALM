@@ -1,0 +1,1 @@
+[{"history": {"proof": "intro H. specialize (Ex_Wallen H) as H0. apply H0.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intro H. specialize (Ex_Wallen H) as H0. apply H0.", "back_times": 0, "succ": true, "time": 1.6238172054290771}]

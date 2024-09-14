@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold append_entries_request_reply_correspondence_interface. apply Build_append_entries_request_reply_correspondence_interface. intros net H_reachable. apply append_entries_request_reply_correspondence_invariant. apply H_reachable.", "succ": false}]

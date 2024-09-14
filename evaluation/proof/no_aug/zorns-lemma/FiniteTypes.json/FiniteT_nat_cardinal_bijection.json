@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Y H g Hinv. unfold FiniteT_nat_cardinal. unfold bij_finite. simpl. rewrite (FiniteT_nat_cardinal_cond X H (FiniteT_nat_cardinal X H)). rewrite Hinv. reflexivity.", "succ": false}]

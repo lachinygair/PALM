@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st t h' pli plt es ci te e d m Hin Handle. intros HandleAp. left. eapply update_elections_data_append_entries_allEntries_term in Hin. destruct Hin as [Hin | [Hin _]]; auto.", "succ": false}]

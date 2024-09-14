@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y u. unfold prod_scal. simpl. scongruence use: @scal_assoc unfold: snd, ModuleSpace.sort, fst.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y u. unfold prod_scal. simpl. rewrite ModuleSpace.ax1. rewrite scal_distr_r. reflexivity.", "succ": true}]

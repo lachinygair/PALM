@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' e Hstate_eq_h Hdc_orig. apply directly_committed_allEntries_preserved with net. - apply Hdc_orig. - intros h Hin. rewrite <- Hstate_eq_h. apply Hin.", "back_times": 0, "succ": false, "time": 96.58917951583862}]

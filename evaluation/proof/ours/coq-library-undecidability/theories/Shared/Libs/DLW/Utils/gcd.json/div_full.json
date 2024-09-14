@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply bezout_generalized.", "exn": "In environment q, p : nat H : nat -> nat -> nat Unable to unify \"nat\" with \"{n : nat & {r : nat | q = n * p + r /\\\\ (p <> 0 -> r < p)}}\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply bezout_generalized.", "succ": false}]

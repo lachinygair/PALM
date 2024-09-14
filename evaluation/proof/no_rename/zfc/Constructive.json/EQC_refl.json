@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E. unfold EQC. refine (fun X => _). induction X as [A IH]. destruct IH as [g [H1 H2]]. split. - intros x. apply (H1 x). - intros y. apply (H2 y).", "succ": false}]

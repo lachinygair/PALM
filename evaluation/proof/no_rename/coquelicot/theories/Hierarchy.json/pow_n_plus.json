@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros K x n m. induction n. - simpl. rewrite Ring.ax3. symmetry. apply Ring.ax4. - simpl. rewrite <- IHn. symmetry. rewrite <- mult_assoc. reflexivity.", "succ": false}]

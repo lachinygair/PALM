@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p. rewrite <- eqp_refl. auto.", "back_times": 0, "succ": false, "time": 70.61404943466187}]

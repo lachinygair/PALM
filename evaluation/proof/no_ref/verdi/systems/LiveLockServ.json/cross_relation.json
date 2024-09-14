@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P H_init H_step st tr H_star. induction H_star. - apply H_init. - apply (H_step st' st tr ev). + apply H. + apply IHH_star. * apply H1.", "succ": false, "time": 17.658115035000264}]

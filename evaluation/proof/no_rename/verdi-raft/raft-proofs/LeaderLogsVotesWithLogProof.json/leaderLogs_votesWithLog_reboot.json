@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_reboot, leaderLogs_votesWithLog. intros net net' gd d h d' Hreboot HP Hreach Hstate Hupdate Hpackets. specialize (Hreboot d' Hreach HP Hstate Hupdate Hpackets). apply Hreboot.", "succ": false}]

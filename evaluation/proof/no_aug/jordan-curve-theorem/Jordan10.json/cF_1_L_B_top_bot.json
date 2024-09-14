@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x z H1 H2. unfold cF_1. hauto lq: on use: cA_L_B_top_bot_ter, cA_L_B_top_bot unfold: dim_opp inv: dim.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m k x z H1 H2. unfold cF_1. unfold L. unfold B. unfold cF_1 in H2. unfold L in H2. unfold B in H2. destruct H2 as [H2 _]. rewrite H2.", "succ": true}]

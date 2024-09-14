@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d0 d1 H. unfold predta_compatible, dta_compat in *. intros s0 s1 H0 H1. srun best use: st_compatible_compat unfold: state_in_dta.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros d0 d1 H. unfold predta_compatible, dta_compat in *. intros s0 s1 H0 H1. apply H with (s0:=s0) (s1:=s1); auto.", "succ": true}]

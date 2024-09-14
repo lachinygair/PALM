@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply is_true.", "exn": "Unable to unify \"Prop\" with \"is_true (valid init_state)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros. apply is_true.", "succ": false}]

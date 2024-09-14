@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros kappa lambda H1 H2. apply eq_cardinal_impl_le_cardinal in H1. apply eq_cardinal_impl_le_cardinal in H2. apply eq_cardinal_equiv. split; auto.", "succ": false}]

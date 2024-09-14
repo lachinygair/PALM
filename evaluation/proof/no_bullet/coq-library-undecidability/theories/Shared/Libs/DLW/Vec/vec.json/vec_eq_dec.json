@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct (vec_eq_dec n u v) as [eq|neq]. - left. apply eq. - right. apply neq.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Y X icomp ilen Hilen state_Y state_X step_X step_Y step_X_tot step_Y_fun simul Hicomp linker P Q HPQ i1 v1 i2 v2 w1 H1 H2. intros [H3 H4]. destruct H4 as [[H5 H6] _]. apply H6 in H2. destruct H2 as [w2 [H7 H8]]. exists w2. split. - apply H7. - apply H8.", "succ": false}]

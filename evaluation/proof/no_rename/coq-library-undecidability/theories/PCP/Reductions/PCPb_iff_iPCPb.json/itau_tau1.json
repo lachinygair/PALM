@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A P H. unfold incl in H. unfold itau1, tau1, f. induction A as [|x xs IH]. - reflexivity. - simpl. intros i Hi. apply IH. intros j Hj. apply H. right. apply Hj.", "succ": false}]

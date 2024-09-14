@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros a b H1 H2."], "tactic": "apply divTerm_def; auto.", "exn": "Unable to find an instance for the variable nZb.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros a b H1 H2. apply divTerm_def; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f b a H x y H0 H1 H2. assert (H3: f x < f y). + apply H. split. apply H0. apply H1. assert (H4: f x = f y). auto. apply Nat.le_antisymm. + apply Nat.le_stepl with (f x). apply H3. apply H4. + apply Nat.le_stepr with (f y). apply H3. apply H4.", "succ": false}]

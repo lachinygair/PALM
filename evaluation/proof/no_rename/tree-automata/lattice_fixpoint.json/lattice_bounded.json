@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A x. unfold bounded_sas_chain. intros. srun best use: lattice_bounded_10.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros A x. unfold bounded_sas_chain. intros.", "succ": true}]

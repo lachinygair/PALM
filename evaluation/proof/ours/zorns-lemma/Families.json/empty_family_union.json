@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "unfold FamilyUnion.", "exn": "Cannot coerce FamilyUnion to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "unfold FamilyUnion. apply Empty_set_ind.", "succ": false}]

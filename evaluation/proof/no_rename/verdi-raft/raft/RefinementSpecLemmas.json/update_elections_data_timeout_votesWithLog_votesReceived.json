@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros H. inversion H. split. - reflexivity. - split. + reflexivity. + right. split. * reflexivity. * split. { reflexivity. } { split. - left. reflexivity. - split. + reflexivity. + split. { reflexivity. } { reflexivity. } }", "succ": false}]

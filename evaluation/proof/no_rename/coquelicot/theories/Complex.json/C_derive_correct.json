@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: is_C_derive_unique unfold: NormedModule.sort, ex_derive, C_NormedModule.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros f l z H. unfold ex_derive, is_derive, C_derive. destruct H as [l' H1]. apply H1.", "succ": true}]

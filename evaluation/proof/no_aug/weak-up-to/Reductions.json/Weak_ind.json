@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros P H1 H2 H3 l x x' H4. apply (weak_taus x x' l). apply H4. apply weak_refl.", "succ": false}]

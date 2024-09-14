@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intro H."], "tactic": "unfold not, list_has_dup.", "exn": "Cannot turn inductive list_has_dup into an evaluable reference.", "type": "cannot_turn_ind", "handled": true}]}, "chat": [], "original": "intro H. unfold not, list_has_dup. intros H1. inversion H1 as [H2]. apply H2.", "succ": false}]

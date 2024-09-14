@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intro H. inversion H as [t H0 H1]. inversion H1 as [i \u03c1 v j w H2 H3 H4]. apply HQ1 with (i:=i) (\u03c1:=\u03c1) (v:=v) (j:=j) (w:=w). apply H2. apply H3. apply H4.", "succ": false}]

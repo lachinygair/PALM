@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold equivalence, eq_fn. split. - intros f1 f2 H b. unfold eq_fn. apply H. - intros f1 f2 f3 H1 H2 b. unfold eq_fn in *. rewrite H1, H2. reflexivity.", "succ": false}]

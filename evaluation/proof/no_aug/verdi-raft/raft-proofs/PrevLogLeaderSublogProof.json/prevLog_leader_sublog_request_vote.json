@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_request_vote, prevLog_leader_sublog. intros. specialize (H xs p ys net st' ps' d m t cid lli llt). intros. apply H; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite nth_rcons. rewrite size_compat. rewrite Rlist2seq_bij. apply nth_default. omega.", "succ": false}]

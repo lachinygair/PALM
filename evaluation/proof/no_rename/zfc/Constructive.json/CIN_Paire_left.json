@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros E E'. intros X Y. apply CIN_sound_right with (E' := Paire X Y). apply Paire_IN. right. apply EQC_refl. apply IN_Paire_right.", "succ": false}]

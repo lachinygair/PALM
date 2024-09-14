@@ -1,0 +1,1 @@
+[{"history": {"proof": "induction n. -- apply mscal_0. -- rewrite mscal_S. rewrite IHn. apply monoid_unit_l. apply Hmonoid.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "induction n. -- apply mscal_0. -- rewrite mscal_S. rewrite IHn. apply monoid_unit_l. apply Hmonoid.", "back_times": 0, "succ": true, "time": 0.1673128604888916}]

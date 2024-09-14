@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params rri cei cti cci. unfold refined_raft_net_invariant_init, prevLog_candidateEntriesTerm. intros net p t leaderId prevLogIndex prevLogTerm entries leaderCommit Hin Hp. apply candidateEntriesTerm. auto.", "succ": true}]

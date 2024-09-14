@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E' H. unfold EQ in H. hauto lq: on use: IN_sound_left, INC_IN_Power, EQ_INC, EQ_refl, IN_Power_INC, INC_EQ, Power_mon unfold: EQ.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros E E' H. unfold EQ in H. simpl in H. rewrite H. apply EQ_refl.", "succ": true}]

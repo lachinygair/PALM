@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi x y. unfold_derivable. intros H1. apply deduction_modus_ponens with (x := x). - apply orp_elim1. - apply H1.", "succ": false}]

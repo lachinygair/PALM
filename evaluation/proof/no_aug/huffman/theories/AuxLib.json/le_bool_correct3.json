@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. qauto use: le_bool_correct2, Nat.le_ngt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. unfold le_bool in H. unfold le. destruct a. - intros _. constructor. - destruct b. + discriminate H. + apply leb_complete. simpl in H. apply (beq_nat_true _ _ H).", "succ": true}]

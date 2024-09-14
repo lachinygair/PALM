@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite <- (freeVarTimes LNT Zero (Tnil LNT)). rewrite <- (freeVarPlus LNT Zero (Tnil LNT)). unfold Zero. simpl. reflexivity.", "succ": true}]

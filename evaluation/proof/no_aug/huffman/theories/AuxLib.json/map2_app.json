@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l1 l2 l3 l4 H. induction l1 as [|a l1' IH]. - simpl. destruct l2. + reflexivity. + discriminate. - simpl. destruct l2 as [|b l2']. + discriminate. + f_equal. apply IH.", "succ": false}]

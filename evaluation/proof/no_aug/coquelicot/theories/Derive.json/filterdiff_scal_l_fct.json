@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros F FF x f lf [Hlin Hdif]. split;[apply Hlin|]. intros x' Hlim. apply Hdif in Hlim. unfold is_domin in Hdif. destruct (Hdif x x' Hlim) as [H1 H2]. split. - apply filterdiff_scal_fct; auto. - apply Proper_StrongProper; auto.", "succ": false}]

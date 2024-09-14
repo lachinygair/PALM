@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net H1 H2 H3 H4 H5. unfold refined_raft_net_invariant_state_same_packet_subset. intros t h h' H6 H7 H8. apply H3 with (t:=t) (h:=h) (h':=h') in H6 as [vl [H9 H10]]. exists vl. split; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. rewrite kill_non_coacc_lazy_eq_kill_non_coacc. apply dta_kill_non_coacc_correct_ref_ok. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros d H. rewrite kill_non_coacc_lazy_eq_kill_non_coacc. apply dta_kill_non_coacc_correct_ref_ok. apply H.", "back_times": 0, "succ": true, "time": 0.539912223815918}]

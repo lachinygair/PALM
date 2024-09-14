@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a aL. induction aL. - simpl. left. reflexivity. - simpl. right. apply IHaL.", "repairs": ["", "", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros a aL. induction aL. - simpl. left. reflexivity. - simpl. right. apply IHaL.", "back_times": 0, "succ": true, "time": 0.7704253196716309}]

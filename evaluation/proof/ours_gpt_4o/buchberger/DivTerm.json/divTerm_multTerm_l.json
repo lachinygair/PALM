@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b c nZa H. apply eqTerm_multTerm_comp with (multTerm multA (n:=n) (divTerm b (b:=a) nZa) a). - apply divTerm_invTerm_l with (nZa:=nZa). auto. - apply divTerm_invTerm_r with (nZa:=nZa). + apply nZzeroP_multTerm; auto. + auto.", "back_times": 0, "succ": false, "time": 69.43843293190002}]

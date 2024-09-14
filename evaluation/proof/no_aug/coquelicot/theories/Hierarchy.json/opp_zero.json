@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: plus_zero_r, plus_opp_l.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite plus_zero_r. apply plus_opp_l.", "succ": true}]

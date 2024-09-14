@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3use: True_dec.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": ["apply True_dec.", ""], "exn": "Applied theorem does not have enough premises.", "type": "no_enough_premises", "handled": false}]}, "chat": [], "original": "apply True_dec.", "succ": true}]

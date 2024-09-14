@@ -1,0 +1,1 @@
+[{"history": {"proof": "strivial use: rem_equi, incl_lcons, rem_incl, incl_cons unfold: equi, eqType_X.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros X x A H. apply equi_push. apply H.", "succ": true}]

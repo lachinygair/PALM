@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d a b. unfold ppcm_mon, mult_mon, div_mon. rewrite div_clean_dec1. - rewrite mult_mon_com, mult_mon_assoc. rewrite mult_div_com. rewrite mult_mon_com. rewrite mdiv_div. reflexivity. - apply gb.", "succ": false}]

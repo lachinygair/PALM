@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros y."], "tactic": "apply open_Rbar_lt.", "exn": "In environment y : Rbar x : R_UniformSpace Unable to unify \"(fun u : R => Rbar_lt u ?M2443) x\" with \"(fun u : R => Rbar_lt y u) x\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "intros y. apply open_Rbar_lt.", "succ": false}]

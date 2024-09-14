@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Zp_invert. destruct (Zp_invert_full Zp) as [i [H1 H2]]. apply H1. reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "simpl. unfold Zp_invert. destruct (Zp_invert_full Zp) as [i [H1 H2]]. apply H1. reflexivity.", "succ": true}]

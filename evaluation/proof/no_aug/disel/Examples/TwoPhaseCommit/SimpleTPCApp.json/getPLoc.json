@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold init_heap_p, init_dstatelet, getLocal. simpl. rewrite in_pts_mapsto_iff. intros [H | [H | [H | []]]]; rewrite H. - reflexivity. - discriminate. - discriminate.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l. induction l using term_list_rect. - left. reflexivity. - right. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l. induction l using term_list_rect. - left. reflexivity. - right. exists t, t0. reflexivity.", "succ": true}]

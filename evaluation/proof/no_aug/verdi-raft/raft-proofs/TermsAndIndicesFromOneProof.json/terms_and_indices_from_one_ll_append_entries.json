@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_append_entries. intros xs p ys net st' ps' gd d m t n pli plt es ci H1 H2 H3. unfold handleAppendEntries in *. simpl in *. inversion H1; subst. inversion H2; subst. inversion H3; subst. reflexivity.", "succ": false}]

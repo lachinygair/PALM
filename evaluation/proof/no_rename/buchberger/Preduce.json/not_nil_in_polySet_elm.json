@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros Q p H."], "tactic": "unfold inPolySet in H.", "exn": "Cannot coerce inPolySet to an evaluable reference.", "type": "not_evaluable", "handled": true}]}, "chat": [], "original": "intros Q p H. unfold inPolySet in H. intros contra. rewrite contra in H. inversion H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> /CohUn [val [val_s [hc dom_eq protocol_coh]]] hcW2. apply: projectS_cohL. - by rewrite /Coh; split=> //. - exact: hc.", "back_times": 0, "succ": false, "time": 29.51572275161743}]

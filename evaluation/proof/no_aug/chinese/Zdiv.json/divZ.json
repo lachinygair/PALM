@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b Hneq. constructor. - unfold is_diveuclZ. repeat split. + apply Hneq. + apply leZ_OZ. + apply ltZ_absZ. + apply addZ_neq_OZ.", "succ": false}]

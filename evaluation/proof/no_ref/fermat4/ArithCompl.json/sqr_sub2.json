@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H1 H2. hfcrush use: Z.mul_lt_mono_nonneg, Z.lt_0_sub.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. apply Z.lt_le_incl in H2. apply Z.sub_pos. apply Z.mul_nonneg_nonneg; lia. apply Z.mul_lt_mono_pos_r; lia.", "succ": true}]

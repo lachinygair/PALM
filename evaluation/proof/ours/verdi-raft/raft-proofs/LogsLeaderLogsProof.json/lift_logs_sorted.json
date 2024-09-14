@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros net h H_refined. sauto lq: on depth: 3use: logs_sorted_host.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros net h H_refined. specialize (lpholli net H_refined) as H_sorted. unfold logs_sorted_host in H_sorted. apply H_sorted.", "succ": true}]

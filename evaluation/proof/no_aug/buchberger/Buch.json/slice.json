@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold poly, cpRes in *. constructor. - apply (reduce_cb _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ X eqA_dec n ltM ltM_dec os). auto. - apply (reduce_cb _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ X eqA_dec n ltM ltM_dec os). auto. - auto.", "succ": true}]

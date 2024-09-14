@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply is_lim_seq_unique with (Lim_seq u). apply Lim_seq_correct. exists (Lim_seq u). apply Lim_seq_correct'. exists (Lim_seq u).", "succ": false}]

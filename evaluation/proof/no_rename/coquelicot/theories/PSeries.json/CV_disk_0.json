@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold CV_disk. intros a. apply ex_series_lim_0. apply ex_series_le with (b:=fun n => Rabs (a n * 0 ^ n)). - intros n.", "succ": false}]

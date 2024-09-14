@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto depth: 4 l: on use: Nat.lt_0_succ, @SF_lx_f2 unfold: SF_lx, unzip1, SF_sorted, pairmap, sorted, map, SF_seq_f2, SF_t, size, behead.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

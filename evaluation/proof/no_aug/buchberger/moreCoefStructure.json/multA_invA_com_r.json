@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a b. rewrite multA_com with (a := a) (b := b). rewrite multA_com. rewrite <- multA_assoc. rewrite multA_A1_r. rewrite multA_A0_l. rewrite multA_A1_r. rewrite multA_A0_l. rewrite invA0_inv. reflexivity.", "succ": false}]

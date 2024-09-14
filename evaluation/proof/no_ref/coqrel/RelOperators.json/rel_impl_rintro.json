@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold rel_impl, RIntro. intros H. apply H.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros. unfold rel_impl, RIntro. simpl. intros H. apply H.", "succ": true}]

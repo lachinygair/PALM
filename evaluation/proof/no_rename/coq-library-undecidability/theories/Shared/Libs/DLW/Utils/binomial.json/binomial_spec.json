@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: binomial_thm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros fact_neq_0 p n H. intros H_le. apply binomial_thm in H_le. rewrite H_le. reflexivity.", "succ": true}]

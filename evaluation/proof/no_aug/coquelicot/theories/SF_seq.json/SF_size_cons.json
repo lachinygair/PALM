@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold SF_size, SF_cons. simpl. f_equal.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "unfold SF_size, SF_cons. simpl. f_equal.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros T f g v H1 H2 H3. srun best use: existSys unfold: System, existH, Formula, SysPrf.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros T f g v H1 H2 H3. apply existE with (T := Ensembles.Add (fol.Formula LNN) T f) (g := g). - apply H1. - apply H2. - apply H3.", "succ": true}]

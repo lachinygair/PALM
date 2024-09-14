@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f g x Hf Hg. destruct Hf as [lf Hf]. destruct Hg as [lg Hg]. apply ex_derive_opp in Hf as Hexf. apply ex_derive_opp in Hg as Hexg. apply is_derive_plus in Hexf. apply is_derive_plus in Hexg. exists (plus lf lg). apply Hexf. apply Hexg.", "succ": false}]

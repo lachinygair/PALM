@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_SeparationAlgebra. - sauto l: on depth: 3. - sauto l: on depth: 3.", "repairs": ["", "", "hammer", "", "hammer"], "exceptions": []}, "chat": [], "original": "apply Build_SeparationAlgebra. apply join_comm. apply join_assoc.", "succ": true}]

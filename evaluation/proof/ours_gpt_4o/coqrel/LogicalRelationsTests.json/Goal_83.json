@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R f C x y Hmono Hxy Hfx. apply Hmono in Hxy. rewrite Hxy in Hfx. auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A R f C x y Hmono Hxy Hfx. apply Hmono in Hxy. rewrite Hxy in Hfx. auto.", "back_times": 0, "succ": true, "time": 0.5266673564910889}]

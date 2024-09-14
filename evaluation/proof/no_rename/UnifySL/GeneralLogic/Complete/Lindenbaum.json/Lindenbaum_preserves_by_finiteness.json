@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: @Lindenbaum_preserve_omega unfold: Lindenbaum_preserves.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros A P H_finite H_subset. unfold Lindenbaum_preserves. intros CA init H_init. apply Lindenbaum_preserve_n; auto.", "succ": true}]

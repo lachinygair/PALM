@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "eapply power_decomp_is_digit. - apply Hr'. - apply Hw. - intros i Hi. rewrite Hw. apply all_ones_dio. + apply Hr. + apply Hi.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros X Y f H1 H2 H3. apply (FiniteT_img X Y f H1 H3). - apply H1. - apply H2.", "succ": false}]

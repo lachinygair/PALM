@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x. unfold respectful_relation. apply RR.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros x. unfold respectful_relation. apply RR.", "back_times": 0, "succ": true, "time": 0.9375622272491455}]

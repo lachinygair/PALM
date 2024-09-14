@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Forall2Impl expandImpl H. induction H. - intros. rewrite expandImpl. rewrite expandImpl in H0. inversion H0. reflexivity. - intros. rewrite expandImpl. rewrite expandImpl in H1. inversion H1. f_equal. apply IHForall2; auto.", "succ": false}]

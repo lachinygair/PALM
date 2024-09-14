@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: leaderLogs_sorted_invariant.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. apply leaderLogs_sorted_invariant.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply leaderLogs_sorted_interface in si. unfold leaderLogs_sorted_interface, leaderLogs_sorted_invariant in si. apply si.", "succ": false}]

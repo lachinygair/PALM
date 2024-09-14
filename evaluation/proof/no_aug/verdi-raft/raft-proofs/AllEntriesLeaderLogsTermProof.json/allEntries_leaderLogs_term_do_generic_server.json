@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold refined_raft_net_invariant_do_generic_server, append_entries_leaderLogs_interface in *. unfold allEntries_leaderLogs_term in *. intros. specialize (H t e h). unfold append_entries_leaderLogs in H. apply H. auto.", "succ": false}]

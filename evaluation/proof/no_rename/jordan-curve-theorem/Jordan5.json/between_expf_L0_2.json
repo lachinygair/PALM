@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros m x y i Hmap y_0_1 x0 z H_bet. unfold expf. apply (and_intro). - apply Hmap. - apply (MF.expo_between_expof_1 m y_0_1 z x0 i Hmap H_bet).", "succ": false}]

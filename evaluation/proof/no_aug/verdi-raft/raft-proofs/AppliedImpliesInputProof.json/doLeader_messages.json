@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d h os d' ms m es e H_doLeader H_In_ms H_mEntries_m_es H_In_e_es. apply (doLeader_message_entries _ _ _ _ _ _ _ _ _ _ _ _ H_doLeader H_In_ms). apply H_mEntries_m_es. apply H_In_e_es.", "succ": false}]

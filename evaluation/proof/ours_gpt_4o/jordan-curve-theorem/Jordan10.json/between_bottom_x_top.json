@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m x Hinv Hsucc. apply betweene_bottom_x_top; auto.", "repairs": ["", ""], "exceptions": []}, "chat": [], "original": "intros m x Hinv Hsucc. apply betweene_bottom_x_top; auto.", "back_times": 0, "succ": true, "time": 0.3766043186187744}]

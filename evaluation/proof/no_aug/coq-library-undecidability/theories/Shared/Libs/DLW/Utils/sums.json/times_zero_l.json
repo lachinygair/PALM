@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite monoid_unit_l with (m := times) (u := zero) (x := x). symmetry. apply monoid_unit_r with (m := times) (u := zero), x.", "succ": true}]

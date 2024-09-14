@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros A R1 R2 x z H. induction H using compond_relation_ind. exists y. split. - auto. - auto.", "repairs": ["", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros A R1 R2 x z H. induction H using compond_relation_ind. exists y. split. - auto. - auto.", "back_times": 0, "succ": true, "time": 1.4847216606140137}]

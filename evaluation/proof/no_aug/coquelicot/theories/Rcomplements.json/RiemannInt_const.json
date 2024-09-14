@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c a b pr. unfold RiemannInt. rewrite RiemannInt_P15. reflexivity.", "succ": false}]

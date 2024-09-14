@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply refined_raft_net_invariant with (leaders_have_leaderLogs). - refine (leaders_have_leaderLogs_invariant _). - apply rri.", "back_times": 0, "succ": false, "time": 47.608553647994995}]

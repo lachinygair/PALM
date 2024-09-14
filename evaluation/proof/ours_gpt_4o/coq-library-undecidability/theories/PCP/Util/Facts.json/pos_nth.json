@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros H. apply nth_error_nth. apply pos_nthe with (d:=d) (x:=x) (A:=l). auto.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros H. apply nth_error_nth. apply pos_nthe with (d:=d) (x:=x) (A:=l). auto.", "back_times": 0, "succ": true, "time": 0.1701831817626953}]

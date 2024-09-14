@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d H. sauto q: on depth: 3use: DTA_main_state_correct_check_correct.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d H. apply DTA_main_state_correct_check_correct. apply H.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. unfold clientCache, advanceCurrentTerm. simpl. hauto lq: on depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold clientCache, advanceCurrentTerm. simpl. reflexivity.", "succ": true}]

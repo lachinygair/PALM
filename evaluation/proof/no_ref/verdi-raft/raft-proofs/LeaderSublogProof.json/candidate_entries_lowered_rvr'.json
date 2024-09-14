@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net Hce Hvc Hcc p h e Hin. unfold CandidateEntriesLowered, deghost in *. intros HinP Hbody Hterm HwonE. apply (handleRequestVoteReply_preserves_candidate_entries net h h pBody h' t r st' e); auto. apply Hce.", "succ": false}]

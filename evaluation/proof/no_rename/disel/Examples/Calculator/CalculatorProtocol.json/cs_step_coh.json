@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["unfold s_step_coh_t.", "unfold coh, nodes in *."], "tactic": "apply (H IHn).", "exn": "The reference H was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "unfold s_step_coh_t. intros. unfold coh, nodes in *. intros. apply (H IHn).", "succ": false}]

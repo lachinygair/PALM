@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_UnitalSeparationAlgebra with (fun n => let e := incr_exists n in match e with | ex_intro _ m (conj RES _) => ex_intro (fun m0 => residue n m0 /\\ increasing m0) m (conj RES (all_increasing m)) end).", "succ": false}]

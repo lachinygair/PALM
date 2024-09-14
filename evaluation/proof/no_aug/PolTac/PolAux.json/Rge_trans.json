@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z H1 H2. srun best use: Rge_trans.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z H1 H2. apply Rge_sign_pos_pos. - apply eq_Rge_trans_l with z. + apply dist_sym. + apply H2. - apply eq_Rge_trans_r with z. + apply dist_sym. + apply H1.", "succ": true}]

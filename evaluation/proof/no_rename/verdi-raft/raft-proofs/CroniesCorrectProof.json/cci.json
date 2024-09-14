@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_cronies_correct_interface. intros net H. apply cronies_correct_invariant. apply H.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "apply Build_cronies_correct_interface. intros net H. apply cronies_correct_invariant. apply H.", "succ": true}]

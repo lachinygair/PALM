@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net net' gd d h d' H_reboot H_P H_reachable H_nwState H_nwState' H_nwPackets. unfold refined_raft_net_invariant_reboot in H_P. eapply H_P; eauto.", "succ": false}]

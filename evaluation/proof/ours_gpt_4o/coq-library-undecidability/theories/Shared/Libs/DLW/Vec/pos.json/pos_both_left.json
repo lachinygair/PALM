@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment n, m : nat p : pos n Unable to unify \"inl p\" with \"pos_both n m (pos_left m p)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "simpl. reflexivity.", "back_times": 0, "succ": false, "time": 35.77730441093445}]

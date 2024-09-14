@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold scal. rewrite scal_times. rewrite scal_0. symmetry. apply monoid_unit_r. auto.", "succ": false}]

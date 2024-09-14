@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply UpwardsClosedSeparationAlgebra.", "exn": "In environment worlds : Type R : Relation worlds Unable to unify \"Prop\" with \"UpwardsClosedSeparationAlgebra worlds\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply UpwardsClosedSeparationAlgebra.", "succ": false}]

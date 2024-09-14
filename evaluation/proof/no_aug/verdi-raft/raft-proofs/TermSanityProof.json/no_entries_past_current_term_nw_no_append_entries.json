@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net ps' h l st' H1 H2 H3. unfold no_entries_past_current_term_nw. intros e p t leaderId prevLogIndex prevLogTerm entries leaderCommit H4 H5 H6. apply (H1 p p t leaderId prevLogIndex prevLogTerm entries leaderCommit). - apply H4. - apply H5. - apply H6.", "succ": false}]

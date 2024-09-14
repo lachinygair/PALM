@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold Cplus. rewrite Rplus_0_r. scongruence use: surjective_pairing, Rplus_0_r unfold: C, RtoC, snd.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold Cplus. rewrite Rplus_0_r. reflexivity.", "succ": true}]

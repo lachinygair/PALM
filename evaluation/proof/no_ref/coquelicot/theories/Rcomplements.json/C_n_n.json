@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n. hauto use: Rmult_1_r, minus_n_n, Rinv_r, Rplus_0_l, S_INR, INR_fact_neq_0 unfold: C, Rdiv, INR, fact.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n. unfold C. simpl. rewrite fact_1. replace (S n - S n) with 0. - simpl. field. - auto.", "succ": true}]

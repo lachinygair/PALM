@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x y dom\u2081 dom\u2082 m\u2081 m\u2082 Hxy Heq. unfold find. assert (Hxy': X.eq y x) by apply X.eq_sym, Hxy. rewrite S.remove_other. - apply S.add_same. - apply Hxy'.", "succ": false}]

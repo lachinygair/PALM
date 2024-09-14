@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros D H1 H2.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intros D H1 H2. unfold \ud835\udd3bR in D,H1,H2 |- *. intros \u03bd [HR HS]. split. - apply H1, HR. - apply H2, HS.", "succ": false}]

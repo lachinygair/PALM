@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A. unfold Mplus, Mzero. apply mk_matrix_bij. intros i j. unfold coeff_mat. rewrite Nat.add_0_r. rewrite plus_zero_r. reflexivity.", "succ": false}]

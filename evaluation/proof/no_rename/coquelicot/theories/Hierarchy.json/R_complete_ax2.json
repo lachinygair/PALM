@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros F1 F2 H1 H2.", "apply f_equal."], "tactic": "apply proof_irrelevance.", "exn": "The reference proof_irrelevance was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros F1 F2 H1 H2. apply f_equal. apply proof_irrelevance.", "succ": false}]

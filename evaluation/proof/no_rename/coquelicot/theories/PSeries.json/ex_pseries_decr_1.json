@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3 H4. destruct H1 as [H1 | H1]. - left. apply H1. - right. unfold ex_pseries in *. unfold ex_series in *. apply H4 in H2. destruct H2 as [L HL]. exists L. intros. rewrite PS_decr_1. apply is_pseries_decr_1 with (y := y); auto.", "succ": false}]

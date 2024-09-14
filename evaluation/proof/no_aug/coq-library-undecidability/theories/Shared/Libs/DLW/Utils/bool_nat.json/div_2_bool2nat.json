@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: div_2_fix_1, div_2_fix_2, div_2_fix_0 unfold: bool2nat, add.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite rem_plus_rem. rewrite div_rem_spec1 with (q := bool2nat b + 2 * n) (p := 2). rewrite rem_2_bool2nat. rewrite div_2_fix_2. auto.", "succ": true}]

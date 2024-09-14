@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros xs ys env. induction xs as [|x xs' IHxs]. - simpl. reflexivity. - simpl. rewrite IHxs. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros xs ys env. induction xs as [|x xs' IHxs]. - simpl. reflexivity. - simpl. rewrite IHxs. reflexivity.", "succ": true}]

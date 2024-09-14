@@ -1,0 +1,1 @@
+[{"history": {"proof": "exists (fun _ => None). intros x y H. reflexivity.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "exists (fun _ => None). intros x y H. reflexivity.", "back_times": 0, "succ": true, "time": 0.6277689933776855}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros Hx Hy. destruct Hx as [i Hx]. destruct Hy as [j Hy]. exists (i \u2297 j). rewrite Zp_mult_assoc. rewrite Hx. rewrite Zp_mult_one_r. auto.", "succ": false}]

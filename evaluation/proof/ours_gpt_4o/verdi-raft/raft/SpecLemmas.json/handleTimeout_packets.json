@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros h d out d' ps m H0 H1. eapply handleTimeout_not_is_append_entries. apply H0. apply H1.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros h d out d' ps m H0 H1. eapply handleTimeout_not_is_append_entries. apply H0. apply H1.", "back_times": 0, "succ": true, "time": 0.39608287811279297}]

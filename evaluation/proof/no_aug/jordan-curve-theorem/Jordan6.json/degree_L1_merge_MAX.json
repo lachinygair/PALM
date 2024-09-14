@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x y m1 y0 IH1 Hnotexpf MAX. unfold MF.degree_aux. unfold MAX. rewrite (degree_y0_y_1 m x y IH1). reflexivity.", "succ": false}]

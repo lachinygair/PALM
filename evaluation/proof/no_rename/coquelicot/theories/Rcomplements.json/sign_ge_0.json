@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush use: sign_le, sign_0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros x Hx. unfold sign. destruct (total_order_T 0 x) as [[Hx0|Hx0]|Hx0]. - apply sign_eq_1. apply Hx0. - apply sign_eq_m1. lra. - apply Rle_zero_pos_plus1 in Hx. lra.", "succ": true}]

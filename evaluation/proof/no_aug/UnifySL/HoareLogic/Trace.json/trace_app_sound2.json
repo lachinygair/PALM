@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros state R tr1 tr2 H1 H2.", "exn": "state is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros state R tr1 tr2 H1 H2. apply (trace_app_sequential2 _ _ H1 H2).", "succ": false}]

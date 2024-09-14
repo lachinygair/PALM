@@ -1,0 +1,1 @@
+[{"history": {"proof": "hfcrush depth: 3use: ARmul_1_r.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply ARmul_1_r.", "exn": "Unable to find an instance for the variables R, rO, rI, radd, rmul, rsub, ropp.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "apply ARmul_1_r.", "succ": true}]

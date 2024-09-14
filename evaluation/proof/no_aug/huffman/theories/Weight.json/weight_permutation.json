@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m c1 c2 H1 H2. unfold weight. hauto lq: on depth: 3use: encode_permutation.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m c1 c2 H1 H2. unfold weight. rewrite -> (encode_permutation eqA_dec m c1 c2 H2 H1). reflexivity.", "succ": true}]

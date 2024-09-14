@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply DownwardsClosedSeparationAlgebra.", "exn": "Unable to unify \"Prop\" with \"DownwardsClosedSeparationAlgebra nat\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply DownwardsClosedSeparationAlgebra.", "succ": false}]

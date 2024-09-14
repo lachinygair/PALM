@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b H. destruct H as [If If_spec]. exists If. apply If_spec.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros out. induction out as [| [n s] out IHout]. - reflexivity. - destruct s. + simpl. f_equal. apply IHout. + simpl. f_equal. rewrite map_map. apply map_ext. intros. destruct a. reflexivity.", "succ": false, "time": 14.721619073}]

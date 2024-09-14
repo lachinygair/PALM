@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on depth: 3use: step_total, coh_coh.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. exists s; exists (f s (coh_coh _ _ _ S)). apply step_total.", "succ": true}]

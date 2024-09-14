@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x Hmap Hsucc m1. unfold m1. rewrite <- (ndZ_B m k x Hmap Hsucc). reflexivity.", "repairs": ["", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m k x Hmap Hsucc m1. unfold m1. rewrite <- (ndZ_B m k x Hmap Hsucc). reflexivity.", "succ": true}]

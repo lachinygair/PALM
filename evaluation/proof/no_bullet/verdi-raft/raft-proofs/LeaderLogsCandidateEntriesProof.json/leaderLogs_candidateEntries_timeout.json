@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold refined_raft_net_invariant_timeout, leaderLogs_candidateEntries. intros. intros. unfold leaderLogs_candidateEntries in *. intros. intuition.", "succ": false}]

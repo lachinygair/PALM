@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Nat.lt_eq_cases, prime_algo, Nat.lt_le_incl unfold: lt.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros p Hprime. apply prime_algo in Hprime as [Hp2 | [H3 [Hnot2 Hpf]]]. - apply Nat.lt_1_2. - auto.", "succ": true}]

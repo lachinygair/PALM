@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold ex_lim_seq, is_lim_seq. srun best use: is_lim_seq_INR unfold: is_lim_seq.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "unfold ex_lim_seq, is_lim_seq. intros u l. exists l. auto.", "succ": true}]

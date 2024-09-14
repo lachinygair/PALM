@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "apply eq_true.", "exn": "In environment data_stream : seq data choices1, choices2, choices3 : seq bool Unable to unify \"Prop\" with \"is_true (valid init_dstate)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply eq_true.", "succ": false}]

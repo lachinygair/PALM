@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: @size_unzip1, SF_size_lx_ly unfold: SF_size, SF_t, size, SF_lx.", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite (SF_seq_bij s). simpl. reflexivity.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros p n q r H1 H2. intros H3 H4. unfold div. destruct (div_full q p) as [n' [r' [H5 H6]]]. rewrite H5. intros H7. apply Nat.div_unique with (r := r') (b := p). - apply H7. - apply H6. apply H4.", "succ": false}]

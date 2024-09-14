@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold iff, and, not. split; intros. - intro. apply emp_sepcon_truep_elim. split; auto. - intro. apply emp_sepcon_truep_elim in H. destruct H as [H _]. auto.", "succ": false}]

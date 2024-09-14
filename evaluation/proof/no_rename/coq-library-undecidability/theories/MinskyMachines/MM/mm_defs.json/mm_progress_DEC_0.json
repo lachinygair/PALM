@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. intros. intros. intros. intros. intros. intros. intros. intros. intro. intro. inversion H3; subst. apply mm_sss. apply mm_compute_INC with (i:=i)(x:= x)(v:= v). induction H. auto. auto.", "succ": false}]

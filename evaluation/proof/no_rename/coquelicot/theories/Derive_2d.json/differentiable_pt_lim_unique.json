@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f ly lx y x H. destruct H as [H1 H2]. split. - apply is_derive_unique in H1. apply H1. - apply is_derive_unique in H2. apply H2.", "succ": false}]

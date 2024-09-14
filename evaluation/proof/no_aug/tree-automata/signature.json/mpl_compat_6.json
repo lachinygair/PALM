@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros s0 s1 pl p H. apply mpl_compat_1 with (s0 := (M2 prec_list s0 s1)) (s2 := (M1 prec_list (N.pos p~1) pl)). auto. apply mpl_compat_5. auto.", "succ": false}]

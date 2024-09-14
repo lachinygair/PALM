@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros c. srun best use: incl_refl, restrict_code_encode_incl.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros c. induction m as [|x xs IHm]. - reflexivity. - simpl. rewrite -> IHm. rewrite -> restrict_code_encode_incl. reflexivity. apply incl_cons_l.", "succ": true}]

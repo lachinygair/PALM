@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' Hmap Hplanar Hlink y y'. unfold nc, Br1, expf_dec. assert (HeqcAf: cA m zero x = y) by auto. assert (HeqcAf': cA m zero x' = y') by auto. rewrite HeqcAf, HeqcAf'. destruct (expf_dec m y y'). - simpl. ring. - simpl. ring.", "succ": false}]

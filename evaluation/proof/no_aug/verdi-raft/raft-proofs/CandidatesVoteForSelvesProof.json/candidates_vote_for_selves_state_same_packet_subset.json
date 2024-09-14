@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold raft_net_invariant_state_same_packet_subset. intros. hauto unfold: candidates_vote_for_selves.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_state_same_packet_subset. intros. apply H.", "succ": true}]

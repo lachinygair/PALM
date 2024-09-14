@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y Hx Hmul. sfirstorder use: Znot_gt_le, Zabs_spec, Zgt_asym, Z.mul_nonneg_nonneg unfold: Z.le, Z.gt.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y Hx Hmul. apply Zgt_sign_neg_neg_rev; auto.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros log st tr. unfold execute_log'. induction log as [|e log' IHlog]. - simpl. reflexivity. - simpl. destruct (handler (eInput e) st) as [o st']. rewrite <- IHlog. reflexivity.", "succ": false}]

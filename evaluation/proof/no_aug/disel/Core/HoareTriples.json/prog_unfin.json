@@ -1,0 +1,1 @@
+[{"history": {"proof": "sauto lq: on depth: 3.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold DTbin in e. destruct e as [prog_of e_prog_of]. unfold prog_of in e_prog_of. rewrite e_prog_of. apply prog.", "succ": true}]

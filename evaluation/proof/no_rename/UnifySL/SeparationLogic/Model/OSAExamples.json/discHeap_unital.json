@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "apply Build_UnitalSeparationAlgebra. intros worlds R J. intros n. exists n. split. - apply discHeap_uSA. - apply discHeap_dSA.", "succ": false}]

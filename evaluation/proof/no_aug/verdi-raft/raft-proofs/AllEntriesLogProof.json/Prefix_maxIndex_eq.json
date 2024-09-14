@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros l l' H1 H2. unfold Prefix in H1. destruct l. - contradiction H2; auto. - simpl. hauto lq: on depth: 3.", "repairs": ["", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros l l' H1 H2. unfold Prefix in H1. destruct l. - contradiction H2; auto. - simpl. reflexivity.", "succ": true}]

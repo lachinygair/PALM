@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros a l H1 H2 H3. unfold CV_radius. apply is_Lub_Rbar_unique. intros r H. apply Rle_antisym. - apply H. - apply H.", "succ": false}]

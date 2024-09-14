@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros c client id H. unfold clientCache_to_ks in H. rewrite -> H. intros. destruct x as [id' o]. exists o. rewrite H0. reflexivity.", "succ": false}]

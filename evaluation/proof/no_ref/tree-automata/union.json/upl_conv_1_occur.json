@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros pl a H. induction H; try constructor; try auto. - destruct p0; try constructor; try auto. - destruct p1; try constructor; try auto. + apply prec_int0, IHprec_occur. + apply prec_int1, IHprec_occur.", "succ": false}]

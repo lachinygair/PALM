@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: Z.opp_0, Z.le_ge, Z.mul_1_l, Znot_le_gt, Zmult_ge_neg_compat_l_rev unfold: Z.lt, Z.ge.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true, "time": 15.558376997942105}]

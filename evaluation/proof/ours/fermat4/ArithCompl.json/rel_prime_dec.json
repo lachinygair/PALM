@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y. destruct (rel_prime_dec x y) as [H | H]. - left. apply H. - right. intro contra. apply H. apply contra.", "repairs": ["", "", "", "", "", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros x y. destruct (rel_prime_dec x y) as [H | H]. - left. apply H. - right. intro contra. apply H. apply contra.", "succ": true}]

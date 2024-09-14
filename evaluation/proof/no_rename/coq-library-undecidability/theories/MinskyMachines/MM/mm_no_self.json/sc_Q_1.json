@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros j \u03c1 H. apply g_subcode in H. auto.", "succ": false}]

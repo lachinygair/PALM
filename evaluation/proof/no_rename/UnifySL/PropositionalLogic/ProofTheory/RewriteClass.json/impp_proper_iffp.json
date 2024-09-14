@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold Proper; intros x y H x' y' H'; unfold Basics.flip in *; intro z; apply iff_Transitive with (y:=y <--> z); apply iff_Transitive with (y:=(x <--> z)); apply provable_iffp_equiv; intro z; apply provable_proper_iffp; apply H, H'.", "succ": false}]

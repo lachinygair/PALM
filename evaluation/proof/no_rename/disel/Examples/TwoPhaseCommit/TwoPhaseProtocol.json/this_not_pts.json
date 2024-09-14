@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros cn others pts Hthis HinPts. unfold is_true, eq in Hthis, HinPts. rewrite /in_mem mem_seq1. move/eqP in Hthis. rewrite Hthis. apply/eqP. by apply negbTE.", "succ": false}]

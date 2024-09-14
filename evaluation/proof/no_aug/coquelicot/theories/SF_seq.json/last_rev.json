@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: @head_rev, @rev_rev.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "rewrite headI. rewrite last_rcons. reflexivity.", "succ": true}]

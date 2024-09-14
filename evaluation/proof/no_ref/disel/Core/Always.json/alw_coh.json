@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros. hauto l: on depth: 3use: alw_coh'.", "repairs": ["", "hammer"], "exceptions": [{"ctx": ["intros."], "tactic": "apply alw_coh'.", "exn": "Unable to find an instance for the variables A, p, scs, P.", "type": "no_instance_var", "handled": true}]}, "chat": [], "original": "intros. apply alw_coh'. auto.", "succ": true}]

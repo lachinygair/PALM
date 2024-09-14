@@ -1,0 +1,1 @@
+[{"history": {"proof": "qauto use: Nat.mul_comm, divides_mult_inv, divides_mult_r, Nat.mul_assoc unfold: Init.Nat.mul, divides.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

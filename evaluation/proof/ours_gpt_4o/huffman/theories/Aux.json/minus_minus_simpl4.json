@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Nat.pred_0, minus_n_n, minus_plus, Nat.add_0_r, Nat.sub_0_le, le_plus_minus, Nat.sub_add, Nat.sub_le_mono_l, Nat.le_trans, Nat.add_sub_eq_nz, Nat.add_sub_assoc.", "repairs": [""], "exceptions": []}, "chat": [], "original": "", "succ": true}]

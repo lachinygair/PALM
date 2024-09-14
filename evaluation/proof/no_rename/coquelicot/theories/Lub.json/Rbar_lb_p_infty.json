@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: p_infty, Rbar_ub_p_infty, Rbar_le_antisym.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros E H x Hx. specialize (H p_infty Hx). apply Rbar_le_antisym. - apply H. - apply Rbar_ub_p_infty.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto use: Rbar_le_antisym unfold: Rbar_is_lower_bound, Rbar_is_glb.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3 H4. apply Rbar_is_glb_unique. split. - intros x Ex. specialize (H2 x). apply iff_sym, H1, H2. - intros b Hb. apply iff_sym, H1. apply H3. intros x Ex. apply iff_sym, H1, Hb, Ex.", "succ": true}]

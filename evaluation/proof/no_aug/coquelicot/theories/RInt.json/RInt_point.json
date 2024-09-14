@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold RInt. apply iota_unique. intros l Hl. apply is_RInt_unique with (f:=f) (b:=a) (l:=zero). apply (RInt_ext f (fun _=> zero)). intros x Hx. rewrite Hx. reflexivity. apply Hl.", "succ": false}]

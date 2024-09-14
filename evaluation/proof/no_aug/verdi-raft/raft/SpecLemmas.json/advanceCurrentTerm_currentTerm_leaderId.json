@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. destruct st. destruct orig_base_params. destruct one_node_params. destruct raft_params. simpl. left. apply Nat.lt_succ_diag_r.", "succ": false}]

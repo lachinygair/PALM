@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A x l H. exists (x :: l). apply head_insertion. apply H.", "succ": false}]

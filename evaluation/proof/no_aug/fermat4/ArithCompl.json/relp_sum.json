@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m n H. apply prop2. apply Z.divide_antisym with (n := Z.add m n) (m := Z.sub m n). - apply Zdivide_add_r; auto. - apply Zdivide_sub_r; auto.", "succ": false}]

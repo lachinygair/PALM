@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. apply eq_add_S. auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "intros n m H. apply eq_add_S. auto.", "back_times": 0, "succ": true, "time": 0.5236711502075195}]

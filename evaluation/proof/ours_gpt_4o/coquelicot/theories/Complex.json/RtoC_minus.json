@@ -1,0 +1,1 @@
+[{"history": {"proof": "scongruence use: RtoC_plus, RtoC_opp unfold: Cminus, Rminus.", "repairs": [], "exceptions": [{"ctx": [], "tactic": "reflexivity.", "exn": "In environment x, y : R Unable to unify \"x - y\" with \"RtoC (x - y)\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "reflexivity.", "back_times": 0, "succ": true, "time": 24.58211922645569}]

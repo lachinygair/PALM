@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "destruct lb. - right. exists O. reflexivity. - left. destruct (destruct_list bool lb). + destruct s as [b [tl' H]]. left. exists (S O), tl'. rewrite H. reflexivity. + contradiction.", "succ": false}]

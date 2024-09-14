@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply is_RInt_Chasles_0 with (l1 := l2). - apply (proj1 H). - auto. - auto.", "succ": false}]

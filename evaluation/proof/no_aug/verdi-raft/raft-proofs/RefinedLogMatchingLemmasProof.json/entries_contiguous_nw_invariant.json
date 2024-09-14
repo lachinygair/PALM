@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold entries_contiguous_nw. intros p t n pli plt es ci H_in H_body. apply H_refined in aeigt0. apply aeigt0 in H_refined. apply H_refined in H_in. apply H_in.", "succ": false}]

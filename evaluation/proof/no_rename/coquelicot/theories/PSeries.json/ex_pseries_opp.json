@@ -1,0 +1,1 @@
+[{"history": {"proof": "fcrush depth: 3use: ex_pseries_incr_1, PS_opp, is_pseries_opp, ex_pseries.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros K V a x H. unfold ex_pseries, PS_opp in *. intros [l Hl]. apply ex_pseries_incr_1. apply is_pseries_opp in Hl. apply Hl.", "succ": true}]

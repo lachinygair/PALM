@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H. srun best use: eqTerm_imp_eqT, T1_multTerm_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H. rewrite H. reflexivity.", "succ": true}]

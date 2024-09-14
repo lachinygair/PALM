@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold raft_net_invariant_timeout, log_matching. intros net h st' ps' out d l H_handleTimeout H_P H_reachable H_update H_packets. apply H_P. auto. auto. auto. intros h'. apply H_update.", "succ": false}]

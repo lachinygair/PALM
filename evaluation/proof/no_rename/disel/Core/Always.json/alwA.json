@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros this W A B s p P H1. split; intros H2 x s'; apply alw_imp with (P1 := fun s p => forall x : B, P x s p). - intros s0 p0 _ H3 y. apply H2. - apply H2. - intros H3 s H4 y. apply H3.", "succ": false}]

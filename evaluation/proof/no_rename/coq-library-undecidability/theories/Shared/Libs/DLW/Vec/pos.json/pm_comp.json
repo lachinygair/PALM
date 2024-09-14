@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: Exists_cons_tl.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros l m H1 H2. induction H1. - apply H2. - apply Exists_cons_tl. + apply IHpos_map. apply H1.", "succ": true}]

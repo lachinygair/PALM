@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros tr. unfold NoDup. induction tr. - simpl. constructor. - simpl. destruct a as [key [inp | out]]. + apply IHtr. + simpl. apply NoDup_remove. apply IHtr.", "succ": false}]

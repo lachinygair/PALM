@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold is_gcd. unfold alpha_nat. unfold alpha_nat in \u03b1. intros. unfold alpha_nat. unfold alpha_nat in IHn. unfold is_gcd in IHn. unfold is_gcd. destruct (Z_of_nat_set Zpos). * intros n0. apply IHn with (k:=n0). + auto. + auto. * unfold Z_of_nat in H. discriminate H.", "succ": false}]

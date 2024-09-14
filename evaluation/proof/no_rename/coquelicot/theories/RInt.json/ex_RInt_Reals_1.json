@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f a b H. apply ex_intro with (RiemannInt_SF (proj1_sig (Riemann_integrable a b f H))). apply ex_intro with (RiemannInt_SF (proj1_sig (Riemann_integrable a b f H))). split. - apply (proj2_sig (Riemann_integrable a b f H)). - apply (proj2_sig (Riemann_integrable a b f H)).", "succ": false}]

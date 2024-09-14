@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold server_send_safe. intros [Hs _]. split. - split. + rewrite in_cons. by left. + by rewrite in_cons.", "succ": false}]

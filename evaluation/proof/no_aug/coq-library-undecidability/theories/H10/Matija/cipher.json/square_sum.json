@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "symmetry. rewrite sum_0n_scal_r. rewrite (product_sums n f f). rewrite sum_0n_distr_in_out. rewrite sum_0n_distr_in_out. rewrite (meet_sum_powers 2). reflexivity.", "succ": false}]

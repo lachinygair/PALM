@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros Hf Hg."], "tactic": "apply ex_derive_n_minus.", "exn": "The reference ex_derive_n_minus was not found in the current environment.", "type": "ref_not_found", "handled": true}]}, "chat": [], "original": "intros Hf Hg. apply ex_derive_n_minus. - apply Hf. - apply Hg.", "succ": false}]

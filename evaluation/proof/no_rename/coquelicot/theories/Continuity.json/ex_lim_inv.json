@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f x [l Hlim] Hneq0. apply is_lim_inv in Hlim; auto. apply ex_lim_comp with (fun y => /1) f in Hlim; auto. rewrite Lim_correct in Hlim. apply Hlim.", "succ": false}]

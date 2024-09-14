@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros a b H1 H2. assert (a >= 0) as Ha by omega. srun best use: Z.ge_le, Z.square_le_mono_nonneg.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros a b H1 H2. assert (a >= 0) as Ha by omega. assert (b > 0) as Hb by omega. rewrite <- Z.square_nonneg. apply Z.add_square_le; omega.", "succ": true}]

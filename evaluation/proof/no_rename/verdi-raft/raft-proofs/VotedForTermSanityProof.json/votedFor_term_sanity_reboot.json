@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros orig_base_params one_node_params raft_params net net' gd d h d' Hreboot HP Hreach HnwState HnwState' HeqPackets. unfold votedFor_term_sanity. intros. unfold votedFor_term_sanity in H. specialize (H t h h'). apply H; auto.", "succ": false}]

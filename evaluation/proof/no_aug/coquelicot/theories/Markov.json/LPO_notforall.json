@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros P H1 H2. apply Classical_Pred_Type.not_all_not_ex in H2 as [n Hn]. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros P H1 H2. apply Classical_Pred_Type.not_all_not_ex in H2 as [n Hn]. apply H1 in Hn as [HP | HnP]. - exists n. apply HP. - contradict HnP.", "succ": true}]

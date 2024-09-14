@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net H_refined. unfold prefix_within_term_inductive. do 4 split. - apply H_refined. - apply H_refined. - apply H_refined. - apply H_refined. - apply H_refined. - apply H_refined.", "succ": false}]

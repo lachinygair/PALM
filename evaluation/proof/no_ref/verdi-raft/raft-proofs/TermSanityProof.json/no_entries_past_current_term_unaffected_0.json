@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. apply no_entries_past_current_term_do_generic_server with (net := net) (os := out) (ms := l) in H; auto. intuition.", "succ": false}]

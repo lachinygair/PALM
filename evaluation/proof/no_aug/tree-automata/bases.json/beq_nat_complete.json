@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. hauto lqb: on depth: 3use: Neqb_complete.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m H. unfold Nat.eqb in H. destruct n, m. - reflexivity. - discriminate. - discriminate. - f_equal. apply (Neqb_complete _ _ H).", "succ": true}]

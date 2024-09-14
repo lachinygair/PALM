@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder use: Nat.nlt_ge unfold: in_code, out_code.", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2. contradiction.", "back_times": 0, "succ": true, "time": 69.74087119102478}]

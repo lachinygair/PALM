@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f A [g [Hg1 Hg2]] p. apply sysWeaken with (2 := codeSysPrfNCorrect1 _ _ p). intros g0 Hg0. elim Hg1. intro Hg1'. apply expressU1. now apply Hg1'. intros H. absurd (mem (fol.Formula L) U g0). apply Hg2. apply H.", "back_times": 0, "succ": false, "time": 75.77128505706787}]

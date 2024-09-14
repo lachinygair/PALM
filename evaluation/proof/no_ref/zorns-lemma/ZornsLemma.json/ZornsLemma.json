@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "pose proof (ub_of_chain (tower T R chain_sup inflation)). destruct H as [x Hx]. exists x. intros y Hy. apply (proj1 (Hx y Hy)).", "succ": false}]

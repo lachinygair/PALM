@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "move=> H. simpl. apply: sub_supM. apply: H.", "back_times": 0, "succ": false, "time": 67.19778943061829}]

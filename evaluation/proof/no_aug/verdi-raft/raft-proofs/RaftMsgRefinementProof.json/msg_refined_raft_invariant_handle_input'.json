@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros *. intros H_timeout H_client_request H_handleInput H_update_input H_P H_reachable H_reachable' H_update H_packets. unfold msg_refined_raft_intermediate_reachable in *. unfold msg_refined_raft_intermediate_reachable in *. apply H_reachable'.", "succ": false}]

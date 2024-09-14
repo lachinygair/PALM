@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: addZ_eq1, add_OZ unfold: addZ, IdZ, neutral.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "intro.", "exn": "No product even after head-reduction.", "type": "no_product", "handled": true}]}, "chat": [], "original": "intro. unfold neutral, IdZ, addZ, OZ. split; intros; auto.", "succ": true}]

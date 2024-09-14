@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: incl_refl, diagram_incl, incl_trans, S.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "apply diagram_incl with (S := RX) (S' := R'). apply incl_trans with (R := R) (S := RY) (T := RX). apply H. apply incl_refl. apply incl_trans with (R := R) (S := RY) (T := R'). apply H. apply incl_refl.", "succ": true}]

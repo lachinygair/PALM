@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net t e t' h l H. unfold minimal_contradicting_leader_log in H. specialize (contradicting_leader_logs_complete net (nodes raft_params) h t e l t' h). intros Hcomp. apply Hcomp in H. auto.", "succ": false}]

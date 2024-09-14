@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros A B C. unfold Mmult. apply mk_matrix_ext. intros i j. unfold sum_n.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold raft_net_invariant_timeout, lastApplied_le_commitIndex in *. intros net h st' ps' out d l H_timeout H_P H_reachable H_update H_packet. apply lastApplied_le_commitIndex_invariant in H_reachable. apply H_reachable.", "succ": false}]

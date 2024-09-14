@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros l t t' H1 H2. apply functional_extensionality. intros k. split. - intros Hin. specialize (H1 k Hin). apply H2. auto. - intros Hin'. specialize (H2 k Hin'). apply H1. auto.", "succ": false}]

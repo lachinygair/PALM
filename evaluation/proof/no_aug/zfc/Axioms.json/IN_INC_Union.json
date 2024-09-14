@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros E E' H. srun best use: IN_Union unfold: INC.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros E E' H. apply INC. apply H.", "succ": true}]

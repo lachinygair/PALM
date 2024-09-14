@@ -1,0 +1,1 @@
+[{"history": {"proof": "sfirstorder depth: 3use: divTerm_on_eqT_eqT.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros a b nzA nZb eq_ab nZb. apply divTerm_on_eqT_eqT with (nZb := nZb). - apply nzA. - apply eq_ab.", "succ": true}]

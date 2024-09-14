@@ -1,0 +1,1 @@
+[{"history": {"proof": "simpl. unfold is_true. sfirstorder depth: 3use: mem_head.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "simpl. unfold is_true. unfold not. intros Hcontra. apply Hcontra. apply mem_head.", "succ": true}]

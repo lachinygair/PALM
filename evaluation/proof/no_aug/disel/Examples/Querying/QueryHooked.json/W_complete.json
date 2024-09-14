@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "simpl. unfold hook_complete. intros. unfold hooks_consistent in H. destruct W as [W_nodes W_frame]. simpl in *. unfold hook_complete, hooks_consistent in *. intros. apply H in H1. apply H0 in H2. destruct H1 as [U1 U2]. rewrite U1 in H3; auto.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m k x z Hmap Hsucc. unfold cF. rewrite cA_1_L_B. rewrite cA_1_L_B. reflexivity. all: auto.", "repairs": ["", "", "", "", "", ""], "exceptions": []}, "chat": [], "original": "intros m k x z Hmap Hsucc. unfold cF. rewrite cA_1_L_B. rewrite cA_1_L_B. reflexivity. all: auto.", "back_times": 0, "succ": true, "time": 0.6093111038208008}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: expf_trans, not_expf_L1_x, expf_L1_x_y0.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros m x y z m1 y0 H1 H2 H3 H4 H5. unfold not. intros H6 H7. apply H6. apply expf_expf_L0_2; auto.", "succ": true}]

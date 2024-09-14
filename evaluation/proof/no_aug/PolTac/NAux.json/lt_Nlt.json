@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m H. sfirstorder depth: 3.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m H. apply Nat.lt_le_incl. rewrite <- Nat2N.inj. rewrite <- Nat2N.inj. apply le_Nle. rewrite Nat2N.inj. rewrite Nat2N.inj. apply H.", "succ": true}]

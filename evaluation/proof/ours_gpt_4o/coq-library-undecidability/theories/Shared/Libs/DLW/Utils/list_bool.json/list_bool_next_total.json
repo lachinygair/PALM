@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H. induction l using list_ind. - contradiction. - exists 0. simpl. reflexivity. - apply exists_last in H as [l' [a H']]. destruct a. + exists 1. simpl. rewrite H'. reflexivity. + exists (S 0). simpl. rewrite H'. reflexivity.", "back_times": 0, "succ": false, "time": 89.38795137405396}]

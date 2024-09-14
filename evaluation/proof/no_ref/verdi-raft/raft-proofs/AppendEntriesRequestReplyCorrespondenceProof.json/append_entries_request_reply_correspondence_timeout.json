@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "unfold raft_net_invariant_timeout, raft_net_invariant_append_entries_request_reply, append_entries_request_reply_correspondence. intros. apply H with (p := p) (t := t) (es := es) in H0. auto.", "succ": false}]

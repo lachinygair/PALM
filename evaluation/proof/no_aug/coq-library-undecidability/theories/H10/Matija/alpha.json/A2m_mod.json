@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "rewrite A_is_sum. rewrite MA_expo_A_binomial with (k:=m) (l:=2) (m:=m). reflexivity.", "succ": false}]

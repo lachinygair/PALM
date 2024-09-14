@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros f H. induction H. - apply Axm. - apply MP with (A := LNN2LNT_formula A); auto. - apply GEN; auto.", "succ": false}]

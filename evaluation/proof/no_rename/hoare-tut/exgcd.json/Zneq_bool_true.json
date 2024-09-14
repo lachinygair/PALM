@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y Zneq_bool_eq H. hauto use: Ztac.eq_incl, Z.le_ngt unfold: Z.lt, Zneq_bool, Z.le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y Zneq_bool_eq H. intros contra. apply Zneq_bool_false in H. rewrite H in contra. discriminate contra.", "succ": true}]

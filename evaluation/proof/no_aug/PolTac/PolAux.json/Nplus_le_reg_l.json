@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n m p H. strivial use: N.add_le_mono_l.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros n m p H. apply (N.le_add_le_sub_l p (N.add p n) (N.add p m)). rewrite N.add_sub_swap, N.add_sub_assoc. apply H.", "succ": true}]

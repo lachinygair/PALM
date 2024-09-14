@@ -1,0 +1,1 @@
+[{"history": {"proof": "apply Build_candidates_vote_for_selves_interface. intros net H_net. apply candidates_vote_for_selves_invariant; auto.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "apply Build_candidates_vote_for_selves_interface. intros net H_net. apply candidates_vote_for_selves_invariant; auto.", "succ": true}]

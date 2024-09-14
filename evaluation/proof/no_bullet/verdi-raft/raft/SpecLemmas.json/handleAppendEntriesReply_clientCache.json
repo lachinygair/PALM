@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros h st d m t es res h' H. unfold handleAppendEntriesReply in H. unfold clientCache. destruct (currentTerm st =? t) eqn:term_eq. - destruct res eqn:res_eq. + inversion H. reflexivity. + inversion H. reflexivity. - inversion H.", "succ": false}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros m z n p Hmap Hexd Hiter. induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. hauto use: Iter_plus_inv.", "repairs": ["", "", "", "", "", "", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros m z n p Hmap Hexd Hiter. induction n. - simpl. reflexivity. - simpl. rewrite <- IHn. apply Iter_plus_inv; auto.", "succ": true}]

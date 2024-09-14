@@ -1,0 +1,1 @@
+[{"history": {"proof": "destruct (bezout_generalized p q) as [a [b [g [l [H_bezout [H_gcd H_lcm]]]]]]. exists g. apply H_gcd.", "repairs": ["", "", ""], "exceptions": []}, "chat": [], "original": "destruct (bezout_generalized p q) as [a [b [g [l [H_bezout [H_gcd H_lcm]]]]]]. exists g. apply H_gcd.", "back_times": 0, "succ": true, "time": 0.1747739315032959}]

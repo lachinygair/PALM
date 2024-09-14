@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "{ intros u v H. unfold orthogonal in H. apply (orthogonal_sym u (opp v)) in H. apply H. }", "succ": false}]

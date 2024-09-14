@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto l: on use: nat_meet_12n, Nat.mul_1_r.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "simpl. apply nat_meet_12n.", "succ": true}]

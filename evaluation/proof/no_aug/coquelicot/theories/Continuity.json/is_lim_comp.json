@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros H1 H2 H3. apply is_lim_Reals_0 in H1. apply is_lim_Reals_1 in H2. apply is_lim_comp' in H3; try auto. apply Lim_ext_loc in H3. auto.", "succ": false}]

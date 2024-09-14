@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros Phi Psi H1 H2. unfold Lindenbaum_ensures, orp_witnessed, context_sepcon_included_l in *. intros H3 H4. unfold Lindenbaum_ensures, orp_witnessed. intros H5 x y H6. apply H4 in H6 as [H6 | H6]. - left. apply H3. exists x, y. auto. - right. apply H5. auto.", "succ": false}]

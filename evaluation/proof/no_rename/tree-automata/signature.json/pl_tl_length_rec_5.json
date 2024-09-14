@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros n H. intros d pl tl H0 H1. srun best use: pl_tl_length_rec_4 unfold: pl_tl_length_rec_def_1.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros n H. intros d pl tl H0 H1. intros H2 H3. apply H0. apply H. apply H1. apply H3.", "succ": true}]

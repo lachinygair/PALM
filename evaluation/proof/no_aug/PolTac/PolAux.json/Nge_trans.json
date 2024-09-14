@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros x y z H1 H2. srun best use: N.le_ge, N.le_trans, N.ge_le.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros x y z H1 H2. apply (ge_Nge (N.to_nat x) (N.to_nat z)). apply (N.ge_le z x H1). apply (N.ge_le x y). apply (ge_Nge_rev x z H2).", "succ": true}]

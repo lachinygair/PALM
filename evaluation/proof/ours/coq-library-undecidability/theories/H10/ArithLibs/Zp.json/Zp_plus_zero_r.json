@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on use: Zp_plus_zero, Zp_plus_comm.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "unfold Z_Zp. unfold \"=*\" at 1. unfold eq_rect_r at 1. unfold eq_rect at 1. unfold eq_sym at 1. apply Zp_ring_ring_lemma2 with (n:=O). simpl. intros. apply Zp_plus_zero.", "succ": true}]

@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. eapply sum_power_binary_lt_inv. auto. eauto. eauto. reflexivity.", "succ": false}]

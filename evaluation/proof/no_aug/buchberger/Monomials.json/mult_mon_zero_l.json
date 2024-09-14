@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros d a. scongruence use: mult_mon_com, mult_mon_zero_r.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros d a. rewrite mult_mon_zero_r. reflexivity.", "succ": true}]

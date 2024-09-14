@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros i. unfold inputs_m. simpl. sfirstorder depth: 3.", "repairs": ["", "", "", "hammer"], "exceptions": []}, "chat": [], "original": "intros i. unfold inputs_m. simpl. rewrite inputs_m_app. rewrite inputs_m_inr. rewrite inputs_m_app_inr_singleton. rewrite inputs_m_primary_inl_request_singleton. auto.", "succ": true, "time": 0.35302945800003727}]

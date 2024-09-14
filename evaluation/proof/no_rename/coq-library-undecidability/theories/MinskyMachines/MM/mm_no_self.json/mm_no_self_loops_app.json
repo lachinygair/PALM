@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros i n Q P H1 H2. unfold mm_no_self_loops. intros H3 H4. unfold not. intros H5. apply H3. intros j x H6. apply subcode_app_invert_right in H6. destruct H6 as [H6 _]. apply H6. apply H5. intros k H7. apply H4 in H7. destruct H7 as [H7 _]. apply H7.", "succ": false}]

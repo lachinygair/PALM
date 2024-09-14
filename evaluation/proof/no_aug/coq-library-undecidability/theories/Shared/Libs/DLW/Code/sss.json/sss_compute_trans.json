@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. intros. intros. apply sss_steps_ind with (p:=st1) (p0:=st3). auto. auto. auto.", "succ": false}]

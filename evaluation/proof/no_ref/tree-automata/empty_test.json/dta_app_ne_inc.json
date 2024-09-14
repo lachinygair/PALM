@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros d. unfold increasing_app, dta_app_ne. intros x y H. inversion H. - simpl. apply dta_app_ne_inc_0. apply H1. - simpl. split. + apply dta_app_ne_inc_2. apply H1. + apply dta_app_ne_inc_3. apply H1.", "succ": false}]

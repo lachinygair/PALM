@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros m x x' Hmap Hdouble. unfold double_link in Hdouble. destruct Hdouble as [Hne Hex]. left. apply not_expe_bottom_B0 with (m := m) (x' := x') (x := x). - auto. - apply Hex. - apply Hne.", "succ": false}]

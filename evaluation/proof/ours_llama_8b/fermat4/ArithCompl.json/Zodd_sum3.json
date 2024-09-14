@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto drew: off use: Z.add_0_l, Z.mul_0_l, Z.mul_succ_l, Z.negb_odd, Z.add_comm, Z.one_succ, Z.two_succ, Zodd_bool_iff, Z.add_0_r, Z.odd_add, Zodd_2p_plus_1, Bool.negb_true_iff unfold: BinIntDef.Z.succ, BinIntDef.Z.odd, xorb.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "", "succ": true}]

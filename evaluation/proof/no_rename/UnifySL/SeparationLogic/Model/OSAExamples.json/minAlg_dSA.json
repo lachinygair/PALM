@@ -1,0 +1,1 @@
+[{"history": {"proof": "hauto lq: on drew: off use: po_nat_geR, min_Join_is_downwards_closure, @DownwardsClosure_DownwardsClosed.", "repairs": ["hammer"], "exceptions": [{"ctx": [], "tactic": "apply prod_dSA.", "exn": "Unable to unify \"(?M2113 * ?M2114)%type\" with \"nat\".", "type": "cannot_unify", "handled": true}]}, "chat": [], "original": "apply prod_dSA.", "succ": true}]

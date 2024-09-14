@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": ["intros x y u."], "tactic": "rewrite M22mult_assoc.", "exn": "Found no subterm matching \"?M1442 \u22a0 (?M1443 \u22a0 ?M1444)\" in the current goal.", "type": "no_subterm", "handled": true}]}, "chat": [], "original": "intros x y u. rewrite M22mult_assoc. rewrite M22mult_assoc. reflexivity.", "succ": false}]

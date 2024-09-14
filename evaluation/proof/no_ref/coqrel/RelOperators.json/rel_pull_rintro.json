@@ -1,0 +1,1 @@
+[{"history": {"proof": "unfold RStep, rel_pull. apply rstep. sfirstorder depth: 3.", "repairs": ["", "", "hammer"], "exceptions": []}, "chat": [], "original": "unfold RStep, rel_pull. apply rstep. apply rel_pull_sym. apply H.", "succ": true}]

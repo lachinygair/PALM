@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros u v u' v' H1 H2. unfold colineaire in H1, H2. assert (temp1: R (double (cons u' v')) zero). { apply H1. } assert (temp2: R (double (cons v' u')) zero). { apply colineaire_sym, H2. } unfold double. rewrite temp1, temp2. apply zero_plus.", "succ": false}]

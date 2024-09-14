@@ -1,0 +1,1 @@
+[{"history": {"proof": "srun best use: discrete_prod, discrete_bool, discrete_list unfold: stack, card.", "repairs": ["hammer"], "exceptions": []}, "chat": [], "original": "intros. unfold discrete. unfold stack. intros x y. induction x, y. - reflexivity. - reflexivity. - reflexivity. - reflexivity.", "succ": true}]

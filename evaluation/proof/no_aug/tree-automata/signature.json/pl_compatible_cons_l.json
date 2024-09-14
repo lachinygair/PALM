@@ -1,0 +1,1 @@
+[{"history": {"proof": "intros p a la ls H. hauto lq: on depth: 3use: pl_compatible_cons_r.", "repairs": ["", "hammer"], "exceptions": []}, "chat": [], "original": "intros p a la ls H. apply pl_compatible_cons_r in H as [a0 [la0 [ls0 H']]]. exists a0, la0, ls0. apply H'.", "succ": true}]

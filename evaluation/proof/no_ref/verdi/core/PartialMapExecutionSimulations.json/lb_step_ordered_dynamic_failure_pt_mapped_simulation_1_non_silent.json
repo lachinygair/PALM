@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros net net' failed failed' lb tr Hneq Hstep. apply (lb_step_ordered_dynamic_failure_tot_mapped_simulation_1 _ _ _ _ _ _ _ Hneq Hstep).", "succ": false, "time": 13.697716348000085}]

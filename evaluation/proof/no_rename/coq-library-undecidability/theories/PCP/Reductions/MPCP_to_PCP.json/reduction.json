@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros. unfold \"MPCP\", \"PCP\", \"MPCP\". intros (x, y, P). unfold \"<=\". unfold \"PCP\". intros. split. - intros. apply MPCP_PCP_cor. unfold PCP in H1. apply H1.", "succ": false}]

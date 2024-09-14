@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros n a b delta H. unfold not in *. intros H0. apply H0. clear H0. exists (a::nil). intros x H0. destruct H0 as [_ [_ H0]]. destruct H0 as [_ H1]. destruct H1. apply H1.", "succ": false}]

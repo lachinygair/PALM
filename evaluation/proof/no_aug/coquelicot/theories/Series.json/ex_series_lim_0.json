@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": [{"ctx": [], "tactic": "intros a exA.", "exn": "a is already used.", "type": "used_var", "handled": true}]}, "chat": [], "original": "intros a exA. destruct exA as [l isA]. unfold is_lim_seq. intros eps pos. destruct (isA eps pos) as [N H]. exists N. intros n Hn. apply H.", "succ": false}]

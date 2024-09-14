@@ -1,0 +1,1 @@
+[{"history": {"proof": "", "repairs": [], "exceptions": []}, "chat": [], "original": "intros xs. unfold_provable. induction xs. - simpl. apply adjoint_iter. - simpl. apply adjoint_iter. rewrite fold_left_cons. apply adjoint. rewrite <- IHxs. apply prodp_comm_impp.", "succ": false}]
